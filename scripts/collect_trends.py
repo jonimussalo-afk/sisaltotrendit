@@ -22,6 +22,10 @@ FEEDS = [
     {"name": "Digiday",                     "url": "https://digiday.com/feed/", "lang": "en"},
     {"name": "MarketingProfs",              "url": "https://www.marketingprofs.com/rss/articles.asp", "lang": "en"},
     {"name": "MarTech",                     "url": "https://martech.org/feed/", "lang": "en"},
+    # Branded entertainment & sisältömarkkinointi
+    {"name": "Little Black Book",           "url": "https://lbbonline.com/feed", "lang": "en"},
+    {"name": "Native Advertising Institute","url": "https://nativeadvertisinginstitute.com/feed", "lang": "en"},
+    {"name": "The Drum",                    "url": "https://www.thedrum.com/rss", "lang": "en"},
     # Kotimaiset
     {"name": "Markkinointi & Mainonta",     "url": "https://www.marmai.fi/rss.xml", "lang": "fi"},
     {"name": "Digimarkkinointi.fi",         "url": "https://www.digimarkkinointi.fi/feed", "lang": "fi"},
