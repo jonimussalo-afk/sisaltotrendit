@@ -1,0 +1,2 @@
+# sisaltotrendit
+Tietokanta sisältömarkkinoinin trendeille
