@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-01 10:11 UTC_
+_Päivitetty: 2026-07-02 06:42 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Millainen oli SDM:n vuosi ja millaisin keinoin onnistuimme vaikeasti ennustettav
 
 ## HubSpot Marketing Blog
 
+### What are semantic keywords? Here's how to find & use them
+_Wed, 01 Jul 2026 11:00:03 GMT_
+
+Every content marketer seems to be asking the same question: Do semantic keywords still matter in SEO in 2026, especially now that AI engines influence traffic and buying decisions?
+
+→ [https://blog.hubspot.com/marketing/semantic-keywords](https://blog.hubspot.com/marketing/semantic-keywords)
+
 ### How to track your brand’s presence in AI search
 _Tue, 30 Jun 2026 11:00:03 GMT_
 
@@ -79,13 +86,6 @@ _Mon, 29 Jun 2026 11:00:02 GMT_
 Scrunch vs Semrush comes down to one question: Do you need a dedicated AI visibility tool, or a full SEO suite that now tracks AI answers too? Scrunch is an AEO specialist built to monitor how your brand appears in AI-generated answers, while Semrush is a traditional SEO platform that added an AI Visibility Toolkit to a stack marketers already use…
 
 → [https://blog.hubspot.com/marketing/scrunch-vs-semrush](https://blog.hubspot.com/marketing/scrunch-vs-semrush)
-
-### CRM administration: Roles and best practices guide
-_Thu, 25 Jun 2026 11:00:03 GMT_
-
-After years of working alongside CRM administrators, I’ve learned the single biggest difference between CRM platforms that drive revenue and ones that collect digital dust. The difference isn’t the software nor the budget, but the quality of the administration behind it.
-
-→ [https://blog.hubspot.com/marketing/crm-administration](https://blog.hubspot.com/marketing/crm-administration)
 
 ---
 
@@ -130,6 +130,34 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### The rise of pharma ad tech
+_Thu, 02 Jul 2026 04:01:00 +0000_
+
+Insiders say it comes at the cost of legacy platforms such as DSPs and SSPs.
+
+→ [https://digiday.com/marketing/the-rise-of-pharma-ad-tech/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/the-rise-of-pharma-ad-tech/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Why brands are bringing creators to the World Cup sidelines
+_Thu, 02 Jul 2026 04:01:00 +0000_
+
+Brands are bringing creators to the World Cup sidelines to boost engagement, tap into new audiences, and be a part of the cultural conversation.
+
+→ [https://digiday.com/media/why-brands-are-bringing-creators-to-the-world-cup-sidelines/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/why-brands-are-bringing-creators-to-the-world-cup-sidelines/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Nike says it expects $986 million in IEEPA tariff refunds
+_Thu, 02 Jul 2026 04:01:00 +0000_
+
+The company said its North America business expects to recover $965 million in tariff refunds from the U.S. government.
+
+→ [https://digiday.com/marketing/nike-says-it-expects-986-million-in-ieepa-tariff-refunds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/nike-says-it-expects-986-million-in-ieepa-tariff-refunds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Media Briefing: ‘Surveillance pricing’ laws are coming for dynamic subscription strategies
+_Thu, 02 Jul 2026 04:01:00 +0000_
+
+How a 'surveillance pricing' lawsuit and new New York legislation could reshape publishers' subscription pricing strategies.
+
+→ [https://digiday.com/media/media-briefing-surveillance-pricing-laws-are-coming-for-dynamic-subscription-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-surveillance-pricing-laws-are-coming-for-dynamic-subscription-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### What will NBCU’s conscious uncoupling from Comcast mean for brands?
 _Wed, 01 Jul 2026 07:12:52 +0000_
 
@@ -137,71 +165,43 @@ As other market players continue to consolidate, the media giant is set to spin 
 
 → [https://digiday.com/media-buying/what-will-nbcus-conscious-uncoupling-from-comcast-mean-for-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/what-will-nbcus-conscious-uncoupling-from-comcast-mean-for-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Digiday+ Research: The marketers’ 2026 guide to creator marketing, including Duolingo, Ulta and YouTube
-_Wed, 01 Jul 2026 04:01:00 +0000_
-
-While Instagram, TikTok and YouTube remain dominant social platforms for influencer partnerships, creators are increasingly being used across other media channels, including retail media, CTV and display ads.
-
-→ [https://digiday.com/marketing/digiday-research-the-marketers-2026-guide-to-creator-marketing-including-duolingo-ulta-and-youtube/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/digiday-research-the-marketers-2026-guide-to-creator-marketing-including-duolingo-ulta-and-youtube/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Future of TV Briefing: The 5 biggest news stories of 2026 so far
-_Wed, 01 Jul 2026 04:01:00 +0000_
-
-This week's Future of TV Briefing looks back at the most significant developments -- or non-developments-- in the TV, streaming and digital video industry during the first half of 2026.
-
-→ [https://digiday.com/future-of-tv/future-of-tv-briefing-the-5-biggest-news-stories-of-2026-so-far/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-the-5-biggest-news-stories-of-2026-so-far/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### How Time and others are rebuilding parts of the web for AI agents
-_Wed, 01 Jul 2026 04:01:00 +0000_
-
-Publishers are preparing for the agentic web by creating AI-friendly versions of their sites to stay discoverable in AI search.
-
-→ [https://digiday.com/media/how-time-and-others-are-rebuilding-parts-of-the-web-for-ai-agents/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-time-and-others-are-rebuilding-parts-of-the-web-for-ai-agents/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### How 3 brands are using TikTok Shop to expand abroad
-_Wed, 01 Jul 2026 04:01:00 +0000_
-
-As these brands venture into the U.K., Europe and Japan, they say that the key to a global approach to TikTok Shop involves tailored marketing campaigns.
-
-→ [https://digiday.com/marketing/how-3-brands-are-using-tiktok-shop-to-expand-abroad/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/how-3-brands-are-using-tiktok-shop-to-expand-abroad/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
 ---
 
 ## MarTech
 
-### AI is making creative the new targeting
-_Tue, 30 Jun 2026 14:34:08 +0000_
+### HubSpot’s Warmly deal points to the next generation of CRM
+_Wed, 01 Jul 2026 14:53:10 +0000_
 
-As Google, Meta, and TikTok automate audience targeting, your headlines, images, and videos are becoming the strongest signals for who sees your ads. The post AI is making creative the new targeting appeared first on MarTech .
+HubSpot's acquisition shows CRM platforms are evolving from customer databases into AI systems that identify buying intent and take action. The post HubSpot&#8217;s Warmly deal points to the next generation of CRM appeared first on MarTech .
 
-→ [https://martech.org/ai-is-making-creative-the-new-targeting/](https://martech.org/ai-is-making-creative-the-new-targeting/)
+→ [https://martech.org/hubspots-warmly-deal-points-to-the-next-generation-of-crm/](https://martech.org/hubspots-warmly-deal-points-to-the-next-generation-of-crm/)
 
-### Bad data is teaching AI to waste your ad budget
-_Tue, 30 Jun 2026 14:28:09 +0000_
+### U.S. state data privacy laws: What you need to know
+_Wed, 01 Jul 2026 12:59:00 +0000_
 
-In automated advertising, inaccurate conversion data doesn't just skew reports, it trains bidding algorithms to optimize for the wrong customers. The post Bad data is teaching AI to waste your ad budget appeared first on MarTech .
+Updated with information on new privacy laws in Louisiana and Vermont. The post U.S. state data privacy laws: What you need to know appeared first on MarTech .
 
-→ [https://martech.org/bad-data-is-teaching-ai-to-waste-your-ad-budget/](https://martech.org/bad-data-is-teaching-ai-to-waste-your-ad-budget/)
+→ [https://martech.org/the-marketers-guide-to-state-data-privacy-laws/](https://martech.org/the-marketers-guide-to-state-data-privacy-laws/)
 
-### AI made email marketing easier. It needs us to make it better.
-_Tue, 30 Jun 2026 12:52:00 +0000_
+### Practical advice for scaling start-up marketing
+_Wed, 01 Jul 2026 12:49:51 +0000_
 
-AI can write email campaigns in seconds, but it can't replace the strategy, judgement, and customer understanding that make them worth sending. The post AI made email marketing easier. It needs us to make it better. appeared first on MarTech .
+Don't take your start-up marketing advice from LinkedIn. We're talking to someone who's been there and done that. The post Practical advice for scaling start-up marketing appeared first on MarTech .
 
-→ [https://martech.org/ai-made-email-marketing-easier-it-needs-us-to-make-it-better/](https://martech.org/ai-made-email-marketing-easier-it-needs-us-to-make-it-better/)
+→ [https://martech.org/practical-advice-for-scaling-start-up-marketing/](https://martech.org/practical-advice-for-scaling-start-up-marketing/)
 
-### Why marketers need to push back against AI
-_Tue, 30 Jun 2026 12:26:00 +0000_
+### What Meta’s broad targeting teaches us about optimization signals
+_Wed, 01 Jul 2026 12:49:00 +0000_
 
-Studies show that relying too heavily on AI can erode critical thinking, making human judgment more valuable than ever. The post Why marketers need to push back against AI appeared first on MarTech .
+The event you optimize for increasingly determines who algorithms find, how they allocate spend, and the business outcomes your campaigns produce. The post What Meta&#8217;s broad targeting teaches us about optimization signals appeared first on MarTech .
 
-→ [https://martech.org/why-marketers-need-to-push-back-against-ai/](https://martech.org/why-marketers-need-to-push-back-against-ai/)
+→ [https://martech.org/what-metas-broad-targeting-teaches-us-about-optimization-signals/](https://martech.org/what-metas-broad-targeting-teaches-us-about-optimization-signals/)
 
-### Where synthetic data fits into customer research
-_Mon, 29 Jun 2026 13:06:00 +0000_
+### The rip-and-replace pitch is out of step with today’s buyers
+_Wed, 01 Jul 2026 12:08:00 +0000_
 
-Validate AI-generated insights, establish governance, and prioritize real-world research where it delivers the greatest value. The post Where synthetic data fits into customer research appeared first on MarTech .
+The default martech sales motion asks you to tear out your stack and bet 18 months on a rebuild. Buyers increasingly prefer a different path. The post The rip-and-replace pitch is out of step with today&#8217;s buyers appeared first on MarTech .
 
-→ [https://martech.org/where-synthetic-data-fits-into-customer-research/](https://martech.org/where-synthetic-data-fits-into-customer-research/)
+→ [https://martech.org/the-rip-and-replace-pitch-is-out-of-step-with-todays-buyers/](https://martech.org/the-rip-and-replace-pitch-is-out-of-step-with-todays-buyers/)
 
 ---
