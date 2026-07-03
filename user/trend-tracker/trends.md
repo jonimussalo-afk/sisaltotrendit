@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-02 06:42 UTC_
+_Päivitetty: 2026-07-03 06:34 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,6 +130,20 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### Electronic Arts is betting that in-game ads can out-earn CTV
+_Fri, 03 Jul 2026 04:01:00 +0000_
+
+To make in-game ads stick, EA has built its own stack rather than rent one. Now it wants to shape the standards before anyone else does.
+
+→ [https://digiday.com/marketing/electronic-arts-is-betting-that-in-game-ads-can-out-earn-ctv/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/electronic-arts-is-betting-that-in-game-ads-can-out-earn-ctv/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Future of Marketing Briefing: Why Bose is building an entertainment company
+_Fri, 03 Jul 2026 04:01:00 +0000_
+
+Bose has a new entertainment division. Its CMO hasn’t used a creative agency in five years. The two things are related.
+
+→ [https://digiday.com/marketing/future-of-marketing-briefing-why-bose-is-building-an-entertainment-company/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-why-bose-is-building-an-entertainment-company/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### The rise of pharma ad tech
 _Thu, 02 Jul 2026 04:01:00 +0000_
 
@@ -151,23 +165,37 @@ The company said its North America business expects to recover $965 million in t
 
 → [https://digiday.com/marketing/nike-says-it-expects-986-million-in-ieepa-tariff-refunds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/nike-says-it-expects-986-million-in-ieepa-tariff-refunds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Briefing: ‘Surveillance pricing’ laws are coming for dynamic subscription strategies
-_Thu, 02 Jul 2026 04:01:00 +0000_
-
-How a 'surveillance pricing' lawsuit and new New York legislation could reshape publishers' subscription pricing strategies.
-
-→ [https://digiday.com/media/media-briefing-surveillance-pricing-laws-are-coming-for-dynamic-subscription-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-surveillance-pricing-laws-are-coming-for-dynamic-subscription-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### What will NBCU’s conscious uncoupling from Comcast mean for brands?
-_Wed, 01 Jul 2026 07:12:52 +0000_
-
-As other market players continue to consolidate, the media giant is set to spin out its TV business. That could have implications for upfront negotiations and ad formats down the line.
-
-→ [https://digiday.com/media-buying/what-will-nbcus-conscious-uncoupling-from-comcast-mean-for-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/what-will-nbcus-conscious-uncoupling-from-comcast-mean-for-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
 ---
 
 ## MarTech
+
+### The latest AI-powered martech news and releases
+_Thu, 02 Jul 2026 14:14:21 +0000_
+
+Cloudflare is making AI crawler blocking the default for many websites while introducing new controls and payment models for publishers. The post The latest AI-powered martech news and releases appeared first on MarTech .
+
+→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
+
+### FREE! The email subject line rules that don’t hold up!
+_Thu, 02 Jul 2026 12:36:00 +0000_
+
+New research based on 4.6 billion emails challenges some of marketing's oldest subject line advice and offers a framework for testing what works. The post FREE! The email subject line rules that don&#8217;t hold up! appeared first on MarTech .
+
+→ [https://martech.org/free-the-email-subject-line-rules-that-dont-hold-up/](https://martech.org/free-the-email-subject-line-rules-that-dont-hold-up/)
+
+### Stop adopting AI and start solving problems
+_Thu, 02 Jul 2026 12:01:00 +0000_
+
+Without clear processes, training, and governance, AI can create more work, weaken trust, and increase brand risk. The post Stop adopting AI and start solving problems appeared first on MarTech .
+
+→ [https://martech.org/stop-adopting-ai-and-start-solving-problems/](https://martech.org/stop-adopting-ai-and-start-solving-problems/)
+
+### AI visibility depends on who writes about your brand
+_Thu, 02 Jul 2026 12:00:00 +0000_
+
+Strong rankings don't guarantee AI visibility. Learn what drives citations and how to measure your brand's presence across AI platforms. The post AI visibility depends on who writes about your brand appeared first on MarTech .
+
+→ [https://martech.org/ai-visibility-depends-on-who-writes-about-your-brand/](https://martech.org/ai-visibility-depends-on-who-writes-about-your-brand/)
 
 ### HubSpot’s Warmly deal points to the next generation of CRM
 _Wed, 01 Jul 2026 14:53:10 +0000_
@@ -175,33 +203,5 @@ _Wed, 01 Jul 2026 14:53:10 +0000_
 HubSpot's acquisition shows CRM platforms are evolving from customer databases into AI systems that identify buying intent and take action. The post HubSpot&#8217;s Warmly deal points to the next generation of CRM appeared first on MarTech .
 
 → [https://martech.org/hubspots-warmly-deal-points-to-the-next-generation-of-crm/](https://martech.org/hubspots-warmly-deal-points-to-the-next-generation-of-crm/)
-
-### U.S. state data privacy laws: What you need to know
-_Wed, 01 Jul 2026 12:59:00 +0000_
-
-Updated with information on new privacy laws in Louisiana and Vermont. The post U.S. state data privacy laws: What you need to know appeared first on MarTech .
-
-→ [https://martech.org/the-marketers-guide-to-state-data-privacy-laws/](https://martech.org/the-marketers-guide-to-state-data-privacy-laws/)
-
-### Practical advice for scaling start-up marketing
-_Wed, 01 Jul 2026 12:49:51 +0000_
-
-Don't take your start-up marketing advice from LinkedIn. We're talking to someone who's been there and done that. The post Practical advice for scaling start-up marketing appeared first on MarTech .
-
-→ [https://martech.org/practical-advice-for-scaling-start-up-marketing/](https://martech.org/practical-advice-for-scaling-start-up-marketing/)
-
-### What Meta’s broad targeting teaches us about optimization signals
-_Wed, 01 Jul 2026 12:49:00 +0000_
-
-The event you optimize for increasingly determines who algorithms find, how they allocate spend, and the business outcomes your campaigns produce. The post What Meta&#8217;s broad targeting teaches us about optimization signals appeared first on MarTech .
-
-→ [https://martech.org/what-metas-broad-targeting-teaches-us-about-optimization-signals/](https://martech.org/what-metas-broad-targeting-teaches-us-about-optimization-signals/)
-
-### The rip-and-replace pitch is out of step with today’s buyers
-_Wed, 01 Jul 2026 12:08:00 +0000_
-
-The default martech sales motion asks you to tear out your stack and bet 18 months on a rebuild. Buyers increasingly prefer a different path. The post The rip-and-replace pitch is out of step with today&#8217;s buyers appeared first on MarTech .
-
-→ [https://martech.org/the-rip-and-replace-pitch-is-out-of-step-with-todays-buyers/](https://martech.org/the-rip-and-replace-pitch-is-out-of-step-with-todays-buyers/)
 
 ---
