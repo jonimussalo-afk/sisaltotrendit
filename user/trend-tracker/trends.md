@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-05 06:42 UTC_
+_Päivitetty: 2026-07-06 07:15 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,40 +130,40 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### In Graphic Detail: The state of streaming highlights the power of creators
+_Mon, 06 Jul 2026 04:01:00 +0000_
+
+"Just Chatting" is the driving force behind views on major streaming platforms, thanks to the appeal of personality-driven creators
+
+→ [https://digiday.com/media/in-graphic-detail-the-state-of-streaming-highlights-the-power-of-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/in-graphic-detail-the-state-of-streaming-highlights-the-power-of-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Hot Ones creator Sean Evans on YouTube vs. TV, the interview boom and what comes next
+_Mon, 06 Jul 2026 04:01:00 +0000_
+
+Hot Ones host and TIME 100 top creator Sean Evans chats about the creator economy’s past, present, and future
+
+→ [https://digiday.com/media/hot-ones-creator-sean-evans-on-youtube-vs-tv-the-interview-boom-and-what-comes-next/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/hot-ones-creator-sean-evans-on-youtube-vs-tv-the-interview-boom-and-what-comes-next/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### WTF is AI poisoning?
+_Mon, 06 Jul 2026 04:01:00 +0000_
+
+LLM search results have become an important channel for marketers. They’re also a conduit for rivals to sow misinformation against a brand’s online profile.
+
+→ [https://digiday.com/marketing/wtf-is-ai-poisoning/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/wtf-is-ai-poisoning/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Media Buying Briefing: It’s a world party at the World Cup, unless you’re looking to get in now
+_Mon, 06 Jul 2026 04:01:00 +0000_
+
+Halfway through soccer's biggest quadrennial event, ratings are up and enthusiasm is high — so long as the U.S. and Mexico stay in the competition.
+
+→ [https://digiday.com/media-buying/media-buying-briefing-its-a-world-party-at-the-world-cup-unless-youre-looking-to-get-in-now/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-its-a-world-party-at-the-world-cup-unless-youre-looking-to-get-in-now/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### Electronic Arts is betting that in-game ads can out-earn CTV
 _Fri, 03 Jul 2026 04:01:00 +0000_
 
 To make in-game ads stick, EA has built its own stack rather than rent one. Now it wants to shape the standards before anyone else does.
 
 → [https://digiday.com/marketing/electronic-arts-is-betting-that-in-game-ads-can-out-earn-ctv/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/electronic-arts-is-betting-that-in-game-ads-can-out-earn-ctv/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Future of Marketing Briefing: Why Bose is building an entertainment company
-_Fri, 03 Jul 2026 04:01:00 +0000_
-
-Bose has a new entertainment division. Its CMO hasn’t used a creative agency in five years. The two things are related.
-
-→ [https://digiday.com/marketing/future-of-marketing-briefing-why-bose-is-building-an-entertainment-company/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-why-bose-is-building-an-entertainment-company/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### The rise of pharma ad tech
-_Thu, 02 Jul 2026 04:01:00 +0000_
-
-Insiders say it comes at the cost of legacy platforms such as DSPs and SSPs.
-
-→ [https://digiday.com/marketing/the-rise-of-pharma-ad-tech/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/the-rise-of-pharma-ad-tech/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Why brands are bringing creators to the World Cup sidelines
-_Thu, 02 Jul 2026 04:01:00 +0000_
-
-Brands are bringing creators to the World Cup sidelines to boost engagement, tap into new audiences, and be a part of the cultural conversation.
-
-→ [https://digiday.com/media/why-brands-are-bringing-creators-to-the-world-cup-sidelines/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/why-brands-are-bringing-creators-to-the-world-cup-sidelines/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Nike says it expects $986 million in IEEPA tariff refunds
-_Thu, 02 Jul 2026 04:01:00 +0000_
-
-The company said its North America business expects to recover $965 million in tariff refunds from the U.S. government.
-
-→ [https://digiday.com/marketing/nike-says-it-expects-986-million-in-ieepa-tariff-refunds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/nike-says-it-expects-986-million-in-ieepa-tariff-refunds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
