@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-06 07:15 UTC_
+_Päivitetty: 2026-07-07 06:49 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,6 +130,27 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### Ad Tech Briefing: Corporate America finally buys into soccer as a mainstream sport; shadier elements of the ad industry…
+_Tue, 07 Jul 2026 04:01:00 +0000_
+
+The FIFA World Cup 2026, co-hosted across North America for the first time, has spelled out what some in U.S. media circles have known for some time: association football, or “soccer” to use local parlance, is now big in America, and it’s time for corporations to cash in at pace — one hydration break at [&#8230;]
+
+→ [https://digiday.com/media-buying/ad-tech-briefing-corporate-america-finally-buys-into-soccer-as-a-mainstream-sport-shadier-elements-of-the-ad-industry-are-obliging/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-corporate-america-finally-buys-into-soccer-as-a-mainstream-sport-shadier-elements-of-the-ad-industry-are-obliging/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### “Brands recognize the cultural dominance of podcasts”: global podcaster Mel Robbins talks AI, ad budgets and audience…
+_Tue, 07 Jul 2026 04:01:00 +0000_
+
+The global podcaster sat down with Digiday during her first-ever Cannes Lions — an event she now knows holds real value.
+
+→ [https://digiday.com/marketing/brands-recognize-the-cultural-dominance-of-podcasts-global-podcaster-mel-robbins-talks-ai-ad-budgets-and-audience-ownership/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/brands-recognize-the-cultural-dominance-of-podcasts-global-podcaster-mel-robbins-talks-ai-ad-budgets-and-audience-ownership/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Dollar Shave Club’s bet: AI makes agencies optional, not obsolete
+_Tue, 07 Jul 2026 04:01:00 +0000_
+
+Dollar Shave Club makes 90% of its advertising in-house. AI is coming for the other 10%.
+
+→ [https://digiday.com/marketing/dollar-shave-clubs-bet-ai-makes-agencies-optional-not-obsolete/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/dollar-shave-clubs-bet-ai-makes-agencies-optional-not-obsolete/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### In Graphic Detail: The state of streaming highlights the power of creators
 _Mon, 06 Jul 2026 04:01:00 +0000_
 
@@ -144,30 +165,37 @@ Hot Ones host and TIME 100 top creator Sean Evans chats about the creator econom
 
 → [https://digiday.com/media/hot-ones-creator-sean-evans-on-youtube-vs-tv-the-interview-boom-and-what-comes-next/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/hot-ones-creator-sean-evans-on-youtube-vs-tv-the-interview-boom-and-what-comes-next/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### WTF is AI poisoning?
-_Mon, 06 Jul 2026 04:01:00 +0000_
-
-LLM search results have become an important channel for marketers. They’re also a conduit for rivals to sow misinformation against a brand’s online profile.
-
-→ [https://digiday.com/marketing/wtf-is-ai-poisoning/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/wtf-is-ai-poisoning/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Media Buying Briefing: It’s a world party at the World Cup, unless you’re looking to get in now
-_Mon, 06 Jul 2026 04:01:00 +0000_
-
-Halfway through soccer's biggest quadrennial event, ratings are up and enthusiasm is high — so long as the U.S. and Mexico stay in the competition.
-
-→ [https://digiday.com/media-buying/media-buying-briefing-its-a-world-party-at-the-world-cup-unless-youre-looking-to-get-in-now/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-its-a-world-party-at-the-world-cup-unless-youre-looking-to-get-in-now/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Electronic Arts is betting that in-game ads can out-earn CTV
-_Fri, 03 Jul 2026 04:01:00 +0000_
-
-To make in-game ads stick, EA has built its own stack rather than rent one. Now it wants to shape the standards before anyone else does.
-
-→ [https://digiday.com/marketing/electronic-arts-is-betting-that-in-game-ads-can-out-earn-ctv/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/electronic-arts-is-betting-that-in-game-ads-can-out-earn-ctv/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
 ---
 
 ## MarTech
+
+### Turning marketing complexity into a competitive advantage
+_Mon, 06 Jul 2026 12:56:00 +0000_
+
+More channels, more AI, and more data create new opportunities and challenges. Learn how to build a marketing ecosystem that scales. The post Turning marketing complexity into a competitive advantage appeared first on MarTech .
+
+→ [https://martech.org/turning-marketing-complexity-into-a-competitive-advantage/](https://martech.org/turning-marketing-complexity-into-a-competitive-advantage/)
+
+### The hidden forces behind B2B buying decisions
+_Mon, 06 Jul 2026 12:26:00 +0000_
+
+Your deals aren't won or lost on product alone. Learn why personality, politics, culture, and unseen stakeholders often determine the outcome. The post The hidden forces behind B2B buying decisions appeared first on MarTech .
+
+→ [https://martech.org/the-hidden-forces-behind-b2b-buying-decisions/](https://martech.org/the-hidden-forces-behind-b2b-buying-decisions/)
+
+### How to build a Hermes Agent-style workflow
+_Mon, 06 Jul 2026 12:16:00 +0000_
+
+Most AI tool workflows send the model far more data than it needs. The fix is a simple shift that cuts waste without cutting capability. The post How to build a Hermes Agent-style workflow appeared first on MarTech .
+
+→ [https://martech.org/building-a-hermes-agent-style-workflow-in-practice/](https://martech.org/building-a-hermes-agent-style-workflow-in-practice/)
+
+### The hidden cost of your fragmented martech stack
+_Mon, 06 Jul 2026 12:07:00 +0000_
+
+Why your favorite best-of-breed marketing tools might be creating a structural complexity wall that actively slows down your revenue operations. The post The hidden cost of your fragmented martech stack appeared first on MarTech .
+
+→ [https://martech.org/the-hidden-cost-of-your-fragmented-martech-stack/](https://martech.org/the-hidden-cost-of-your-fragmented-martech-stack/)
 
 ### The latest AI-powered martech news and releases
 _Thu, 02 Jul 2026 14:14:21 +0000_
@@ -175,33 +203,5 @@ _Thu, 02 Jul 2026 14:14:21 +0000_
 Cloudflare is making AI crawler blocking the default for many websites while introducing new controls and payment models for publishers. The post The latest AI-powered martech news and releases appeared first on MarTech .
 
 → [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
-
-### FREE! The email subject line rules that don’t hold up!
-_Thu, 02 Jul 2026 12:36:00 +0000_
-
-New research based on 4.6 billion emails challenges some of marketing's oldest subject line advice and offers a framework for testing what works. The post FREE! The email subject line rules that don&#8217;t hold up! appeared first on MarTech .
-
-→ [https://martech.org/free-the-email-subject-line-rules-that-dont-hold-up/](https://martech.org/free-the-email-subject-line-rules-that-dont-hold-up/)
-
-### Stop adopting AI and start solving problems
-_Thu, 02 Jul 2026 12:01:00 +0000_
-
-Without clear processes, training, and governance, AI can create more work, weaken trust, and increase brand risk. The post Stop adopting AI and start solving problems appeared first on MarTech .
-
-→ [https://martech.org/stop-adopting-ai-and-start-solving-problems/](https://martech.org/stop-adopting-ai-and-start-solving-problems/)
-
-### AI visibility depends on who writes about your brand
-_Thu, 02 Jul 2026 12:00:00 +0000_
-
-Strong rankings don't guarantee AI visibility. Learn what drives citations and how to measure your brand's presence across AI platforms. The post AI visibility depends on who writes about your brand appeared first on MarTech .
-
-→ [https://martech.org/ai-visibility-depends-on-who-writes-about-your-brand/](https://martech.org/ai-visibility-depends-on-who-writes-about-your-brand/)
-
-### HubSpot’s Warmly deal points to the next generation of CRM
-_Wed, 01 Jul 2026 14:53:10 +0000_
-
-HubSpot's acquisition shows CRM platforms are evolving from customer databases into AI systems that identify buying intent and take action. The post HubSpot&#8217;s Warmly deal points to the next generation of CRM appeared first on MarTech .
-
-→ [https://martech.org/hubspots-warmly-deal-points-to-the-next-generation-of-crm/](https://martech.org/hubspots-warmly-deal-points-to-the-next-generation-of-crm/)
 
 ---
