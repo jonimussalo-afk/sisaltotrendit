@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-07 06:49 UTC_
+_Päivitetty: 2026-07-08 05:54 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,44 +130,72 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Ad Tech Briefing: Corporate America finally buys into soccer as a mainstream sport; shadier elements of the ad industry…
-_Tue, 07 Jul 2026 04:01:00 +0000_
+### How Bandit Running is expanding internationally while staying hyperlocal
+_Wed, 08 Jul 2026 04:01:00 +0000_
 
-The FIFA World Cup 2026, co-hosted across North America for the first time, has spelled out what some in U.S. media circles have known for some time: association football, or “soccer” to use local parlance, is now big in America, and it’s time for corporations to cash in at pace — one hydration break at [&#8230;]
+Bandit’s focus on core running communities has helped it grow enough to start expanding outward.
 
-→ [https://digiday.com/media-buying/ad-tech-briefing-corporate-america-finally-buys-into-soccer-as-a-mainstream-sport-shadier-elements-of-the-ad-industry-are-obliging/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-corporate-america-finally-buys-into-soccer-as-a-mainstream-sport-shadier-elements-of-the-ad-industry-are-obliging/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/how-bandit-running-is-expanding-internationally-while-staying-hyperlocal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/how-bandit-running-is-expanding-internationally-while-staying-hyperlocal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### “Brands recognize the cultural dominance of podcasts”: global podcaster Mel Robbins talks AI, ad budgets and audience…
-_Tue, 07 Jul 2026 04:01:00 +0000_
+### What’s really driving Europe’s €131 billion ad boom
+_Wed, 08 Jul 2026 04:01:00 +0000_
 
-The global podcaster sat down with Digiday during her first-ever Cannes Lions — an event she now knows holds real value.
+Another forecast, another reminder that ad spend is running its own race, economy be damned.
 
-→ [https://digiday.com/marketing/brands-recognize-the-cultural-dominance-of-podcasts-global-podcaster-mel-robbins-talks-ai-ad-budgets-and-audience-ownership/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/brands-recognize-the-cultural-dominance-of-podcasts-global-podcaster-mel-robbins-talks-ai-ad-budgets-and-audience-ownership/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/whats-really-driving-europes-e131-billion-ad-boom/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/whats-really-driving-europes-e131-billion-ad-boom/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Dollar Shave Club’s bet: AI makes agencies optional, not obsolete
-_Tue, 07 Jul 2026 04:01:00 +0000_
+### Criteo is subject to a takeover bid, further proving private equity’s continued interest in ad tech
+_Wed, 08 Jul 2026 04:01:00 +0000_
 
-Dollar Shave Club makes 90% of its advertising in-house. AI is coming for the other 10%.
+Vista Equity and Quinti Capital place a 50% premium on stock, raising questions over where the PE firms see value.
 
-→ [https://digiday.com/marketing/dollar-shave-clubs-bet-ai-makes-agencies-optional-not-obsolete/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/dollar-shave-clubs-bet-ai-makes-agencies-optional-not-obsolete/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/criteo-is-subject-to-a-takeover-bid-further-proving-private-equitys-continued-interest-in-ad-tech/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/criteo-is-subject-to-a-takeover-bid-further-proving-private-equitys-continued-interest-in-ad-tech/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### In Graphic Detail: The state of streaming highlights the power of creators
-_Mon, 06 Jul 2026 04:01:00 +0000_
+### Advertising’s confidence problem, according to the man who used to price its stocks
+_Wed, 08 Jul 2026 04:01:00 +0000_
 
-"Just Chatting" is the driving force behind views on major streaming platforms, thanks to the appeal of personality-driven creators
+Advertising's inconvenient truth: the industry built a commodity and called it a strategy
 
-→ [https://digiday.com/media/in-graphic-detail-the-state-of-streaming-highlights-the-power-of-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/in-graphic-detail-the-state-of-streaming-highlights-the-power-of-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/advertisings-confidence-problem-according-to-the-man-who-used-to-price-its-stocks/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/advertisings-confidence-problem-according-to-the-man-who-used-to-price-its-stocks/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Hot Ones creator Sean Evans on YouTube vs. TV, the interview boom and what comes next
-_Mon, 06 Jul 2026 04:01:00 +0000_
+### Dentsu strikes Meta deal to build plumbing for mass influencer activation
+_Tue, 07 Jul 2026 08:01:00 +0000_
 
-Hot Ones host and TIME 100 top creator Sean Evans chats about the creator economy’s past, present, and future
+Top CMOs are assembling armies of creators, but many lack the infrastructure required to get the most out of them. A deal between Dentsu and Meta aims to fix that problem.
 
-→ [https://digiday.com/media/hot-ones-creator-sean-evans-on-youtube-vs-tv-the-interview-boom-and-what-comes-next/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/hot-ones-creator-sean-evans-on-youtube-vs-tv-the-interview-boom-and-what-comes-next/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/dentsu-strikes-meta-deal-to-build-plumbing-for-mass-influencer-activation/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/dentsu-strikes-meta-deal-to-build-plumbing-for-mass-influencer-activation/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### HubSpot reverses course after customers reject data sharing
+_Tue, 07 Jul 2026 14:36:00 +0000_
+
+Beyond the backlash lies a bigger issue for marketers: when vendors need customer data for their products, who captures the value? The post HubSpot reverses course after customers reject data sharing appeared first on MarTech .
+
+→ [https://martech.org/the-hubspot-controversy-asks-why-customers-pay-to-improve-ai-products/](https://martech.org/the-hubspot-controversy-asks-why-customers-pay-to-improve-ai-products/)
+
+### HubSpot’s May 2026 updates: Breeze gets serious, automation gets smarter, and your data gets cleaner
+_Tue, 07 Jul 2026 13:31:35 +0000_
+
+May's HubSpot updates focused on making AI an active participant in your work, not just a tool you prompt. The post HubSpot’s May 2026 updates: Breeze gets serious, automation gets smarter, and your data gets cleaner appeared first on MarTech .
+
+→ [https://martech.org/hubspots-may-2026-updates-breeze-gets-serious-automation-gets-smarter-and-your-data-gets-cleaner/](https://martech.org/hubspots-may-2026-updates-breeze-gets-serious-automation-gets-smarter-and-your-data-gets-cleaner/)
+
+### 3 AI agents to improve marketing workflows
+_Tue, 07 Jul 2026 12:46:00 +0000_
+
+Pilot AI agents with a shared source of truth, practical KPIs, and human oversight that keeps strategy and quality on track. The post 3 AI agents to improve marketing workflows appeared first on MarTech .
+
+→ [https://martech.org/3-ai-agents-to-improve-marketing-workflows/](https://martech.org/3-ai-agents-to-improve-marketing-workflows/)
+
+### How AI discovery is changing everything marketers measure
+_Tue, 07 Jul 2026 12:25:00 +0000_
+
+AI-powered discovery is reducing the value of traffic-based metrics. Here’s what to measure instead to understand marketing performance. The post How AI discovery is changing everything marketers measure appeared first on MarTech .
+
+→ [https://martech.org/how-ai-discovery-is-changing-everything-marketers-measure/](https://martech.org/how-ai-discovery-is-changing-everything-marketers-measure/)
 
 ### Turning marketing complexity into a competitive advantage
 _Mon, 06 Jul 2026 12:56:00 +0000_
@@ -175,33 +203,5 @@ _Mon, 06 Jul 2026 12:56:00 +0000_
 More channels, more AI, and more data create new opportunities and challenges. Learn how to build a marketing ecosystem that scales. The post Turning marketing complexity into a competitive advantage appeared first on MarTech .
 
 → [https://martech.org/turning-marketing-complexity-into-a-competitive-advantage/](https://martech.org/turning-marketing-complexity-into-a-competitive-advantage/)
-
-### The hidden forces behind B2B buying decisions
-_Mon, 06 Jul 2026 12:26:00 +0000_
-
-Your deals aren't won or lost on product alone. Learn why personality, politics, culture, and unseen stakeholders often determine the outcome. The post The hidden forces behind B2B buying decisions appeared first on MarTech .
-
-→ [https://martech.org/the-hidden-forces-behind-b2b-buying-decisions/](https://martech.org/the-hidden-forces-behind-b2b-buying-decisions/)
-
-### How to build a Hermes Agent-style workflow
-_Mon, 06 Jul 2026 12:16:00 +0000_
-
-Most AI tool workflows send the model far more data than it needs. The fix is a simple shift that cuts waste without cutting capability. The post How to build a Hermes Agent-style workflow appeared first on MarTech .
-
-→ [https://martech.org/building-a-hermes-agent-style-workflow-in-practice/](https://martech.org/building-a-hermes-agent-style-workflow-in-practice/)
-
-### The hidden cost of your fragmented martech stack
-_Mon, 06 Jul 2026 12:07:00 +0000_
-
-Why your favorite best-of-breed marketing tools might be creating a structural complexity wall that actively slows down your revenue operations. The post The hidden cost of your fragmented martech stack appeared first on MarTech .
-
-→ [https://martech.org/the-hidden-cost-of-your-fragmented-martech-stack/](https://martech.org/the-hidden-cost-of-your-fragmented-martech-stack/)
-
-### The latest AI-powered martech news and releases
-_Thu, 02 Jul 2026 14:14:21 +0000_
-
-Cloudflare is making AI crawler blocking the default for many websites while introducing new controls and payment models for publishers. The post The latest AI-powered martech news and releases appeared first on MarTech .
-
-→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
 
 ---
