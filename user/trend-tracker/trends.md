@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-08 05:54 UTC_
+_Päivitetty: 2026-07-09 06:47 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,6 +130,34 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### D+ Research: Marketers hesitate to adopt AI for influencer and CTV marketing
+_Thu, 09 Jul 2026 04:01:00 +0000_
+
+Advertisers embrace AI for social media and retail media marketing, but are slower to adopt AI for influencer and CTV marketing.
+
+→ [https://digiday.com/marketing/d-research-marketers-hesitate-to-adopt-ai-for-influencer-and-ctv-marketing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/d-research-marketers-hesitate-to-adopt-ai-for-influencer-and-ctv-marketing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Media Briefing: Declared ‘good bots,’ mixed-use crawlers, gray scrapers – how AI accesses publisher content
+_Thu, 09 Jul 2026 04:01:00 +0000_
+
+The Cloudflare's latest AI settings reshape how compliant crawlers behave, yet the biggest leakage for publisher content remains a gray scraping economy that doesn’t bother to play by those rules.
+
+→ [https://digiday.com/media/media-briefing-declared-good-bots-mixed-use-crawlers-gray-scrapers-how-ai-accesses-publisher-content/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-declared-good-bots-mixed-use-crawlers-gray-scrapers-how-ai-accesses-publisher-content/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### OpenAI set to expand ads to France, Germany and Ireland
+_Thu, 09 Jul 2026 04:01:00 +0000_
+
+The ads solutions vacancies in those markets signify that OpenAI will have achieved a presence in every major global advertising region within less than a year.
+
+→ [https://digiday.com/marketing/openai-set-to-expand-ads-to-france-germany-and-ireland/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/openai-set-to-expand-ads-to-france-germany-and-ireland/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Advertisers look for advantage in Sky’s ITV deal
+_Thu, 09 Jul 2026 04:01:00 +0000_
+
+The $2.13 proposed billion acquisition of ITV would redraw the UK's advertising map. Advertisers are still waiting to hear what's in it for them.
+
+→ [https://digiday.com/media-buying/advertisers-look-for-advantage-in-skys-itv-deal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/advertisers-look-for-advantage-in-skys-itv-deal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### How Bandit Running is expanding internationally while staying hyperlocal
 _Wed, 08 Jul 2026 04:01:00 +0000_
 
@@ -137,37 +165,37 @@ Bandit’s focus on core running communities has helped it grow enough to start 
 
 → [https://digiday.com/marketing/how-bandit-running-is-expanding-internationally-while-staying-hyperlocal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/how-bandit-running-is-expanding-internationally-while-staying-hyperlocal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### What’s really driving Europe’s €131 billion ad boom
-_Wed, 08 Jul 2026 04:01:00 +0000_
-
-Another forecast, another reminder that ad spend is running its own race, economy be damned.
-
-→ [https://digiday.com/media-buying/whats-really-driving-europes-e131-billion-ad-boom/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/whats-really-driving-europes-e131-billion-ad-boom/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Criteo is subject to a takeover bid, further proving private equity’s continued interest in ad tech
-_Wed, 08 Jul 2026 04:01:00 +0000_
-
-Vista Equity and Quinti Capital place a 50% premium on stock, raising questions over where the PE firms see value.
-
-→ [https://digiday.com/marketing/criteo-is-subject-to-a-takeover-bid-further-proving-private-equitys-continued-interest-in-ad-tech/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/criteo-is-subject-to-a-takeover-bid-further-proving-private-equitys-continued-interest-in-ad-tech/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Advertising’s confidence problem, according to the man who used to price its stocks
-_Wed, 08 Jul 2026 04:01:00 +0000_
-
-Advertising's inconvenient truth: the industry built a commodity and called it a strategy
-
-→ [https://digiday.com/media-buying/advertisings-confidence-problem-according-to-the-man-who-used-to-price-its-stocks/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/advertisings-confidence-problem-according-to-the-man-who-used-to-price-its-stocks/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Dentsu strikes Meta deal to build plumbing for mass influencer activation
-_Tue, 07 Jul 2026 08:01:00 +0000_
-
-Top CMOs are assembling armies of creators, but many lack the infrastructure required to get the most out of them. A deal between Dentsu and Meta aims to fix that problem.
-
-→ [https://digiday.com/marketing/dentsu-strikes-meta-deal-to-build-plumbing-for-mass-influencer-activation/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/dentsu-strikes-meta-deal-to-build-plumbing-for-mass-influencer-activation/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
 ---
 
 ## MarTech
+
+### The CMS is becoming the AI operating system for brands
+_Wed, 08 Jul 2026 12:17:00 +0000_
+
+Choosing a CMS now means preparing for AI discovery, governance, personalization, and agents. Learn what to look for in your next platform. The post The CMS is becoming the AI operating system for brands appeared first on MarTech .
+
+→ [https://martech.org/the-cms-is-becoming-the-ai-operating-system-for-brands/](https://martech.org/the-cms-is-becoming-the-ai-operating-system-for-brands/)
+
+### Getting started with Hermes Agent Desktop
+_Wed, 08 Jul 2026 12:14:00 +0000_
+
+Learn how to install Hermes Desktop, connect a model, create reusable skills, and keep marketing workflow context under your control. The post Getting started with Hermes Agent Desktop appeared first on MarTech .
+
+→ [https://martech.org/getting-started-with-hermes-agent-desktop/](https://martech.org/getting-started-with-hermes-agent-desktop/)
+
+### Why AI search makes trust your most important visibility signal
+_Wed, 08 Jul 2026 12:05:00 +0000_
+
+See how AI systems evaluate brands and why authority, reputation, and technical SEO increasingly influence who gets surfaced and recommended. The post Why AI search makes trust your most important visibility signal appeared first on MarTech .
+
+→ [https://martech.org/why-ai-search-makes-trust-your-most-important-visibility-signal/](https://martech.org/why-ai-search-makes-trust-your-most-important-visibility-signal/)
+
+### The future of performance marketing isn’t more vendors. It’s making your stack work harder. by Rokt mParticle
+_Wed, 08 Jul 2026 11:00:00 +0000_
+
+As performance pressures mount, the future of marketing success lies in transforming your data foundation into a strategic AI-powered engine for growth. The post The future of performance marketing isn’t more vendors. It’s making your stack work harder. appeared first on MarTech .
+
+→ [https://martech.org/the-future-of-performance-marketing-isnt-more-vendors-its-making-your-stack-work-harder/](https://martech.org/the-future-of-performance-marketing-isnt-more-vendors-its-making-your-stack-work-harder/)
 
 ### HubSpot reverses course after customers reject data sharing
 _Tue, 07 Jul 2026 14:36:00 +0000_
@@ -175,33 +203,5 @@ _Tue, 07 Jul 2026 14:36:00 +0000_
 Beyond the backlash lies a bigger issue for marketers: when vendors need customer data for their products, who captures the value? The post HubSpot reverses course after customers reject data sharing appeared first on MarTech .
 
 → [https://martech.org/the-hubspot-controversy-asks-why-customers-pay-to-improve-ai-products/](https://martech.org/the-hubspot-controversy-asks-why-customers-pay-to-improve-ai-products/)
-
-### HubSpot’s May 2026 updates: Breeze gets serious, automation gets smarter, and your data gets cleaner
-_Tue, 07 Jul 2026 13:31:35 +0000_
-
-May's HubSpot updates focused on making AI an active participant in your work, not just a tool you prompt. The post HubSpot’s May 2026 updates: Breeze gets serious, automation gets smarter, and your data gets cleaner appeared first on MarTech .
-
-→ [https://martech.org/hubspots-may-2026-updates-breeze-gets-serious-automation-gets-smarter-and-your-data-gets-cleaner/](https://martech.org/hubspots-may-2026-updates-breeze-gets-serious-automation-gets-smarter-and-your-data-gets-cleaner/)
-
-### 3 AI agents to improve marketing workflows
-_Tue, 07 Jul 2026 12:46:00 +0000_
-
-Pilot AI agents with a shared source of truth, practical KPIs, and human oversight that keeps strategy and quality on track. The post 3 AI agents to improve marketing workflows appeared first on MarTech .
-
-→ [https://martech.org/3-ai-agents-to-improve-marketing-workflows/](https://martech.org/3-ai-agents-to-improve-marketing-workflows/)
-
-### How AI discovery is changing everything marketers measure
-_Tue, 07 Jul 2026 12:25:00 +0000_
-
-AI-powered discovery is reducing the value of traffic-based metrics. Here’s what to measure instead to understand marketing performance. The post How AI discovery is changing everything marketers measure appeared first on MarTech .
-
-→ [https://martech.org/how-ai-discovery-is-changing-everything-marketers-measure/](https://martech.org/how-ai-discovery-is-changing-everything-marketers-measure/)
-
-### Turning marketing complexity into a competitive advantage
-_Mon, 06 Jul 2026 12:56:00 +0000_
-
-More channels, more AI, and more data create new opportunities and challenges. Learn how to build a marketing ecosystem that scales. The post Turning marketing complexity into a competitive advantage appeared first on MarTech .
-
-→ [https://martech.org/turning-marketing-complexity-into-a-competitive-advantage/](https://martech.org/turning-marketing-complexity-into-a-competitive-advantage/)
 
 ---
