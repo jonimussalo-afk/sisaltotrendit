@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-09 06:47 UTC_
+_Päivitetty: 2026-07-10 06:48 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Millainen oli SDM:n vuosi ja millaisin keinoin onnistuimme vaikeasti ennustettav
 
 ## HubSpot Marketing Blog
 
+### Growth experimentation: A guide for growing marketing teams
+_Thu, 09 Jul 2026 17:00:01 GMT_
+
+Growth experimentation is a structured approach to testing ideas across the full customer journey to discover what drives measurable business growth. Experiments improve channel-by-channel optimization as marketing teams push for measurable, repeatable growth under tight budgets.
+
+→ [https://blog.hubspot.com/marketing/growth-experimentation](https://blog.hubspot.com/marketing/growth-experimentation)
+
 ### What are semantic keywords? Here's how to find & use them
 _Wed, 01 Jul 2026 11:00:03 GMT_
 
@@ -79,13 +86,6 @@ _Mon, 29 Jun 2026 11:00:03 GMT_
 AI search optimization is the practice of improving brands’ odds of being cited and mentioned by answer engines like ChatGPT, Gemini, and AI Overviews. The traffic it earns is small but high-intent. Across more than 1,200 publisher and news sites, visitors referred by AI tools signed up at roughly 11 times the rate of search visitors, according to…
 
 → [https://blog.hubspot.com/marketing/what-is-ai-search-optimization](https://blog.hubspot.com/marketing/what-is-ai-search-optimization)
-
-### Scrunch vs Semrush: AI visibility or traditional SEO?
-_Mon, 29 Jun 2026 11:00:02 GMT_
-
-Scrunch vs Semrush comes down to one question: Do you need a dedicated AI visibility tool, or a full SEO suite that now tracks AI answers too? Scrunch is an AEO specialist built to monitor how your brand appears in AI-generated answers, while Semrush is a traditional SEO platform that added an AI Visibility Toolkit to a stack marketers already use…
-
-→ [https://blog.hubspot.com/marketing/scrunch-vs-semrush](https://blog.hubspot.com/marketing/scrunch-vs-semrush)
 
 ---
 
@@ -130,44 +130,72 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### D+ Research: Marketers hesitate to adopt AI for influencer and CTV marketing
-_Thu, 09 Jul 2026 04:01:00 +0000_
+### To manage 300,000 creators, Unilever automates everything but the relationship
+_Fri, 10 Jul 2026 04:01:00 +0000_
 
-Advertisers embrace AI for social media and retail media marketing, but are slower to adopt AI for influencer and CTV marketing.
+Unilever is using AI to vet creators and automate workflows as it scales a 300,000-creator network without handing over creative decisions.
 
-→ [https://digiday.com/marketing/d-research-marketers-hesitate-to-adopt-ai-for-influencer-and-ctv-marketing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/d-research-marketers-hesitate-to-adopt-ai-for-influencer-and-ctv-marketing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/to-manage-300000-creators-unilever-automates-everything-but-the-relationship/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/to-manage-300000-creators-unilever-automates-everything-but-the-relationship/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Briefing: Declared ‘good bots,’ mixed-use crawlers, gray scrapers – how AI accesses publisher content
-_Thu, 09 Jul 2026 04:01:00 +0000_
+### Nike versus Adidas: Who’s spending more in race to claim the World Cup crown?
+_Fri, 10 Jul 2026 04:01:00 +0000_
 
-The Cloudflare's latest AI settings reshape how compliant crawlers behave, yet the biggest leakage for publisher content remains a gray scraping economy that doesn’t bother to play by those rules.
+With the World Cup at the midway point, ad spend estimates show the apparel rivals taking opposite tacks in their media approaches.
 
-→ [https://digiday.com/media/media-briefing-declared-good-bots-mixed-use-crawlers-gray-scrapers-how-ai-accesses-publisher-content/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-declared-good-bots-mixed-use-crawlers-gray-scrapers-how-ai-accesses-publisher-content/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/nike-versus-adidas-whos-spending-more-in-race-to-claim-the-world-cup-crown/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/nike-versus-adidas-whos-spending-more-in-race-to-claim-the-world-cup-crown/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### OpenAI set to expand ads to France, Germany and Ireland
-_Thu, 09 Jul 2026 04:01:00 +0000_
+### Platforms’ AI dilemma: scale without sameness
+_Fri, 10 Jul 2026 04:01:00 +0000_
 
-The ads solutions vacancies in those markets signify that OpenAI will have achieved a presence in every major global advertising region within less than a year.
+Using AI to create content risks a lot of it looking the same. But the platforms agree creativity will always come from humans.
 
-→ [https://digiday.com/marketing/openai-set-to-expand-ads-to-france-germany-and-ireland/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/openai-set-to-expand-ads-to-france-germany-and-ireland/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/platforms-ai-dilemma-scale-without-sameness/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/platforms-ai-dilemma-scale-without-sameness/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Advertisers look for advantage in Sky’s ITV deal
-_Thu, 09 Jul 2026 04:01:00 +0000_
+### Future of Marketing Briefing: The ad industry’s next mediapalooza is loading
+_Fri, 10 Jul 2026 04:01:00 +0000_
 
-The $2.13 proposed billion acquisition of ITV would redraw the UK's advertising map. Advertisers are still waiting to hear what's in it for them.
+Mediapalooza is coming. This time it might actually mean something.
 
-→ [https://digiday.com/media-buying/advertisers-look-for-advantage-in-skys-itv-deal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/advertisers-look-for-advantage-in-skys-itv-deal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/future-of-marketing-briefing-the-ad-industrys-next-mediapalooza-is-loading/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/future-of-marketing-briefing-the-ad-industrys-next-mediapalooza-is-loading/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### How Bandit Running is expanding internationally while staying hyperlocal
-_Wed, 08 Jul 2026 04:01:00 +0000_
+### The Home Depot sees Hispanic market as a ‘huge growth opportunity’
+_Fri, 10 Jul 2026 04:01:00 +0000_
 
-Bandit’s focus on core running communities has helped it grow enough to start expanding outward.
+While The Home Depot is not a sports equipment or sports apparel retailer, its consumer base has given it ample reason to develop a comprehensive retail media strategy around the World Cup.
 
-→ [https://digiday.com/marketing/how-bandit-running-is-expanding-internationally-while-staying-hyperlocal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/how-bandit-running-is-expanding-internationally-while-staying-hyperlocal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/the-home-depot-sees-hispanic-market-as-a-huge-growth-opportunity/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/the-home-depot-sees-hispanic-market-as-a-huge-growth-opportunity/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### The latest AI-powered martech news and releases
+_Thu, 09 Jul 2026 13:53:33 +0000_
+
+Zoom's acquisition of Common Room adds AI-powered buyer intelligence to its growing enterprise sales platform. The post The latest AI-powered martech news and releases appeared first on MarTech .
+
+→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
+
+### You’re using AI to scale the wrong part of GTM
+_Thu, 09 Jul 2026 12:41:00 +0000_
+
+Use AI to eliminate busywork and uncover better account insights so your team can spend more time building the relationships that win deals. The post You&#8217;re using AI to scale the wrong part of GTM appeared first on MarTech .
+
+→ [https://martech.org/youre-using-ai-to-scale-the-wrong-part-of-gtm/](https://martech.org/youre-using-ai-to-scale-the-wrong-part-of-gtm/)
+
+### Why your CAC keeps rising while deals don’t improve
+_Thu, 09 Jul 2026 12:22:00 +0000_
+
+The missing link between awareness and trust may explain why higher acquisition costs aren't producing better business outcomes. The post Why your CAC keeps rising while deals don&#8217;t improve appeared first on MarTech .
+
+→ [https://martech.org/why-your-cac-keeps-rising-while-deals-dont-improve/](https://martech.org/why-your-cac-keeps-rising-while-deals-dont-improve/)
+
+### Marketing on LinkedIn: What you need to know
+_Thu, 09 Jul 2026 12:15:00 +0000_
+
+Your guide to LinkedIn's tools, strategies and best practices. Updated with info on the new creative tools for small and growing businesses. The post Marketing on LinkedIn: What you need to know appeared first on MarTech .
+
+→ [https://martech.org/linkedin-the-marketers-guide/](https://martech.org/linkedin-the-marketers-guide/)
 
 ### The CMS is becoming the AI operating system for brands
 _Wed, 08 Jul 2026 12:17:00 +0000_
@@ -175,33 +203,5 @@ _Wed, 08 Jul 2026 12:17:00 +0000_
 Choosing a CMS now means preparing for AI discovery, governance, personalization, and agents. Learn what to look for in your next platform. The post The CMS is becoming the AI operating system for brands appeared first on MarTech .
 
 → [https://martech.org/the-cms-is-becoming-the-ai-operating-system-for-brands/](https://martech.org/the-cms-is-becoming-the-ai-operating-system-for-brands/)
-
-### Getting started with Hermes Agent Desktop
-_Wed, 08 Jul 2026 12:14:00 +0000_
-
-Learn how to install Hermes Desktop, connect a model, create reusable skills, and keep marketing workflow context under your control. The post Getting started with Hermes Agent Desktop appeared first on MarTech .
-
-→ [https://martech.org/getting-started-with-hermes-agent-desktop/](https://martech.org/getting-started-with-hermes-agent-desktop/)
-
-### Why AI search makes trust your most important visibility signal
-_Wed, 08 Jul 2026 12:05:00 +0000_
-
-See how AI systems evaluate brands and why authority, reputation, and technical SEO increasingly influence who gets surfaced and recommended. The post Why AI search makes trust your most important visibility signal appeared first on MarTech .
-
-→ [https://martech.org/why-ai-search-makes-trust-your-most-important-visibility-signal/](https://martech.org/why-ai-search-makes-trust-your-most-important-visibility-signal/)
-
-### The future of performance marketing isn’t more vendors. It’s making your stack work harder. by Rokt mParticle
-_Wed, 08 Jul 2026 11:00:00 +0000_
-
-As performance pressures mount, the future of marketing success lies in transforming your data foundation into a strategic AI-powered engine for growth. The post The future of performance marketing isn’t more vendors. It’s making your stack work harder. appeared first on MarTech .
-
-→ [https://martech.org/the-future-of-performance-marketing-isnt-more-vendors-its-making-your-stack-work-harder/](https://martech.org/the-future-of-performance-marketing-isnt-more-vendors-its-making-your-stack-work-harder/)
-
-### HubSpot reverses course after customers reject data sharing
-_Tue, 07 Jul 2026 14:36:00 +0000_
-
-Beyond the backlash lies a bigger issue for marketers: when vendors need customer data for their products, who captures the value? The post HubSpot reverses course after customers reject data sharing appeared first on MarTech .
-
-→ [https://martech.org/the-hubspot-controversy-asks-why-customers-pay-to-improve-ai-products/](https://martech.org/the-hubspot-controversy-asks-why-customers-pay-to-improve-ai-products/)
 
 ---
