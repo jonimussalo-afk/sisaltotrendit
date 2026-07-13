@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-12 06:06 UTC_
+_Päivitetty: 2026-07-13 06:22 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,40 +130,40 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### WTF is SPUR’s publisher-run Content Telemetry Framework?
+_Mon, 13 Jul 2026 04:01:00 +0000_
+
+SPUR is publisher‑run and fixated on one thing: turning AI’s use of their content from opaque scraping into a transparent, usage‑based licensing system they control.
+
+→ [https://digiday.com/media/wtf-is-spurs-publisher-run-content-telemetry-framework/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/wtf-is-spurs-publisher-run-content-telemetry-framework/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### NASCAR rebuilds its commercial engine to tempt back motorsports fans
+_Mon, 13 Jul 2026 04:01:00 +0000_
+
+Behind the scenes, the motorsport and racetrack business hopes a commercial refit and consumer-facing hero campaign can help it hold the line amid F1’s growing U.S. popularity.
+
+→ [https://digiday.com/marketing/nascar-rebuilds-its-commercial-engine-to-tempt-back-motorsports-fans/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/nascar-rebuilds-its-commercial-engine-to-tempt-back-motorsports-fans/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Media Buying Briefing: How Mediasense and other consultancies are girding for a busy second-half
+_Mon, 13 Jul 2026 04:01:00 +0000_
+
+If the agency world is on the verge of another mediapalooza, then advisory firms need to be at the ready, including Mediasense which has a new CEO.
+
+→ [https://digiday.com/media-buying/media-buying-briefing-how-mediasense-and-other-consultancies-are-girding-for-a-busy-second-half/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-how-mediasense-and-other-consultancies-are-girding-for-a-busy-second-half/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### How streaming creators built a new broadcast blueprint at the World Cup
+_Mon, 13 Jul 2026 04:01:00 +0000_
+
+Livestreaming creators offer new ways to broadcast sports to diverse audiences; this 2026 FIFA World Cup may be the new blueprint for leagues
+
+→ [https://digiday.com/media/how-streaming-creators-built-a-new-broadcast-blueprint-at-the-world-cup/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-streaming-creators-built-a-new-broadcast-blueprint-at-the-world-cup/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### To manage 300,000 creators, Unilever automates everything but the relationship
 _Fri, 10 Jul 2026 04:01:00 +0000_
 
 Unilever is using AI to vet creators and automate workflows as it scales a 300,000-creator network without handing over creative decisions.
 
 → [https://digiday.com/marketing/to-manage-300000-creators-unilever-automates-everything-but-the-relationship/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/to-manage-300000-creators-unilever-automates-everything-but-the-relationship/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Nike versus Adidas: Who’s spending more in race to claim the World Cup crown?
-_Fri, 10 Jul 2026 04:01:00 +0000_
-
-With the World Cup at the midway point, ad spend estimates show the apparel rivals taking opposite tacks in their media approaches.
-
-→ [https://digiday.com/marketing/nike-versus-adidas-whos-spending-more-in-race-to-claim-the-world-cup-crown/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/nike-versus-adidas-whos-spending-more-in-race-to-claim-the-world-cup-crown/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Platforms’ AI dilemma: scale without sameness
-_Fri, 10 Jul 2026 04:01:00 +0000_
-
-Using AI to create content risks a lot of it looking the same. But the platforms agree creativity will always come from humans.
-
-→ [https://digiday.com/marketing/platforms-ai-dilemma-scale-without-sameness/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/platforms-ai-dilemma-scale-without-sameness/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Future of Marketing Briefing: The ad industry’s next mediapalooza is loading
-_Fri, 10 Jul 2026 04:01:00 +0000_
-
-Mediapalooza is coming. This time it might actually mean something.
-
-→ [https://digiday.com/media-buying/future-of-marketing-briefing-the-ad-industrys-next-mediapalooza-is-loading/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/future-of-marketing-briefing-the-ad-industrys-next-mediapalooza-is-loading/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### The Home Depot sees Hispanic market as a ‘huge growth opportunity’
-_Fri, 10 Jul 2026 04:01:00 +0000_
-
-While The Home Depot is not a sports equipment or sports apparel retailer, its consumer base has given it ample reason to develop a comprehensive retail media strategy around the World Cup.
-
-→ [https://digiday.com/marketing/the-home-depot-sees-hispanic-market-as-a-huge-growth-opportunity/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/the-home-depot-sees-hispanic-market-as-a-huge-growth-opportunity/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
