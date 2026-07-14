@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-13 06:22 UTC_
+_Päivitetty: 2026-07-14 05:33 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,44 +130,72 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### WTF is SPUR’s publisher-run Content Telemetry Framework?
-_Mon, 13 Jul 2026 04:01:00 +0000_
+### Ad Tech Briefing: Private equity’s ad tech playbook returns
+_Tue, 14 Jul 2026 04:01:00 +0000_
 
-SPUR is publisher‑run and fixated on one thing: turning AI’s use of their content from opaque scraping into a transparent, usage‑based licensing system they control.
+Plus how the IAB is seeking to modernize how digital video inventory is defined, bought and measured.
 
-→ [https://digiday.com/media/wtf-is-spurs-publisher-run-content-telemetry-framework/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/wtf-is-spurs-publisher-run-content-telemetry-framework/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/ad-tech-briefing-private-equitys-ad-tech-playbook-returns/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-private-equitys-ad-tech-playbook-returns/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### NASCAR rebuilds its commercial engine to tempt back motorsports fans
-_Mon, 13 Jul 2026 04:01:00 +0000_
+### SharkNinja’s new growth strategy runs through comedy creators
+_Tue, 14 Jul 2026 04:01:00 +0000_
 
-Behind the scenes, the motorsport and racetrack business hopes a commercial refit and consumer-facing hero campaign can help it hold the line amid F1’s growing U.S. popularity.
+Why SharkNina is chasing new buyers with comedy instead of a celebrity pitch.
 
-→ [https://digiday.com/marketing/nascar-rebuilds-its-commercial-engine-to-tempt-back-motorsports-fans/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/nascar-rebuilds-its-commercial-engine-to-tempt-back-motorsports-fans/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/sharkninjas-new-growth-strategy-runs-through-comedy-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/sharkninjas-new-growth-strategy-runs-through-comedy-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Buying Briefing: How Mediasense and other consultancies are girding for a busy second-half
-_Mon, 13 Jul 2026 04:01:00 +0000_
+### ‘Future of targeting’: Media agencies tentatively explore vector-based planning
+_Tue, 14 Jul 2026 04:01:00 +0000_
 
-If the agency world is on the verge of another mediapalooza, then advisory firms need to be at the ready, including Mediasense which has a new CEO.
+Vector-based targeting is ‘very experimental’, but could offer AI-forward advertisers a better way of directing media buys.
 
-→ [https://digiday.com/media-buying/media-buying-briefing-how-mediasense-and-other-consultancies-are-girding-for-a-busy-second-half/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-how-mediasense-and-other-consultancies-are-girding-for-a-busy-second-half/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/future-of-targeting-media-agencies-tentatively-explore-vector-based-planning/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/future-of-targeting-media-agencies-tentatively-explore-vector-based-planning/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### How streaming creators built a new broadcast blueprint at the World Cup
-_Mon, 13 Jul 2026 04:01:00 +0000_
+### Inside the newsroom push to turn print reporters into video talent
+_Tue, 14 Jul 2026 04:01:00 +0000_
 
-Livestreaming creators offer new ways to broadcast sports to diverse audiences; this 2026 FIFA World Cup may be the new blueprint for leagues
+As reporter-led video becomes a priority, publishers are investing in newsroom training to help journalists deepen audience relationships.
 
-→ [https://digiday.com/media/how-streaming-creators-built-a-new-broadcast-blueprint-at-the-world-cup/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-streaming-creators-built-a-new-broadcast-blueprint-at-the-world-cup/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/inside-the-newsroom-push-to-turn-print-reporters-into-video-talent/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/inside-the-newsroom-push-to-turn-print-reporters-into-video-talent/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### To manage 300,000 creators, Unilever automates everything but the relationship
-_Fri, 10 Jul 2026 04:01:00 +0000_
+### What Ally Bank learned from building a sports marketing strategy before the market caught up
+_Tue, 14 Jul 2026 04:01:00 +0000_
 
-Unilever is using AI to vet creators and automate workflows as it scales a 300,000-creator network without handing over creative decisions.
+Ally CMO Andrea Brimmer reveals what she’d change about the bank’s sports marketing strategy,and where sponsorships are headed.
 
-→ [https://digiday.com/marketing/to-manage-300000-creators-unilever-automates-everything-but-the-relationship/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/to-manage-300000-creators-unilever-automates-everything-but-the-relationship/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/podcasts/what-ally-bank-learned-from-building-a-sports-marketing-strategy-before-the-market-caught-up/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/what-ally-bank-learned-from-building-a-sports-marketing-strategy-before-the-market-caught-up/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### 5 questions to ask AI vendors before you buy anything
+_Mon, 13 Jul 2026 13:32:41 +0000_
+
+Cut through AI hype by evaluating business value, data policies, customer proof, and implementation before you invest. The post 5 questions to ask AI vendors before you buy anything appeared first on MarTech .
+
+→ [https://martech.org/5-questions-to-ask-ai-vendors-before-you-buy-anything/](https://martech.org/5-questions-to-ask-ai-vendors-before-you-buy-anything/)
+
+### Transactional, triggered, and promotional emails: What’s the difference?
+_Mon, 13 Jul 2026 12:40:00 +0000_
+
+These three email types may look similar, but they serve different purposes, follow different rules, and drive revenue in different ways. The post Transactional, triggered, and promotional emails: What&#8217;s the difference? appeared first on MarTech .
+
+→ [https://martech.org/transactional-triggered-and-promotional-emails-whats-the-difference/](https://martech.org/transactional-triggered-and-promotional-emails-whats-the-difference/)
+
+### Why CIPA is changing the conversation around digital tracking
+_Mon, 13 Jul 2026 12:36:00 +0000_
+
+CIPA is prompting companies to rethink tracking, consent, and data collection. Here's what marketers need to know and how to respond. The post Why CIPA is changing the conversation around digital tracking appeared first on MarTech .
+
+→ [https://martech.org/why-cipa-is-changing-the-conversation-around-digital-tracking/](https://martech.org/why-cipa-is-changing-the-conversation-around-digital-tracking/)
+
+### Is Open Semantic Interchange your data silo cure?
+_Mon, 13 Jul 2026 12:23:00 +0000_
+
+Breaking down marketing database silos requires more than APIs. Here is how the Open Semantic Interchange standardizes metadata. The post Is Open Semantic Interchange your data silo cure? appeared first on MarTech .
+
+→ [https://martech.org/is-open-semantic-interchange-your-data-silo-cure/](https://martech.org/is-open-semantic-interchange-your-data-silo-cure/)
 
 ### The secret to scaling vibe coding isn’t better prompts
 _Fri, 10 Jul 2026 13:04:00 +0000_
@@ -175,33 +203,5 @@ _Fri, 10 Jul 2026 13:04:00 +0000_
 Turn AI-generated code into maintainable software with a prompt log that improves governance and accountability. The post The secret to scaling vibe coding isn&#8217;t better prompts appeared first on MarTech .
 
 → [https://martech.org/the-secret-to-scaling-vibe-coding-isnt-better-prompts/](https://martech.org/the-secret-to-scaling-vibe-coding-isnt-better-prompts/)
-
-### AI adoption hits 90% as CX deployment paths diverge
-_Fri, 10 Jul 2026 12:53:00 +0000_
-
-AI adoption is nearly universal in CX, but organizations are divided on architecture, governance, and building customer trust while proving ROI. The post AI adoption hits 90% as CX deployment paths diverge appeared first on MarTech .
-
-→ [https://martech.org/ai-adoption-hits-90-as-cx-deployment-paths-diverge/](https://martech.org/ai-adoption-hits-90-as-cx-deployment-paths-diverge/)
-
-### If your martech stack could talk, what would it say?
-_Fri, 10 Jul 2026 12:50:00 +0000_
-
-Good martech tools can't deliver value without ownership, governance, and the operational discipline to keep them working together. The post If your martech stack could talk, what would it say? appeared first on MarTech .
-
-→ [https://martech.org/if-your-martech-stack-could-talk-what-would-it-say/](https://martech.org/if-your-martech-stack-could-talk-what-would-it-say/)
-
-### Who trains tomorrow’s marketers if AI does the work?
-_Fri, 10 Jul 2026 12:21:00 +0000_
-
-As AI takes over entry-level marketing tasks, how do organizations help people develop the judgment needed to be a marketing leaders? The post Who trains tomorrow&#8217;s marketers if AI does the work? appeared first on MarTech .
-
-→ [https://martech.org/who-trains-tomorrows-marketers-if-ai-does-the-work/](https://martech.org/who-trains-tomorrows-marketers-if-ai-does-the-work/)
-
-### The latest AI-powered martech news and releases
-_Thu, 09 Jul 2026 13:53:33 +0000_
-
-Zoom's acquisition of Common Room adds AI-powered buyer intelligence to its growing enterprise sales platform. The post The latest AI-powered martech news and releases appeared first on MarTech .
-
-→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
 
 ---
