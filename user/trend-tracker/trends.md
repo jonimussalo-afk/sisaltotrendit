@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-14 05:33 UTC_
+_Päivitetty: 2026-07-15 05:34 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,20 @@ Millainen oli SDM:n vuosi ja millaisin keinoin onnistuimme vaikeasti ennustettav
 
 ## HubSpot Marketing Blog
 
+### Best content optimization tools for ROI-focused teams
+_Tue, 14 Jul 2026 13:00:00 GMT_
+
+Organic search still delivers some of the strongest returns in marketing, and the right content optimization tools make it easier to capture.
+
+→ [https://blog.hubspot.com/marketing/content-optimization-tools](https://blog.hubspot.com/marketing/content-optimization-tools)
+
+### 6 best CRMs for wholesalers in 2026
+_Tue, 14 Jul 2026 13:00:00 GMT_
+
+Wholesale businesses require more than a generic customer relationship management (CRM) system. A CRM for wholesalers must support account-specific pricing, large product catalogs, repeat orders, and sales workflows that integrate with inventory and fulfillment systems. When these processes are disconnected, quoting slows, errors increase, and…
+
+→ [https://blog.hubspot.com/marketing/best-crm-for-wholesalers](https://blog.hubspot.com/marketing/best-crm-for-wholesalers)
+
 ### Growth experimentation: A guide for growing marketing teams
 _Thu, 09 Jul 2026 17:00:01 GMT_
 
@@ -72,20 +86,6 @@ _Tue, 30 Jun 2026 11:00:03 GMT_
 As any marketer or SEO knows, there’s a special satisfaction in seeing your hard work pay off in the form of snagging a top result on the SERPs. But in the age of answer engine optimization (AEO) , search results don’t tell the full story. To gauge success, you need to learn how to track your brand’s presence in AI search — which introduces a new…
 
 → [https://blog.hubspot.com/marketing/ai-search-presence](https://blog.hubspot.com/marketing/ai-search-presence)
-
-### Campaign optimization strategies that actually work in 2026
-_Tue, 30 Jun 2026 11:00:03 GMT_
-
-Recent data shows that 88% of marketers now use AI every day to guide their biggest decisions, and for good reason. Marketing automation has been shown to generate 80% more leads and drive 77% higher conversion rates. With global ad spend now topping $1 trillion , there’s simply too much data for even the most experienced teams to manage by hand…
-
-→ [https://blog.hubspot.com/marketing/campaign-optimization](https://blog.hubspot.com/marketing/campaign-optimization)
-
-### What is AI search optimization? (& why marketers should care)
-_Mon, 29 Jun 2026 11:00:03 GMT_
-
-AI search optimization is the practice of improving brands’ odds of being cited and mentioned by answer engines like ChatGPT, Gemini, and AI Overviews. The traffic it earns is small but high-intent. Across more than 1,200 publisher and news sites, visitors referred by AI tools signed up at roughly 11 times the rate of search visitors, according to…
-
-→ [https://blog.hubspot.com/marketing/what-is-ai-search-optimization](https://blog.hubspot.com/marketing/what-is-ai-search-optimization)
 
 ---
 
@@ -130,44 +130,72 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Ad Tech Briefing: Private equity’s ad tech playbook returns
-_Tue, 14 Jul 2026 04:01:00 +0000_
+### Publisher ad supply fell by up to 40% in Q2 as AI search choked the open web
+_Wed, 15 Jul 2026 04:01:00 +0000_
 
-Plus how the IAB is seeking to modernize how digital video inventory is defined, bought and measured.
+Publisher ad supply fell by up to 40% in Q2 of 2026 as AI‑era, zero‑click search choked the flow of traffic to news and other open‑web sites, per U.S. and U.K. benchmarking data from Ozone, shared exclusively with Digiday.
 
-→ [https://digiday.com/media-buying/ad-tech-briefing-private-equitys-ad-tech-playbook-returns/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-private-equitys-ad-tech-playbook-returns/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/publisher-ad-supply-fell-by-up-to-40-in-q2-as-ai-search-choked-the-open-web/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/publisher-ad-supply-fell-by-up-to-40-in-q2-as-ai-search-choked-the-open-web/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### SharkNinja’s new growth strategy runs through comedy creators
-_Tue, 14 Jul 2026 04:01:00 +0000_
+### Brands won this season of ‘Love Island USA’
+_Wed, 15 Jul 2026 04:01:00 +0000_
 
-Why SharkNina is chasing new buyers with comedy instead of a celebrity pitch.
+Brands are eagrs to find their way into shows like Love Island USA and events that have become appointment viewing.
 
-→ [https://digiday.com/marketing/sharkninjas-new-growth-strategy-runs-through-comedy-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/sharkninjas-new-growth-strategy-runs-through-comedy-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/brands-won-this-season-of-love-island-usa/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/brands-won-this-season-of-love-island-usa/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### ‘Future of targeting’: Media agencies tentatively explore vector-based planning
-_Tue, 14 Jul 2026 04:01:00 +0000_
+### Reddit questions if AI data deals could hurt its ad business
+_Wed, 15 Jul 2026 04:01:00 +0000_
 
-Vector-based targeting is ‘very experimental’, but could offer AI-forward advertisers a better way of directing media buys.
+Reddit’s ad business is built on the value of its community conversations. Now the company is debating whether selling those same conversations to AI companies could undermine that advantage.
 
-→ [https://digiday.com/media-buying/future-of-targeting-media-agencies-tentatively-explore-vector-based-planning/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/future-of-targeting-media-agencies-tentatively-explore-vector-based-planning/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/reddit-questions-if-ai-data-deals-could-hurt-its-ad-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/reddit-questions-if-ai-data-deals-could-hurt-its-ad-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Inside the newsroom push to turn print reporters into video talent
-_Tue, 14 Jul 2026 04:01:00 +0000_
+### Future of TV Briefing: The M&A match game (summer 2026 edition)
+_Wed, 15 Jul 2026 04:01:00 +0000_
 
-As reporter-led video becomes a priority, publishers are investing in newsroom training to help journalists deepen audience relationships.
+This week’s Future of TV Briefing looks at the M&#38;A deals that should be in the offing after an active first half of 2026.
 
-→ [https://digiday.com/media/inside-the-newsroom-push-to-turn-print-reporters-into-video-talent/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/inside-the-newsroom-push-to-turn-print-reporters-into-video-talent/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/future-of-tv/future-of-tv-briefing-the-ma-match-game-summer-2026-edition/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-the-ma-match-game-summer-2026-edition/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### What Ally Bank learned from building a sports marketing strategy before the market caught up
-_Tue, 14 Jul 2026 04:01:00 +0000_
+### Digital video ad spending is booming – trust in premium inventory isn’t.
+_Wed, 15 Jul 2026 04:01:00 +0000_
 
-Ally CMO Andrea Brimmer reveals what she’d change about the bank’s sports marketing strategy,and where sponsorships are headed.
+Digital video ad spend continues to climb, but buyers say bigger budgets bring tougher questions about inventory quality, supply chain transparency.
 
-→ [https://digiday.com/podcasts/what-ally-bank-learned-from-building-a-sports-marketing-strategy-before-the-market-caught-up/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/what-ally-bank-learned-from-building-a-sports-marketing-strategy-before-the-market-caught-up/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/digital-video-ad-spending-is-booming-trust-in-premium-inventory-isnt/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/digital-video-ad-spending-is-booming-trust-in-premium-inventory-isnt/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### Open source made MMM cheaper, not easier
+_Tue, 14 Jul 2026 13:27:48 +0000_
+
+Free tools have lowered the cost of marketing mix modeling, but data quality and human expertise remain the biggest barriers to success. The post Open source made MMM cheaper, not easier appeared first on MarTech .
+
+→ [https://martech.org/open-source-made-mmm-cheaper-not-easier/](https://martech.org/open-source-made-mmm-cheaper-not-easier/)
+
+### Digital video enters a new era of competition
+_Tue, 14 Jul 2026 12:59:00 +0000_
+
+Digital video now dominates TV ad spending, shifting marketers' focus from channel selection to targeting, measurement, and AI-powered execution. The post Digital video enters a new era of competition appeared first on MarTech .
+
+→ [https://martech.org/digital-video-enters-a-new-era-of-competition/](https://martech.org/digital-video-enters-a-new-era-of-competition/)
+
+### Run this AI audit before your next budgeting cycle
+_Tue, 14 Jul 2026 12:30:00 +0000_
+
+Evaluate AI adoption across your marketing team with a practical framework that goes beyond industry benchmarks. The post Run this AI audit before your next budgeting cycle appeared first on MarTech .
+
+→ [https://martech.org/run-this-ai-audit-before-your-next-budgeting-cycle/](https://martech.org/run-this-ai-audit-before-your-next-budgeting-cycle/)
+
+### Why marketing conferences are still worth it
+_Tue, 14 Jul 2026 12:17:00 +0000_
+
+Travel, expense, and exhaustion are real. So are the relationships, ideas, and opportunities that keep companies and people coming back. The post Why marketing conferences are still worth it appeared first on MarTech .
+
+→ [https://martech.org/why-marketing-conferences-are-still-worth-it/](https://martech.org/why-marketing-conferences-are-still-worth-it/)
 
 ### 5 questions to ask AI vendors before you buy anything
 _Mon, 13 Jul 2026 13:32:41 +0000_
@@ -175,33 +203,5 @@ _Mon, 13 Jul 2026 13:32:41 +0000_
 Cut through AI hype by evaluating business value, data policies, customer proof, and implementation before you invest. The post 5 questions to ask AI vendors before you buy anything appeared first on MarTech .
 
 → [https://martech.org/5-questions-to-ask-ai-vendors-before-you-buy-anything/](https://martech.org/5-questions-to-ask-ai-vendors-before-you-buy-anything/)
-
-### Transactional, triggered, and promotional emails: What’s the difference?
-_Mon, 13 Jul 2026 12:40:00 +0000_
-
-These three email types may look similar, but they serve different purposes, follow different rules, and drive revenue in different ways. The post Transactional, triggered, and promotional emails: What&#8217;s the difference? appeared first on MarTech .
-
-→ [https://martech.org/transactional-triggered-and-promotional-emails-whats-the-difference/](https://martech.org/transactional-triggered-and-promotional-emails-whats-the-difference/)
-
-### Why CIPA is changing the conversation around digital tracking
-_Mon, 13 Jul 2026 12:36:00 +0000_
-
-CIPA is prompting companies to rethink tracking, consent, and data collection. Here's what marketers need to know and how to respond. The post Why CIPA is changing the conversation around digital tracking appeared first on MarTech .
-
-→ [https://martech.org/why-cipa-is-changing-the-conversation-around-digital-tracking/](https://martech.org/why-cipa-is-changing-the-conversation-around-digital-tracking/)
-
-### Is Open Semantic Interchange your data silo cure?
-_Mon, 13 Jul 2026 12:23:00 +0000_
-
-Breaking down marketing database silos requires more than APIs. Here is how the Open Semantic Interchange standardizes metadata. The post Is Open Semantic Interchange your data silo cure? appeared first on MarTech .
-
-→ [https://martech.org/is-open-semantic-interchange-your-data-silo-cure/](https://martech.org/is-open-semantic-interchange-your-data-silo-cure/)
-
-### The secret to scaling vibe coding isn’t better prompts
-_Fri, 10 Jul 2026 13:04:00 +0000_
-
-Turn AI-generated code into maintainable software with a prompt log that improves governance and accountability. The post The secret to scaling vibe coding isn&#8217;t better prompts appeared first on MarTech .
-
-→ [https://martech.org/the-secret-to-scaling-vibe-coding-isnt-better-prompts/](https://martech.org/the-secret-to-scaling-vibe-coding-isnt-better-prompts/)
 
 ---
