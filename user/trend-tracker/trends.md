@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-15 05:34 UTC_
+_Päivitetty: 2026-07-16 05:42 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -10,6 +10,13 @@ _Päivitetty: 2026-07-15 05:34 UTC_
 # 🇫🇮 Kotimaiset lähteet
 
 ## Digimarkkinointi.fi
+
+### Miten kuvia kannattaa optimoida tekoälyn ja saavutettavuuden aikakaudella?
+_Wed, 15 Jul 2026 09:51:03 +0000_
+
+Mitä kuvien optimointi nykypäivänä tarkoittaa? The post Miten kuvia kannattaa optimoida tekoälyn ja saavutettavuuden aikakaudella? appeared first on SDM Digital .
+
+→ [https://sdm.fi/blogi/kuvien-optimointi-tekoalyn-saavutettavuuden-aikakaudella/](https://sdm.fi/blogi/kuvien-optimointi-tekoalyn-saavutettavuuden-aikakaudella/)
 
 ### Saavutettavuus sosiaalisessa mediassa: kuinka sitä voi toteuttaa ja miksi se on tärkeää?
 _Mon, 29 Jun 2026 11:03:27 +0000_
@@ -39,18 +46,18 @@ Digitaalisella markkinoinnilla voit tavoitella asiakastasi jokaisessa ostoproses
 
 → [https://sdm.fi/blogi/digitaalinen-markkinointi-ja-ostoprosessin-eri-vaiheet/](https://sdm.fi/blogi/digitaalinen-markkinointi-ja-ostoprosessin-eri-vaiheet/)
 
-### SDM:n vuosi 2025 – Ennätystulos hankalassa markkinassa
-_Tue, 19 May 2026 06:29:19 +0000_
-
-Millainen oli SDM:n vuosi ja millaisin keinoin onnistuimme vaikeasti ennustettavassa markkinaympäristössä? Vuoden 2025 koonti toimitusjohtajamme Jaakko Suojasen sanoin. The post SDM:n vuosi 2025 – Ennätystulos hankalassa markkinassa appeared first on SDM Digital .
-
-→ [https://sdm.fi/blogi/sdm-vuosi-2025-ennatystulos-hankalassa-markkinassa/](https://sdm.fi/blogi/sdm-vuosi-2025-ennatystulos-hankalassa-markkinassa/)
-
 ---
 
 # 🌍 Kansainväliset lähteet
 
 ## HubSpot Marketing Blog
+
+### Profound vs. Peec AI: Which AEO tool supports your growth strategy?
+_Wed, 15 Jul 2026 11:00:04 GMT_
+
+According to McKinsey, 50% of consumers now use AI-powered search, and more than 70% rely on it to ask questions and gather information. This shift in search behavior means SEO leaders must evolve. Modern workflows need to incorporate Answer Engine Optimization (AEO) strategies so brands can not only rank on page one of Google, but also gain…
+
+→ [https://blog.hubspot.com/marketing/profound-vs-peec](https://blog.hubspot.com/marketing/profound-vs-peec)
 
 ### Best content optimization tools for ROI-focused teams
 _Tue, 14 Jul 2026 13:00:00 GMT_
@@ -79,13 +86,6 @@ _Wed, 01 Jul 2026 11:00:03 GMT_
 Every content marketer seems to be asking the same question: Do semantic keywords still matter in SEO in 2026, especially now that AI engines influence traffic and buying decisions?
 
 → [https://blog.hubspot.com/marketing/semantic-keywords](https://blog.hubspot.com/marketing/semantic-keywords)
-
-### How to track your brand’s presence in AI search
-_Tue, 30 Jun 2026 11:00:03 GMT_
-
-As any marketer or SEO knows, there’s a special satisfaction in seeing your hard work pay off in the form of snagging a top result on the SERPs. But in the age of answer engine optimization (AEO) , search results don’t tell the full story. To gauge success, you need to learn how to track your brand’s presence in AI search — which introduces a new…
-
-→ [https://blog.hubspot.com/marketing/ai-search-presence](https://blog.hubspot.com/marketing/ai-search-presence)
 
 ---
 
@@ -130,6 +130,34 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### Why a once-anonymous creator unmasked herself to build a bigger media brand
+_Thu, 16 Jul 2026 04:01:00 +0000_
+
+Kristi Cook used to YouTube anonymously. Once she revealed her face, her account became wildly popular.
+
+→ [https://digiday.com/media/why-a-once-anonymous-creator-unmasked-herself-to-build-a-bigger-media-brand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/why-a-once-anonymous-creator-unmasked-herself-to-build-a-bigger-media-brand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Stagwell is building its own AI media curation marketplace
+_Thu, 16 Jul 2026 04:01:00 +0000_
+
+The challenger holdco is developing an AI-powered pool of curated ad inventory for clients. Here’s how it’s supposed to work.
+
+→ [https://digiday.com/media-buying/stagwell-is-building-its-own-ai-media-curation-marketplace/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/stagwell-is-building-its-own-ai-media-curation-marketplace/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Creators are crashing through Hollywood, but there’s a ceiling
+_Thu, 16 Jul 2026 04:01:00 +0000_
+
+Hollywood is tapping creators for hit horror films, unique IP, and cameos, but there are limits to their star power in its current state.
+
+→ [https://digiday.com/media/creators-are-crashing-through-hollywood-but-theres-a-ceiling/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/creators-are-crashing-through-hollywood-but-theres-a-ceiling/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Media Briefing: AI visibility is becoming publishers’ newest currency
+_Thu, 16 Jul 2026 04:01:00 +0000_
+
+Publishers are embracing AI visibility as the next must-have metric, using their prominence in AI answer engines to attract advertisers.
+
+→ [https://digiday.com/media/media-briefing-ai-visibility-is-becoming-publishers-newest-currency/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-ai-visibility-is-becoming-publishers-newest-currency/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### Publisher ad supply fell by up to 40% in Q2 as AI search choked the open web
 _Wed, 15 Jul 2026 04:01:00 +0000_
 
@@ -137,37 +165,37 @@ Publisher ad supply fell by up to 40% in Q2 of 2026 as AI‑era, zero‑click se
 
 → [https://digiday.com/media/publisher-ad-supply-fell-by-up-to-40-in-q2-as-ai-search-choked-the-open-web/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/publisher-ad-supply-fell-by-up-to-40-in-q2-as-ai-search-choked-the-open-web/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Brands won this season of ‘Love Island USA’
-_Wed, 15 Jul 2026 04:01:00 +0000_
-
-Brands are eagrs to find their way into shows like Love Island USA and events that have become appointment viewing.
-
-→ [https://digiday.com/marketing/brands-won-this-season-of-love-island-usa/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/brands-won-this-season-of-love-island-usa/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Reddit questions if AI data deals could hurt its ad business
-_Wed, 15 Jul 2026 04:01:00 +0000_
-
-Reddit’s ad business is built on the value of its community conversations. Now the company is debating whether selling those same conversations to AI companies could undermine that advantage.
-
-→ [https://digiday.com/marketing/reddit-questions-if-ai-data-deals-could-hurt-its-ad-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/reddit-questions-if-ai-data-deals-could-hurt-its-ad-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Future of TV Briefing: The M&A match game (summer 2026 edition)
-_Wed, 15 Jul 2026 04:01:00 +0000_
-
-This week’s Future of TV Briefing looks at the M&#38;A deals that should be in the offing after an active first half of 2026.
-
-→ [https://digiday.com/future-of-tv/future-of-tv-briefing-the-ma-match-game-summer-2026-edition/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-the-ma-match-game-summer-2026-edition/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Digital video ad spending is booming – trust in premium inventory isn’t.
-_Wed, 15 Jul 2026 04:01:00 +0000_
-
-Digital video ad spend continues to climb, but buyers say bigger budgets bring tougher questions about inventory quality, supply chain transparency.
-
-→ [https://digiday.com/marketing/digital-video-ad-spending-is-booming-trust-in-premium-inventory-isnt/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/digital-video-ad-spending-is-booming-trust-in-premium-inventory-isnt/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
 ---
 
 ## MarTech
+
+### Marketing’s AI challenge goes beyond adoption
+_Wed, 15 Jul 2026 15:40:16 +0000_
+
+Researchers found marketers value AI's efficiency but remain concerned about organizational readiness and the profession's future. The post Marketing&#8217;s AI challenge goes beyond adoption appeared first on MarTech .
+
+→ [https://martech.org/marketings-ai-challenge-goes-beyond-adoption/](https://martech.org/marketings-ai-challenge-goes-beyond-adoption/)
+
+### Why AI-ready data infrastructure is so hard to build
+_Wed, 15 Jul 2026 12:53:00 +0000_
+
+Many companies try to fix everything before using AI. Learn why starting with one important problem works better. The post Why AI-ready data infrastructure is so hard to build appeared first on MarTech .
+
+→ [https://martech.org/why-ai-ready-data-infrastructure-is-so-hard-to-build/](https://martech.org/why-ai-ready-data-infrastructure-is-so-hard-to-build/)
+
+### Why marketers should measure relationships, not leads
+_Wed, 15 Jul 2026 12:43:00 +0000_
+
+Lead volume shows activity. Relationship-led metrics reveal if marketing improves pipeline quality, win rates, and long-term growth. The post Why marketers should measure relationships, not leads appeared first on MarTech .
+
+→ [https://martech.org/why-marketers-should-measure-relationships-not-leads/](https://martech.org/why-marketers-should-measure-relationships-not-leads/)
+
+### Creatio takes aim at the enterprise Frankenstack
+_Wed, 15 Jul 2026 12:29:00 +0000_
+
+The company's latest platform combines CRM, AI agents, and workflows to replace disconnected point solutions with a single operating environment. The post Creatio takes aim at the enterprise Frankenstack appeared first on MarTech .
+
+→ [https://martech.org/creatio-takes-aim-at-the-enterprise-frankenstack/](https://martech.org/creatio-takes-aim-at-the-enterprise-frankenstack/)
 
 ### Open source made MMM cheaper, not easier
 _Tue, 14 Jul 2026 13:27:48 +0000_
@@ -175,33 +203,5 @@ _Tue, 14 Jul 2026 13:27:48 +0000_
 Free tools have lowered the cost of marketing mix modeling, but data quality and human expertise remain the biggest barriers to success. The post Open source made MMM cheaper, not easier appeared first on MarTech .
 
 → [https://martech.org/open-source-made-mmm-cheaper-not-easier/](https://martech.org/open-source-made-mmm-cheaper-not-easier/)
-
-### Digital video enters a new era of competition
-_Tue, 14 Jul 2026 12:59:00 +0000_
-
-Digital video now dominates TV ad spending, shifting marketers' focus from channel selection to targeting, measurement, and AI-powered execution. The post Digital video enters a new era of competition appeared first on MarTech .
-
-→ [https://martech.org/digital-video-enters-a-new-era-of-competition/](https://martech.org/digital-video-enters-a-new-era-of-competition/)
-
-### Run this AI audit before your next budgeting cycle
-_Tue, 14 Jul 2026 12:30:00 +0000_
-
-Evaluate AI adoption across your marketing team with a practical framework that goes beyond industry benchmarks. The post Run this AI audit before your next budgeting cycle appeared first on MarTech .
-
-→ [https://martech.org/run-this-ai-audit-before-your-next-budgeting-cycle/](https://martech.org/run-this-ai-audit-before-your-next-budgeting-cycle/)
-
-### Why marketing conferences are still worth it
-_Tue, 14 Jul 2026 12:17:00 +0000_
-
-Travel, expense, and exhaustion are real. So are the relationships, ideas, and opportunities that keep companies and people coming back. The post Why marketing conferences are still worth it appeared first on MarTech .
-
-→ [https://martech.org/why-marketing-conferences-are-still-worth-it/](https://martech.org/why-marketing-conferences-are-still-worth-it/)
-
-### 5 questions to ask AI vendors before you buy anything
-_Mon, 13 Jul 2026 13:32:41 +0000_
-
-Cut through AI hype by evaluating business value, data policies, customer proof, and implementation before you invest. The post 5 questions to ask AI vendors before you buy anything appeared first on MarTech .
-
-→ [https://martech.org/5-questions-to-ask-ai-vendors-before-you-buy-anything/](https://martech.org/5-questions-to-ask-ai-vendors-before-you-buy-anything/)
 
 ---
