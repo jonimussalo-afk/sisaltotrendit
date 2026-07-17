@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-16 05:42 UTC_
+_Päivitetty: 2026-07-17 05:44 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,20 @@ Digitaalisella markkinoinnilla voit tavoitella asiakastasi jokaisessa ostoproses
 
 ## HubSpot Marketing Blog
 
+### CRM data migration: A practical process overview
+_Thu, 16 Jul 2026 15:30:03 GMT_
+
+CRM data migration&nbsp;is the process of moving data, workflows, and assets from one CRM to another. It matters because your CRM is the operational backbone of your revenue team, and when the data inside&nbsp;it is wrong , every process built on top of it breaks too.
+
+→ [https://blog.hubspot.com/marketing/crm-data-migration](https://blog.hubspot.com/marketing/crm-data-migration)
+
+### Best enterprise rank tracking software for high-traffic websites
+_Thu, 16 Jul 2026 15:30:03 GMT_
+
+The best enterprise rank-tracking software goes far beyond checking positions for a handful of keywords. At scale, it means monitoring millions of data points across devices, locations, and search features, including AI Overviews, featured snippets, and local packs. Then that intelligence is fed into dashboards, CRM workflows, and executive…
+
+→ [https://blog.hubspot.com/marketing/enterprise-rank-tracker](https://blog.hubspot.com/marketing/enterprise-rank-tracker)
+
 ### Profound vs. Peec AI: Which AEO tool supports your growth strategy?
 _Wed, 15 Jul 2026 11:00:04 GMT_
 
@@ -72,20 +86,6 @@ _Tue, 14 Jul 2026 13:00:00 GMT_
 Wholesale businesses require more than a generic customer relationship management (CRM) system. A CRM for wholesalers must support account-specific pricing, large product catalogs, repeat orders, and sales workflows that integrate with inventory and fulfillment systems. When these processes are disconnected, quoting slows, errors increase, and…
 
 → [https://blog.hubspot.com/marketing/best-crm-for-wholesalers](https://blog.hubspot.com/marketing/best-crm-for-wholesalers)
-
-### Growth experimentation: A guide for growing marketing teams
-_Thu, 09 Jul 2026 17:00:01 GMT_
-
-Growth experimentation is a structured approach to testing ideas across the full customer journey to discover what drives measurable business growth. Experiments improve channel-by-channel optimization as marketing teams push for measurable, repeatable growth under tight budgets.
-
-→ [https://blog.hubspot.com/marketing/growth-experimentation](https://blog.hubspot.com/marketing/growth-experimentation)
-
-### What are semantic keywords? Here's how to find & use them
-_Wed, 01 Jul 2026 11:00:03 GMT_
-
-Every content marketer seems to be asking the same question: Do semantic keywords still matter in SEO in 2026, especially now that AI engines influence traffic and buying decisions?
-
-→ [https://blog.hubspot.com/marketing/semantic-keywords](https://blog.hubspot.com/marketing/semantic-keywords)
 
 ---
 
@@ -130,78 +130,78 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Why a once-anonymous creator unmasked herself to build a bigger media brand
-_Thu, 16 Jul 2026 04:01:00 +0000_
+### WTF is LLM honeypotting?
+_Fri, 17 Jul 2026 04:01:00 +0000_
 
-Kristi Cook used to YouTube anonymously. Once she revealed her face, her account became wildly popular.
+Publishers and ecommerce brands under siege from AI crawlers are starting to fight back with an old security trick updated for the LLM era: “LLM honeypotting.”
 
-→ [https://digiday.com/media/why-a-once-anonymous-creator-unmasked-herself-to-build-a-bigger-media-brand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/why-a-once-anonymous-creator-unmasked-herself-to-build-a-bigger-media-brand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/wtf-is-llm-honeypotting/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/wtf-is-llm-honeypotting/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Stagwell is building its own AI media curation marketplace
-_Thu, 16 Jul 2026 04:01:00 +0000_
+### Walmart reveals soccer fans’ World Cup shopping habits
+_Fri, 17 Jul 2026 04:01:00 +0000_
 
-The challenger holdco is developing an AI-powered pool of curated ad inventory for clients. Here’s how it’s supposed to work.
+New data is from Walmart is showing that consumer shopping habits shifted during the 2026 World Cup.
 
-→ [https://digiday.com/media-buying/stagwell-is-building-its-own-ai-media-curation-marketplace/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/stagwell-is-building-its-own-ai-media-curation-marketplace/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/walmart-reveals-soccer-fans-world-cup-shopping-habits/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/walmart-reveals-soccer-fans-world-cup-shopping-habits/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Creators are crashing through Hollywood, but there’s a ceiling
-_Thu, 16 Jul 2026 04:01:00 +0000_
+### Future of Marketing Briefing: What World Cup breakout stars Haaland and Zlatan can teach marketers about sports stardom
+_Fri, 17 Jul 2026 04:01:00 +0000_
 
-Hollywood is tapping creators for hit horror films, unique IP, and cameos, but there are limits to their star power in its current state.
+This year’s soccer darlings confirm the emergence of a new kind of sporting celebrity in direct conversation with fandom and social media.
 
-→ [https://digiday.com/media/creators-are-crashing-through-hollywood-but-theres-a-ceiling/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/creators-are-crashing-through-hollywood-but-theres-a-ceiling/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/what-world-cup-breakout-stars-haaland-and-zlatan-can-teach-marketers-about-sports-stardom/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/what-world-cup-breakout-stars-haaland-and-zlatan-can-teach-marketers-about-sports-stardom/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Briefing: AI visibility is becoming publishers’ newest currency
-_Thu, 16 Jul 2026 04:01:00 +0000_
+### Rather than going with the crowd, marketers are now questioning measurement ambiguity
+_Thu, 16 Jul 2026 17:28:32 +0000_
 
-Publishers are embracing AI visibility as the next must-have metric, using their prominence in AI answer engines to attract advertisers.
+Platforms report what they can see. Teams optimize within the environments they control. Dashboards reflect the signals being fed into them. The problem is that the underlying architecture was never designed to produce a coherent version of truth across every platform, device and touchpoint. Partner insights from AppsFlyer.
 
-→ [https://digiday.com/media/media-briefing-ai-visibility-is-becoming-publishers-newest-currency/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-ai-visibility-is-becoming-publishers-newest-currency/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/sponsored/rather-than-going-with-the-crowd-marketers-are-now-questioning-measurement-ambiguity/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/rather-than-going-with-the-crowd-marketers-are-now-questioning-measurement-ambiguity/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Publisher ad supply fell by up to 40% in Q2 as AI search choked the open web
-_Wed, 15 Jul 2026 04:01:00 +0000_
+### The state of agentic storefronts: How AI agents guide shoppers on frictionless, full-funnel journeys
+_Thu, 16 Jul 2026 14:46:48 +0000_
 
-Publisher ad supply fell by up to 40% in Q2 of 2026 as AI‑era, zero‑click search choked the flow of traffic to news and other open‑web sites, per U.S. and U.K. benchmarking data from Ozone, shared exclusively with Digiday.
+This State of the Industry report, sponsored by Swap, explores how brands, retailers and agencies are adopting agentic commerce, including agentic storefronts, to enhance shopping experiences. Artificial intelligence is the new entry point in e-commerce, as more shoppers rely on AI-powered summaries and assistants to discover products. Beyond…
 
-→ [https://digiday.com/media/publisher-ad-supply-fell-by-up-to-40-in-q2-as-ai-search-choked-the-open-web/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/publisher-ad-supply-fell-by-up-to-40-in-q2-as-ai-search-choked-the-open-web/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/sponsored/the-state-of-agentic-storefronts-how-ai-agents-guide-shoppers-on-frictionless-full-funnel-journeys/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/the-state-of-agentic-storefronts-how-ai-agents-guide-shoppers-on-frictionless-full-funnel-journeys/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
 
-### Marketing’s AI challenge goes beyond adoption
-_Wed, 15 Jul 2026 15:40:16 +0000_
+### Web Push advertising in 2026: Market trends and challenges by RollerAds
+_Thu, 16 Jul 2026 16:29:38 +0000_
 
-Researchers found marketers value AI's efficiency but remain concerned about organizational readiness and the profession's future. The post Marketing&#8217;s AI challenge goes beyond adoption appeared first on MarTech .
+A look at how Web Push advertising is adapting in 2026 through better compliance, stronger traffic quality, and more mature market growth. The post Web Push advertising in 2026: Market trends and challenges appeared first on MarTech .
 
-→ [https://martech.org/marketings-ai-challenge-goes-beyond-adoption/](https://martech.org/marketings-ai-challenge-goes-beyond-adoption/)
+→ [https://martech.org/web-push-advertising-in-2026-market-trends-and-challenges/](https://martech.org/web-push-advertising-in-2026-market-trends-and-challenges/)
 
-### Why AI-ready data infrastructure is so hard to build
-_Wed, 15 Jul 2026 12:53:00 +0000_
+### The latest AI-powered martech news and releases
+_Thu, 16 Jul 2026 14:23:45 +0000_
 
-Many companies try to fix everything before using AI. Learn why starting with one important problem works better. The post Why AI-ready data infrastructure is so hard to build appeared first on MarTech .
+OpenAI’s ad revenue forecast is on pace to miss its 2030 target by 90%, according to Emarketer. The post The latest AI-powered martech news and releases appeared first on MarTech .
 
-→ [https://martech.org/why-ai-ready-data-infrastructure-is-so-hard-to-build/](https://martech.org/why-ai-ready-data-infrastructure-is-so-hard-to-build/)
+→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
 
-### Why marketers should measure relationships, not leads
-_Wed, 15 Jul 2026 12:43:00 +0000_
+### Don’t confuse ad spend with marketing performance
+_Thu, 16 Jul 2026 13:15:28 +0000_
 
-Lead volume shows activity. Relationship-led metrics reveal if marketing improves pipeline quality, win rates, and long-term growth. The post Why marketers should measure relationships, not leads appeared first on MarTech .
+More budget doesn't guarantee better results. The strongest campaigns prove they work before they scale. The post Don&#8217;t confuse ad spend with marketing performance appeared first on MarTech .
 
-→ [https://martech.org/why-marketers-should-measure-relationships-not-leads/](https://martech.org/why-marketers-should-measure-relationships-not-leads/)
+→ [https://martech.org/dont-confuse-ad-spend-with-marketing-performance/](https://martech.org/dont-confuse-ad-spend-with-marketing-performance/)
 
-### Creatio takes aim at the enterprise Frankenstack
-_Wed, 15 Jul 2026 12:29:00 +0000_
+### Your email program is overdue for a portfolio review
+_Thu, 16 Jul 2026 13:01:00 +0000_
 
-The company's latest platform combines CRM, AI agents, and workflows to replace disconnected point solutions with a single operating environment. The post Creatio takes aim at the enterprise Frankenstack appeared first on MarTech .
+Stop evaluating email one campaign at a time. Review your email ecosystem to decide which programs still deserve your time, budget, and attention. The post Your email program is overdue for a portfolio review appeared first on MarTech .
 
-→ [https://martech.org/creatio-takes-aim-at-the-enterprise-frankenstack/](https://martech.org/creatio-takes-aim-at-the-enterprise-frankenstack/)
+→ [https://martech.org/your-email-program-is-overdue-for-a-portfolio-review/](https://martech.org/your-email-program-is-overdue-for-a-portfolio-review/)
 
-### Open source made MMM cheaper, not easier
-_Tue, 14 Jul 2026 13:27:48 +0000_
+### SaaS can no longer compete on software alone
+_Thu, 16 Jul 2026 12:28:00 +0000_
 
-Free tools have lowered the cost of marketing mix modeling, but data quality and human expertise remain the biggest barriers to success. The post Open source made MMM cheaper, not easier appeared first on MarTech .
+With AI making software features easier to replicate, SaaS must help customers build capabilities that deliver lasting business value. The post SaaS can no longer compete on software alone appeared first on MarTech .
 
-→ [https://martech.org/open-source-made-mmm-cheaper-not-easier/](https://martech.org/open-source-made-mmm-cheaper-not-easier/)
+→ [https://martech.org/saas-can-no-longer-compete-on-software-alone/](https://martech.org/saas-can-no-longer-compete-on-software-alone/)
 
 ---
