@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-17 05:44 UTC_
+_Päivitetty: 2026-07-18 05:28 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -169,39 +169,39 @@ This State of the Industry report, sponsored by Swap, explores how brands, retai
 
 ## MarTech
 
+### Salesforce’s woes underline marketing’s agentic AI problems
+_Fri, 17 Jul 2026 15:00:45 +0000_
+
+Slow Agentforce adoption highlights the poor data quality and operational readiness limiting enterprise AI adoption. The post Salesforce&#8217;s woes underline marketing&#8217;s agentic AI problems appeared first on MarTech .
+
+→ [https://martech.org/salesforces-woes-underline-marketings-agentic-ai-problems/](https://martech.org/salesforces-woes-underline-marketings-agentic-ai-problems/)
+
+### Marketers know what improves paid media ROI, but underinvest in it
+_Fri, 17 Jul 2026 13:48:41 +0000_
+
+New research found marketers invest in targeting, AI, and creative while neglecting the post-click experiences they say drive paid media ROI. The post Marketers know what improves paid media ROI, but underinvest in it appeared first on MarTech .
+
+→ [https://martech.org/marketers-know-what-improves-paid-media-roi-but-underinvest-in-it/](https://martech.org/marketers-know-what-improves-paid-media-roi-but-underinvest-in-it/)
+
+### Look past AI to see where martech is going
+_Fri, 17 Jul 2026 12:38:00 +0000_
+
+AI dominates the conversation, but stack rationalization, modern measurement, and modular content are quietly reshaping marketing operations. The post Look past AI to see where martech is going appeared first on MarTech .
+
+→ [https://martech.org/look-past-ai-to-see-where-martech-is-going/](https://martech.org/look-past-ai-to-see-where-martech-is-going/)
+
+### Your content isn’t your competitive advantage anymore
+_Fri, 17 Jul 2026 12:05:00 +0000_
+
+Thanks to AI, customers have all the information they want. The challenge now is giving them a reason to trust you. The post Your content isn&#8217;t your competitive advantage anymore appeared first on MarTech .
+
+→ [https://martech.org/your-content-isnt-your-competitive-advantage-anymore/](https://martech.org/your-content-isnt-your-competitive-advantage-anymore/)
+
 ### Web Push advertising in 2026: Market trends and challenges by RollerAds
 _Thu, 16 Jul 2026 16:29:38 +0000_
 
 A look at how Web Push advertising is adapting in 2026 through better compliance, stronger traffic quality, and more mature market growth. The post Web Push advertising in 2026: Market trends and challenges appeared first on MarTech .
 
 → [https://martech.org/web-push-advertising-in-2026-market-trends-and-challenges/](https://martech.org/web-push-advertising-in-2026-market-trends-and-challenges/)
-
-### The latest AI-powered martech news and releases
-_Thu, 16 Jul 2026 14:23:45 +0000_
-
-OpenAI’s ad revenue forecast is on pace to miss its 2030 target by 90%, according to Emarketer. The post The latest AI-powered martech news and releases appeared first on MarTech .
-
-→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
-
-### Don’t confuse ad spend with marketing performance
-_Thu, 16 Jul 2026 13:15:28 +0000_
-
-More budget doesn't guarantee better results. The strongest campaigns prove they work before they scale. The post Don&#8217;t confuse ad spend with marketing performance appeared first on MarTech .
-
-→ [https://martech.org/dont-confuse-ad-spend-with-marketing-performance/](https://martech.org/dont-confuse-ad-spend-with-marketing-performance/)
-
-### Your email program is overdue for a portfolio review
-_Thu, 16 Jul 2026 13:01:00 +0000_
-
-Stop evaluating email one campaign at a time. Review your email ecosystem to decide which programs still deserve your time, budget, and attention. The post Your email program is overdue for a portfolio review appeared first on MarTech .
-
-→ [https://martech.org/your-email-program-is-overdue-for-a-portfolio-review/](https://martech.org/your-email-program-is-overdue-for-a-portfolio-review/)
-
-### SaaS can no longer compete on software alone
-_Thu, 16 Jul 2026 12:28:00 +0000_
-
-With AI making software features easier to replicate, SaaS must help customers build capabilities that deliver lasting business value. The post SaaS can no longer compete on software alone appeared first on MarTech .
-
-→ [https://martech.org/saas-can-no-longer-compete-on-software-alone/](https://martech.org/saas-can-no-longer-compete-on-software-alone/)
 
 ---
