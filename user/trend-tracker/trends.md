@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-19 05:56 UTC_
+_Päivitetty: 2026-07-20 06:20 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,40 +130,40 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### WTF: W3C’s Attribution API?
+_Mon, 20 Jul 2026 04:01:00 +0000_
+
+What marketers, publishers, and ad tech companies need to know about some of the latest proposals in browser-based ad measurement.
+
+→ [https://digiday.com/media-buying/wtf-w3cs-attribution-api/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/wtf-w3cs-attribution-api/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Media Buying Briefing: China remains a tough market for holding companies to figure out
+_Mon, 20 Jul 2026 04:01:00 +0000_
+
+The Chinese ad market has slipped away from holding companies that previously looked east for future growth.
+
+→ [https://digiday.com/media-buying/meta-manus-groupm-bribery-case-china-challenges/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/meta-manus-groupm-bribery-case-china-challenges/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### ‘It’s a CEO conversation,’ Accenture and Whalar on their playbook for the creator economy
+_Mon, 20 Jul 2026 04:01:00 +0000_
+
+Brian Yasko, managing director at Accenture and Emma Harmon, co-CEO of Whalar, on the massive creator economy acquisition and future plans.
+
+→ [https://digiday.com/media/the-creator-economy-is-a-cmo-conversation-but-really-its-a-ceo-conversation-accenture-and-whalar-on-their-post-acquisition-playbook/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/the-creator-economy-is-a-cmo-conversation-but-really-its-a-ceo-conversation-accenture-and-whalar-on-their-post-acquisition-playbook/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Five things the World Cup taught marketers about creators
+_Mon, 20 Jul 2026 04:01:00 +0000_
+
+The World Cup has wrapped, which means it’s time for the obligatory marketing takeaways piece.
+
+→ [https://digiday.com/marketing/the-world-cup-was-a-stress-test-for-creator-marketing-heres-what-it-revealed/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/the-world-cup-was-a-stress-test-for-creator-marketing-heres-what-it-revealed/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### WTF is LLM honeypotting?
 _Fri, 17 Jul 2026 04:01:00 +0000_
 
 Publishers and ecommerce brands under siege from AI crawlers are starting to fight back with an old security trick updated for the LLM era: “LLM honeypotting.”
 
 → [https://digiday.com/media/wtf-is-llm-honeypotting/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/wtf-is-llm-honeypotting/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Walmart reveals soccer fans’ World Cup shopping habits
-_Fri, 17 Jul 2026 04:01:00 +0000_
-
-New data is from Walmart is showing that consumer shopping habits shifted during the 2026 World Cup.
-
-→ [https://digiday.com/marketing/walmart-reveals-soccer-fans-world-cup-shopping-habits/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/walmart-reveals-soccer-fans-world-cup-shopping-habits/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Future of Marketing Briefing: What World Cup breakout stars Haaland and Zlatan can teach marketers about sports stardom
-_Fri, 17 Jul 2026 04:01:00 +0000_
-
-This year’s soccer darlings confirm the emergence of a new kind of sporting celebrity in direct conversation with fandom and social media.
-
-→ [https://digiday.com/marketing/what-world-cup-breakout-stars-haaland-and-zlatan-can-teach-marketers-about-sports-stardom/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/what-world-cup-breakout-stars-haaland-and-zlatan-can-teach-marketers-about-sports-stardom/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Rather than going with the crowd, marketers are now questioning measurement ambiguity
-_Thu, 16 Jul 2026 17:28:32 +0000_
-
-Platforms report what they can see. Teams optimize within the environments they control. Dashboards reflect the signals being fed into them. The problem is that the underlying architecture was never designed to produce a coherent version of truth across every platform, device and touchpoint. Partner insights from AppsFlyer.
-
-→ [https://digiday.com/sponsored/rather-than-going-with-the-crowd-marketers-are-now-questioning-measurement-ambiguity/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/rather-than-going-with-the-crowd-marketers-are-now-questioning-measurement-ambiguity/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### The state of agentic storefronts: How AI agents guide shoppers on frictionless, full-funnel journeys
-_Thu, 16 Jul 2026 14:46:48 +0000_
-
-This State of the Industry report, sponsored by Swap, explores how brands, retailers and agencies are adopting agentic commerce, including agentic storefronts, to enhance shopping experiences. Artificial intelligence is the new entry point in e-commerce, as more shoppers rely on AI-powered summaries and assistants to discover products. Beyond…
-
-→ [https://digiday.com/sponsored/the-state-of-agentic-storefronts-how-ai-agents-guide-shoppers-on-frictionless-full-funnel-journeys/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/the-state-of-agentic-storefronts-how-ai-agents-guide-shoppers-on-frictionless-full-funnel-journeys/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
