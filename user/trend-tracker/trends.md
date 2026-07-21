@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-20 06:20 UTC_
+_Päivitetty: 2026-07-21 05:53 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,20 @@ Digitaalisella markkinoinnilla voit tavoitella asiakastasi jokaisessa ostoproses
 
 ## HubSpot Marketing Blog
 
+### HubSpot AEO vs SE Ranking: Features, pricing, and fit
+_Mon, 20 Jul 2026 11:00:03 GMT_
+
+You’ve probably noticed it yourself: buyers aren’t just Googling anymore. They’re asking ChatGPT, Gemini, and Perplexity questions and trusting whatever answers they get. If your brand isn’t named in those answers, well, you may not even be a consideration.
+
+→ [https://blog.hubspot.com/marketing/hubspot-vs-se-ranking](https://blog.hubspot.com/marketing/hubspot-vs-se-ranking)
+
+### The top content formats & types that earn AI search citations
+_Mon, 20 Jul 2026 11:00:03 GMT_
+
+There’s no denying it: Search behaviors have changed . As more queries are answered directly by AI Overviews, ChatGPT, and Perplexity, the shifts reshaping search are forcing marketers to rethink ranking and, just as crucially, learn how to write for AI search rather than just for a list of blue links.
+
+→ [https://blog.hubspot.com/marketing/content-structuring-themes-ai-search](https://blog.hubspot.com/marketing/content-structuring-themes-ai-search)
+
 ### CRM data migration: A practical process overview
 _Thu, 16 Jul 2026 15:30:03 GMT_
 
@@ -72,20 +86,6 @@ _Wed, 15 Jul 2026 11:00:04 GMT_
 According to McKinsey, 50% of consumers now use AI-powered search, and more than 70% rely on it to ask questions and gather information. This shift in search behavior means SEO leaders must evolve. Modern workflows need to incorporate Answer Engine Optimization (AEO) strategies so brands can not only rank on page one of Google, but also gain…
 
 → [https://blog.hubspot.com/marketing/profound-vs-peec](https://blog.hubspot.com/marketing/profound-vs-peec)
-
-### Best content optimization tools for ROI-focused teams
-_Tue, 14 Jul 2026 13:00:00 GMT_
-
-Organic search still delivers some of the strongest returns in marketing, and the right content optimization tools make it easier to capture.
-
-→ [https://blog.hubspot.com/marketing/content-optimization-tools](https://blog.hubspot.com/marketing/content-optimization-tools)
-
-### 6 best CRMs for wholesalers in 2026
-_Tue, 14 Jul 2026 13:00:00 GMT_
-
-Wholesale businesses require more than a generic customer relationship management (CRM) system. A CRM for wholesalers must support account-specific pricing, large product catalogs, repeat orders, and sales workflows that integrate with inventory and fulfillment systems. When these processes are disconnected, quoting slows, errors increase, and…
-
-→ [https://blog.hubspot.com/marketing/best-crm-for-wholesalers](https://blog.hubspot.com/marketing/best-crm-for-wholesalers)
 
 ---
 
@@ -130,44 +130,72 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### WTF: W3C’s Attribution API?
-_Mon, 20 Jul 2026 04:01:00 +0000_
+### Nike versus Adidas: Which brand won the World Cup?
+_Tue, 21 Jul 2026 04:01:00 +0000_
 
-What marketers, publishers, and ad tech companies need to know about some of the latest proposals in browser-based ad measurement.
+We sift through data from AdClarity, Meltwater, Sprout Social and MediaRadar to work out which brand had the best World Cup performance.
 
-→ [https://digiday.com/media-buying/wtf-w3cs-attribution-api/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/wtf-w3cs-attribution-api/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/nike-versus-adidas-which-brand-won-the-world-cup/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/nike-versus-adidas-which-brand-won-the-world-cup/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Buying Briefing: China remains a tough market for holding companies to figure out
-_Mon, 20 Jul 2026 04:01:00 +0000_
+### W3C Attribution API prompts debate over the future of web measurement
+_Tue, 21 Jul 2026 04:01:00 +0000_
 
-The Chinese ad market has slipped away from holding companies that previously looked east for future growth.
+The proposal aims to provide a browser-based mechanism for measuring advertising performance without relying on cross-site tracking.
 
-→ [https://digiday.com/media-buying/meta-manus-groupm-bribery-case-china-challenges/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/meta-manus-groupm-bribery-case-china-challenges/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/w3c-attribution-api-prompts-debate-over-the-future-of-web-measurement/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/w3c-attribution-api-prompts-debate-over-the-future-of-web-measurement/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### ‘It’s a CEO conversation,’ Accenture and Whalar on their playbook for the creator economy
-_Mon, 20 Jul 2026 04:01:00 +0000_
+### As AI automates media work, Omnicom Media is rethinking the agency business model
+_Tue, 21 Jul 2026 04:01:00 +0000_
 
-Brian Yasko, managing director at Accenture and Emma Harmon, co-CEO of Whalar, on the massive creator economy acquisition and future plans.
+AI won’t eliminate agencies, but it is forcing them to reinvent themselves. Omnicom Media Group is betting the future lies in strategy, data and capability, not scale alone.
 
-→ [https://digiday.com/media/the-creator-economy-is-a-cmo-conversation-but-really-its-a-ceo-conversation-accenture-and-whalar-on-their-post-acquisition-playbook/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/the-creator-economy-is-a-cmo-conversation-but-really-its-a-ceo-conversation-accenture-and-whalar-on-their-post-acquisition-playbook/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/podcasts/as-ai-automates-media-work-omnicom-media-is-rethinking-the-agency-business-model/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/as-ai-automates-media-work-omnicom-media-is-rethinking-the-agency-business-model/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Five things the World Cup taught marketers about creators
-_Mon, 20 Jul 2026 04:01:00 +0000_
+### Ad Tech Briefing: Apple’s continued interest in ads
+_Tue, 21 Jul 2026 04:01:00 +0000_
 
-The World Cup has wrapped, which means it’s time for the obligatory marketing takeaways piece.
+A subtle policy update shines a light on how Apple differs from Google.
 
-→ [https://digiday.com/marketing/the-world-cup-was-a-stress-test-for-creator-marketing-heres-what-it-revealed/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/the-world-cup-was-a-stress-test-for-creator-marketing-heres-what-it-revealed/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/ad-tech-briefing-apples-continued-interest-in-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ad-tech-briefing-apples-continued-interest-in-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### WTF is LLM honeypotting?
-_Fri, 17 Jul 2026 04:01:00 +0000_
+### In Graphic Detail: AI visibility is no longer about referral traffic
+_Tue, 21 Jul 2026 04:01:00 +0000_
 
-Publishers and ecommerce brands under siege from AI crawlers are starting to fight back with an old security trick updated for the LLM era: “LLM honeypotting.”
+New data shows why publishers are developing strategies around agentic traffic and brand visibility in AI answer engines.
 
-→ [https://digiday.com/media/wtf-is-llm-honeypotting/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/wtf-is-llm-honeypotting/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/in-graphic-detail-ai-visibility-is-no-longer-about-referral-traffic/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/in-graphic-detail-ai-visibility-is-no-longer-about-referral-traffic/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### Before you refresh that page, run this test
+_Mon, 20 Jul 2026 14:32:43 +0000_
+
+Not every traffic drop is a content problem. Learn how to separate ranking losses, AI click theft, shifting intent, and declining demand. The post Before you refresh that page, run this test appeared first on MarTech .
+
+→ [https://martech.org/before-you-refresh-that-page-run-this-test/](https://martech.org/before-you-refresh-that-page-run-this-test/)
+
+### Branded search is becoming a less reliable proxy for brand demand
+_Mon, 20 Jul 2026 12:56:00 +0000_
+
+Consumers aren't searching for your brand less. They're making decisions before they ever perform a branded search. The post Branded search is becoming a less reliable proxy for brand demand appeared first on MarTech .
+
+→ [https://martech.org/branded-search-is-becoming-a-less-reliable-proxy-for-brand-demand/](https://martech.org/branded-search-is-becoming-a-less-reliable-proxy-for-brand-demand/)
+
+### How to run a CTV incrementality test (and why most fail)
+_Mon, 20 Jul 2026 12:45:00 +0000_
+
+Build reliable control groups, choose meaningful success metrics, and generate results you can defend in budget conversations. The post How to run a CTV incrementality test (and why most fail) appeared first on MarTech .
+
+→ [https://martech.org/how-to-run-a-ctv-incrementality-test-and-why-most-fail/](https://martech.org/how-to-run-a-ctv-incrementality-test-and-why-most-fail/)
+
+### Unlocking enterprise AI through unified workflows
+_Mon, 20 Jul 2026 12:29:00 +0000_
+
+Isolated artificial intelligence assistants are costing your operations team time. Here is how workflow integration transforms raw AI into actual enterprise value. The post Unlocking enterprise AI through unified workflows appeared first on MarTech .
+
+→ [https://martech.org/unlocking-enterprise-ai-through-unified-workflows/](https://martech.org/unlocking-enterprise-ai-through-unified-workflows/)
 
 ### Salesforce’s woes underline marketing’s agentic AI problems
 _Fri, 17 Jul 2026 15:00:45 +0000_
@@ -175,33 +203,5 @@ _Fri, 17 Jul 2026 15:00:45 +0000_
 Slow Agentforce adoption highlights the poor data quality and operational readiness limiting enterprise AI adoption. The post Salesforce&#8217;s woes underline marketing&#8217;s agentic AI problems appeared first on MarTech .
 
 → [https://martech.org/salesforces-woes-underline-marketings-agentic-ai-problems/](https://martech.org/salesforces-woes-underline-marketings-agentic-ai-problems/)
-
-### Marketers know what improves paid media ROI, but underinvest in it
-_Fri, 17 Jul 2026 13:48:41 +0000_
-
-New research found marketers invest in targeting, AI, and creative while neglecting the post-click experiences they say drive paid media ROI. The post Marketers know what improves paid media ROI, but underinvest in it appeared first on MarTech .
-
-→ [https://martech.org/marketers-know-what-improves-paid-media-roi-but-underinvest-in-it/](https://martech.org/marketers-know-what-improves-paid-media-roi-but-underinvest-in-it/)
-
-### Look past AI to see where martech is going
-_Fri, 17 Jul 2026 12:38:00 +0000_
-
-AI dominates the conversation, but stack rationalization, modern measurement, and modular content are quietly reshaping marketing operations. The post Look past AI to see where martech is going appeared first on MarTech .
-
-→ [https://martech.org/look-past-ai-to-see-where-martech-is-going/](https://martech.org/look-past-ai-to-see-where-martech-is-going/)
-
-### Your content isn’t your competitive advantage anymore
-_Fri, 17 Jul 2026 12:05:00 +0000_
-
-Thanks to AI, customers have all the information they want. The challenge now is giving them a reason to trust you. The post Your content isn&#8217;t your competitive advantage anymore appeared first on MarTech .
-
-→ [https://martech.org/your-content-isnt-your-competitive-advantage-anymore/](https://martech.org/your-content-isnt-your-competitive-advantage-anymore/)
-
-### Web Push advertising in 2026: Market trends and challenges by RollerAds
-_Thu, 16 Jul 2026 16:29:38 +0000_
-
-A look at how Web Push advertising is adapting in 2026 through better compliance, stronger traffic quality, and more mature market growth. The post Web Push advertising in 2026: Market trends and challenges appeared first on MarTech .
-
-→ [https://martech.org/web-push-advertising-in-2026-market-trends-and-challenges/](https://martech.org/web-push-advertising-in-2026-market-trends-and-challenges/)
 
 ---
