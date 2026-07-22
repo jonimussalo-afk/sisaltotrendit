@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-21 05:53 UTC_
+_Päivitetty: 2026-07-22 05:52 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Digitaalisella markkinoinnilla voit tavoitella asiakastasi jokaisessa ostoproses
 
 ## HubSpot Marketing Blog
 
+### SEO tools for SaaS: 13 best options to scale your content ops
+_Tue, 21 Jul 2026 11:00:04 GMT_
+
+B2B SaaS businesses achieve an average ROI of 702% from SEO , yet most teams are still using a SaaS SEO tool stack built for a different era of search.
+
+→ [https://blog.hubspot.com/marketing/saas-seo-tools](https://blog.hubspot.com/marketing/saas-seo-tools)
+
 ### HubSpot AEO vs SE Ranking: Features, pricing, and fit
 _Mon, 20 Jul 2026 11:00:03 GMT_
 
@@ -79,13 +86,6 @@ _Thu, 16 Jul 2026 15:30:03 GMT_
 The best enterprise rank-tracking software goes far beyond checking positions for a handful of keywords. At scale, it means monitoring millions of data points across devices, locations, and search features, including AI Overviews, featured snippets, and local packs. Then that intelligence is fed into dashboards, CRM workflows, and executive…
 
 → [https://blog.hubspot.com/marketing/enterprise-rank-tracker](https://blog.hubspot.com/marketing/enterprise-rank-tracker)
-
-### Profound vs. Peec AI: Which AEO tool supports your growth strategy?
-_Wed, 15 Jul 2026 11:00:04 GMT_
-
-According to McKinsey, 50% of consumers now use AI-powered search, and more than 70% rely on it to ask questions and gather information. This shift in search behavior means SEO leaders must evolve. Modern workflows need to incorporate Answer Engine Optimization (AEO) strategies so brands can not only rank on page one of Google, but also gain…
-
-→ [https://blog.hubspot.com/marketing/profound-vs-peec](https://blog.hubspot.com/marketing/profound-vs-peec)
 
 ---
 
@@ -130,44 +130,72 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Nike versus Adidas: Which brand won the World Cup?
-_Tue, 21 Jul 2026 04:01:00 +0000_
+### The upfront market is nearly done, as sports acts as both negotiation driver and obstacle
+_Wed, 22 Jul 2026 04:01:00 +0000_
 
-We sift through data from AdClarity, Meltwater, Sprout Social and MediaRadar to work out which brand had the best World Cup performance.
+All that’s left for buyers to do is to finalize packages with any traditional media firms that don’t have some digital or streaming element.
 
-→ [https://digiday.com/marketing/nike-versus-adidas-which-brand-won-the-world-cup/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/nike-versus-adidas-which-brand-won-the-world-cup/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/the-upfront-market-is-nearly-done-as-sports-acts-as-both-negotiation-driver-and-obstacle/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/the-upfront-market-is-nearly-done-as-sports-acts-as-both-negotiation-driver-and-obstacle/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### W3C Attribution API prompts debate over the future of web measurement
-_Tue, 21 Jul 2026 04:01:00 +0000_
+### Future of TV Briefing: The streaming ad industry finally has levers to pull on quality
+_Wed, 22 Jul 2026 04:01:00 +0000_
 
-The proposal aims to provide a browser-based mechanism for measuring advertising performance without relying on cross-site tracking.
+This week’s Future of TV Briefing looks at how the IAB’s Redefining Media Types Standard could address the streaming ad market’s call for quality controls.
 
-→ [https://digiday.com/media-buying/w3c-attribution-api-prompts-debate-over-the-future-of-web-measurement/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/w3c-attribution-api-prompts-debate-over-the-future-of-web-measurement/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/future-of-tv/future-of-tv-briefing-the-streaming-ad-industry-finally-has-levers-to-pull-on-quality/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-the-streaming-ad-industry-finally-has-levers-to-pull-on-quality/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### As AI automates media work, Omnicom Media is rethinking the agency business model
-_Tue, 21 Jul 2026 04:01:00 +0000_
+### Albertsons’ new ‘micro sitcom’ is a big deal for retail media
+_Wed, 22 Jul 2026 04:01:00 +0000_
 
-AI won’t eliminate agencies, but it is forcing them to reinvent themselves. Omnicom Media Group is betting the future lies in strategy, data and capability, not scale alone.
+Albertsons Media Collective has launched its first episodic, scripted branded-entertainment campaign in partnership with Procter &#38; Gamble.
 
-→ [https://digiday.com/podcasts/as-ai-automates-media-work-omnicom-media-is-rethinking-the-agency-business-model/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/as-ai-automates-media-work-omnicom-media-is-rethinking-the-agency-business-model/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/albertsons-new-micro-sitcom-is-a-big-deal-for-retail-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/albertsons-new-micro-sitcom-is-a-big-deal-for-retail-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Ad Tech Briefing: Apple’s continued interest in ads
-_Tue, 21 Jul 2026 04:01:00 +0000_
+### How Bloom Nutrition is expanding internationally
+_Wed, 22 Jul 2026 04:01:00 +0000_
 
-A subtle policy update shines a light on how Apple differs from Google.
+Bloom Nutrition is launching in multiple foreign markets that include Australia, France and the U.K.
 
-→ [https://digiday.com/marketing/ad-tech-briefing-apples-continued-interest-in-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ad-tech-briefing-apples-continued-interest-in-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/how-bloom-nutrition-is-expanding-internationally/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/how-bloom-nutrition-is-expanding-internationally/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### In Graphic Detail: AI visibility is no longer about referral traffic
-_Tue, 21 Jul 2026 04:01:00 +0000_
+### Mastercard is tapping foodie creators to drive awareness and adoption
+_Wed, 22 Jul 2026 04:01:00 +0000_
 
-New data shows why publishers are developing strategies around agentic traffic and brand visibility in AI answer engines.
+Mastercard on its latest creator-led social series and its goals to drive awareness, consideration, and discoverability.
 
-→ [https://digiday.com/media/in-graphic-detail-ai-visibility-is-no-longer-about-referral-traffic/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/in-graphic-detail-ai-visibility-is-no-longer-about-referral-traffic/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/mastercard-is-tapping-foodie-creators-to-drive-awareness-and-adoption/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/mastercard-is-tapping-foodie-creators-to-drive-awareness-and-adoption/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### Your best practices may already be outdated
+_Tue, 21 Jul 2026 13:38:11 +0000_
+
+AI is reshaping the assumptions behind decades of marketing strategy, making some familiar playbooks less reliable. The post Your best practices may already be outdated appeared first on MarTech .
+
+→ [https://martech.org/your-best-practices-may-already-be-outdated/](https://martech.org/your-best-practices-may-already-be-outdated/)
+
+### What CMOs should be doing about AI right now
+_Tue, 21 Jul 2026 12:59:00 +0000_
+
+Build AI literacy, rethink team structures and workflows, and prepare your marketing organization for AI-driven change. The post What CMOs should be doing about AI right now appeared first on MarTech .
+
+→ [https://martech.org/what-cmos-should-be-doing-about-ai-right-now/](https://martech.org/what-cmos-should-be-doing-about-ai-right-now/)
+
+### Stop buying AI and start buying capabilities
+_Tue, 21 Jul 2026 12:27:00 +0000_
+
+"AI-powered" hides what a product actually does. A four-part framework makes vendor claims easier to evaluate and compare. The post Stop buying AI and start buying capabilities appeared first on MarTech .
+
+→ [https://martech.org/stop-buying-ai-and-start-buying-capabilities/](https://martech.org/stop-buying-ai-and-start-buying-capabilities/)
+
+### Why your match rate is the most important number you’re not tracking by Rokt mParticle
+_Tue, 21 Jul 2026 11:00:00 +0000_
+
+As identity signals decline, match rate has become a critical metric for improving audience reach, advertising efficiency, and ROAS. The post Why your match rate is the most important number you’re not tracking appeared first on MarTech .
+
+→ [https://martech.org/why-your-match-rate-is-the-most-important-number-youre-not-tracking/](https://martech.org/why-your-match-rate-is-the-most-important-number-youre-not-tracking/)
 
 ### Before you refresh that page, run this test
 _Mon, 20 Jul 2026 14:32:43 +0000_
@@ -175,33 +203,5 @@ _Mon, 20 Jul 2026 14:32:43 +0000_
 Not every traffic drop is a content problem. Learn how to separate ranking losses, AI click theft, shifting intent, and declining demand. The post Before you refresh that page, run this test appeared first on MarTech .
 
 → [https://martech.org/before-you-refresh-that-page-run-this-test/](https://martech.org/before-you-refresh-that-page-run-this-test/)
-
-### Branded search is becoming a less reliable proxy for brand demand
-_Mon, 20 Jul 2026 12:56:00 +0000_
-
-Consumers aren't searching for your brand less. They're making decisions before they ever perform a branded search. The post Branded search is becoming a less reliable proxy for brand demand appeared first on MarTech .
-
-→ [https://martech.org/branded-search-is-becoming-a-less-reliable-proxy-for-brand-demand/](https://martech.org/branded-search-is-becoming-a-less-reliable-proxy-for-brand-demand/)
-
-### How to run a CTV incrementality test (and why most fail)
-_Mon, 20 Jul 2026 12:45:00 +0000_
-
-Build reliable control groups, choose meaningful success metrics, and generate results you can defend in budget conversations. The post How to run a CTV incrementality test (and why most fail) appeared first on MarTech .
-
-→ [https://martech.org/how-to-run-a-ctv-incrementality-test-and-why-most-fail/](https://martech.org/how-to-run-a-ctv-incrementality-test-and-why-most-fail/)
-
-### Unlocking enterprise AI through unified workflows
-_Mon, 20 Jul 2026 12:29:00 +0000_
-
-Isolated artificial intelligence assistants are costing your operations team time. Here is how workflow integration transforms raw AI into actual enterprise value. The post Unlocking enterprise AI through unified workflows appeared first on MarTech .
-
-→ [https://martech.org/unlocking-enterprise-ai-through-unified-workflows/](https://martech.org/unlocking-enterprise-ai-through-unified-workflows/)
-
-### Salesforce’s woes underline marketing’s agentic AI problems
-_Fri, 17 Jul 2026 15:00:45 +0000_
-
-Slow Agentforce adoption highlights the poor data quality and operational readiness limiting enterprise AI adoption. The post Salesforce&#8217;s woes underline marketing&#8217;s agentic AI problems appeared first on MarTech .
-
-→ [https://martech.org/salesforces-woes-underline-marketings-agentic-ai-problems/](https://martech.org/salesforces-woes-underline-marketings-agentic-ai-problems/)
 
 ---
