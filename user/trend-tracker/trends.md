@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-22 05:52 UTC_
+_Päivitetty: 2026-07-23 05:57 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,20 @@ Digitaalisella markkinoinnilla voit tavoitella asiakastasi jokaisessa ostoproses
 
 ## HubSpot Marketing Blog
 
+### AI SEO tools small businesses actually use
+_Wed, 22 Jul 2026 11:00:03 GMT_
+
+AI SEO tools for small businesses are essential to keep up with marketing trends and stay competitive. Yet most small businesses are trying to figure out which AI tools are actually worth their time and which ones are necessary, especially when there is an abundance of tools promising to solve every problem imaginable. The good news is that AI is…
+
+→ [https://blog.hubspot.com/marketing/ai-seo-tools-for-small-business](https://blog.hubspot.com/marketing/ai-seo-tools-for-small-business)
+
+### Do backlinks matter for AEO (answer engine optimization)?
+_Wed, 22 Jul 2026 11:00:03 GMT_
+
+Roughly 58% of consumers now use AI answer engines in their product research each week — and that number is rising fast. As AI-powered answer engines like ChatGPT, Perplexity, and Google AI Overviews become primary discovery surfaces, content and SEO teams are asking the right question: is there a relationship between backlinks and AEO , or is it…
+
+→ [https://blog.hubspot.com/marketing/backlinks-and-aeo](https://blog.hubspot.com/marketing/backlinks-and-aeo)
+
 ### SEO tools for SaaS: 13 best options to scale your content ops
 _Tue, 21 Jul 2026 11:00:04 GMT_
 
@@ -72,20 +86,6 @@ _Mon, 20 Jul 2026 11:00:03 GMT_
 There’s no denying it: Search behaviors have changed . As more queries are answered directly by AI Overviews, ChatGPT, and Perplexity, the shifts reshaping search are forcing marketers to rethink ranking and, just as crucially, learn how to write for AI search rather than just for a list of blue links.
 
 → [https://blog.hubspot.com/marketing/content-structuring-themes-ai-search](https://blog.hubspot.com/marketing/content-structuring-themes-ai-search)
-
-### CRM data migration: A practical process overview
-_Thu, 16 Jul 2026 15:30:03 GMT_
-
-CRM data migration&nbsp;is the process of moving data, workflows, and assets from one CRM to another. It matters because your CRM is the operational backbone of your revenue team, and when the data inside&nbsp;it is wrong , every process built on top of it breaks too.
-
-→ [https://blog.hubspot.com/marketing/crm-data-migration](https://blog.hubspot.com/marketing/crm-data-migration)
-
-### Best enterprise rank tracking software for high-traffic websites
-_Thu, 16 Jul 2026 15:30:03 GMT_
-
-The best enterprise rank-tracking software goes far beyond checking positions for a handful of keywords. At scale, it means monitoring millions of data points across devices, locations, and search features, including AI Overviews, featured snippets, and local packs. Then that intelligence is fed into dashboards, CRM workflows, and executive…
-
-→ [https://blog.hubspot.com/marketing/enterprise-rank-tracker](https://blog.hubspot.com/marketing/enterprise-rank-tracker)
 
 ---
 
@@ -130,44 +130,72 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### The upfront market is nearly done, as sports acts as both negotiation driver and obstacle
-_Wed, 22 Jul 2026 04:01:00 +0000_
+### Lifestyle brand Stanley uses AI behind the scenes — but execs claim it won’t touch ad creative
+_Thu, 23 Jul 2026 04:01:00 +0000_
 
-All that’s left for buyers to do is to finalize packages with any traditional media firms that don’t have some digital or streaming element.
+Not every brand is racing to let AI anywhere near its ads. Stanley draws the line there on purpose.
 
-→ [https://digiday.com/media-buying/the-upfront-market-is-nearly-done-as-sports-acts-as-both-negotiation-driver-and-obstacle/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/the-upfront-market-is-nearly-done-as-sports-acts-as-both-negotiation-driver-and-obstacle/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/lifestyle-brand-stanley-uses-ai-behind-the-scenes-but-execs-claim-it-wont-touch-ad-creative/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/lifestyle-brand-stanley-uses-ai-behind-the-scenes-but-execs-claim-it-wont-touch-ad-creative/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Future of TV Briefing: The streaming ad industry finally has levers to pull on quality
-_Wed, 22 Jul 2026 04:01:00 +0000_
+### TikTok’s Kat Marquez unpacks NBA and WNBA creator deal
+_Thu, 23 Jul 2026 04:01:00 +0000_
 
-This week’s Future of TV Briefing looks at how the IAB’s Redefining Media Types Standard could address the streaming ad market’s call for quality controls.
+TikTok’s latest move to secure its share of the leagues’ growing audiences sees it play gatekeeper between creators and rights holders.
 
-→ [https://digiday.com/future-of-tv/future-of-tv-briefing-the-streaming-ad-industry-finally-has-levers-to-pull-on-quality/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-the-streaming-ad-industry-finally-has-levers-to-pull-on-quality/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/tiktoks-kat-marquez-unpacks-nba-and-wnba-creator-deal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/tiktoks-kat-marquez-unpacks-nba-and-wnba-creator-deal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Albertsons’ new ‘micro sitcom’ is a big deal for retail media
-_Wed, 22 Jul 2026 04:01:00 +0000_
+### In Graphic Detail: The real impact of creators at the World Cup
+_Thu, 23 Jul 2026 04:01:00 +0000_
 
-Albertsons Media Collective has launched its first episodic, scripted branded-entertainment campaign in partnership with Procter &#38; Gamble.
+The 2026 World Cup buzz was all about creators; we look at the numbers breaking down their impact at the global tournament.
 
-→ [https://digiday.com/media/albertsons-new-micro-sitcom-is-a-big-deal-for-retail-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/albertsons-new-micro-sitcom-is-a-big-deal-for-retail-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/in-graphic-detail-the-real-impact-of-creators-at-the-world-cup/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/in-graphic-detail-the-real-impact-of-creators-at-the-world-cup/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### How Bloom Nutrition is expanding internationally
-_Wed, 22 Jul 2026 04:01:00 +0000_
+### As athletes embrace owned media properties, they’re pushing for more involved brand deals
+_Thu, 23 Jul 2026 04:01:00 +0000_
 
-Bloom Nutrition is launching in multiple foreign markets that include Australia, France and the U.K.
+The NBA player’s union is pushing for stars to have a bigger say in brand deals. It highlights a larger shift in sports and creator marketing.
 
-→ [https://digiday.com/marketing/how-bloom-nutrition-is-expanding-internationally/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/how-bloom-nutrition-is-expanding-internationally/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/as-athletes-embrace-owned-media-properties-theyre-pushing-for-more-involved-brand-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/as-athletes-embrace-owned-media-properties-theyre-pushing-for-more-involved-brand-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Mastercard is tapping foodie creators to drive awareness and adoption
-_Wed, 22 Jul 2026 04:01:00 +0000_
+### Media Briefing: Brand authority and trust are becoming publishers’ newest AI assets
+_Thu, 23 Jul 2026 04:01:00 +0000_
 
-Mastercard on its latest creator-led social series and its goals to drive awareness, consideration, and discoverability.
+Some publishers are betting that trusted brands and editorial authority are becoming their biggest competitive advantage with LLMs.
 
-→ [https://digiday.com/media/mastercard-is-tapping-foodie-creators-to-drive-awareness-and-adoption/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/mastercard-is-tapping-foodie-creators-to-drive-awareness-and-adoption/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/media-briefing-brand-authority-and-trust-is-becoming-publishers-newest-ai-asset/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-brand-authority-and-trust-is-becoming-publishers-newest-ai-asset/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### Your newest competitors aren’t other brands
+_Wed, 22 Jul 2026 12:41:00 +0000_
+
+AI forms buyers' opinions before they visit your website. Learn how to build authority across AI and the sources they trust. The post Your newest competitors aren&#8217;t other brands appeared first on MarTech .
+
+→ [https://martech.org/your-newest-competitors-arent-other-brands/](https://martech.org/your-newest-competitors-arent-other-brands/)
+
+### The missing layer behind customer data ROI
+_Wed, 22 Jul 2026 12:15:00 +0000_
+
+Many CDPs excel at activation but struggle to unify fragmented data. The silver layer determines whether they deliver on that promise. The post The missing layer behind customer data ROI appeared first on MarTech .
+
+→ [https://martech.org/the-missing-layer-behind-customer-data-roi/](https://martech.org/the-missing-layer-behind-customer-data-roi/)
+
+### Is your website invisible to AI search?
+_Wed, 22 Jul 2026 12:09:00 +0000_
+
+Many brand websites that look fine to people appear as empty to AI crawlers. Here's what to do about it. The post Is your website invisible to AI search? appeared first on MarTech .
+
+→ [https://martech.org/is-your-website-invisible-to-ai-search/](https://martech.org/is-your-website-invisible-to-ai-search/)
+
+### Your DAM solved the library problem. The activation problem is next. by ImageKit
+_Wed, 22 Jul 2026 11:00:00 +0000_
+
+Centralized, tagged, governed. And still slow. Here's what your DAM was never designed to do. The post Your DAM solved the library problem. The activation problem is next. appeared first on MarTech .
+
+→ [https://martech.org/your-dam-solved-the-library-problem-the-activation-problem-is-next/](https://martech.org/your-dam-solved-the-library-problem-the-activation-problem-is-next/)
 
 ### Your best practices may already be outdated
 _Tue, 21 Jul 2026 13:38:11 +0000_
@@ -175,33 +203,5 @@ _Tue, 21 Jul 2026 13:38:11 +0000_
 AI is reshaping the assumptions behind decades of marketing strategy, making some familiar playbooks less reliable. The post Your best practices may already be outdated appeared first on MarTech .
 
 → [https://martech.org/your-best-practices-may-already-be-outdated/](https://martech.org/your-best-practices-may-already-be-outdated/)
-
-### What CMOs should be doing about AI right now
-_Tue, 21 Jul 2026 12:59:00 +0000_
-
-Build AI literacy, rethink team structures and workflows, and prepare your marketing organization for AI-driven change. The post What CMOs should be doing about AI right now appeared first on MarTech .
-
-→ [https://martech.org/what-cmos-should-be-doing-about-ai-right-now/](https://martech.org/what-cmos-should-be-doing-about-ai-right-now/)
-
-### Stop buying AI and start buying capabilities
-_Tue, 21 Jul 2026 12:27:00 +0000_
-
-"AI-powered" hides what a product actually does. A four-part framework makes vendor claims easier to evaluate and compare. The post Stop buying AI and start buying capabilities appeared first on MarTech .
-
-→ [https://martech.org/stop-buying-ai-and-start-buying-capabilities/](https://martech.org/stop-buying-ai-and-start-buying-capabilities/)
-
-### Why your match rate is the most important number you’re not tracking by Rokt mParticle
-_Tue, 21 Jul 2026 11:00:00 +0000_
-
-As identity signals decline, match rate has become a critical metric for improving audience reach, advertising efficiency, and ROAS. The post Why your match rate is the most important number you’re not tracking appeared first on MarTech .
-
-→ [https://martech.org/why-your-match-rate-is-the-most-important-number-youre-not-tracking/](https://martech.org/why-your-match-rate-is-the-most-important-number-youre-not-tracking/)
-
-### Before you refresh that page, run this test
-_Mon, 20 Jul 2026 14:32:43 +0000_
-
-Not every traffic drop is a content problem. Learn how to separate ranking losses, AI click theft, shifting intent, and declining demand. The post Before you refresh that page, run this test appeared first on MarTech .
-
-→ [https://martech.org/before-you-refresh-that-page-run-this-test/](https://martech.org/before-you-refresh-that-page-run-this-test/)
 
 ---
