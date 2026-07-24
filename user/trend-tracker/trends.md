@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-23 05:57 UTC_
+_Päivitetty: 2026-07-24 05:51 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Digitaalisella markkinoinnilla voit tavoitella asiakastasi jokaisessa ostoproses
 
 ## HubSpot Marketing Blog
 
+### Scrunch vs Ahrefs: AI visibility tracking comparison
+_Thu, 23 Jul 2026 11:00:03 GMT_
+
+Scrunch and Ahrefs Brand Radar both track brand visibility in AI answers, but they solve different problems. Scrunch is purpose-built for AEO: it monitors AI citations, audits AI crawlability, and actively optimizes how AI bots experience your site. Ahrefs Brand Radar is an add-on to the broader Ahrefs SEO platform, built for teams that want AI…
+
+→ [https://blog.hubspot.com/marketing/scrunch-vs-ahrefs](https://blog.hubspot.com/marketing/scrunch-vs-ahrefs)
+
 ### AI SEO tools small businesses actually use
 _Wed, 22 Jul 2026 11:00:03 GMT_
 
@@ -79,13 +86,6 @@ _Mon, 20 Jul 2026 11:00:03 GMT_
 You’ve probably noticed it yourself: buyers aren’t just Googling anymore. They’re asking ChatGPT, Gemini, and Perplexity questions and trusting whatever answers they get. If your brand isn’t named in those answers, well, you may not even be a consideration.
 
 → [https://blog.hubspot.com/marketing/hubspot-vs-se-ranking](https://blog.hubspot.com/marketing/hubspot-vs-se-ranking)
-
-### The top content formats & types that earn AI search citations
-_Mon, 20 Jul 2026 11:00:03 GMT_
-
-There’s no denying it: Search behaviors have changed . As more queries are answered directly by AI Overviews, ChatGPT, and Perplexity, the shifts reshaping search are forcing marketers to rethink ranking and, just as crucially, learn how to write for AI search rather than just for a list of blue links.
-
-→ [https://blog.hubspot.com/marketing/content-structuring-themes-ai-search](https://blog.hubspot.com/marketing/content-structuring-themes-ai-search)
 
 ---
 
@@ -130,7 +130,28 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Lifestyle brand Stanley uses AI behind the scenes — but execs claim it won’t touch ad creative
+### Kroger’s new CEO, a Walmart veteran, is focused on speed and execution
+_Fri, 24 Jul 2026 04:01:00 +0000_
+
+Foran joined Kroger in February after serving as CEO of Air New Zealand since 2020. Before that, he was president and CEO of Walmart U.S. for about six years.
+
+→ [https://digiday.com/media/krogers-new-ceo-a-walmart-veteran-is-focused-on-speed-and-execution/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/krogers-new-ceo-a-walmart-veteran-is-focused-on-speed-and-execution/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Google quietly gives ground on PMax controls
+_Fri, 24 Jul 2026 04:01:00 +0000_
+
+The search giant’s black-box ad product has confounded media buyers for years. Now, it’s passing them the reins – sort of.
+
+→ [https://digiday.com/media-buying/google-quietly-gives-ground-on-pmax-controls/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/google-quietly-gives-ground-on-pmax-controls/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Future of Marketing Briefing: The case for and against the death of the big brand ad
+_Fri, 24 Jul 2026 04:01:00 +0000_
+
+Marketing has a new favorite argument: is it still smarter to talk to a million people at once, or to find the thousand people they already trust?
+
+→ [https://digiday.com/marketing/future-of-marketing-briefing-the-case-for-and-against-the-death-of-the-big-brand-ad/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-the-case-for-and-against-the-death-of-the-big-brand-ad/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Lifestyle brand Stanley 1913 uses AI behind the scenes — but execs claim it won’t touch ad creative
 _Thu, 23 Jul 2026 04:01:00 +0000_
 
 Not every brand is racing to let AI anywhere near its ads. Stanley draws the line there on purpose.
@@ -144,30 +165,37 @@ TikTok’s latest move to secure its share of the leagues’ growing audiences s
 
 → [https://digiday.com/marketing/tiktoks-kat-marquez-unpacks-nba-and-wnba-creator-deal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/tiktoks-kat-marquez-unpacks-nba-and-wnba-creator-deal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### In Graphic Detail: The real impact of creators at the World Cup
-_Thu, 23 Jul 2026 04:01:00 +0000_
-
-The 2026 World Cup buzz was all about creators; we look at the numbers breaking down their impact at the global tournament.
-
-→ [https://digiday.com/media/in-graphic-detail-the-real-impact-of-creators-at-the-world-cup/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/in-graphic-detail-the-real-impact-of-creators-at-the-world-cup/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### As athletes embrace owned media properties, they’re pushing for more involved brand deals
-_Thu, 23 Jul 2026 04:01:00 +0000_
-
-The NBA player’s union is pushing for stars to have a bigger say in brand deals. It highlights a larger shift in sports and creator marketing.
-
-→ [https://digiday.com/marketing/as-athletes-embrace-owned-media-properties-theyre-pushing-for-more-involved-brand-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/as-athletes-embrace-owned-media-properties-theyre-pushing-for-more-involved-brand-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Media Briefing: Brand authority and trust are becoming publishers’ newest AI assets
-_Thu, 23 Jul 2026 04:01:00 +0000_
-
-Some publishers are betting that trusted brands and editorial authority are becoming their biggest competitive advantage with LLMs.
-
-→ [https://digiday.com/media/media-briefing-brand-authority-and-trust-is-becoming-publishers-newest-ai-asset/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-brand-authority-and-trust-is-becoming-publishers-newest-ai-asset/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
 ---
 
 ## MarTech
+
+### ChatGPT has no clear brand leader in most categories
+_Thu, 23 Jul 2026 14:38:56 +0000_
+
+Semrush found only 15% of ChatGPT categories have a consistent brand leader, underscoring how difficult AI visibility is to sustain. The post ChatGPT has no clear brand leader in most categories appeared first on MarTech .
+
+→ [https://martech.org/chatgpt-has-no-clear-brand-leader-in-most-categories/](https://martech.org/chatgpt-has-no-clear-brand-leader-in-most-categories/)
+
+### The latest AI-powered martech news and releases
+_Thu, 23 Jul 2026 14:29:37 +0000_
+
+HubSpot expands Breeze AI, adding tools for building, governing, and managing AI agents, reflecting the growing focus on operational oversight. The post The latest AI-powered martech news and releases appeared first on MarTech .
+
+→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
+
+### The one question that will improve all your email campaigns
+_Thu, 23 Jul 2026 12:26:00 +0000_
+
+Campaigns can fail before they're written because teams can't agree on what success looks like. One question can change that. The post The one question that will improve all your email campaigns appeared first on MarTech .
+
+→ [https://martech.org/the-one-question-that-will-improve-all-your-email-campaigns/](https://martech.org/the-one-question-that-will-improve-all-your-email-campaigns/)
+
+### Consumer distrust of AI isn’t all about the AI
+_Thu, 23 Jul 2026 12:16:00 +0000_
+
+Research shows consumers worry less about the technology than how brands collect, manage, and use their personal data. The post Consumer distrust of AI isn&#8217;t all about the AI appeared first on MarTech .
+
+→ [https://martech.org/consumer-distrust-of-ai-isnt-about-the-ai/](https://martech.org/consumer-distrust-of-ai-isnt-about-the-ai/)
 
 ### Your newest competitors aren’t other brands
 _Wed, 22 Jul 2026 12:41:00 +0000_
@@ -175,33 +203,5 @@ _Wed, 22 Jul 2026 12:41:00 +0000_
 AI forms buyers' opinions before they visit your website. Learn how to build authority across AI and the sources they trust. The post Your newest competitors aren&#8217;t other brands appeared first on MarTech .
 
 → [https://martech.org/your-newest-competitors-arent-other-brands/](https://martech.org/your-newest-competitors-arent-other-brands/)
-
-### The missing layer behind customer data ROI
-_Wed, 22 Jul 2026 12:15:00 +0000_
-
-Many CDPs excel at activation but struggle to unify fragmented data. The silver layer determines whether they deliver on that promise. The post The missing layer behind customer data ROI appeared first on MarTech .
-
-→ [https://martech.org/the-missing-layer-behind-customer-data-roi/](https://martech.org/the-missing-layer-behind-customer-data-roi/)
-
-### Is your website invisible to AI search?
-_Wed, 22 Jul 2026 12:09:00 +0000_
-
-Many brand websites that look fine to people appear as empty to AI crawlers. Here's what to do about it. The post Is your website invisible to AI search? appeared first on MarTech .
-
-→ [https://martech.org/is-your-website-invisible-to-ai-search/](https://martech.org/is-your-website-invisible-to-ai-search/)
-
-### Your DAM solved the library problem. The activation problem is next. by ImageKit
-_Wed, 22 Jul 2026 11:00:00 +0000_
-
-Centralized, tagged, governed. And still slow. Here's what your DAM was never designed to do. The post Your DAM solved the library problem. The activation problem is next. appeared first on MarTech .
-
-→ [https://martech.org/your-dam-solved-the-library-problem-the-activation-problem-is-next/](https://martech.org/your-dam-solved-the-library-problem-the-activation-problem-is-next/)
-
-### Your best practices may already be outdated
-_Tue, 21 Jul 2026 13:38:11 +0000_
-
-AI is reshaping the assumptions behind decades of marketing strategy, making some familiar playbooks less reliable. The post Your best practices may already be outdated appeared first on MarTech .
-
-→ [https://martech.org/your-best-practices-may-already-be-outdated/](https://martech.org/your-best-practices-may-already-be-outdated/)
 
 ---
