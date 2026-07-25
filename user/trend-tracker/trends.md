@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-24 05:51 UTC_
+_Päivitetty: 2026-07-25 05:44 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Digitaalisella markkinoinnilla voit tavoitella asiakastasi jokaisessa ostoproses
 
 ## HubSpot Marketing Blog
 
+### Which SEO tools are worth it for small businesses?
+_Fri, 24 Jul 2026 11:00:03 GMT_
+
+There are an abundance of SEO tools for small businesses. But, with limited resources and budget, small businesses can face an added challenge: finding the right tech stack that does everything they need to maintain a competitive edge in search, without breaking the bank.
+
+→ [https://blog.hubspot.com/marketing/seo-tools-for-small-business](https://blog.hubspot.com/marketing/seo-tools-for-small-business)
+
 ### Scrunch vs Ahrefs: AI visibility tracking comparison
 _Thu, 23 Jul 2026 11:00:03 GMT_
 
@@ -79,13 +86,6 @@ _Tue, 21 Jul 2026 11:00:04 GMT_
 B2B SaaS businesses achieve an average ROI of 702% from SEO , yet most teams are still using a SaaS SEO tool stack built for a different era of search.
 
 → [https://blog.hubspot.com/marketing/saas-seo-tools](https://blog.hubspot.com/marketing/saas-seo-tools)
-
-### HubSpot AEO vs SE Ranking: Features, pricing, and fit
-_Mon, 20 Jul 2026 11:00:03 GMT_
-
-You’ve probably noticed it yourself: buyers aren’t just Googling anymore. They’re asking ChatGPT, Gemini, and Perplexity questions and trusting whatever answers they get. If your brand isn’t named in those answers, well, you may not even be a consideration.
-
-→ [https://blog.hubspot.com/marketing/hubspot-vs-se-ranking](https://blog.hubspot.com/marketing/hubspot-vs-se-ranking)
 
 ---
 
@@ -169,39 +169,39 @@ TikTok’s latest move to secure its share of the leagues’ growing audiences s
 
 ## MarTech
 
-### ChatGPT has no clear brand leader in most categories
-_Thu, 23 Jul 2026 14:38:56 +0000_
+### HubSpot’s June 2026 updates: Agents get more access, Revenue Hub starts connecting the dots
+_Fri, 24 Jul 2026 13:35:03 +0000_
 
-Semrush found only 15% of ChatGPT categories have a consistent brand leader, underscoring how difficult AI visibility is to sustain. The post ChatGPT has no clear brand leader in most categories appeared first on MarTech .
+June's HubSpot updates are focused on turning information you already have into something HubSpot can act on directly. The post HubSpot&#8217;s June 2026 updates: Agents get more access, Revenue Hub starts connecting the dots appeared first on MarTech .
 
-→ [https://martech.org/chatgpt-has-no-clear-brand-leader-in-most-categories/](https://martech.org/chatgpt-has-no-clear-brand-leader-in-most-categories/)
+→ [https://martech.org/hubspots-june-2026-updates-agents-get-more-access-revenue-hub-starts-connecting-the-dots/](https://martech.org/hubspots-june-2026-updates-agents-get-more-access-revenue-hub-starts-connecting-the-dots/)
 
-### The latest AI-powered martech news and releases
-_Thu, 23 Jul 2026 14:29:37 +0000_
+### Time saved by using AI is being spent on managing its output
+_Fri, 24 Jul 2026 13:01:00 +0000_
 
-HubSpot expands Breeze AI, adding tools for building, governing, and managing AI agents, reflecting the growing focus on operational oversight. The post The latest AI-powered martech news and releases appeared first on MarTech .
+Any time savings from AI are getting eaten up by fixing output, managing fragmented tools, and building the governance needed to make it work. The post Time saved by using AI is being spent on managing its output appeared first on MarTech .
 
-→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
+→ [https://martech.org/ai-adoption-is-outpacing-marketings-ability-to-manage-it/](https://martech.org/ai-adoption-is-outpacing-marketings-ability-to-manage-it/)
 
-### The one question that will improve all your email campaigns
-_Thu, 23 Jul 2026 12:26:00 +0000_
+### The real risk in agentic commerce
+_Fri, 24 Jul 2026 12:21:00 +0000_
 
-Campaigns can fail before they're written because teams can't agree on what success looks like. One question can change that. The post The one question that will improve all your email campaigns appeared first on MarTech .
+As AI agents take over product discovery, marketers risk losing pricing power and customer relationships unless they own the underlying data. The post The real risk in agentic commerce appeared first on MarTech .
 
-→ [https://martech.org/the-one-question-that-will-improve-all-your-email-campaigns/](https://martech.org/the-one-question-that-will-improve-all-your-email-campaigns/)
+→ [https://martech.org/the-real-risk-in-agentic-commerce/](https://martech.org/the-real-risk-in-agentic-commerce/)
 
-### Consumer distrust of AI isn’t all about the AI
-_Thu, 23 Jul 2026 12:16:00 +0000_
+### The 7 layers of an AI-ready marketing operating system
+_Fri, 24 Jul 2026 12:19:00 +0000_
 
-Research shows consumers worry less about the technology than how brands collect, manage, and use their personal data. The post Consumer distrust of AI isn&#8217;t all about the AI appeared first on MarTech .
+See how an orchestrated approach can help marketing teams move faster, improve with every campaign and get more value from AI. The post The 7 layers of an AI-ready marketing operating system appeared first on MarTech .
 
-→ [https://martech.org/consumer-distrust-of-ai-isnt-about-the-ai/](https://martech.org/consumer-distrust-of-ai-isnt-about-the-ai/)
+→ [https://martech.org/the-7-layers-of-an-ai-ready-marketing-operating-system/](https://martech.org/the-7-layers-of-an-ai-ready-marketing-operating-system/)
 
-### Your newest competitors aren’t other brands
-_Wed, 22 Jul 2026 12:41:00 +0000_
+### Your client just asked if they show up in ChatGPT. Now what? by AgencyAnalytics
+_Fri, 24 Jul 2026 11:00:00 +0000_
 
-AI forms buyers' opinions before they visit your website. Learn how to build authority across AI and the sources they trust. The post Your newest competitors aren&#8217;t other brands appeared first on MarTech .
+It's the top new client request of 2026, and most agencies still can't answer it with data. Here's what you can measure today. The post Your client just asked if they show up in ChatGPT. Now what? appeared first on MarTech .
 
-→ [https://martech.org/your-newest-competitors-arent-other-brands/](https://martech.org/your-newest-competitors-arent-other-brands/)
+→ [https://martech.org/your-client-just-asked-if-they-show-up-in-chatgpt-now-what/](https://martech.org/your-client-just-asked-if-they-show-up-in-chatgpt-now-what/)
 
 ---
