@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-26 06:07 UTC_
+_Päivitetty: 2026-07-27 06:32 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,40 +130,40 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Kroger’s new CEO, a Walmart veteran, is focused on speed and execution
-_Fri, 24 Jul 2026 04:01:00 +0000_
+### Michaels claims Google-powered AI assistant doubles conversion rate of traditional search
+_Mon, 27 Jul 2026 04:01:00 +0000_
 
-Foran joined Kroger in February after serving as CEO of Air New Zealand since 2020. Before that, he was president and CEO of Walmart U.S. for about six years.
+Michaels shared early results of its new Google Gemini-powered AI assistant.
 
-→ [https://digiday.com/media/krogers-new-ceo-a-walmart-veteran-is-focused-on-speed-and-execution/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/krogers-new-ceo-a-walmart-veteran-is-focused-on-speed-and-execution/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/michaels-claims-google-powered-ai-assistant-doubles-conversion-rate-of-traditional-search/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/michaels-claims-google-powered-ai-assistant-doubles-conversion-rate-of-traditional-search/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Google quietly gives ground on PMax controls
-_Fri, 24 Jul 2026 04:01:00 +0000_
+### Mythbusters: AI visibility’s biggest misconceptions
+_Mon, 27 Jul 2026 04:01:00 +0000_
 
-The search giant’s black-box ad product has confounded media buyers for years. Now, it’s passing them the reins – sort of.
+AI visibility is evolving quickly, but many of the industry's biggest assumptions don't hold up. Experts debunk the biggest myths.
 
-→ [https://digiday.com/media-buying/google-quietly-gives-ground-on-pmax-controls/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/google-quietly-gives-ground-on-pmax-controls/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/mythbusters-ai-visibilitys-biggest-misconceptions/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/mythbusters-ai-visibilitys-biggest-misconceptions/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Future of Marketing Briefing: The case for and against the death of the big brand ad
-_Fri, 24 Jul 2026 04:01:00 +0000_
+### Kai Cenat’s Streamer U was a ‘masterclass’ for brands looking to tap content creators
+_Mon, 27 Jul 2026 04:01:00 +0000_
 
-Marketing has a new favorite argument: is it still smarter to talk to a million people at once, or to find the thousand people they already trust?
+The creator bootcamp brought in big brand partnerships and big engagement metrics, which could bring more brands to the streaming sponsorship table.
 
-→ [https://digiday.com/marketing/future-of-marketing-briefing-the-case-for-and-against-the-death-of-the-big-brand-ad/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-the-case-for-and-against-the-death-of-the-big-brand-ad/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/kai-cenats-streamer-u-was-a-masterclass-for-brands-looking-to-tap-content-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/kai-cenats-streamer-u-was-a-masterclass-for-brands-looking-to-tap-content-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Lifestyle brand Stanley 1913 uses AI behind the scenes — but execs claim it won’t touch ad creative
-_Thu, 23 Jul 2026 04:01:00 +0000_
+### Media Buying Briefing: Why Omnicom merged Mediahub and Hearts & Science
+_Mon, 27 Jul 2026 04:01:00 +0000_
 
-Not every brand is racing to let AI anywhere near its ads. Stanley draws the line there on purpose.
+Merging Hearts &#38; Science and Mediahub into one agency that will operate under a new name and brand may not be the last move the holding company makes in simplifying its go-to-market offering.
 
-→ [https://digiday.com/marketing/lifestyle-brand-stanley-uses-ai-behind-the-scenes-but-execs-claim-it-wont-touch-ad-creative/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/lifestyle-brand-stanley-uses-ai-behind-the-scenes-but-execs-claim-it-wont-touch-ad-creative/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/media-buying-briefing-why-omnicom-merged-mediahub-and-hearts-science/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-why-omnicom-merged-mediahub-and-hearts-science/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### TikTok’s Kat Marquez unpacks NBA and WNBA creator deal
-_Thu, 23 Jul 2026 04:01:00 +0000_
+### How AI costs are quietly reshaping principal media deals
+_Mon, 27 Jul 2026 04:01:00 +0000_
 
-TikTok’s latest move to secure its share of the leagues’ growing audiences sees it play gatekeeper between creators and rights holders.
+AI doesn’t have a price. Principal media is absorbing it anyway.
 
-→ [https://digiday.com/marketing/tiktoks-kat-marquez-unpacks-nba-and-wnba-creator-deal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/tiktoks-kat-marquez-unpacks-nba-and-wnba-creator-deal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/how-ai-costs-are-quietly-reshaping-principal-media-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/how-ai-costs-are-quietly-reshaping-principal-media-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
