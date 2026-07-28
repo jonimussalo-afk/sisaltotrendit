@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-27 06:32 UTC_
+_Päivitetty: 2026-07-28 05:48 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,20 @@ Digitaalisella markkinoinnilla voit tavoitella asiakastasi jokaisessa ostoproses
 
 ## HubSpot Marketing Blog
 
+### HubSpot AEO vs. Semrush AI Visibility: Which is right for your team?
+_Mon, 27 Jul 2026 16:00:03 GMT_
+
+If you’re comparing HubSpot AEO vs Semrush AI Visibility Toolkit, I tested both for you as a marketing and AEO practitioner myself and will share my detailed review.
+
+→ [https://blog.hubspot.com/marketing/hubspot-vs-semrush-aeo](https://blog.hubspot.com/marketing/hubspot-vs-semrush-aeo)
+
+### AI SEO tools that fit your growth stack
+_Mon, 27 Jul 2026 16:00:02 GMT_
+
+AI SEO tools have matured quickly. What started as a novelty layer atop existing keyword tools has become a full-fledged category, helping improve everything from research to AI search visibility.
+
+→ [https://blog.hubspot.com/marketing/ai-seo-tools](https://blog.hubspot.com/marketing/ai-seo-tools)
+
 ### Which SEO tools are worth it for small businesses?
 _Fri, 24 Jul 2026 11:00:03 GMT_
 
@@ -72,20 +86,6 @@ _Wed, 22 Jul 2026 11:00:03 GMT_
 AI SEO tools for small businesses are essential to keep up with marketing trends and stay competitive. Yet most small businesses are trying to figure out which AI tools are actually worth their time and which ones are necessary, especially when there is an abundance of tools promising to solve every problem imaginable. The good news is that AI is…
 
 → [https://blog.hubspot.com/marketing/ai-seo-tools-for-small-business](https://blog.hubspot.com/marketing/ai-seo-tools-for-small-business)
-
-### Do backlinks matter for AEO (answer engine optimization)?
-_Wed, 22 Jul 2026 11:00:03 GMT_
-
-Roughly 58% of consumers now use AI answer engines in their product research each week — and that number is rising fast. As AI-powered answer engines like ChatGPT, Perplexity, and Google AI Overviews become primary discovery surfaces, content and SEO teams are asking the right question: is there a relationship between backlinks and AEO , or is it…
-
-→ [https://blog.hubspot.com/marketing/backlinks-and-aeo](https://blog.hubspot.com/marketing/backlinks-and-aeo)
-
-### SEO tools for SaaS: 13 best options to scale your content ops
-_Tue, 21 Jul 2026 11:00:04 GMT_
-
-B2B SaaS businesses achieve an average ROI of 702% from SEO , yet most teams are still using a SaaS SEO tool stack built for a different era of search.
-
-→ [https://blog.hubspot.com/marketing/saas-seo-tools](https://blog.hubspot.com/marketing/saas-seo-tools)
 
 ---
 
@@ -130,6 +130,34 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### D+ Research: Brands expand creator marketing strategies
+_Tue, 28 Jul 2026 04:01:00 +0000_
+
+Many are partnering with creators to help drive seasonal campaigns, support product launches and, in some cases, even help develop products
+
+→ [https://digiday.com/marketing/d-research-brands-expand-creator-marketing-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/d-research-brands-expand-creator-marketing-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Ad Tech Briefing: Google is morphing from media to tech, adland braces for impact
+_Tue, 28 Jul 2026 04:01:00 +0000_
+
+The entity formerly known as DoubleClick remains the runt of the Alphabet litter, while its cloud business continues to go from strength to strength.
+
+→ [https://digiday.com/marketing/ad-tech-briefing-google-is-morphing-from-media-to-tech-adland-braces-for-impact/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ad-tech-briefing-google-is-morphing-from-media-to-tech-adland-braces-for-impact/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### OpenAI is already building the org chart of a mature ad business
+_Tue, 28 Jul 2026 04:01:00 +0000_
+
+Two job postings on its careers page suggest OpenAI wants third parties, not just its own sellers, to sell its inventory.
+
+→ [https://digiday.com/marketing/openai-is-already-building-the-org-chart-of-a-mature-ad-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/openai-is-already-building-the-org-chart-of-a-mature-ad-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### WTF is the IAB’s Redefining Media Types standard?
+_Tue, 28 Jul 2026 04:01:00 +0000_
+
+The IAB is trying to solve one of digital advertising's biggest labeling problems.
+
+→ [https://digiday.com/podcasts/wtf-is-the-iabs-redefining-media-types-standard/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/wtf-is-the-iabs-redefining-media-types-standard/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### Michaels claims Google-powered AI assistant doubles conversion rate of traditional search
 _Mon, 27 Jul 2026 04:01:00 +0000_
 
@@ -137,37 +165,37 @@ Michaels shared early results of its new Google Gemini-powered AI assistant.
 
 → [https://digiday.com/marketing/michaels-claims-google-powered-ai-assistant-doubles-conversion-rate-of-traditional-search/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/michaels-claims-google-powered-ai-assistant-doubles-conversion-rate-of-traditional-search/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Mythbusters: AI visibility’s biggest misconceptions
-_Mon, 27 Jul 2026 04:01:00 +0000_
-
-AI visibility is evolving quickly, but many of the industry's biggest assumptions don't hold up. Experts debunk the biggest myths.
-
-→ [https://digiday.com/marketing/mythbusters-ai-visibilitys-biggest-misconceptions/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/mythbusters-ai-visibilitys-biggest-misconceptions/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Kai Cenat’s Streamer U was a ‘masterclass’ for brands looking to tap content creators
-_Mon, 27 Jul 2026 04:01:00 +0000_
-
-The creator bootcamp brought in big brand partnerships and big engagement metrics, which could bring more brands to the streaming sponsorship table.
-
-→ [https://digiday.com/media/kai-cenats-streamer-u-was-a-masterclass-for-brands-looking-to-tap-content-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/kai-cenats-streamer-u-was-a-masterclass-for-brands-looking-to-tap-content-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Media Buying Briefing: Why Omnicom merged Mediahub and Hearts & Science
-_Mon, 27 Jul 2026 04:01:00 +0000_
-
-Merging Hearts &#38; Science and Mediahub into one agency that will operate under a new name and brand may not be the last move the holding company makes in simplifying its go-to-market offering.
-
-→ [https://digiday.com/media-buying/media-buying-briefing-why-omnicom-merged-mediahub-and-hearts-science/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-why-omnicom-merged-mediahub-and-hearts-science/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### How AI costs are quietly reshaping principal media deals
-_Mon, 27 Jul 2026 04:01:00 +0000_
-
-AI doesn’t have a price. Principal media is absorbing it anyway.
-
-→ [https://digiday.com/marketing/how-ai-costs-are-quietly-reshaping-principal-media-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/how-ai-costs-are-quietly-reshaping-principal-media-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
 ---
 
 ## MarTech
+
+### ChatGPT Ads adds conversion bidding and stronger measurement
+_Mon, 27 Jul 2026 14:41:13 +0000_
+
+New capabilities bring it closer to the workflow and optimization tools advertisers already use in Google Ads and Meta Ads. The post ChatGPT Ads adds conversion bidding and stronger measurement appeared first on MarTech .
+
+→ [https://martech.org/chatgpt-ads-adds-conversion-bidding-and-stronger-measurement/](https://martech.org/chatgpt-ads-adds-conversion-bidding-and-stronger-measurement/)
+
+### Why your AI-review process is going to fail
+_Mon, 27 Jul 2026 13:09:00 +0000_
+
+Reviewing AI output for plausibility isn't enough. Here's a simple structure you can apply to protect yourself from "hallucinations." The post Why your AI-review process is going to fail appeared first on MarTech .
+
+→ [https://martech.org/why-your-ai-review-process-is-going-to-fail/](https://martech.org/why-your-ai-review-process-is-going-to-fail/)
+
+### Optimizing for the holiday ecommerce surge
+_Mon, 27 Jul 2026 12:34:00 +0000_
+
+Maximizing your revenue during the peak retail season requires structural readiness. Here are the five essential applications your team must optimize. The post Optimizing for the holiday ecommerce surge appeared first on MarTech .
+
+→ [https://martech.org/optimizing-for-the-holiday-ecommerce-surge/](https://martech.org/optimizing-for-the-holiday-ecommerce-surge/)
+
+### AI is pushing composability beyond software
+_Mon, 27 Jul 2026 12:23:00 +0000_
+
+The martech stack now has a new building block: intelligence that can reason, plan, and work alongside SaaS systems and human teams. The post AI is pushing composability beyond software appeared first on MarTech .
+
+→ [https://martech.org/ai-is-pushing-composability-beyond-software/](https://martech.org/ai-is-pushing-composability-beyond-software/)
 
 ### HubSpot’s June 2026 updates: Agents get more access, Revenue Hub starts connecting the dots
 _Fri, 24 Jul 2026 13:35:03 +0000_
@@ -175,33 +203,5 @@ _Fri, 24 Jul 2026 13:35:03 +0000_
 June's HubSpot updates are focused on turning information you already have into something HubSpot can act on directly. The post HubSpot&#8217;s June 2026 updates: Agents get more access, Revenue Hub starts connecting the dots appeared first on MarTech .
 
 → [https://martech.org/hubspots-june-2026-updates-agents-get-more-access-revenue-hub-starts-connecting-the-dots/](https://martech.org/hubspots-june-2026-updates-agents-get-more-access-revenue-hub-starts-connecting-the-dots/)
-
-### Time saved by using AI is being spent on managing its output
-_Fri, 24 Jul 2026 13:01:00 +0000_
-
-Any time savings from AI are getting eaten up by fixing output, managing fragmented tools, and building the governance needed to make it work. The post Time saved by using AI is being spent on managing its output appeared first on MarTech .
-
-→ [https://martech.org/ai-adoption-is-outpacing-marketings-ability-to-manage-it/](https://martech.org/ai-adoption-is-outpacing-marketings-ability-to-manage-it/)
-
-### The real risk in agentic commerce
-_Fri, 24 Jul 2026 12:21:00 +0000_
-
-As AI agents take over product discovery, marketers risk losing pricing power and customer relationships unless they own the underlying data. The post The real risk in agentic commerce appeared first on MarTech .
-
-→ [https://martech.org/the-real-risk-in-agentic-commerce/](https://martech.org/the-real-risk-in-agentic-commerce/)
-
-### The 7 layers of an AI-ready marketing operating system
-_Fri, 24 Jul 2026 12:19:00 +0000_
-
-See how an orchestrated approach can help marketing teams move faster, improve with every campaign and get more value from AI. The post The 7 layers of an AI-ready marketing operating system appeared first on MarTech .
-
-→ [https://martech.org/the-7-layers-of-an-ai-ready-marketing-operating-system/](https://martech.org/the-7-layers-of-an-ai-ready-marketing-operating-system/)
-
-### Your client just asked if they show up in ChatGPT. Now what? by AgencyAnalytics
-_Fri, 24 Jul 2026 11:00:00 +0000_
-
-It's the top new client request of 2026, and most agencies still can't answer it with data. Here's what you can measure today. The post Your client just asked if they show up in ChatGPT. Now what? appeared first on MarTech .
-
-→ [https://martech.org/your-client-just-asked-if-they-show-up-in-chatgpt-now-what/](https://martech.org/your-client-just-asked-if-they-show-up-in-chatgpt-now-what/)
 
 ---
