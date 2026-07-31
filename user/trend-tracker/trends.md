@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-30 05:42 UTC_
+_Päivitetty: 2026-07-31 06:15 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Digitaalisella markkinoinnilla voit tavoitella asiakastasi jokaisessa ostoproses
 
 ## HubSpot Marketing Blog
 
+### HubSpot AEO vs. Otterly: Platform or standalone tool?
+_Thu, 30 Jul 2026 11:00:02 GMT_
+
+Here’s the question most teams are actually trying to answer: do you need a standalone tool to monitor how your brand shows up in AI search, or do you need something that connects that monitoring to the content and CRM workflows that let you act on it?
+
+→ [https://blog.hubspot.com/marketing/hubspot-vs-otterly](https://blog.hubspot.com/marketing/hubspot-vs-otterly)
+
 ### Profound vs. Semrush AEO: What each tool actually does
 _Thu, 30 Jul 2026 00:00:00 GMT_
 
@@ -79,13 +86,6 @@ _Tue, 28 Jul 2026 15:00:05 GMT_
 At some point after a CRM goes live, someone pulls a pipeline report and the numbers don’t add up. Marketing and sales end up using different definitions for the same term. A new integration breaks three sales pipeline reports that nobody knew shared the same data source.
 
 → [https://blog.hubspot.com/marketing/crm-data-model](https://blog.hubspot.com/marketing/crm-data-model)
-
-### How AEO drives higher-intent site visitors than other channels
-_Tue, 28 Jul 2026 15:00:05 GMT_
-
-Answer engine optimization (AEO) is the practice of creating content for AI like ChatGPT, Claude, and Gemini to reference in their outputs. AI-referred traffic is small but growing fast and has an outsized impact on conversions. Traffic from AEO makes up less than 1% of overall traffic but converts 3x-15x better than traditional search, according…
-
-→ [https://blog.hubspot.com/marketing/aeo-drives-higher-intent-visitors](https://blog.hubspot.com/marketing/aeo-drives-higher-intent-visitors)
 
 ---
 
@@ -130,44 +130,72 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Time has started serving ads to AI bots
+### How a fitness creator built her own global wellness platform
+_Fri, 31 Jul 2026 04:01:00 +0000_
+
+Gabby George leveraged her social media success into a subscription-based fitness platform to diversify revenue.
+
+→ [https://digiday.com/media/how-a-fitness-creator-built-her-own-global-wellness-platform/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-a-fitness-creator-built-her-own-global-wellness-platform/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Future of Marketing Briefing: Media measurement is becoming an asset in boardroom theater
+_Fri, 31 Jul 2026 04:01:00 +0000_
+
+Major advertisers spent their quarterly earnings calls talking up media effectiveness efforts to analysts and shareholders this week. It suggests a shift in the way C-suites consider ad spend.
+
+→ [https://digiday.com/marketing/future-of-marketing-media-measurement-is-becoming-an-asset-in-boardroom-theater/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-media-measurement-is-becoming-an-asset-in-boardroom-theater/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Nike, Lululemon hit with lawsuits alleging deceptive ‘phantom discounts’
+_Fri, 31 Jul 2026 04:01:00 +0000_
+
+In recent weeks, major global brands have been the subject of lawsuits alleging deceptive pricing strategies.
+
+→ [https://digiday.com/marketing/nike-lululemon-hit-with-lawsuits-alleging-deceptive-phantom-discounts/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/nike-lululemon-hit-with-lawsuits-alleging-deceptive-phantom-discounts/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### The case for and against agencies betting on tokens the way they bet on media
+_Fri, 31 Jul 2026 04:01:00 +0000_
+
+AI compute costs are the next frontier for the next upfront. This is the case for it.
+
+→ [https://digiday.com/media-buying/the-case-for-and-against-agencies-betting-on-tokens-the-way-they-bet-on-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/the-case-for-and-against-agencies-betting-on-tokens-the-way-they-bet-on-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Time has started serving ads to AI agents
 _Thu, 30 Jul 2026 04:01:00 +0000_
 
 Time is selling ads targeting AI bots, betting that markdown pages will make its content (and advertisers) more visible in AI search.
 
-→ [https://digiday.com/media/time-has-started-serving-ads-to-ai-bots/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/time-has-started-serving-ads-to-ai-bots/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Inside Unilever’s 300,000 creator network: the logistics behind the headline number
-_Thu, 30 Jul 2026 04:01:00 +0000_
-
-Unilever says it works with 300,000 creators, but not all of them play the same role. Agency executives explain what that number means.
-
-→ [https://digiday.com/marketing/inside-unilevers-300000-creator-network-the-logistics-behind-the-headline-number/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/inside-unilevers-300000-creator-network-the-logistics-behind-the-headline-number/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### OpenAI’s ChatGPT reaches the coupon stage of building an ad business
-_Thu, 30 Jul 2026 04:01:00 +0000_
-
-The company is preparing to offer promotional ad credits to advertisers to encourage more marketers to test its ChatGPT ads offering.
-
-→ [https://digiday.com/marketing/openais-chatgpt-reaches-the-coupon-stage-of-building-an-ad-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/openais-chatgpt-reaches-the-coupon-stage-of-building-an-ad-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Media Briefing: Threatening to quit Google’s crawlers is just publishers’ new hope
-_Thu, 30 Jul 2026 04:01:00 +0000_
-
-Bold Call: Google's AI era is fueling fresh calls for publishers to cut off access to their content, but dependence on search still holds most back.
-
-→ [https://digiday.com/media/media-briefing-threatening-to-quit-google-crawlers-is-just-publishers-new-hope/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-threatening-to-quit-google-crawlers-is-just-publishers-new-hope/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Future of TV Briefing: FreeWheel adds show-level reporting to tackle streaming’s transparency problem
-_Wed, 29 Jul 2026 04:01:00 +0000_
-
-This week’s Future of TV Briefing looks at Comcast-owned FreeWheel enabling streaming ad sellers to directly pass show-level reporting to programmatic ad buyers.
-
-→ [https://digiday.com/future-of-tv/future-of-tv-briefing-freewheel-adds-show-level-reporting-to-tackle-streamings-transparency-problem/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-freewheel-adds-show-level-reporting-to-tackle-streamings-transparency-problem/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/time-has-started-serving-ads-to-ai-agents/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/time-has-started-serving-ads-to-ai-agents/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### The latest AI-powered martech news and releases
+_Thu, 30 Jul 2026 14:15:23 +0000_
+
+PwC tried to combine “thought leadership” with AI-written reports, and you know what happened next. The post The latest AI-powered martech news and releases appeared first on MarTech .
+
+→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
+
+### IAB Tech Lab gets AI agents ready for real advertising
+_Thu, 30 Jul 2026 13:08:00 +0000_
+
+AAMP 2.3 adds the governance, integrations, and privacy controls organizations need to move AI agents into production. The post IAB Tech Lab gets AI agents ready for real advertising appeared first on MarTech .
+
+→ [https://martech.org/iab-tech-lab-gets-ai-agents-ready-for-real-advertising/](https://martech.org/iab-tech-lab-gets-ai-agents-ready-for-real-advertising/)
+
+### How to measure marketing when AI owns discovery
+_Thu, 30 Jul 2026 12:43:00 +0000_
+
+AI is becoming the new top of the funnel. Learn how to update lagging analytics to capture brand demand, engagement and buyer intent. The post How to measure marketing when AI owns discovery appeared first on MarTech .
+
+→ [https://martech.org/how-to-measure-marketing-when-ai-owns-discovery/](https://martech.org/how-to-measure-marketing-when-ai-owns-discovery/)
+
+### Why directing AI agents is the next step in marketing work
+_Thu, 30 Jul 2026 12:27:00 +0000_
+
+As AI takes on more execution, your value comes from knowing what to delegate, how to evaluate the output, and when to step in. The post Why directing AI agents is the next step in marketing work appeared first on MarTech .
+
+→ [https://martech.org/why-directing-ai-agents-is-the-next-step-in-marketing-work/](https://martech.org/why-directing-ai-agents-is-the-next-step-in-marketing-work/)
 
 ### Google testing a way to ease email signups
 _Wed, 29 Jul 2026 12:45:00 +0000_
@@ -175,33 +203,5 @@ _Wed, 29 Jul 2026 12:45:00 +0000_
 The browser-based alternative to OTPs and magic links could improve sign-up conversions and first-party data quality. The post Google testing a way to ease email signups appeared first on MarTech .
 
 → [https://martech.org/google-testing-a-way-to-ease-email-signups/](https://martech.org/google-testing-a-way-to-ease-email-signups/)
-
-### How to make trust your competitive differentiator in AI
-_Wed, 29 Jul 2026 12:37:00 +0000_
-
-AI can accelerate marketing, but lasting B2B growth depends on human connection, customer value and relationships that endure. The post How to make trust your competitive differentiator in AI appeared first on MarTech .
-
-→ [https://martech.org/how-to-make-trust-your-competitive-differentiator-in-ai/](https://martech.org/how-to-make-trust-your-competitive-differentiator-in-ai/)
-
-### 3 ways to document and guide your brand’s evolution
-_Wed, 29 Jul 2026 12:26:00 +0000_
-
-Create an institutional memory that helps teams understand past brand decisions and make more intentional ones going forward. The post 3 ways to document and guide your brand’s evolution appeared first on MarTech .
-
-→ [https://martech.org/3-ways-to-document-and-guide-your-brands-evolution/](https://martech.org/3-ways-to-document-and-guide-your-brands-evolution/)
-
-### Yelp brings reviews and local leads to ChatGPT
-_Tue, 28 Jul 2026 15:54:41 +0000_
-
-ChatGPT gets access to Yelp's reviews and business data, Yelp's gets prime placement and links. The post Yelp brings reviews and local leads to ChatGPT appeared first on MarTech .
-
-→ [https://martech.org/yelp-brings-reviews-and-local-leads-to-chatgpt/](https://martech.org/yelp-brings-reviews-and-local-leads-to-chatgpt/)
-
-### AI shopping stats 2026: What you need to know
-_Tue, 28 Jul 2026 13:00:00 +0000_
-
-AI shopping went mainstream faster than any channel before it. Here are the numbers you need to know about where it is and where it's going. The post AI shopping stats 2026: What you need to know appeared first on MarTech .
-
-→ [https://martech.org/the-ai-shopping-stats-2026-what-you-need-to-know/](https://martech.org/the-ai-shopping-stats-2026-what-you-need-to-know/)
 
 ---
