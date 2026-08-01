@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-07-31 06:15 UTC_
+_Päivitetty: 2026-08-01 05:56 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -169,39 +169,39 @@ Time is selling ads targeting AI bots, betting that markdown pages will make its
 
 ## MarTech
 
+### AI speeds marketing production, but measurement lags
+_Fri, 31 Jul 2026 13:58:38 +0000_
+
+AI is accelerating marketing production, but most teams still measure clicks instead of business outcomes, limiting their ability to prove AI's impact. The post AI speeds marketing production, but measurement lags appeared first on MarTech .
+
+→ [https://martech.org/ai-speeds-marketing-production-but-measurement-lags/](https://martech.org/ai-speeds-marketing-production-but-measurement-lags/)
+
+### AI can simulate buyers, but it misses personality
+_Fri, 31 Jul 2026 12:56:00 +0000_
+
+Synthetic audiences depend on the signals they're built from. Personality may be the missing ingredient for improving accuracy. The post AI can simulate buyers, but it misses personality appeared first on MarTech .
+
+→ [https://martech.org/ai-can-simulate-buyers-but-it-misses-personality/](https://martech.org/ai-can-simulate-buyers-but-it-misses-personality/)
+
+### 4 questions to ask before adding AI to an event workflow
+_Fri, 31 Jul 2026 12:19:00 +0000_
+
+MAICON's approach to AI offers a practical framework for deciding which tasks to automate and which should remain human. The post 4 questions to ask before adding AI to an event workflow appeared first on MarTech .
+
+→ [https://martech.org/4-questions-to-ask-before-adding-ai-to-an-event-workflow/](https://martech.org/4-questions-to-ask-before-adding-ai-to-an-event-workflow/)
+
+### AI is building your digital experience. It’s also making it less accessible. by AudioEye
+_Fri, 31 Jul 2026 11:00:00 +0000_
+
+AI is generating more of the web, and it's carrying the same accessibility gaps with it. Marketing has the leverage to close them The post AI is building your digital experience. It&#8217;s also making it less accessible. appeared first on MarTech .
+
+→ [https://martech.org/ai-is-building-your-digital-experience-its-also-making-it-less-accessible/](https://martech.org/ai-is-building-your-digital-experience-its-also-making-it-less-accessible/)
+
 ### The latest AI-powered martech news and releases
 _Thu, 30 Jul 2026 14:15:23 +0000_
 
 PwC tried to combine “thought leadership” with AI-written reports, and you know what happened next. The post The latest AI-powered martech news and releases appeared first on MarTech .
 
 → [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
-
-### IAB Tech Lab gets AI agents ready for real advertising
-_Thu, 30 Jul 2026 13:08:00 +0000_
-
-AAMP 2.3 adds the governance, integrations, and privacy controls organizations need to move AI agents into production. The post IAB Tech Lab gets AI agents ready for real advertising appeared first on MarTech .
-
-→ [https://martech.org/iab-tech-lab-gets-ai-agents-ready-for-real-advertising/](https://martech.org/iab-tech-lab-gets-ai-agents-ready-for-real-advertising/)
-
-### How to measure marketing when AI owns discovery
-_Thu, 30 Jul 2026 12:43:00 +0000_
-
-AI is becoming the new top of the funnel. Learn how to update lagging analytics to capture brand demand, engagement and buyer intent. The post How to measure marketing when AI owns discovery appeared first on MarTech .
-
-→ [https://martech.org/how-to-measure-marketing-when-ai-owns-discovery/](https://martech.org/how-to-measure-marketing-when-ai-owns-discovery/)
-
-### Why directing AI agents is the next step in marketing work
-_Thu, 30 Jul 2026 12:27:00 +0000_
-
-As AI takes on more execution, your value comes from knowing what to delegate, how to evaluate the output, and when to step in. The post Why directing AI agents is the next step in marketing work appeared first on MarTech .
-
-→ [https://martech.org/why-directing-ai-agents-is-the-next-step-in-marketing-work/](https://martech.org/why-directing-ai-agents-is-the-next-step-in-marketing-work/)
-
-### Google testing a way to ease email signups
-_Wed, 29 Jul 2026 12:45:00 +0000_
-
-The browser-based alternative to OTPs and magic links could improve sign-up conversions and first-party data quality. The post Google testing a way to ease email signups appeared first on MarTech .
-
-→ [https://martech.org/google-testing-a-way-to-ease-email-signups/](https://martech.org/google-testing-a-way-to-ease-email-signups/)
 
 ---
