@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-02 06:04 UTC_
+_Päivitetty: 2026-08-03 06:26 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,6 +130,27 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### D+ Research: Marketers navigate a changing CTV landscape
+_Mon, 03 Aug 2026 04:01:00 +0000_
+
+As CTV matures, the streaming ad industry is entering a period of change.
+
+→ [https://digiday.com/future-of-tv/d-research-marketers-navigate-a-changing-ctv-landscape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/d-research-marketers-navigate-a-changing-ctv-landscape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Who owns the creative brief? Brands and creators are renegotiating the relationship
+_Mon, 03 Aug 2026 04:01:00 +0000_
+
+Brands are moving creators beyond sponsored posts and into the creative process, reshaping who influences marketing decisions.
+
+→ [https://digiday.com/marketing/who-owns-the-creative-brief-brands-and-creators-are-renegotiating-the-relationship/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/who-owns-the-creative-brief-brands-and-creators-are-renegotiating-the-relationship/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Media Buying Briefing: The latest lures holding companies are using to grow principal media
+_Mon, 03 Aug 2026 04:01:00 +0000_
+
+As holdcos rush to equip themselves with AI tools and services, they still haven’t figured out how to sell them. Meantime, principal media has become a major source of profit margin.
+
+→ [https://digiday.com/media-buying/media-buying-briefing-the-latest-lures-holding-companies-are-using-to-grow-principal-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-the-latest-lures-holding-companies-are-using-to-grow-principal-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### How a fitness creator built her own global wellness platform
 _Fri, 31 Jul 2026 04:01:00 +0000_
 
@@ -143,27 +164,6 @@ _Fri, 31 Jul 2026 04:01:00 +0000_
 Major advertisers spent their quarterly earnings calls talking up media effectiveness efforts to analysts and shareholders this week. It suggests a shift in the way C-suites consider ad spend.
 
 → [https://digiday.com/marketing/future-of-marketing-media-measurement-is-becoming-an-asset-in-boardroom-theater/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-media-measurement-is-becoming-an-asset-in-boardroom-theater/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Nike, Lululemon hit with lawsuits alleging deceptive ‘phantom discounts’
-_Fri, 31 Jul 2026 04:01:00 +0000_
-
-In recent weeks, major global brands have been the subject of lawsuits alleging deceptive pricing strategies.
-
-→ [https://digiday.com/marketing/nike-lululemon-hit-with-lawsuits-alleging-deceptive-phantom-discounts/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/nike-lululemon-hit-with-lawsuits-alleging-deceptive-phantom-discounts/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### The case for and against agencies betting on tokens the way they bet on media
-_Fri, 31 Jul 2026 04:01:00 +0000_
-
-AI compute costs are the next frontier for the next upfront. This is the case for it.
-
-→ [https://digiday.com/media-buying/the-case-for-and-against-agencies-betting-on-tokens-the-way-they-bet-on-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/the-case-for-and-against-agencies-betting-on-tokens-the-way-they-bet-on-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Time has started serving ads to AI agents
-_Thu, 30 Jul 2026 04:01:00 +0000_
-
-Time is selling ads targeting AI bots, betting that markdown pages will make its content (and advertisers) more visible in AI search.
-
-→ [https://digiday.com/media/time-has-started-serving-ads-to-ai-agents/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/time-has-started-serving-ads-to-ai-agents/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
