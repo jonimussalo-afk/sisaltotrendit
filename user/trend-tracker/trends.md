@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-03 06:26 UTC_
+_Päivitetty: 2026-08-04 05:48 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Digitaalisella markkinoinnilla voit tavoitella asiakastasi jokaisessa ostoproses
 
 ## HubSpot Marketing Blog
 
+### What happened when 6.8m people were told real Monet art was AI
+_Mon, 03 Aug 2026 14:30:04 GMT_
+
+AI content is polarizing. When users spot that AI was used in art, backlash often follows. So, let’s run a quick experiment.
+
+→ [https://blog.hubspot.com/marketing/real-monet](https://blog.hubspot.com/marketing/real-monet)
+
 ### HubSpot AEO vs. Otterly: Platform or standalone tool?
 _Thu, 30 Jul 2026 11:00:02 GMT_
 
@@ -79,13 +86,6 @@ _Tue, 28 Jul 2026 15:00:07 GMT_
 AI search is no longer a niche experiment. According to HubSpot’s own research , 42% of buyers now use AI search as part of their evaluation process — and it’s the top predictor of purchase intent. Brands that show up in those answers earn the conversation before a prospect even clicks.
 
 → [https://blog.hubspot.com/marketing/hubspot-vs-rank-prompt](https://blog.hubspot.com/marketing/hubspot-vs-rank-prompt)
-
-### What is a CRM data model? Objects and relationships
-_Tue, 28 Jul 2026 15:00:05 GMT_
-
-At some point after a CRM goes live, someone pulls a pipeline report and the numbers don’t add up. Marketing and sales end up using different definitions for the same term. A new integration breaks three sales pipeline reports that nobody knew shared the same data source.
-
-→ [https://blog.hubspot.com/marketing/crm-data-model](https://blog.hubspot.com/marketing/crm-data-model)
 
 ---
 
@@ -130,6 +130,34 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### Ad Tech Briefing: Q2’s Big Tech earnings, small-scale concessions, and frustrated dealmakers
+_Tue, 04 Aug 2026 04:01:00 +0000_
+
+PE eagerly looms, but despite appetite, stats show dealmaking is flat.
+
+→ [https://digiday.com/media-buying/ad-tech-briefing-q2s-big-tech-earnings-small-scale-concessions-and-frustrated-dealmakers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-q2s-big-tech-earnings-small-scale-concessions-and-frustrated-dealmakers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Stagwell’s Curate launch puts agencies’ ad tech ambitions in focus
+_Tue, 04 Aug 2026 04:01:00 +0000_
+
+Agencies want more control over the pipes of programmatic advertising. Stagwell’s Curate is the latest example.
+
+→ [https://digiday.com/podcasts/stagwells-curate-launch-puts-agencies-ad-tech-ambitions-in-focus/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/stagwells-curate-launch-puts-agencies-ad-tech-ambitions-in-focus/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### WTF is a stealth crawler?
+_Tue, 04 Aug 2026 04:01:00 +0000_
+
+As AI bot traffic surges, lawmakers are cracking down on stealth crawlers, which scrape publisher content while masking who they are.
+
+→ [https://digiday.com/media/wtf-is-a-stealth-crawler/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/wtf-is-a-stealth-crawler/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### As Hollywood studios chase creator culture, ownership gets complicated
+_Tue, 04 Aug 2026 04:01:00 +0000_
+
+Copyright claims and IP ownership fights show just how complicated Hollywood's creator courtship could get.
+
+→ [https://digiday.com/media/as-hollywood-studios-chase-creator-culture-ownership-gets-complicated/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/as-hollywood-studios-chase-creator-culture-ownership-gets-complicated/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### D+ Research: Marketers navigate a changing CTV landscape
 _Mon, 03 Aug 2026 04:01:00 +0000_
 
@@ -137,37 +165,37 @@ As CTV matures, the streaming ad industry is entering a period of change.
 
 → [https://digiday.com/future-of-tv/d-research-marketers-navigate-a-changing-ctv-landscape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/d-research-marketers-navigate-a-changing-ctv-landscape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Who owns the creative brief? Brands and creators are renegotiating the relationship
-_Mon, 03 Aug 2026 04:01:00 +0000_
-
-Brands are moving creators beyond sponsored posts and into the creative process, reshaping who influences marketing decisions.
-
-→ [https://digiday.com/marketing/who-owns-the-creative-brief-brands-and-creators-are-renegotiating-the-relationship/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/who-owns-the-creative-brief-brands-and-creators-are-renegotiating-the-relationship/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Media Buying Briefing: The latest lures holding companies are using to grow principal media
-_Mon, 03 Aug 2026 04:01:00 +0000_
-
-As holdcos rush to equip themselves with AI tools and services, they still haven’t figured out how to sell them. Meantime, principal media has become a major source of profit margin.
-
-→ [https://digiday.com/media-buying/media-buying-briefing-the-latest-lures-holding-companies-are-using-to-grow-principal-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-the-latest-lures-holding-companies-are-using-to-grow-principal-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### How a fitness creator built her own global wellness platform
-_Fri, 31 Jul 2026 04:01:00 +0000_
-
-Gabby George leveraged her social media success into a subscription-based fitness platform to diversify revenue.
-
-→ [https://digiday.com/media/how-a-fitness-creator-built-her-own-global-wellness-platform/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-a-fitness-creator-built-her-own-global-wellness-platform/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Future of Marketing Briefing: Media measurement is becoming an asset in boardroom theater
-_Fri, 31 Jul 2026 04:01:00 +0000_
-
-Major advertisers spent their quarterly earnings calls talking up media effectiveness efforts to analysts and shareholders this week. It suggests a shift in the way C-suites consider ad spend.
-
-→ [https://digiday.com/marketing/future-of-marketing-media-measurement-is-becoming-an-asset-in-boardroom-theater/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-media-measurement-is-becoming-an-asset-in-boardroom-theater/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
 ---
 
 ## MarTech
+
+### How to give AI the context it needs
+_Mon, 03 Aug 2026 12:51:00 +0000_
+
+AI is only as useful as the context it receives. A Context Memory Graph turns disconnected data into actionable intelligence. The post How to give AI the context it needs appeared first on MarTech .
+
+→ [https://martech.org/how-to-give-ai-the-context-it-needs/](https://martech.org/how-to-give-ai-the-context-it-needs/)
+
+### Optimizing your B2B brand for autonomous AI shoppers
+_Mon, 03 Aug 2026 12:38:00 +0000_
+
+When B2B buyers delegate product research to AI agents, traditional SEO rules break down. Here is how to ensure your brand gets cited. The post Optimizing your B2B brand for autonomous AI shoppers appeared first on MarTech .
+
+→ [https://martech.org/optimizing-your-b2b-brand-for-autonomous-ai-shoppers/](https://martech.org/optimizing-your-b2b-brand-for-autonomous-ai-shoppers/)
+
+### Four holiday reports reveal one big divide over AI
+_Mon, 03 Aug 2026 12:29:00 +0000_
+
+The surveys tell a consistent story about holiday shoppers. They disagree about how quickly AI is changing the buying journey. The post Four holiday reports reveal one big divide over AI appeared first on MarTech .
+
+→ [https://martech.org/four-holiday-reports-reveal-one-big-divide-over-ai/](https://martech.org/four-holiday-reports-reveal-one-big-divide-over-ai/)
+
+### The next challenge for data clean rooms
+_Mon, 03 Aug 2026 12:14:00 +0000_
+
+Privacy and governance are no longer the biggest questions. Determining when a data clean room is the right investment is. The post The next challenge for data clean rooms appeared first on MarTech .
+
+→ [https://martech.org/the-next-challenge-for-data-clean-rooms/](https://martech.org/the-next-challenge-for-data-clean-rooms/)
 
 ### AI speeds marketing production, but measurement lags
 _Fri, 31 Jul 2026 13:58:38 +0000_
@@ -175,33 +203,5 @@ _Fri, 31 Jul 2026 13:58:38 +0000_
 AI is accelerating marketing production, but most teams still measure clicks instead of business outcomes, limiting their ability to prove AI's impact. The post AI speeds marketing production, but measurement lags appeared first on MarTech .
 
 → [https://martech.org/ai-speeds-marketing-production-but-measurement-lags/](https://martech.org/ai-speeds-marketing-production-but-measurement-lags/)
-
-### AI can simulate buyers, but it misses personality
-_Fri, 31 Jul 2026 12:56:00 +0000_
-
-Synthetic audiences depend on the signals they're built from. Personality may be the missing ingredient for improving accuracy. The post AI can simulate buyers, but it misses personality appeared first on MarTech .
-
-→ [https://martech.org/ai-can-simulate-buyers-but-it-misses-personality/](https://martech.org/ai-can-simulate-buyers-but-it-misses-personality/)
-
-### 4 questions to ask before adding AI to an event workflow
-_Fri, 31 Jul 2026 12:19:00 +0000_
-
-MAICON's approach to AI offers a practical framework for deciding which tasks to automate and which should remain human. The post 4 questions to ask before adding AI to an event workflow appeared first on MarTech .
-
-→ [https://martech.org/4-questions-to-ask-before-adding-ai-to-an-event-workflow/](https://martech.org/4-questions-to-ask-before-adding-ai-to-an-event-workflow/)
-
-### AI is building your digital experience. It’s also making it less accessible. by AudioEye
-_Fri, 31 Jul 2026 11:00:00 +0000_
-
-AI is generating more of the web, and it's carrying the same accessibility gaps with it. Marketing has the leverage to close them The post AI is building your digital experience. It&#8217;s also making it less accessible. appeared first on MarTech .
-
-→ [https://martech.org/ai-is-building-your-digital-experience-its-also-making-it-less-accessible/](https://martech.org/ai-is-building-your-digital-experience-its-also-making-it-less-accessible/)
-
-### The latest AI-powered martech news and releases
-_Thu, 30 Jul 2026 14:15:23 +0000_
-
-PwC tried to combine “thought leadership” with AI-written reports, and you know what happened next. The post The latest AI-powered martech news and releases appeared first on MarTech .
-
-→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
 
 ---
