@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-04 05:48 UTC_
+_Päivitetty: 2026-08-05 05:47 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,20 @@ Digitaalisella markkinoinnilla voit tavoitella asiakastasi jokaisessa ostoproses
 
 ## HubSpot Marketing Blog
 
+### HubSpot AEO Grader vs. Peec AI: Features, pricing, and use cases
+_Tue, 04 Aug 2026 18:00:03 GMT_
+
+If your buyers are asking ChatGPT for vendor recommendations instead of scrolling through Google results, your brand’s visibility in AI search engines matters as much as your organic rankings … maybe more. That shift is what’s driving the rapid adoption of answer engine optimization as a discipline, and it’s why marketers are now evaluating…
+
+→ [https://blog.hubspot.com/marketing/hubspot-vs-peec-ai](https://blog.hubspot.com/marketing/hubspot-vs-peec-ai)
+
+### 5 Semrush AI visibility alternatives worth testing
+_Tue, 04 Aug 2026 18:00:02 GMT_
+
+For many, Semrush is the gold standard for tracking traditional SERP rankings, and the tool has recently added AI visibility features to its suite. However, there are plenty of Semrush AI visibility alternatives on the market worth exploring.
+
+→ [https://blog.hubspot.com/marketing/semrush-ai-visibility-alternatives](https://blog.hubspot.com/marketing/semrush-ai-visibility-alternatives)
+
 ### What happened when 6.8m people were told real Monet art was AI
 _Mon, 03 Aug 2026 14:30:04 GMT_
 
@@ -72,20 +86,6 @@ _Thu, 30 Jul 2026 00:00:00 GMT_
 Profound and Semrush have both staked out positions in the answer engine optimization space, but they’re built for different teams with different goals. This post breaks down what each tool actually does, where they differ on engine coverage, prompt research, dashboards, and pricing, and how to decide which one fits your workflow.
 
 → [https://blog.hubspot.com/marketing/profound-vs-semrush](https://blog.hubspot.com/marketing/profound-vs-semrush)
-
-### SEO tools marketers rely on (free & paid options)
-_Wed, 29 Jul 2026 20:00:03 GMT_
-
-SEO might feel like it’s under threat with the rise of AI. But the data tells a different story — SEO tools are still a must-have for marketers. In a HubSpot survey , 27% of marketers agreed that the biggest ROI channel of this year was the website, blog, and SEO.
-
-→ [https://blog.hubspot.com/marketing/seo-tools](https://blog.hubspot.com/marketing/seo-tools)
-
-### HubSpot AEO vs. Rank Prompt: Which AI visibility tool should you choose?
-_Tue, 28 Jul 2026 15:00:07 GMT_
-
-AI search is no longer a niche experiment. According to HubSpot’s own research , 42% of buyers now use AI search as part of their evaluation process — and it’s the top predictor of purchase intent. Brands that show up in those answers earn the conversation before a prospect even clicks.
-
-→ [https://blog.hubspot.com/marketing/hubspot-vs-rank-prompt](https://blog.hubspot.com/marketing/hubspot-vs-rank-prompt)
 
 ---
 
@@ -130,78 +130,78 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Ad Tech Briefing: Q2’s Big Tech earnings, small-scale concessions, and frustrated dealmakers
-_Tue, 04 Aug 2026 04:01:00 +0000_
+### Digiday+ Research: The 2026 guide to holiday marketing strategies, including A-Frame Brands, Mastercard and Ritual
+_Wed, 05 Aug 2026 04:01:00 +0000_
 
-PE eagerly looms, but despite appetite, stats show dealmaking is flat.
+Shoppers continue to grapple with higher prices and affordability, while brands face rising operating costs and increased pressure to prove their marketing dollars are delivering measurable returns.
 
-→ [https://digiday.com/media-buying/ad-tech-briefing-q2s-big-tech-earnings-small-scale-concessions-and-frustrated-dealmakers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-q2s-big-tech-earnings-small-scale-concessions-and-frustrated-dealmakers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/digiday-research-the-2026-guide-to-holiday-marketing-strategies-including-a-frame-brands-mastercard-and-ritual/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/digiday-research-the-2026-guide-to-holiday-marketing-strategies-including-a-frame-brands-mastercard-and-ritual/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Stagwell’s Curate launch puts agencies’ ad tech ambitions in focus
-_Tue, 04 Aug 2026 04:01:00 +0000_
+### Sony is scaling up its Playstation advertising ambitions
+_Wed, 05 Aug 2026 04:01:00 +0000_
 
-Agencies want more control over the pipes of programmatic advertising. Stagwell’s Curate is the latest example.
+Sony Interactive Entertainment is assembling a global sales team to monetize Playstation through ads.
 
-→ [https://digiday.com/podcasts/stagwells-curate-launch-puts-agencies-ad-tech-ambitions-in-focus/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/stagwells-curate-launch-puts-agencies-ad-tech-ambitions-in-focus/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/sony-is-scaling-up-its-playstation-advertising-ambitions/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/sony-is-scaling-up-its-playstation-advertising-ambitions/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### WTF is a stealth crawler?
-_Tue, 04 Aug 2026 04:01:00 +0000_
+### Future of TV Briefing: Why Aéropostale is investing in creator-led episodic shows
+_Wed, 05 Aug 2026 04:01:00 +0000_
 
-As AI bot traffic surges, lawmakers are cracking down on stealth crawlers, which scrape publisher content while masking who they are.
+This week’s Future of TV Briefing features a Q&#38;A with Catalyst Brands evp and chief customer and marketing officer Marisa Thalberg about Aéropostale’s recent creator-led episodic series.
 
-→ [https://digiday.com/media/wtf-is-a-stealth-crawler/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/wtf-is-a-stealth-crawler/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/future-of-tv/future-of-tv-briefing-why-aeropostale-is-investing-in-creator-led-episodic-shows/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-why-aeropostale-is-investing-in-creator-led-episodic-shows/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### As Hollywood studios chase creator culture, ownership gets complicated
-_Tue, 04 Aug 2026 04:01:00 +0000_
+### Inside the indie agencies founded by Omnicom and IPG’s former staffers
+_Wed, 05 Aug 2026 04:01:00 +0000_
 
-Copyright claims and IP ownership fights show just how complicated Hollywood's creator courtship could get.
+Thousands of media practitioners and creatives have left Omnicom since its merger with IPG. Some have already founded their own agencies.
 
-→ [https://digiday.com/media/as-hollywood-studios-chase-creator-culture-ownership-gets-complicated/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/as-hollywood-studios-chase-creator-culture-ownership-gets-complicated/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/inside-the-indie-agencies-founded-by-omnicom-and-ipgs-former-staffers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/inside-the-indie-agencies-founded-by-omnicom-and-ipgs-former-staffers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### D+ Research: Marketers navigate a changing CTV landscape
-_Mon, 03 Aug 2026 04:01:00 +0000_
+### The Rundown: Google’s legal woes with ad tech rivals
+_Wed, 05 Aug 2026 04:01:00 +0000_
 
-As CTV matures, the streaming ad industry is entering a period of change.
+Teads files suit against Google’s ad tech suite, warns investors of potential retaliation, as industry awaits a looming remedies ruling in Google’s antitrust trial.
 
-→ [https://digiday.com/future-of-tv/d-research-marketers-navigate-a-changing-ctv-landscape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/d-research-marketers-navigate-a-changing-ctv-landscape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/the-rundown-googles-legal-woes-with-ad-tech-rivals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/the-rundown-googles-legal-woes-with-ad-tech-rivals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
 
-### How to give AI the context it needs
-_Mon, 03 Aug 2026 12:51:00 +0000_
+### OpenAI ad experiment could change what happens after the click
+_Tue, 04 Aug 2026 14:28:57 +0000_
 
-AI is only as useful as the context it receives. A Context Memory Graph turns disconnected data into actionable intelligence. The post How to give AI the context it needs appeared first on MarTech .
+ChatGPT ads appear to launch business-specific AI agent that answers questions, recommends products, and captures leads. The post OpenAI ad experiment could change what happens after the click appeared first on MarTech .
 
-→ [https://martech.org/how-to-give-ai-the-context-it-needs/](https://martech.org/how-to-give-ai-the-context-it-needs/)
+→ [https://martech.org/openai-ad-experiment-could-change-what-happens-after-the-click/](https://martech.org/openai-ad-experiment-could-change-what-happens-after-the-click/)
 
-### Optimizing your B2B brand for autonomous AI shoppers
-_Mon, 03 Aug 2026 12:38:00 +0000_
+### AI is reshaping marketing teams from the inside
+_Tue, 04 Aug 2026 12:48:00 +0000_
 
-When B2B buyers delegate product research to AI agents, traditional SEO rules break down. Here is how to ensure your brand gets cited. The post Optimizing your B2B brand for autonomous AI shoppers appeared first on MarTech .
+AI's biggest impact isn't content creation. It's breaking down silos, changing roles, and creating more integrated marketing organizations. The post AI is reshaping marketing teams from the inside appeared first on MarTech .
 
-→ [https://martech.org/optimizing-your-b2b-brand-for-autonomous-ai-shoppers/](https://martech.org/optimizing-your-b2b-brand-for-autonomous-ai-shoppers/)
+→ [https://martech.org/ai-is-reshaping-marketing-teams-from-the-inside/](https://martech.org/ai-is-reshaping-marketing-teams-from-the-inside/)
 
-### Four holiday reports reveal one big divide over AI
-_Mon, 03 Aug 2026 12:29:00 +0000_
+### Customers don’t hate AI. They hate self-serving AI.
+_Tue, 04 Aug 2026 12:30:00 +0000_
 
-The surveys tell a consistent story about holiday shoppers. They disagree about how quickly AI is changing the buying journey. The post Four holiday reports reveal one big divide over AI appeared first on MarTech .
+Every AI investment should make it easier for customers to accomplish what they came to do. Here's how to evaluate whether it does. The post Customers don&#8217;t hate AI. They hate self-serving AI. appeared first on MarTech .
 
-→ [https://martech.org/four-holiday-reports-reveal-one-big-divide-over-ai/](https://martech.org/four-holiday-reports-reveal-one-big-divide-over-ai/)
+→ [https://martech.org/customers-dont-hate-ai-they-hate-self-serving-ai/](https://martech.org/customers-dont-hate-ai-they-hate-self-serving-ai/)
 
-### The next challenge for data clean rooms
-_Mon, 03 Aug 2026 12:14:00 +0000_
+### Marketing on LinkedIn: What you need to know
+_Tue, 04 Aug 2026 12:15:00 +0000_
 
-Privacy and governance are no longer the biggest questions. Determining when a data clean room is the right investment is. The post The next challenge for data clean rooms appeared first on MarTech .
+Your guide to LinkedIn's tools, strategies and best practices. Updated with info on the new collaborative post feature. The post Marketing on LinkedIn: What you need to know appeared first on MarTech .
 
-→ [https://martech.org/the-next-challenge-for-data-clean-rooms/](https://martech.org/the-next-challenge-for-data-clean-rooms/)
+→ [https://martech.org/linkedin-the-marketers-guide/](https://martech.org/linkedin-the-marketers-guide/)
 
-### AI speeds marketing production, but measurement lags
-_Fri, 31 Jul 2026 13:58:38 +0000_
+### AI can knock on the door. Your CRM marketing platform is still the house. by Optimove
+_Tue, 04 Aug 2026 11:00:00 +0000_
 
-AI is accelerating marketing production, but most teams still measure clicks instead of business outcomes, limiting their ability to prove AI's impact. The post AI speeds marketing production, but measurement lags appeared first on MarTech .
+AI assistants like ChatGPT and Claude can now plug straight into your marketing systems. That connection is powerful. But it doesn't replace the platform behind it. It depends on it. The post AI can knock on the door. Your CRM marketing platform is still the house. appeared first on MarTech .
 
-→ [https://martech.org/ai-speeds-marketing-production-but-measurement-lags/](https://martech.org/ai-speeds-marketing-production-but-measurement-lags/)
+→ [https://martech.org/ai-can-knock-on-the-door-your-crm-marketing-platform-is-still-the-house/](https://martech.org/ai-can-knock-on-the-door-your-crm-marketing-platform-is-still-the-house/)
 
 ---
