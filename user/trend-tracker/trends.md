@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-05 05:47 UTC_
+_Päivitetty: 2026-08-06 05:50 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,40 +52,40 @@ Digitaalisella markkinoinnilla voit tavoitella asiakastasi jokaisessa ostoproses
 
 ## HubSpot Marketing Blog
 
+### Brand tracking tools for scaling companies
+_Wed, 05 Aug 2026 11:00:06 GMT_
+
+Brand tracking tools help growth marketers gauge what people say about the brand, whether it’s good or bad, and why they choose competitors, all at scale. Brand monitoring also reveals AI share of voice and what you should improve to be cited more by LLMs.
+
+→ [https://blog.hubspot.com/marketing/brand-tracking-tools](https://blog.hubspot.com/marketing/brand-tracking-tools)
+
+### Scrunch vs. Peec AI: Which tool fits your AEO strategy? [2026]
+_Wed, 05 Aug 2026 11:00:04 GMT_
+
+If you’re comparing Scrunch versus Peec AI , you need to know your buyers are already forming opinions about your brand in answer engines like ChatGPT, Perplexity, and Google AI Mode before they ever reach your website.
+
+→ [https://blog.hubspot.com/marketing/scrunch-vs-peec-ai](https://blog.hubspot.com/marketing/scrunch-vs-peec-ai)
+
+### Omnichannel customer service: What it is and how to do it
+_Wed, 05 Aug 2026 11:00:02 GMT_
+
+In today’s digital world, customers want to access support quickly via their preferred communication channel. In response, more companies are looking to deliver seamless, personalized support experiences via omnichannel customer service models.
+
+→ [https://blog.hubspot.com/marketing/omnichannel-customer-service](https://blog.hubspot.com/marketing/omnichannel-customer-service)
+
+### CRM change management: A practical guide for leaders
+_Wed, 05 Aug 2026 11:00:02 GMT_
+
+CRM projects don’t fail at the technical level — they fail because the people expected to use the system never bought in, the training was too generic to stick, and nobody owned adoption after go-live. The result is a CRM that costs money to maintain but doesn’t deliver the pipeline visibility or process alignment it was supposed to.
+
+→ [https://blog.hubspot.com/marketing/crm-change-management](https://blog.hubspot.com/marketing/crm-change-management)
+
 ### HubSpot AEO Grader vs. Peec AI: Features, pricing, and use cases
 _Tue, 04 Aug 2026 18:00:03 GMT_
 
 If your buyers are asking ChatGPT for vendor recommendations instead of scrolling through Google results, your brand’s visibility in AI search engines matters as much as your organic rankings … maybe more. That shift is what’s driving the rapid adoption of answer engine optimization as a discipline, and it’s why marketers are now evaluating…
 
 → [https://blog.hubspot.com/marketing/hubspot-vs-peec-ai](https://blog.hubspot.com/marketing/hubspot-vs-peec-ai)
-
-### 5 Semrush AI visibility alternatives worth testing
-_Tue, 04 Aug 2026 18:00:02 GMT_
-
-For many, Semrush is the gold standard for tracking traditional SERP rankings, and the tool has recently added AI visibility features to its suite. However, there are plenty of Semrush AI visibility alternatives on the market worth exploring.
-
-→ [https://blog.hubspot.com/marketing/semrush-ai-visibility-alternatives](https://blog.hubspot.com/marketing/semrush-ai-visibility-alternatives)
-
-### What happened when 6.8m people were told real Monet art was AI
-_Mon, 03 Aug 2026 14:30:04 GMT_
-
-AI content is polarizing. When users spot that AI was used in art, backlash often follows. So, let’s run a quick experiment.
-
-→ [https://blog.hubspot.com/marketing/real-monet](https://blog.hubspot.com/marketing/real-monet)
-
-### HubSpot AEO vs. Otterly: Platform or standalone tool?
-_Thu, 30 Jul 2026 11:00:02 GMT_
-
-Here’s the question most teams are actually trying to answer: do you need a standalone tool to monitor how your brand shows up in AI search, or do you need something that connects that monitoring to the content and CRM workflows that let you act on it?
-
-→ [https://blog.hubspot.com/marketing/hubspot-vs-otterly](https://blog.hubspot.com/marketing/hubspot-vs-otterly)
-
-### Profound vs. Semrush AEO: What each tool actually does
-_Thu, 30 Jul 2026 00:00:00 GMT_
-
-Profound and Semrush have both staked out positions in the answer engine optimization space, but they’re built for different teams with different goals. This post breaks down what each tool actually does, where they differ on engine coverage, prompt research, dashboards, and pricing, and how to decide which one fits your workflow.
-
-→ [https://blog.hubspot.com/marketing/profound-vs-semrush](https://blog.hubspot.com/marketing/profound-vs-semrush)
 
 ---
 
@@ -130,6 +130,34 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### Kroger’s AI shopping assistant has ads at launch
+_Thu, 06 Aug 2026 04:01:00 +0000_
+
+Kroger has made advertising part of its AI shopping assistant, following the implementation of advertising features on competitors’ chatbots.
+
+→ [https://digiday.com/marketing/krogers-ai-shopping-assistant-has-ads-at-launch/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/krogers-ai-shopping-assistant-has-ads-at-launch/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Why brands like Gap Inc. and Staples are inviting their employees to be creators
+_Thu, 06 Aug 2026 04:01:00 +0000_
+
+Companies are scrambling for creators. Turns out they already employ them.
+
+→ [https://digiday.com/media/why-brands-like-gap-inc-and-staples-are-inviting-their-employees-to-be-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/why-brands-like-gap-inc-and-staples-are-inviting-their-employees-to-be-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### OpenAI brings product carousels to ChatGPT ads
+_Thu, 06 Aug 2026 04:01:00 +0000_
+
+It builds on OpenAI's product feed campaigns, bringing a Google Shopping-style carousel format to ChatGPT ahead of the Q4 holiday period.
+
+→ [https://digiday.com/marketing/openai-brings-product-carousels-to-chatgpt-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/openai-brings-product-carousels-to-chatgpt-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Media Briefing: The case for and against markdown for AI bots
+_Thu, 06 Aug 2026 04:01:00 +0000_
+
+Markdown is becoming publishers’ latest AI optimization tactic, raising questions about the scraping tradeoff.
+
+→ [https://digiday.com/media/media-briefing-the-case-for-and-against-markdown-for-ai-bots/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-the-case-for-and-against-markdown-for-ai-bots/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### Digiday+ Research: The 2026 guide to holiday marketing strategies, including A-Frame Brands, Mastercard and Ritual
 _Wed, 05 Aug 2026 04:01:00 +0000_
 
@@ -137,37 +165,37 @@ Shoppers continue to grapple with higher prices and affordability, while brands 
 
 → [https://digiday.com/marketing/digiday-research-the-2026-guide-to-holiday-marketing-strategies-including-a-frame-brands-mastercard-and-ritual/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/digiday-research-the-2026-guide-to-holiday-marketing-strategies-including-a-frame-brands-mastercard-and-ritual/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Sony is scaling up its Playstation advertising ambitions
-_Wed, 05 Aug 2026 04:01:00 +0000_
-
-Sony Interactive Entertainment is assembling a global sales team to monetize Playstation through ads.
-
-→ [https://digiday.com/media-buying/sony-is-scaling-up-its-playstation-advertising-ambitions/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/sony-is-scaling-up-its-playstation-advertising-ambitions/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Future of TV Briefing: Why Aéropostale is investing in creator-led episodic shows
-_Wed, 05 Aug 2026 04:01:00 +0000_
-
-This week’s Future of TV Briefing features a Q&#38;A with Catalyst Brands evp and chief customer and marketing officer Marisa Thalberg about Aéropostale’s recent creator-led episodic series.
-
-→ [https://digiday.com/future-of-tv/future-of-tv-briefing-why-aeropostale-is-investing-in-creator-led-episodic-shows/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-why-aeropostale-is-investing-in-creator-led-episodic-shows/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Inside the indie agencies founded by Omnicom and IPG’s former staffers
-_Wed, 05 Aug 2026 04:01:00 +0000_
-
-Thousands of media practitioners and creatives have left Omnicom since its merger with IPG. Some have already founded their own agencies.
-
-→ [https://digiday.com/marketing/inside-the-indie-agencies-founded-by-omnicom-and-ipgs-former-staffers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/inside-the-indie-agencies-founded-by-omnicom-and-ipgs-former-staffers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### The Rundown: Google’s legal woes with ad tech rivals
-_Wed, 05 Aug 2026 04:01:00 +0000_
-
-Teads files suit against Google’s ad tech suite, warns investors of potential retaliation, as industry awaits a looming remedies ruling in Google’s antitrust trial.
-
-→ [https://digiday.com/media-buying/the-rundown-googles-legal-woes-with-ad-tech-rivals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/the-rundown-googles-legal-woes-with-ad-tech-rivals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
 ---
 
 ## MarTech
+
+### Is your intent data being sold to your competitors?
+_Wed, 05 Aug 2026 14:55:45 +0000_
+
+Researchers say software vendors routinely collect customer and business data and incorporate it into commercial products. The post Is your intent data being sold to your competitors? appeared first on MarTech .
+
+→ [https://martech.org/is-your-intent-data-being-sold-to-your-competitors/](https://martech.org/is-your-intent-data-being-sold-to-your-competitors/)
+
+### The future belongs to marketers who make others smarter
+_Wed, 05 Aug 2026 12:43:00 +0000_
+
+Experience isn't losing value because of AI. It's shifting from personal expertise to better decisions, stronger teams, and organizational impact. The post The future belongs to marketers who make others smarter appeared first on MarTech .
+
+→ [https://martech.org/the-future-belongs-to-marketers-who-make-others-smarter/](https://martech.org/the-future-belongs-to-marketers-who-make-others-smarter/)
+
+### How to audit your email automations for revenue gaps
+_Wed, 05 Aug 2026 12:06:00 +0000_
+
+Find your email program's weak spots, from deliverability basics to high-value flows and ESP features, and turn missed opportunities into revenue. The post How to audit your email automations for revenue gaps appeared first on MarTech .
+
+→ [https://martech.org/how-to-audit-your-email-automations-for-revenue-gaps/](https://martech.org/how-to-audit-your-email-automations-for-revenue-gaps/)
+
+### Why the F.A.C.T.S. model is the key to search everywhere optimization by SOCi
+_Wed, 05 Aug 2026 11:00:00 +0000_
+
+Learn how to boost visibility across search, social, reputation, and AI using SOCi's F.A.C.T.S. model for multi-location brands. The post Why the F.A.C.T.S. model is the key to search everywhere optimization appeared first on MarTech .
+
+→ [https://martech.org/why-the-f-a-c-t-s-model-is-the-key-to-search-everywhere-optimization/](https://martech.org/why-the-f-a-c-t-s-model-is-the-key-to-search-everywhere-optimization/)
 
 ### OpenAI ad experiment could change what happens after the click
 _Tue, 04 Aug 2026 14:28:57 +0000_
@@ -175,33 +203,5 @@ _Tue, 04 Aug 2026 14:28:57 +0000_
 ChatGPT ads appear to launch business-specific AI agent that answers questions, recommends products, and captures leads. The post OpenAI ad experiment could change what happens after the click appeared first on MarTech .
 
 → [https://martech.org/openai-ad-experiment-could-change-what-happens-after-the-click/](https://martech.org/openai-ad-experiment-could-change-what-happens-after-the-click/)
-
-### AI is reshaping marketing teams from the inside
-_Tue, 04 Aug 2026 12:48:00 +0000_
-
-AI's biggest impact isn't content creation. It's breaking down silos, changing roles, and creating more integrated marketing organizations. The post AI is reshaping marketing teams from the inside appeared first on MarTech .
-
-→ [https://martech.org/ai-is-reshaping-marketing-teams-from-the-inside/](https://martech.org/ai-is-reshaping-marketing-teams-from-the-inside/)
-
-### Customers don’t hate AI. They hate self-serving AI.
-_Tue, 04 Aug 2026 12:30:00 +0000_
-
-Every AI investment should make it easier for customers to accomplish what they came to do. Here's how to evaluate whether it does. The post Customers don&#8217;t hate AI. They hate self-serving AI. appeared first on MarTech .
-
-→ [https://martech.org/customers-dont-hate-ai-they-hate-self-serving-ai/](https://martech.org/customers-dont-hate-ai-they-hate-self-serving-ai/)
-
-### Marketing on LinkedIn: What you need to know
-_Tue, 04 Aug 2026 12:15:00 +0000_
-
-Your guide to LinkedIn's tools, strategies and best practices. Updated with info on the new collaborative post feature. The post Marketing on LinkedIn: What you need to know appeared first on MarTech .
-
-→ [https://martech.org/linkedin-the-marketers-guide/](https://martech.org/linkedin-the-marketers-guide/)
-
-### AI can knock on the door. Your CRM marketing platform is still the house. by Optimove
-_Tue, 04 Aug 2026 11:00:00 +0000_
-
-AI assistants like ChatGPT and Claude can now plug straight into your marketing systems. That connection is powerful. But it doesn't replace the platform behind it. It depends on it. The post AI can knock on the door. Your CRM marketing platform is still the house. appeared first on MarTech .
-
-→ [https://martech.org/ai-can-knock-on-the-door-your-crm-marketing-platform-is-still-the-house/](https://martech.org/ai-can-knock-on-the-door-your-crm-marketing-platform-is-still-the-house/)
 
 ---
