@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-06 05:50 UTC_
+_Päivitetty: 2026-08-07 04:56 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,27 @@ Digitaalisella markkinoinnilla voit tavoitella asiakastasi jokaisessa ostoproses
 
 ## HubSpot Marketing Blog
 
+### HubSpot AEO vs. Scrunch: Which tool fits your workflow?
+_Thu, 06 Aug 2026 18:30:02 GMT_
+
+If you’re evaluating answer engine optimization tools, here’s the short version: HubSpot AEO is an insight-to-execution platform that connects AI visibility data directly to your CRM and content workflows. Scrunch is a focused monitoring and benchmarking tool that excels at multi-engine tracking and competitive share-of-voice analysis.
+
+→ [https://blog.hubspot.com/marketing/hubspot-vs-scrunch](https://blog.hubspot.com/marketing/hubspot-vs-scrunch)
+
+### HubSpot AEO vs. Ahrefs Brand Radar: Features compared [2026]
+_Thu, 06 Aug 2026 11:00:03 GMT_
+
+As more buyers skip search entirely and go straight to ChatGPT, Gemini, or Perplexity for recommendations, marketers are realizing they need a new kind of tool — one that shows them how their brand appears in AI answers and what to do about it. That’s what both HubSpot AEO and Ahrefs Brand Radar are built for. But they take meaningfully different…
+
+→ [https://blog.hubspot.com/marketing/hubspot-vs-ahrefs-aeo](https://blog.hubspot.com/marketing/hubspot-vs-ahrefs-aeo)
+
+### CRM deployment: A step-by-step process for growing teams
+_Thu, 06 Aug 2026 11:00:02 GMT_
+
+There’s an irony at the heart of most failed CRM rollouts: the technology almost never lets you down. The deployment does. More than 60% of CRM failures trace back to people and process challenges, not the software, and most of those failures are preventable with the right plan.
+
+→ [https://blog.hubspot.com/marketing/crm-deployment](https://blog.hubspot.com/marketing/crm-deployment)
+
 ### Brand tracking tools for scaling companies
 _Wed, 05 Aug 2026 11:00:06 GMT_
 
@@ -65,27 +86,6 @@ _Wed, 05 Aug 2026 11:00:04 GMT_
 If you’re comparing Scrunch versus Peec AI , you need to know your buyers are already forming opinions about your brand in answer engines like ChatGPT, Perplexity, and Google AI Mode before they ever reach your website.
 
 → [https://blog.hubspot.com/marketing/scrunch-vs-peec-ai](https://blog.hubspot.com/marketing/scrunch-vs-peec-ai)
-
-### Omnichannel customer service: What it is and how to do it
-_Wed, 05 Aug 2026 11:00:02 GMT_
-
-In today’s digital world, customers want to access support quickly via their preferred communication channel. In response, more companies are looking to deliver seamless, personalized support experiences via omnichannel customer service models.
-
-→ [https://blog.hubspot.com/marketing/omnichannel-customer-service](https://blog.hubspot.com/marketing/omnichannel-customer-service)
-
-### CRM change management: A practical guide for leaders
-_Wed, 05 Aug 2026 11:00:02 GMT_
-
-CRM projects don’t fail at the technical level — they fail because the people expected to use the system never bought in, the training was too generic to stick, and nobody owned adoption after go-live. The result is a CRM that costs money to maintain but doesn’t deliver the pipeline visibility or process alignment it was supposed to.
-
-→ [https://blog.hubspot.com/marketing/crm-change-management](https://blog.hubspot.com/marketing/crm-change-management)
-
-### HubSpot AEO Grader vs. Peec AI: Features, pricing, and use cases
-_Tue, 04 Aug 2026 18:00:03 GMT_
-
-If your buyers are asking ChatGPT for vendor recommendations instead of scrolling through Google results, your brand’s visibility in AI search engines matters as much as your organic rankings … maybe more. That shift is what’s driving the rapid adoption of answer engine optimization as a discipline, and it’s why marketers are now evaluating…
-
-→ [https://blog.hubspot.com/marketing/hubspot-vs-peec-ai](https://blog.hubspot.com/marketing/hubspot-vs-peec-ai)
 
 ---
 
@@ -130,78 +130,39 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Kroger’s AI shopping assistant has ads at launch
-_Thu, 06 Aug 2026 04:01:00 +0000_
+### Your favorite beauty brands are now also entertainment brands
+_Fri, 07 Aug 2026 04:01:00 +0000_
 
-Kroger has made advertising part of its AI shopping assistant, following the implementation of advertising features on competitors’ chatbots.
+Many of today’s beauty brands are asking if entertainment and advertising can be one and the same.
 
-→ [https://digiday.com/marketing/krogers-ai-shopping-assistant-has-ads-at-launch/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/krogers-ai-shopping-assistant-has-ads-at-launch/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/your-favorite-beauty-brands-are-now-also-entertainment-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/your-favorite-beauty-brands-are-now-also-entertainment-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Why brands like Gap Inc. and Staples are inviting their employees to be creators
-_Thu, 06 Aug 2026 04:01:00 +0000_
+### Synthetic data specialist Ideally wants research to be used at the start of the creative process
+_Fri, 07 Aug 2026 04:01:00 +0000_
 
-Companies are scrambling for creators. Turns out they already employ them.
+Ideally is looking to reinvent research when serving the creative side of the industry by integrating consumer insights earlier in the creative process.
 
-→ [https://digiday.com/media/why-brands-like-gap-inc-and-staples-are-inviting-their-employees-to-be-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/why-brands-like-gap-inc-and-staples-are-inviting-their-employees-to-be-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/synthetic-data-specialist-ideally-wants-research-to-be-used-at-the-start-of-the-creative-process/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/synthetic-data-specialist-ideally-wants-research-to-be-used-at-the-start-of-the-creative-process/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### OpenAI brings product carousels to ChatGPT ads
-_Thu, 06 Aug 2026 04:01:00 +0000_
+### By the numbers: How marketers are building the infrastructure for AI search
+_Fri, 07 Aug 2026 04:01:00 +0000_
 
-It builds on OpenAI's product feed campaigns, bringing a Google Shopping-style carousel format to ChatGPT ahead of the Q4 holiday period.
+Marketers are carving out budgets for AI search, but research suggests execution, measurement and content strategies are still catching up.
 
-→ [https://digiday.com/marketing/openai-brings-product-carousels-to-chatgpt-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/openai-brings-product-carousels-to-chatgpt-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/by-the-numbers-how-marketers-are-building-the-infrastructure-for-ai-search/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/by-the-numbers-how-marketers-are-building-the-infrastructure-for-ai-search/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Briefing: The case for and against markdown for AI bots
-_Thu, 06 Aug 2026 04:01:00 +0000_
+### Clients are hungry for AI visibility aids, but buyers are skeptical of specialized markdown ads
+_Fri, 07 Aug 2026 04:01:00 +0000_
 
-Markdown is becoming publishers’ latest AI optimization tactic, raising questions about the scraping tradeoff.
+Media buyers say ad units created to influence AI bots and scrapers could be valuable, but there are some major caveats.
 
-→ [https://digiday.com/media/media-briefing-the-case-for-and-against-markdown-for-ai-bots/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-the-case-for-and-against-markdown-for-ai-bots/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/clients-are-hungry-for-ai-visibility-aids-but-buyers-are-skeptical-of-specialized-markdown-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/clients-are-hungry-for-ai-visibility-aids-but-buyers-are-skeptical-of-specialized-markdown-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Digiday+ Research: The 2026 guide to holiday marketing strategies, including A-Frame Brands, Mastercard and Ritual
-_Wed, 05 Aug 2026 04:01:00 +0000_
+### Future of Marketing Briefing: Creator agencies are becoming entertainment studios — brands are footing the bill
+_Fri, 07 Aug 2026 04:01:00 +0000_
 
-Shoppers continue to grapple with higher prices and affordability, while brands face rising operating costs and increased pressure to prove their marketing dollars are delivering measurable returns.
+Creator agencies are either rebuilding themselves as entertainment companies or launching as one from day one.
 
-→ [https://digiday.com/marketing/digiday-research-the-2026-guide-to-holiday-marketing-strategies-including-a-frame-brands-mastercard-and-ritual/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/digiday-research-the-2026-guide-to-holiday-marketing-strategies-including-a-frame-brands-mastercard-and-ritual/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
----
-
-## MarTech
-
-### Is your intent data being sold to your competitors?
-_Wed, 05 Aug 2026 14:55:45 +0000_
-
-Researchers say software vendors routinely collect customer and business data and incorporate it into commercial products. The post Is your intent data being sold to your competitors? appeared first on MarTech .
-
-→ [https://martech.org/is-your-intent-data-being-sold-to-your-competitors/](https://martech.org/is-your-intent-data-being-sold-to-your-competitors/)
-
-### The future belongs to marketers who make others smarter
-_Wed, 05 Aug 2026 12:43:00 +0000_
-
-Experience isn't losing value because of AI. It's shifting from personal expertise to better decisions, stronger teams, and organizational impact. The post The future belongs to marketers who make others smarter appeared first on MarTech .
-
-→ [https://martech.org/the-future-belongs-to-marketers-who-make-others-smarter/](https://martech.org/the-future-belongs-to-marketers-who-make-others-smarter/)
-
-### How to audit your email automations for revenue gaps
-_Wed, 05 Aug 2026 12:06:00 +0000_
-
-Find your email program's weak spots, from deliverability basics to high-value flows and ESP features, and turn missed opportunities into revenue. The post How to audit your email automations for revenue gaps appeared first on MarTech .
-
-→ [https://martech.org/how-to-audit-your-email-automations-for-revenue-gaps/](https://martech.org/how-to-audit-your-email-automations-for-revenue-gaps/)
-
-### Why the F.A.C.T.S. model is the key to search everywhere optimization by SOCi
-_Wed, 05 Aug 2026 11:00:00 +0000_
-
-Learn how to boost visibility across search, social, reputation, and AI using SOCi's F.A.C.T.S. model for multi-location brands. The post Why the F.A.C.T.S. model is the key to search everywhere optimization appeared first on MarTech .
-
-→ [https://martech.org/why-the-f-a-c-t-s-model-is-the-key-to-search-everywhere-optimization/](https://martech.org/why-the-f-a-c-t-s-model-is-the-key-to-search-everywhere-optimization/)
-
-### OpenAI ad experiment could change what happens after the click
-_Tue, 04 Aug 2026 14:28:57 +0000_
-
-ChatGPT ads appear to launch business-specific AI agent that answers questions, recommends products, and captures leads. The post OpenAI ad experiment could change what happens after the click appeared first on MarTech .
-
-→ [https://martech.org/openai-ad-experiment-could-change-what-happens-after-the-click/](https://martech.org/openai-ad-experiment-could-change-what-happens-after-the-click/)
+→ [https://digiday.com/marketing/future-of-marketing-briefing-creator-agencies-are-becoming-entertainment-studios-brands-are-footing-the-bill/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-creator-agencies-are-becoming-entertainment-studios-brands-are-footing-the-bill/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
