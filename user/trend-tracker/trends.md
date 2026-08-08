@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-07 04:56 UTC_
+_Päivitetty: 2026-08-08 04:11 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -10,6 +10,13 @@ _Päivitetty: 2026-08-07 04:56 UTC_
 # 🇫🇮 Kotimaiset lähteet
 
 ## Digimarkkinointi.fi
+
+### Kestävä sisältöstrategia ei kaadu somen muutoksiin, vaikka Meta rajoitti yhteiskunnallista mainontaa
+_Fri, 07 Aug 2026 07:50:50 +0000_
+
+Miksi sisältöstrategiaan ja omistettuihin kanaviin kannattaa edelleen panostaa? The post Kestävä sisältöstrategia ei kaadu somen muutoksiin, vaikka Meta rajoitti yhteiskunnallista mainontaa appeared first on SDM Digital .
+
+→ [https://sdm.fi/blogi/kestava-sisaltostrategia-meta-rajoitti-yhteiskunnallista-mainontaa/](https://sdm.fi/blogi/kestava-sisaltostrategia-meta-rajoitti-yhteiskunnallista-mainontaa/)
 
 ### Miten kuvia kannattaa optimoida tekoälyn ja saavutettavuuden aikakaudella?
 _Wed, 15 Jul 2026 09:51:03 +0000_
@@ -39,18 +46,18 @@ Tapahtumassa käsiteltiin videon ja sisällön roolia markkinoinnissa tekoälyn 
 
 → [https://sdm.fi/blogi/video-osuu-tunteisiin-twentythree-summit-2026/](https://sdm.fi/blogi/video-osuu-tunteisiin-twentythree-summit-2026/)
 
-### Digitaalisella markkinoinnilla voit tavoitella asiakastasi jokaisessa ostoprosessin eri vaiheessa. Mutta miten?
-_Tue, 19 May 2026 06:50:00 +0000_
-
-Digitaalisella markkinoinnilla voit tavoitella asiakastasi jokaisessa ostoprosessin eri vaiheessa. Mutta miten? The post Digitaalisella markkinoinnilla voit tavoitella asiakastasi jokaisessa ostoprosessin eri vaiheessa. Mutta miten? appeared first on SDM Digital .
-
-→ [https://sdm.fi/blogi/digitaalinen-markkinointi-ja-ostoprosessin-eri-vaiheet/](https://sdm.fi/blogi/digitaalinen-markkinointi-ja-ostoprosessin-eri-vaiheet/)
-
 ---
 
 # 🌍 Kansainväliset lähteet
 
 ## HubSpot Marketing Blog
+
+### What is enterprise marketing automation? Features, platforms, and best practices
+_Fri, 07 Aug 2026 11:00:02 GMT_
+
+Enterprise marketing automation is how large organizations scale personalized marketing across multiple teams and channels without disrupting their data or workflow. If you’re evaluating platforms or trying to modernize a fragmented stack, this guide covers everything you need to make a confident decision.
+
+→ [https://blog.hubspot.com/marketing/enterprise-marketing-automation](https://blog.hubspot.com/marketing/enterprise-marketing-automation)
 
 ### HubSpot AEO vs. Scrunch: Which tool fits your workflow?
 _Thu, 06 Aug 2026 18:30:02 GMT_
@@ -79,13 +86,6 @@ _Wed, 05 Aug 2026 11:00:06 GMT_
 Brand tracking tools help growth marketers gauge what people say about the brand, whether it’s good or bad, and why they choose competitors, all at scale. Brand monitoring also reveals AI share of voice and what you should improve to be cited more by LLMs.
 
 → [https://blog.hubspot.com/marketing/brand-tracking-tools](https://blog.hubspot.com/marketing/brand-tracking-tools)
-
-### Scrunch vs. Peec AI: Which tool fits your AEO strategy? [2026]
-_Wed, 05 Aug 2026 11:00:04 GMT_
-
-If you’re comparing Scrunch versus Peec AI , you need to know your buyers are already forming opinions about your brand in answer engines like ChatGPT, Perplexity, and Google AI Mode before they ever reach your website.
-
-→ [https://blog.hubspot.com/marketing/scrunch-vs-peec-ai](https://blog.hubspot.com/marketing/scrunch-vs-peec-ai)
 
 ---
 
@@ -137,7 +137,7 @@ Many of today’s beauty brands are asking if entertainment and advertising can 
 
 → [https://digiday.com/marketing/your-favorite-beauty-brands-are-now-also-entertainment-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/your-favorite-beauty-brands-are-now-also-entertainment-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Synthetic data specialist Ideally wants research to be used at the start of the creative process
+### Data specialist Ideally wants research to be used at the start of the creative process
 _Fri, 07 Aug 2026 04:01:00 +0000_
 
 Ideally is looking to reinvent research when serving the creative side of the industry by integrating consumer insights earlier in the creative process.
@@ -164,5 +164,44 @@ _Fri, 07 Aug 2026 04:01:00 +0000_
 Creator agencies are either rebuilding themselves as entertainment companies or launching as one from day one.
 
 → [https://digiday.com/marketing/future-of-marketing-briefing-creator-agencies-are-becoming-entertainment-studios-brands-are-footing-the-bill/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-creator-agencies-are-becoming-entertainment-studios-brands-are-footing-the-bill/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+---
+
+## MarTech
+
+### Here are the marketing skills AI is making more valuable
+_Fri, 07 Aug 2026 14:45:51 +0000_
+
+As AI takes on more execution, there is more need for marketers who bring judgment, strategy and the skills to direct the technology. The post Here are the marketing skills AI is making more valuable appeared first on MarTech .
+
+→ [https://martech.org/here-are-the-marketing-skills-ai-is-making-more-valuable/](https://martech.org/here-are-the-marketing-skills-ai-is-making-more-valuable/)
+
+### 6 steps to protect your data from being stolen by vendors
+_Fri, 07 Aug 2026 13:17:14 +0000_
+
+Learn how to audit martech vendors, limit their access to sensitive data and make security part of every software purchase. The post 6 steps to protect your data from being stolen by vendors appeared first on MarTech .
+
+→ [https://martech.org/6-steps-to-protect-your-data-from-being-stolen-by-vendors/](https://martech.org/6-steps-to-protect-your-data-from-being-stolen-by-vendors/)
+
+### How to build a technology advisory committee that adds value
+_Fri, 07 Aug 2026 12:24:00 +0000_
+
+Reduce duplicate software, improve adoption, and align technology investments with governance that supports smarter purchasing. The post How to build a technology advisory committee that adds value appeared first on MarTech .
+
+→ [https://martech.org/how-to-build-a-technology-advisory-committee-that-adds-value/](https://martech.org/how-to-build-a-technology-advisory-committee-that-adds-value/)
+
+### Personalization still falls short of customer expectations
+_Fri, 07 Aug 2026 12:17:00 +0000_
+
+Most brands recognize customers but don't understand their context. Learn what's keeping personalization from meeting rising customer expectations. The post Personalization still falls short of customer expectations appeared first on MarTech .
+
+→ [https://martech.org/personalization-still-falls-short-of-customer-expectations/](https://martech.org/personalization-still-falls-short-of-customer-expectations/)
+
+### The latest AI-powered martech news and releases
+_Thu, 06 Aug 2026 15:24:25 +0000_
+
+Klaviyo is acquiring AI startup Agency and bringing its founder, Elias Torres, aboard as chief product officer. The post The latest AI-powered martech news and releases appeared first on MarTech .
+
+→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
 
 ---
