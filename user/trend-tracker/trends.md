@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-09 04:19 UTC_
+_Päivitetty: 2026-08-10 04:39 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,40 +130,40 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Your favorite beauty brands are now also entertainment brands
-_Fri, 07 Aug 2026 04:01:00 +0000_
+### OpenAI is coming for SMB advertisers
+_Mon, 10 Aug 2026 04:01:00 +0000_
 
-Many of today’s beauty brands are asking if entertainment and advertising can be one and the same.
+The company is going after smaller advertisers. Its job listings prove it.
 
-→ [https://digiday.com/marketing/your-favorite-beauty-brands-are-now-also-entertainment-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/your-favorite-beauty-brands-are-now-also-entertainment-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/openai-is-coming-for-smb-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/openai-is-coming-for-smb-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Data specialist Ideally wants research to be used at the start of the creative process
-_Fri, 07 Aug 2026 04:01:00 +0000_
+### Zoom relies on creators to boost AI search results
+_Mon, 10 Aug 2026 04:01:00 +0000_
 
-Ideally is looking to reinvent research when serving the creative side of the industry by integrating consumer insights earlier in the creative process.
+As AI changes how brands are discovered, Zoom is leaning on creators and journalists to shape its reputation.
 
-→ [https://digiday.com/marketing/synthetic-data-specialist-ideally-wants-research-to-be-used-at-the-start-of-the-creative-process/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/synthetic-data-specialist-ideally-wants-research-to-be-used-at-the-start-of-the-creative-process/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/zoom-relies-on-creators-to-boost-ai-search-results/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/zoom-relies-on-creators-to-boost-ai-search-results/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### By the numbers: How marketers are building the infrastructure for AI search
-_Fri, 07 Aug 2026 04:01:00 +0000_
+### Meet the interior design creator who made a reluctant pivot that paid off
+_Mon, 10 Aug 2026 04:01:00 +0000_
 
-Marketers are carving out budgets for AI search, but research suggests execution, measurement and content strategies are still catching up.
+Julie Sousa had an interior design company and viral content, but after hiring a manager, was pressured to pivot. It worked.
 
-→ [https://digiday.com/marketing/by-the-numbers-how-marketers-are-building-the-infrastructure-for-ai-search/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/by-the-numbers-how-marketers-are-building-the-infrastructure-for-ai-search/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/meet-the-interior-design-creator-who-made-a-reluctant-pivot-that-paid-off/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/meet-the-interior-design-creator-who-made-a-reluctant-pivot-that-paid-off/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Clients are hungry for AI visibility aids, but buyers are skeptical of specialized markdown ads
-_Fri, 07 Aug 2026 04:01:00 +0000_
+### Why Georgia-Pacific bet the future of programmatic on supply, not demand
+_Mon, 10 Aug 2026 04:01:00 +0000_
 
-Media buyers say ad units created to influence AI bots and scrapers could be valuable, but there are some major caveats.
+Georgia-Pacific cut its SSPs by 80%. Here’s what it learned about supply-side control.
 
-→ [https://digiday.com/media-buying/clients-are-hungry-for-ai-visibility-aids-but-buyers-are-skeptical-of-specialized-markdown-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/clients-are-hungry-for-ai-visibility-aids-but-buyers-are-skeptical-of-specialized-markdown-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/why-georgia-pacific-bet-the-future-of-programmatic-on-supply-not-demand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/why-georgia-pacific-bet-the-future-of-programmatic-on-supply-not-demand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Future of Marketing Briefing: Creator agencies are becoming entertainment studios — brands are footing the bill
-_Fri, 07 Aug 2026 04:01:00 +0000_
+### Media Buying Briefing: How Instrument won Croc’s business in a day
+_Mon, 10 Aug 2026 04:01:00 +0000_
 
-Creator agencies are either rebuilding themselves as entertainment companies or launching as one from day one.
+The agency’s calling card is applying technology-driven creative solutions for clients to get them to think far beyond the parameters of what they're comfortable with.
 
-→ [https://digiday.com/marketing/future-of-marketing-briefing-creator-agencies-are-becoming-entertainment-studios-brands-are-footing-the-bill/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-creator-agencies-are-becoming-entertainment-studios-brands-are-footing-the-bill/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/media-buying-briefing-how-instrument-won-crocs-business-in-a-day/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-how-instrument-won-crocs-business-in-a-day/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
