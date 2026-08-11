@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-10 04:39 UTC_
+_Päivitetty: 2026-08-11 04:20 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Tapahtumassa käsiteltiin videon ja sisällön roolia markkinoinnissa tekoälyn 
 
 ## HubSpot Marketing Blog
 
+### The simple way to make your marketing claims 42.9% more believable
+_Mon, 10 Aug 2026 13:00:04 GMT_
+
+A few weeks back, I stumbled across a Reddit post that talked about the first measurement ever taken of Mount Everest. Rather than listing the exact measurement of 29,000 feet, the British Royal Geographical Society declared Mount Everest’s elevation to be 29,002 feet. It’s one of those facts that seems fake, but there’s good evidence that it’s…
+
+→ [https://blog.hubspot.com/marketing/marketing-claims-psychology](https://blog.hubspot.com/marketing/marketing-claims-psychology)
+
 ### What is enterprise marketing automation? Features, platforms, and best practices
 _Fri, 07 Aug 2026 11:00:02 GMT_
 
@@ -79,13 +86,6 @@ _Thu, 06 Aug 2026 11:00:02 GMT_
 There’s an irony at the heart of most failed CRM rollouts: the technology almost never lets you down. The deployment does. More than 60% of CRM failures trace back to people and process challenges, not the software, and most of those failures are preventable with the right plan.
 
 → [https://blog.hubspot.com/marketing/crm-deployment](https://blog.hubspot.com/marketing/crm-deployment)
-
-### Brand tracking tools for scaling companies
-_Wed, 05 Aug 2026 11:00:06 GMT_
-
-Brand tracking tools help growth marketers gauge what people say about the brand, whether it’s good or bad, and why they choose competitors, all at scale. Brand monitoring also reveals AI share of voice and what you should improve to be cited more by LLMs.
-
-→ [https://blog.hubspot.com/marketing/brand-tracking-tools](https://blog.hubspot.com/marketing/brand-tracking-tools)
 
 ---
 
@@ -130,78 +130,39 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### OpenAI is coming for SMB advertisers
-_Mon, 10 Aug 2026 04:01:00 +0000_
+### Ad Tech Briefing: More take-private deals are on the horizon, here’s what to look out for
+_Tue, 11 Aug 2026 04:01:00 +0000_
 
-The company is going after smaller advertisers. Its job listings prove it.
+The largest public names on the public markets are plateauing, prompting further speculation.
 
-→ [https://digiday.com/marketing/openai-is-coming-for-smb-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/openai-is-coming-for-smb-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/ad-tech-briefing-more-take-private-deals-are-on-the-horizon-heres-what-to-look-out-for/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-more-take-private-deals-are-on-the-horizon-heres-what-to-look-out-for/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Zoom relies on creators to boost AI search results
-_Mon, 10 Aug 2026 04:01:00 +0000_
+### Experian retires the Audigent brand, folding it into Experian Marketing Services
+_Tue, 11 Aug 2026 04:01:00 +0000_
 
-As AI changes how brands are discovered, Zoom is leaning on creators and journalists to shape its reputation.
+The Audigent brand is gone. So, increasingly, is the idea of curation as a category.
 
-→ [https://digiday.com/marketing/zoom-relies-on-creators-to-boost-ai-search-results/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/zoom-relies-on-creators-to-boost-ai-search-results/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/experian-retires-the-audigent-brand-folding-it-into-experian-marketing-services/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/experian-retires-the-audigent-brand-folding-it-into-experian-marketing-services/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Meet the interior design creator who made a reluctant pivot that paid off
-_Mon, 10 Aug 2026 04:01:00 +0000_
+### S4 and Monks are trying to get ahead of rising AI token costs
+_Tue, 11 Aug 2026 04:01:00 +0000_
 
-Julie Sousa had an interior design company and viral content, but after hiring a manager, was pressured to pivot. It worked.
+Monks is considered a leader in AI marketing services, but “exploding” use of AI tokens poses difficult questions for execs focused on keeping costs down.
 
-→ [https://digiday.com/media/meet-the-interior-design-creator-who-made-a-reluctant-pivot-that-paid-off/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/meet-the-interior-design-creator-who-made-a-reluctant-pivot-that-paid-off/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/s4s-growing-margins-please-shareholders-but-can-it-balance-cost-controls-with-ai-token-spend/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/s4s-growing-margins-please-shareholders-but-can-it-balance-cost-controls-with-ai-token-spend/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Why Georgia-Pacific bet the future of programmatic on supply, not demand
-_Mon, 10 Aug 2026 04:01:00 +0000_
+### Perplexity blocks Time’s ads served to AI agents, calling them ‘deceptive’
+_Tue, 11 Aug 2026 04:01:00 +0000_
 
-Georgia-Pacific cut its SSPs by 80%. Here’s what it learned about supply-side control.
+Perplexity has blocked Time’s markdown agent ads from influencing its AI system.
 
-→ [https://digiday.com/media-buying/why-georgia-pacific-bet-the-future-of-programmatic-on-supply-not-demand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/why-georgia-pacific-bet-the-future-of-programmatic-on-supply-not-demand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/perplexity-blocks-times-ads-served-to-ai-agents-calling-them-deceptive/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/perplexity-blocks-times-ads-served-to-ai-agents-calling-them-deceptive/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Buying Briefing: How Instrument won Croc’s business in a day
-_Mon, 10 Aug 2026 04:01:00 +0000_
+### Why agentic media buying is becoming a client-by-client configuration job
+_Tue, 11 Aug 2026 04:01:00 +0000_
 
-The agency’s calling card is applying technology-driven creative solutions for clients to get them to think far beyond the parameters of what they're comfortable with.
+Butler/Till is expanding its agentic media buying tests, highlighting the challenge of adapting AI to different client needs.
 
-→ [https://digiday.com/media-buying/media-buying-briefing-how-instrument-won-crocs-business-in-a-day/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-how-instrument-won-crocs-business-in-a-day/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
----
-
-## MarTech
-
-### Here are the marketing skills AI is making more valuable
-_Fri, 07 Aug 2026 14:45:51 +0000_
-
-As AI takes on more execution, there is more need for marketers who bring judgment, strategy and the skills to direct the technology. The post Here are the marketing skills AI is making more valuable appeared first on MarTech .
-
-→ [https://martech.org/here-are-the-marketing-skills-ai-is-making-more-valuable/](https://martech.org/here-are-the-marketing-skills-ai-is-making-more-valuable/)
-
-### 6 steps to protect your data from being stolen by vendors
-_Fri, 07 Aug 2026 13:17:14 +0000_
-
-Learn how to audit martech vendors, limit their access to sensitive data and make security part of every software purchase. The post 6 steps to protect your data from being stolen by vendors appeared first on MarTech .
-
-→ [https://martech.org/6-steps-to-protect-your-data-from-being-stolen-by-vendors/](https://martech.org/6-steps-to-protect-your-data-from-being-stolen-by-vendors/)
-
-### How to build a technology advisory committee that adds value
-_Fri, 07 Aug 2026 12:24:00 +0000_
-
-Reduce duplicate software, improve adoption, and align technology investments with governance that supports smarter purchasing. The post How to build a technology advisory committee that adds value appeared first on MarTech .
-
-→ [https://martech.org/how-to-build-a-technology-advisory-committee-that-adds-value/](https://martech.org/how-to-build-a-technology-advisory-committee-that-adds-value/)
-
-### Personalization still falls short of customer expectations
-_Fri, 07 Aug 2026 12:17:00 +0000_
-
-Most brands recognize customers but don't understand their context. Learn what's keeping personalization from meeting rising customer expectations. The post Personalization still falls short of customer expectations appeared first on MarTech .
-
-→ [https://martech.org/personalization-still-falls-short-of-customer-expectations/](https://martech.org/personalization-still-falls-short-of-customer-expectations/)
-
-### The latest AI-powered martech news and releases
-_Thu, 06 Aug 2026 15:24:25 +0000_
-
-Klaviyo is acquiring AI startup Agency and bringing its founder, Elias Torres, aboard as chief product officer. The post The latest AI-powered martech news and releases appeared first on MarTech .
-
-→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
+→ [https://digiday.com/podcasts/why-agentic-media-buying-is-becoming-a-client-by-client-configuration-job/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/why-agentic-media-buying-is-becoming-a-client-by-client-configuration-job/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
