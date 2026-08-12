@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-11 04:20 UTC_
+_Päivitetty: 2026-08-12 04:48 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Tapahtumassa käsiteltiin videon ja sisällön roolia markkinoinnissa tekoälyn 
 
 ## HubSpot Marketing Blog
 
+### AI search performance KPIs every marketer should track
+_Tue, 11 Aug 2026 17:00:03 GMT_
+
+As long as I’ve been in marketing, people have warned against focusing on “ vanity metrics ,” or those flashy, high numbers that don’t translate to real results or profit. Fast forward a decade, I never expected traffic and search rank to be part of that conversation.
+
+→ [https://blog.hubspot.com/marketing/ai-search-kpis](https://blog.hubspot.com/marketing/ai-search-kpis)
+
 ### The simple way to make your marketing claims 42.9% more believable
 _Mon, 10 Aug 2026 13:00:04 GMT_
 
@@ -79,13 +86,6 @@ _Thu, 06 Aug 2026 11:00:03 GMT_
 As more buyers skip search entirely and go straight to ChatGPT, Gemini, or Perplexity for recommendations, marketers are realizing they need a new kind of tool — one that shows them how their brand appears in AI answers and what to do about it. That’s what both HubSpot AEO and Ahrefs Brand Radar are built for. But they take meaningfully different…
 
 → [https://blog.hubspot.com/marketing/hubspot-vs-ahrefs-aeo](https://blog.hubspot.com/marketing/hubspot-vs-ahrefs-aeo)
-
-### CRM deployment: A step-by-step process for growing teams
-_Thu, 06 Aug 2026 11:00:02 GMT_
-
-There’s an irony at the heart of most failed CRM rollouts: the technology almost never lets you down. The deployment does. More than 60% of CRM failures trace back to people and process challenges, not the software, and most of those failures are preventable with the right plan.
-
-→ [https://blog.hubspot.com/marketing/crm-deployment](https://blog.hubspot.com/marketing/crm-deployment)
 
 ---
 
@@ -130,39 +130,39 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### Future of TV Briefing: In TV ad market’s swing to streaming, cheap inventory is in demand
+_Wed, 12 Aug 2026 04:01:00 +0000_
+
+This week’s Future of TV Briefing looks at how TV and streaming companies’ advertising businesses fared in the second quarter of 2026.
+
+→ [https://digiday.com/future-of-tv/future-of-tv-briefing-in-tv-ad-markets-swing-to-streaming-cheap-inventory-is-in-demand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-in-tv-ad-markets-swing-to-streaming-cheap-inventory-is-in-demand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Lifestyle brand Stanley 1913 adapts its marketing for the AI search era
+_Wed, 12 Aug 2026 04:01:00 +0000_
+
+The marketing it was doing worked well, but only for a human audience. The brand needed different approaches to ensure it was picked up by the AI platforms.
+
+→ [https://digiday.com/marketing/lifestyle-brand-stanley-1913-adapts-its-marketing-for-the-ai-search-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/lifestyle-brand-stanley-1913-adapts-its-marketing-for-the-ai-search-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Walmart finally lets advertisers exclude certain search terms
+_Wed, 12 Aug 2026 04:01:00 +0000_
+
+Walmart Connect said it would give advertisers the ability to exclude specific search terms for sponsored-products campaigns through “negative keywords.”
+
+→ [https://digiday.com/marketing/walmart-finally-lets-advertisers-exclude-certain-search-terms/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/walmart-finally-lets-advertisers-exclude-certain-search-terms/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Build or buy: Inside indie agency Mod Op’s AI infrastructure
+_Wed, 12 Aug 2026 04:01:00 +0000_
+
+Mod Op is betting that building its own AI infrastructure can deliver more value than simply licensing off-the-shelf tools.
+
+→ [https://digiday.com/marketing/build-or-buy-inside-indie-agency-mod-ops-ai-infrastructure/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/build-or-buy-inside-indie-agency-mod-ops-ai-infrastructure/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### Ad Tech Briefing: More take-private deals are on the horizon, here’s what to look out for
 _Tue, 11 Aug 2026 04:01:00 +0000_
 
 The largest public names on the public markets are plateauing, prompting further speculation.
 
 → [https://digiday.com/media-buying/ad-tech-briefing-more-take-private-deals-are-on-the-horizon-heres-what-to-look-out-for/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-more-take-private-deals-are-on-the-horizon-heres-what-to-look-out-for/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Experian retires the Audigent brand, folding it into Experian Marketing Services
-_Tue, 11 Aug 2026 04:01:00 +0000_
-
-The Audigent brand is gone. So, increasingly, is the idea of curation as a category.
-
-→ [https://digiday.com/media-buying/experian-retires-the-audigent-brand-folding-it-into-experian-marketing-services/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/experian-retires-the-audigent-brand-folding-it-into-experian-marketing-services/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### S4 and Monks are trying to get ahead of rising AI token costs
-_Tue, 11 Aug 2026 04:01:00 +0000_
-
-Monks is considered a leader in AI marketing services, but “exploding” use of AI tokens poses difficult questions for execs focused on keeping costs down.
-
-→ [https://digiday.com/marketing/s4s-growing-margins-please-shareholders-but-can-it-balance-cost-controls-with-ai-token-spend/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/s4s-growing-margins-please-shareholders-but-can-it-balance-cost-controls-with-ai-token-spend/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Perplexity blocks Time’s ads served to AI agents, calling them ‘deceptive’
-_Tue, 11 Aug 2026 04:01:00 +0000_
-
-Perplexity has blocked Time’s markdown agent ads from influencing its AI system.
-
-→ [https://digiday.com/media/perplexity-blocks-times-ads-served-to-ai-agents-calling-them-deceptive/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/perplexity-blocks-times-ads-served-to-ai-agents-calling-them-deceptive/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Why agentic media buying is becoming a client-by-client configuration job
-_Tue, 11 Aug 2026 04:01:00 +0000_
-
-Butler/Till is expanding its agentic media buying tests, highlighting the challenge of adapting AI to different client needs.
-
-→ [https://digiday.com/podcasts/why-agentic-media-buying-is-becoming-a-client-by-client-configuration-job/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/why-agentic-media-buying-is-becoming-a-client-by-client-configuration-job/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
