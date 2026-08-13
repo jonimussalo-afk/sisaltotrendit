@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-12 04:48 UTC_
+_Päivitetty: 2026-08-13 04:51 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,20 @@ Tapahtumassa käsiteltiin videon ja sisällön roolia markkinoinnissa tekoälyn 
 
 ## HubSpot Marketing Blog
 
+### Top B2B SEO tools that actually grow your pipeline in 2026
+_Wed, 12 Aug 2026 11:00:03 GMT_
+
+The bar for B2B SEO tools has shifted. SEO strategy is no longer just about ranking on page one, because buyers are increasingly discovering vendors through AI-generated answers . A strong Google ranking still matters, but so does visibility in AI search, and B2B teams need traffic that’s actually likely to convert.
+
+→ [https://blog.hubspot.com/marketing/b2b-seo-tools](https://blog.hubspot.com/marketing/b2b-seo-tools)
+
+### AI search visibility ROI: How to measure what matters (& ignore what doesn’t)
+_Wed, 12 Aug 2026 11:00:03 GMT_
+
+As long as there has been commerce, there have been questions. First, those questions were only for salespeople. Then, it was search engines. Now, AI has been thrown into the mix. But how do you know if your AI search efforts are even working?
+
+→ [https://blog.hubspot.com/marketing/ai-search-visibility-roi](https://blog.hubspot.com/marketing/ai-search-visibility-roi)
+
 ### AI search performance KPIs every marketer should track
 _Tue, 11 Aug 2026 17:00:03 GMT_
 
@@ -72,20 +86,6 @@ _Fri, 07 Aug 2026 11:00:02 GMT_
 Enterprise marketing automation is how large organizations scale personalized marketing across multiple teams and channels without disrupting their data or workflow. If you’re evaluating platforms or trying to modernize a fragmented stack, this guide covers everything you need to make a confident decision.
 
 → [https://blog.hubspot.com/marketing/enterprise-marketing-automation](https://blog.hubspot.com/marketing/enterprise-marketing-automation)
-
-### HubSpot AEO vs. Scrunch: Which tool fits your workflow?
-_Thu, 06 Aug 2026 18:30:02 GMT_
-
-If you’re evaluating answer engine optimization tools, here’s the short version: HubSpot AEO is an insight-to-execution platform that connects AI visibility data directly to your CRM and content workflows. Scrunch is a focused monitoring and benchmarking tool that excels at multi-engine tracking and competitive share-of-voice analysis.
-
-→ [https://blog.hubspot.com/marketing/hubspot-vs-scrunch](https://blog.hubspot.com/marketing/hubspot-vs-scrunch)
-
-### HubSpot AEO vs. Ahrefs Brand Radar: Features compared [2026]
-_Thu, 06 Aug 2026 11:00:03 GMT_
-
-As more buyers skip search entirely and go straight to ChatGPT, Gemini, or Perplexity for recommendations, marketers are realizing they need a new kind of tool — one that shows them how their brand appears in AI answers and what to do about it. That’s what both HubSpot AEO and Ahrefs Brand Radar are built for. But they take meaningfully different…
-
-→ [https://blog.hubspot.com/marketing/hubspot-vs-ahrefs-aeo](https://blog.hubspot.com/marketing/hubspot-vs-ahrefs-aeo)
 
 ---
 
@@ -130,39 +130,78 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Future of TV Briefing: In TV ad market’s swing to streaming, cheap inventory is in demand
-_Wed, 12 Aug 2026 04:01:00 +0000_
+### Walmart-backed gaming publication lays off editorial team
+_Thu, 13 Aug 2026 04:01:00 +0000_
 
-This week’s Future of TV Briefing looks at how TV and streaming companies’ advertising businesses fared in the second quarter of 2026.
+Brandy Berthelson — who had been Restart’s editor-in-chief — said on Bluesky last Friday that the “entire editorial team” at Restart was laid off.
 
-→ [https://digiday.com/future-of-tv/future-of-tv-briefing-in-tv-ad-markets-swing-to-streaming-cheap-inventory-is-in-demand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-in-tv-ad-markets-swing-to-streaming-cheap-inventory-is-in-demand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/walmart-backed-gaming-publication-lays-off-editorial-team/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/walmart-backed-gaming-publication-lays-off-editorial-team/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Lifestyle brand Stanley 1913 adapts its marketing for the AI search era
-_Wed, 12 Aug 2026 04:01:00 +0000_
+### Brands can’t just flip the ’employees as creators’ switch
+_Thu, 13 Aug 2026 04:01:00 +0000_
 
-The marketing it was doing worked well, but only for a human audience. The brand needed different approaches to ensure it was picked up by the AI platforms.
+Employee generated content is an increasingly enticing lever for brands to pull, but there needs to be a clear-cut strategy.
 
-→ [https://digiday.com/marketing/lifestyle-brand-stanley-1913-adapts-its-marketing-for-the-ai-search-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/lifestyle-brand-stanley-1913-adapts-its-marketing-for-the-ai-search-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/brands-cant-just-flip-the-employees-as-creators-switch/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/brands-cant-just-flip-the-employees-as-creators-switch/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Walmart finally lets advertisers exclude certain search terms
-_Wed, 12 Aug 2026 04:01:00 +0000_
+### By the numbers: Wall Street’s tough assessment of ad tech
+_Thu, 13 Aug 2026 04:01:00 +0000_
 
-Walmart Connect said it would give advertisers the ability to exclude specific search terms for sponsored-products campaigns through “negative keywords.”
+Big Tech continues to dominate digital growth, triggering a Wall Street exodus, but are returns imminent?
 
-→ [https://digiday.com/marketing/walmart-finally-lets-advertisers-exclude-certain-search-terms/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/walmart-finally-lets-advertisers-exclude-certain-search-terms/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/by-the-numbers-wall-streets-tough-assessment-of-ad-tech/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/by-the-numbers-wall-streets-tough-assessment-of-ad-tech/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Build or buy: Inside indie agency Mod Op’s AI infrastructure
-_Wed, 12 Aug 2026 04:01:00 +0000_
+### CMOs are struggling to link AI visibility with sales
+_Thu, 13 Aug 2026 04:01:00 +0000_
 
-Mod Op is betting that building its own AI infrastructure can deliver more value than simply licensing off-the-shelf tools.
+Brands are spending on tools that rate their visibility within LLM responses and AI search, but proving the commercial impact of GEO remedies isn’t easy.
 
-→ [https://digiday.com/marketing/build-or-buy-inside-indie-agency-mod-ops-ai-infrastructure/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/build-or-buy-inside-indie-agency-mod-ops-ai-infrastructure/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/cmos-are-struggling-to-link-ai-visibility-with-sales/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/cmos-are-struggling-to-link-ai-visibility-with-sales/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Ad Tech Briefing: More take-private deals are on the horizon, here’s what to look out for
-_Tue, 11 Aug 2026 04:01:00 +0000_
+### Media Briefing: Publishers are replacing Google with a little bit of everything
+_Thu, 13 Aug 2026 04:01:00 +0000_
 
-The largest public names on the public markets are plateauing, prompting further speculation.
+Publishers are preparing for a future with less Google traffic — but are still figuring out what replaces it.
 
-→ [https://digiday.com/media-buying/ad-tech-briefing-more-take-private-deals-are-on-the-horizon-heres-what-to-look-out-for/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-more-take-private-deals-are-on-the-horizon-heres-what-to-look-out-for/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/media-briefing-publishers-are-replacing-google-with-a-little-bit-of-everything/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-publishers-are-replacing-google-with-a-little-bit-of-everything/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+---
+
+## MarTech
+
+### Marketing without signals: How to perform when the data disappears
+_Wed, 12 Aug 2026 18:14:42 +0000_
+
+Navigating signal loss doesn't mean guessing. On Sept. 2, we'll explore how to rebuild your measurement stack in a world with fewer signals. The post Marketing without signals: How to perform when the data disappears appeared first on MarTech .
+
+→ [https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/](https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/)
+
+### When marketers should ignore the data
+_Wed, 12 Aug 2026 15:18:11 +0000_
+
+Not every change in a marketing metric deserves a response. Marketers need to separate temporary fluctuations from signals worth acting on. The post When marketers should ignore the data appeared first on MarTech .
+
+→ [https://martech.org/when-marketers-should-ignore-the-data/](https://martech.org/when-marketers-should-ignore-the-data/)
+
+### 5 brands whose small actions drove big returns
+_Wed, 12 Aug 2026 12:27:00 +0000_
+
+AXA, Suncorp, Idomed, Heineken, and Molson got big business results from small creative ideas, showing a different model for earning attention. The post 5 brands whose small actions drove big returns appeared first on MarTech .
+
+→ [https://martech.org/5-brands-whose-small-actions-drove-big-returns/](https://martech.org/5-brands-whose-small-actions-drove-big-returns/)
+
+### Programmatic video needs more visibility into AI-driven decisions
+_Wed, 12 Aug 2026 12:09:00 +0000_
+
+AI is making adtech decisions harder to see, putting pressure on platforms to explain outcomes and prove their value. The post Programmatic video needs more visibility into AI-driven decisions appeared first on MarTech .
+
+→ [https://martech.org/programmatic-video-needs-more-visibility-into-ai-driven-decisions/](https://martech.org/programmatic-video-needs-more-visibility-into-ai-driven-decisions/)
+
+### B2B growth doesn’t end at closed-won
+_Tue, 11 Aug 2026 14:18:39 +0000_
+
+From first value to expansion, a strong post-sale system helps B2B companies compound the value of customers they’ve already won. The post B2B growth doesn’t end at closed-won appeared first on MarTech .
+
+→ [https://martech.org/b2b-growth-doesnt-end-at-closed-won/](https://martech.org/b2b-growth-doesnt-end-at-closed-won/)
 
 ---
