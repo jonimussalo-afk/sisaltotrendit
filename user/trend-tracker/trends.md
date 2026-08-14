@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-13 04:51 UTC_
+_Päivitetty: 2026-08-14 04:49 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,27 @@ Tapahtumassa käsiteltiin videon ja sisällön roolia markkinoinnissa tekoälyn 
 
 ## HubSpot Marketing Blog
 
+### HubSpot AEO vs. Profound: Features, pricing, and use cases
+_Thu, 13 Aug 2026 19:17:11 GMT_
+
+HubSpot AEO vs. Profound is a comparison between two answer engine optimization tools that take different approaches to AI search visibility. HubSpot AEO tracks how a brand appears in AI-generated answers and connects those insights directly to content creation and campaign execution inside the HubSpot ecosystem.
+
+→ [https://blog.hubspot.com/marketing/hubspot-vs-profound](https://blog.hubspot.com/marketing/hubspot-vs-profound)
+
+### Ahrefs Brand Radar alternatives for marketing teams
+_Thu, 13 Aug 2026 11:00:03 GMT_
+
+G2’s 2026 Answer Economy research found that 51% of B2B software buyers start their research with an AI chatbot more often than Google. That shift means marketing teams need to track not only traditional search performance but also how AI assistants and answer engines mention, cite, and recommend brands.
+
+→ [https://blog.hubspot.com/marketing/ahrefs-brand-radar-alternatives](https://blog.hubspot.com/marketing/ahrefs-brand-radar-alternatives)
+
+### Scrunch AI alternatives compared: Features, pricing, and fit [2026]
+_Thu, 13 Aug 2026 11:00:02 GMT_
+
+If you’re comparing Scrunch alternatives, start by separating monitoring from execution. Monitoring tools show how brands appear in AI-generated answers. Optimization tools add recommendations, content briefs, or workflows that help teams act on those findings.
+
+→ [https://blog.hubspot.com/marketing/scrunch-alternatives](https://blog.hubspot.com/marketing/scrunch-alternatives)
+
 ### Top B2B SEO tools that actually grow your pipeline in 2026
 _Wed, 12 Aug 2026 11:00:03 GMT_
 
@@ -65,27 +86,6 @@ _Wed, 12 Aug 2026 11:00:03 GMT_
 As long as there has been commerce, there have been questions. First, those questions were only for salespeople. Then, it was search engines. Now, AI has been thrown into the mix. But how do you know if your AI search efforts are even working?
 
 → [https://blog.hubspot.com/marketing/ai-search-visibility-roi](https://blog.hubspot.com/marketing/ai-search-visibility-roi)
-
-### AI search performance KPIs every marketer should track
-_Tue, 11 Aug 2026 17:00:03 GMT_
-
-As long as I’ve been in marketing, people have warned against focusing on “ vanity metrics ,” or those flashy, high numbers that don’t translate to real results or profit. Fast forward a decade, I never expected traffic and search rank to be part of that conversation.
-
-→ [https://blog.hubspot.com/marketing/ai-search-kpis](https://blog.hubspot.com/marketing/ai-search-kpis)
-
-### The simple way to make your marketing claims 42.9% more believable
-_Mon, 10 Aug 2026 13:00:04 GMT_
-
-A few weeks back, I stumbled across a Reddit post that talked about the first measurement ever taken of Mount Everest. Rather than listing the exact measurement of 29,000 feet, the British Royal Geographical Society declared Mount Everest’s elevation to be 29,002 feet. It’s one of those facts that seems fake, but there’s good evidence that it’s…
-
-→ [https://blog.hubspot.com/marketing/marketing-claims-psychology](https://blog.hubspot.com/marketing/marketing-claims-psychology)
-
-### What is enterprise marketing automation? Features, platforms, and best practices
-_Fri, 07 Aug 2026 11:00:02 GMT_
-
-Enterprise marketing automation is how large organizations scale personalized marketing across multiple teams and channels without disrupting their data or workflow. If you’re evaluating platforms or trying to modernize a fragmented stack, this guide covers everything you need to make a confident decision.
-
-→ [https://blog.hubspot.com/marketing/enterprise-marketing-automation](https://blog.hubspot.com/marketing/enterprise-marketing-automation)
 
 ---
 
@@ -130,6 +130,34 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### An anatomy of the creator brand trip’s midlife crisis
+_Fri, 14 Aug 2026 04:01:00 +0000_
+
+The brand trip as we know it may be dead, but a newer, more genuine and engaging format is rising from its ashes.
+
+→ [https://digiday.com/media/an-anatomy-of-the-creator-brand-trips-midlife-crisis/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/an-anatomy-of-the-creator-brand-trips-midlife-crisis/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Future of Marketing Briefing: The public ad tech era is over
+_Fri, 14 Aug 2026 04:01:00 +0000_
+
+Gone are the days when investors got themselves in a tizzy over ad networks, demand-side platforms and supply-side platforms on their own merits.
+
+→ [https://digiday.com/marketing/future-of-marketing-briefing-the-public-ad-tech-era-is-over/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-the-public-ad-tech-era-is-over/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### European publishers are getting hit harder by AI bot scraping, report finds
+_Fri, 14 Aug 2026 04:01:00 +0000_
+
+European publishers face more AI bot scraping, fewer referrals and more ignored robots.txt rules than North American sites, report finds.
+
+→ [https://digiday.com/media/european-publishers-are-getting-hit-harder-by-ai-bot-scraping-report-finds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/european-publishers-are-getting-hit-harder-by-ai-bot-scraping-report-finds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### The consumer journey is CPG marketing’s ‘North Star’ — and why brands can’t discount promotion strategies
+_Thu, 13 Aug 2026 19:00:47 +0000_
+
+With the exponential growth of AI and the media landscape’s continued fragmentation, savvy CPG marketers are focused on connecting media, promotions and commerce to drive incremental sales. A new study from Circana and Ibotta Inc shows that promotions can deliver measurable incremental business outcomes. Partner insights from Ibotta.
+
+→ [https://digiday.com/sponsored/ibotta-cpg-promotions-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/ibotta-cpg-promotions-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### Walmart-backed gaming publication lays off editorial team
 _Thu, 13 Aug 2026 04:01:00 +0000_
 
@@ -137,37 +165,30 @@ Brandy Berthelson — who had been Restart’s editor-in-chief — said on Blues
 
 → [https://digiday.com/media/walmart-backed-gaming-publication-lays-off-editorial-team/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/walmart-backed-gaming-publication-lays-off-editorial-team/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Brands can’t just flip the ’employees as creators’ switch
-_Thu, 13 Aug 2026 04:01:00 +0000_
-
-Employee generated content is an increasingly enticing lever for brands to pull, but there needs to be a clear-cut strategy.
-
-→ [https://digiday.com/media/brands-cant-just-flip-the-employees-as-creators-switch/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/brands-cant-just-flip-the-employees-as-creators-switch/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### By the numbers: Wall Street’s tough assessment of ad tech
-_Thu, 13 Aug 2026 04:01:00 +0000_
-
-Big Tech continues to dominate digital growth, triggering a Wall Street exodus, but are returns imminent?
-
-→ [https://digiday.com/marketing/by-the-numbers-wall-streets-tough-assessment-of-ad-tech/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/by-the-numbers-wall-streets-tough-assessment-of-ad-tech/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### CMOs are struggling to link AI visibility with sales
-_Thu, 13 Aug 2026 04:01:00 +0000_
-
-Brands are spending on tools that rate their visibility within LLM responses and AI search, but proving the commercial impact of GEO remedies isn’t easy.
-
-→ [https://digiday.com/marketing/cmos-are-struggling-to-link-ai-visibility-with-sales/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/cmos-are-struggling-to-link-ai-visibility-with-sales/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Media Briefing: Publishers are replacing Google with a little bit of everything
-_Thu, 13 Aug 2026 04:01:00 +0000_
-
-Publishers are preparing for a future with less Google traffic — but are still figuring out what replaces it.
-
-→ [https://digiday.com/media/media-briefing-publishers-are-replacing-google-with-a-little-bit-of-everything/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-publishers-are-replacing-google-with-a-little-bit-of-everything/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
 ---
 
 ## MarTech
+
+### The latest AI-powered martech news and releases
+_Thu, 13 Aug 2026 13:00:10 +0000_
+
+Nielsen’s DoubleVerify deal helps verification as AI takes on more media decisions, raising new questions about trust and transparency. The post The latest AI-powered martech news and releases appeared first on MarTech .
+
+→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
+
+### The AI debt hidden in faster marketing
+_Thu, 13 Aug 2026 12:57:00 +0000_
+
+Marketing can produce more with AI, but every new capability creates work to govern, integrate, measure, and maintain. That’s where AI debt builds. The post The AI debt hidden in faster marketing appeared first on MarTech .
+
+→ [https://martech.org/the-ai-debt-hidden-in-faster-marketing/](https://martech.org/the-ai-debt-hidden-in-faster-marketing/)
+
+### Here’s the first martech category replaced by AI
+_Thu, 13 Aug 2026 12:22:00 +0000_
+
+CI tools are losing ground to ChatGPT, Claude, and Gemini. Here's why stale battlecards may be the bigger problem. The post Here&#8217;s the first martech category replaced by AI appeared first on MarTech .
+
+→ [https://martech.org/heres-the-first-martech-category-replaced-by-ai/](https://martech.org/heres-the-first-martech-category-replaced-by-ai/)
 
 ### Marketing without signals: How to perform when the data disappears
 _Wed, 12 Aug 2026 18:14:42 +0000_
@@ -182,26 +203,5 @@ _Wed, 12 Aug 2026 15:18:11 +0000_
 Not every change in a marketing metric deserves a response. Marketers need to separate temporary fluctuations from signals worth acting on. The post When marketers should ignore the data appeared first on MarTech .
 
 → [https://martech.org/when-marketers-should-ignore-the-data/](https://martech.org/when-marketers-should-ignore-the-data/)
-
-### 5 brands whose small actions drove big returns
-_Wed, 12 Aug 2026 12:27:00 +0000_
-
-AXA, Suncorp, Idomed, Heineken, and Molson got big business results from small creative ideas, showing a different model for earning attention. The post 5 brands whose small actions drove big returns appeared first on MarTech .
-
-→ [https://martech.org/5-brands-whose-small-actions-drove-big-returns/](https://martech.org/5-brands-whose-small-actions-drove-big-returns/)
-
-### Programmatic video needs more visibility into AI-driven decisions
-_Wed, 12 Aug 2026 12:09:00 +0000_
-
-AI is making adtech decisions harder to see, putting pressure on platforms to explain outcomes and prove their value. The post Programmatic video needs more visibility into AI-driven decisions appeared first on MarTech .
-
-→ [https://martech.org/programmatic-video-needs-more-visibility-into-ai-driven-decisions/](https://martech.org/programmatic-video-needs-more-visibility-into-ai-driven-decisions/)
-
-### B2B growth doesn’t end at closed-won
-_Tue, 11 Aug 2026 14:18:39 +0000_
-
-From first value to expansion, a strong post-sale system helps B2B companies compound the value of customers they’ve already won. The post B2B growth doesn’t end at closed-won appeared first on MarTech .
-
-→ [https://martech.org/b2b-growth-doesnt-end-at-closed-won/](https://martech.org/b2b-growth-doesnt-end-at-closed-won/)
 
 ---
