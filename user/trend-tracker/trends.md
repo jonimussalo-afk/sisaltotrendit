@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-14 04:49 UTC_
+_Päivitetty: 2026-08-15 03:40 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Tapahtumassa käsiteltiin videon ja sisällön roolia markkinoinnissa tekoälyn 
 
 ## HubSpot Marketing Blog
 
+### Pardot alternatives: What B2B marketers are choosing now
+_Fri, 14 Aug 2026 19:30:01 GMT_
+
+Seventy percent of marketers believe the marketing industry has changed more in the past three years than in the past 50 . That means that marketing automation platforms need to change, too. Pardot is a longtime fixture of the B2B landscape, but the lack of development has left many businesses looking for alternatives.
+
+→ [https://blog.hubspot.com/marketing/pardot-alternatives](https://blog.hubspot.com/marketing/pardot-alternatives)
+
 ### HubSpot AEO vs. Profound: Features, pricing, and use cases
 _Thu, 13 Aug 2026 19:17:11 GMT_
 
@@ -79,13 +86,6 @@ _Wed, 12 Aug 2026 11:00:03 GMT_
 The bar for B2B SEO tools has shifted. SEO strategy is no longer just about ranking on page one, because buyers are increasingly discovering vendors through AI-generated answers . A strong Google ranking still matters, but so does visibility in AI search, and B2B teams need traffic that’s actually likely to convert.
 
 → [https://blog.hubspot.com/marketing/b2b-seo-tools](https://blog.hubspot.com/marketing/b2b-seo-tools)
-
-### AI search visibility ROI: How to measure what matters (& ignore what doesn’t)
-_Wed, 12 Aug 2026 11:00:03 GMT_
-
-As long as there has been commerce, there have been questions. First, those questions were only for salespeople. Then, it was search engines. Now, AI has been thrown into the mix. But how do you know if your AI search efforts are even working?
-
-→ [https://blog.hubspot.com/marketing/ai-search-visibility-roi](https://blog.hubspot.com/marketing/ai-search-visibility-roi)
 
 ---
 
@@ -169,39 +169,39 @@ Brandy Berthelson — who had been Restart’s editor-in-chief — said on Blues
 
 ## MarTech
 
+### How to decide what’s important when everything is urgent
+_Fri, 14 Aug 2026 12:52:00 +0000_
+
+Every task consumes time and resources. Here’s a system for deciding what earns a place on the agenda and what doesn’t. The post How to decide what&#8217;s important when everything is urgent appeared first on MarTech .
+
+→ [https://martech.org/how-to-decide-whats-important-when-everything-is-urgent/](https://martech.org/how-to-decide-whats-important-when-everything-is-urgent/)
+
+### The 2027 CMO planning challenge is bigger than the budget
+_Fri, 14 Aug 2026 12:52:00 +0000_
+
+More budget won't fix a marketing model that no longer fits how buyers discover, evaluate, and decide. CMOs need to rethink where they invest. The post The 2027 CMO planning challenge is bigger than the budget appeared first on MarTech .
+
+→ [https://martech.org/the-2027-cmo-planning-challenge-is-bigger-than-the-budget/](https://martech.org/the-2027-cmo-planning-challenge-is-bigger-than-the-budget/)
+
+### The data trust crisis: Why your customer data is getting worse
+_Fri, 14 Aug 2026 12:48:00 +0000_
+
+Unreliable customer data threatens your personalization and ROI. On Sept. 2, we'll discuss how to navigate data decay and build a high-trust measurement framework. The post The data trust crisis: Why your customer data is getting worse appeared first on MarTech .
+
+→ [https://martech.org/the-data-trust-crisis-why-your-customer-data-is-getting-worse/](https://martech.org/the-data-trust-crisis-why-your-customer-data-is-getting-worse/)
+
+### Is your martech stack costing more time than it saves?
+_Fri, 14 Aug 2026 12:09:00 +0000_
+
+Disconnected systems create missed work and hours of admin. The real measure of martech productivity is how much work the stack eliminates. The post Is your martech stack costing more time than it saves? appeared first on MarTech .
+
+→ [https://martech.org/is-your-martech-stack-costing-more-time-than-it-saves/](https://martech.org/is-your-martech-stack-costing-more-time-than-it-saves/)
+
 ### The latest AI-powered martech news and releases
 _Thu, 13 Aug 2026 13:00:10 +0000_
 
 Nielsen’s DoubleVerify deal helps verification as AI takes on more media decisions, raising new questions about trust and transparency. The post The latest AI-powered martech news and releases appeared first on MarTech .
 
 → [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
-
-### The AI debt hidden in faster marketing
-_Thu, 13 Aug 2026 12:57:00 +0000_
-
-Marketing can produce more with AI, but every new capability creates work to govern, integrate, measure, and maintain. That’s where AI debt builds. The post The AI debt hidden in faster marketing appeared first on MarTech .
-
-→ [https://martech.org/the-ai-debt-hidden-in-faster-marketing/](https://martech.org/the-ai-debt-hidden-in-faster-marketing/)
-
-### Here’s the first martech category replaced by AI
-_Thu, 13 Aug 2026 12:22:00 +0000_
-
-CI tools are losing ground to ChatGPT, Claude, and Gemini. Here's why stale battlecards may be the bigger problem. The post Here&#8217;s the first martech category replaced by AI appeared first on MarTech .
-
-→ [https://martech.org/heres-the-first-martech-category-replaced-by-ai/](https://martech.org/heres-the-first-martech-category-replaced-by-ai/)
-
-### Marketing without signals: How to perform when the data disappears
-_Wed, 12 Aug 2026 18:14:42 +0000_
-
-Navigating signal loss doesn't mean guessing. On Sept. 2, we'll explore how to rebuild your measurement stack in a world with fewer signals. The post Marketing without signals: How to perform when the data disappears appeared first on MarTech .
-
-→ [https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/](https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/)
-
-### When marketers should ignore the data
-_Wed, 12 Aug 2026 15:18:11 +0000_
-
-Not every change in a marketing metric deserves a response. Marketers need to separate temporary fluctuations from signals worth acting on. The post When marketers should ignore the data appeared first on MarTech .
-
-→ [https://martech.org/when-marketers-should-ignore-the-data/](https://martech.org/when-marketers-should-ignore-the-data/)
 
 ---
