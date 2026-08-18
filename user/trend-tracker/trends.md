@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-17 03:51 UTC_
+_Päivitetty: 2026-08-18 03:45 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Tapahtumassa käsiteltiin videon ja sisällön roolia markkinoinnissa tekoälyn 
 
 ## HubSpot Marketing Blog
 
+### CRM for insurance companies: What it does and why it matters
+_Mon, 17 Aug 2026 11:00:04 GMT_
+
+Insurance is a business built on relationships, but agents can’t manage all their contacts and communications alone. A CRM for insurance companies helps agencies to manage customer relationships across the policy lifecycle, including follow-up, nurturing, customer service, and renewals.
+
+→ [https://blog.hubspot.com/marketing/crm-for-insurance-companies](https://blog.hubspot.com/marketing/crm-for-insurance-companies)
+
 ### Pardot alternatives: What B2B marketers are choosing now
 _Fri, 14 Aug 2026 19:30:01 GMT_
 
@@ -79,13 +86,6 @@ _Thu, 13 Aug 2026 11:00:02 GMT_
 If you’re comparing Scrunch alternatives, start by separating monitoring from execution. Monitoring tools show how brands appear in AI-generated answers. Optimization tools add recommendations, content briefs, or workflows that help teams act on those findings.
 
 → [https://blog.hubspot.com/marketing/scrunch-alternatives](https://blog.hubspot.com/marketing/scrunch-alternatives)
-
-### Top B2B SEO tools that actually grow your pipeline in 2026
-_Wed, 12 Aug 2026 11:00:03 GMT_
-
-The bar for B2B SEO tools has shifted. SEO strategy is no longer just about ranking on page one, because buyers are increasingly discovering vendors through AI-generated answers . A strong Google ranking still matters, but so does visibility in AI search, and B2B teams need traffic that’s actually likely to convert.
-
-→ [https://blog.hubspot.com/marketing/b2b-seo-tools](https://blog.hubspot.com/marketing/b2b-seo-tools)
 
 ---
 
@@ -130,44 +130,72 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### An anatomy of the creator brand trip’s midlife crisis
-_Fri, 14 Aug 2026 04:01:00 +0000_
+### Sport is marketing’s greatest opportunity — and its greatest activation challenge
+_Mon, 17 Aug 2026 19:01:31 +0000_
 
-The brand trip as we know it may be dead, but a newer, more genuine and engaging format is rising from its ashes.
+In today’s attention economy, few channels or forms of entertainment capture the imagination quite like live sport. Partner insights from Sportradar.
 
-→ [https://digiday.com/media/an-anatomy-of-the-creator-brand-trips-midlife-crisis/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/an-anatomy-of-the-creator-brand-trips-midlife-crisis/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/sponsored/sport-is-marketings-greatest-opportunity-and-its-greatest-activation-challenge/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/sport-is-marketings-greatest-opportunity-and-its-greatest-activation-challenge/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Future of Marketing Briefing: The public ad tech era is over
-_Fri, 14 Aug 2026 04:01:00 +0000_
+### Brand marketers are adopting fan-first social media strategies
+_Mon, 17 Aug 2026 04:01:00 +0000_
 
-Gone are the days when investors got themselves in a tizzy over ad networks, demand-side platforms and supply-side platforms on their own merits.
+Bigger brands are picking up a social playbook perfected by startup and scaleup marketers, having seen the results. But can it work at scale?
 
-→ [https://digiday.com/marketing/future-of-marketing-briefing-the-public-ad-tech-era-is-over/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-the-public-ad-tech-era-is-over/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/brand-marketers-are-adopting-fan-first-social-media-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/brand-marketers-are-adopting-fan-first-social-media-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### European publishers are getting hit harder by AI bot scraping, report finds
-_Fri, 14 Aug 2026 04:01:00 +0000_
+### Creators build GEO strategies to get discovered by brands and agencies in AI search
+_Mon, 17 Aug 2026 04:01:00 +0000_
 
-European publishers face more AI bot scraping, fewer referrals and more ignored robots.txt rules than North American sites, report finds.
+With no established playbook for AI search, creators are starting to build their own.
 
-→ [https://digiday.com/media/european-publishers-are-getting-hit-harder-by-ai-bot-scraping-report-finds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/european-publishers-are-getting-hit-harder-by-ai-bot-scraping-report-finds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/creators-build-geo-strategies-to-get-discovered-by-brands-and-agencies-in-ai-search/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/creators-build-geo-strategies-to-get-discovered-by-brands-and-agencies-in-ai-search/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### The consumer journey is CPG marketing’s ‘North Star’ — and why brands can’t discount promotion strategies
-_Thu, 13 Aug 2026 19:00:47 +0000_
+### How H&M, Chobani, UrbanStems and Teleties are refining their partnership strategies
+_Mon, 17 Aug 2026 04:01:00 +0000_
 
-With the exponential growth of AI and the media landscape’s continued fragmentation, savvy CPG marketers are focused on connecting media, promotions and commerce to drive incremental sales. A new study from Circana and Ibotta Inc shows that promotions can deliver measurable incremental business outcomes. Partner insights from Ibotta.
+Brands are refining partnerships to match audiences, drive cultural relevance and find new growth.
 
-→ [https://digiday.com/sponsored/ibotta-cpg-promotions-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/ibotta-cpg-promotions-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/how-hm-chobani-urbanstems-and-teleties-are-refining-their-partnership-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/how-hm-chobani-urbanstems-and-teleties-are-refining-their-partnership-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Walmart-backed gaming publication lays off editorial team
-_Thu, 13 Aug 2026 04:01:00 +0000_
+### USA Fencing relies on creators to attract new fans ahead of the 2028 Olympics
+_Mon, 17 Aug 2026 04:01:00 +0000_
 
-Brandy Berthelson — who had been Restart’s editor-in-chief — said on Bluesky last Friday that the “entire editorial team” at Restart was laid off.
+Creators can bring new fans to niche sports in droves, and USA Fencing wants to tap into their cultural power.
 
-→ [https://digiday.com/media/walmart-backed-gaming-publication-lays-off-editorial-team/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/walmart-backed-gaming-publication-lays-off-editorial-team/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/usa-fencing-relies-on-creators-to-attract-new-fans-ahead-of-the-2028-olympics/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/usa-fencing-relies-on-creators-to-attract-new-fans-ahead-of-the-2028-olympics/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### Why LinkedIn doesn’t really care about AI slop
+_Mon, 17 Aug 2026 15:08:17 +0000_
+
+The problem is AI is perfect for producing the polished, predictable business speak the platform rewards. The post Why LinkedIn doesn&#8217;t really care about AI slop appeared first on MarTech .
+
+→ [https://martech.org/why-linkedin-doesnt-really-care-about-ai-slop/](https://martech.org/why-linkedin-doesnt-really-care-about-ai-slop/)
+
+### Why buyers hate your multi-year software overhaul
+_Mon, 17 Aug 2026 12:56:00 +0000_
+
+B2B buyers are growing more risk-averse. Here is how to restructure engineering and pitches around modular API integration models. The post Why buyers hate your multi-year software overhaul appeared first on MarTech .
+
+→ [https://martech.org/why-buyers-hate-your-multi-year-software-overhaul/](https://martech.org/why-buyers-hate-your-multi-year-software-overhaul/)
+
+### The next AI opportunity is deciding where to spend
+_Mon, 17 Aug 2026 12:34:00 +0000_
+
+AI is moving deeper into media buying and budget allocation, helping marketers put more of their spending into what’s working. The post The next AI opportunity is deciding where to spend appeared first on MarTech .
+
+→ [https://martech.org/the-next-ai-opportunity-is-deciding-where-to-spend/](https://martech.org/the-next-ai-opportunity-is-deciding-where-to-spend/)
+
+### Stop treating every customer touchpoint the same
+_Mon, 17 Aug 2026 12:17:00 +0000_
+
+The moments that drive growth can also drive churn. Learn how to spot them and respond when the stakes are highest. The post Stop treating every customer touchpoint the same appeared first on MarTech .
+
+→ [https://martech.org/stop-treating-every-customer-touchpoint-the-same/](https://martech.org/stop-treating-every-customer-touchpoint-the-same/)
 
 ### How to decide what’s important when everything is urgent
 _Fri, 14 Aug 2026 12:52:00 +0000_
@@ -175,33 +203,5 @@ _Fri, 14 Aug 2026 12:52:00 +0000_
 Every task consumes time and resources. Here’s a system for deciding what earns a place on the agenda and what doesn’t. The post How to decide what&#8217;s important when everything is urgent appeared first on MarTech .
 
 → [https://martech.org/how-to-decide-whats-important-when-everything-is-urgent/](https://martech.org/how-to-decide-whats-important-when-everything-is-urgent/)
-
-### The 2027 CMO planning challenge is bigger than the budget
-_Fri, 14 Aug 2026 12:52:00 +0000_
-
-More budget won't fix a marketing model that no longer fits how buyers discover, evaluate, and decide. CMOs need to rethink where they invest. The post The 2027 CMO planning challenge is bigger than the budget appeared first on MarTech .
-
-→ [https://martech.org/the-2027-cmo-planning-challenge-is-bigger-than-the-budget/](https://martech.org/the-2027-cmo-planning-challenge-is-bigger-than-the-budget/)
-
-### The data trust crisis: Why your customer data is getting worse
-_Fri, 14 Aug 2026 12:48:00 +0000_
-
-Unreliable customer data threatens your personalization and ROI. On Sept. 2, we'll discuss how to navigate data decay and build a high-trust measurement framework. The post The data trust crisis: Why your customer data is getting worse appeared first on MarTech .
-
-→ [https://martech.org/the-data-trust-crisis-why-your-customer-data-is-getting-worse/](https://martech.org/the-data-trust-crisis-why-your-customer-data-is-getting-worse/)
-
-### Is your martech stack costing more time than it saves?
-_Fri, 14 Aug 2026 12:09:00 +0000_
-
-Disconnected systems create missed work and hours of admin. The real measure of martech productivity is how much work the stack eliminates. The post Is your martech stack costing more time than it saves? appeared first on MarTech .
-
-→ [https://martech.org/is-your-martech-stack-costing-more-time-than-it-saves/](https://martech.org/is-your-martech-stack-costing-more-time-than-it-saves/)
-
-### The latest AI-powered martech news and releases
-_Thu, 13 Aug 2026 13:00:10 +0000_
-
-Nielsen’s DoubleVerify deal helps verification as AI takes on more media decisions, raising new questions about trust and transparency. The post The latest AI-powered martech news and releases appeared first on MarTech .
-
-→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
 
 ---
