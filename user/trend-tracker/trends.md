@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-18 03:45 UTC_
+_Päivitetty: 2026-08-19 03:48 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Tapahtumassa käsiteltiin videon ja sisällön roolia markkinoinnissa tekoälyn 
 
 ## HubSpot Marketing Blog
 
+### Running TikTok campaigns with impact — missed opportunities that make all the difference
+_Tue, 18 Aug 2026 11:00:02 GMT_
+
+Before Invisalign ever captured a lead on TikTok, it generated pre-qualified interest with a Smile Quiz built right into the ad. The payoff: nearly a third more people finished the form , at a lower cost per lead. The campaign aimed and succeeded at going far beyond the vanity KPI of “people liked it.” It created an actual pipeline.
+
+→ [https://blog.hubspot.com/marketing/running-tiktok-campaigns-with-impact](https://blog.hubspot.com/marketing/running-tiktok-campaigns-with-impact)
+
 ### CRM for insurance companies: What it does and why it matters
 _Mon, 17 Aug 2026 11:00:04 GMT_
 
@@ -79,13 +86,6 @@ _Thu, 13 Aug 2026 11:00:03 GMT_
 G2’s 2026 Answer Economy research found that 51% of B2B software buyers start their research with an AI chatbot more often than Google. That shift means marketing teams need to track not only traditional search performance but also how AI assistants and answer engines mention, cite, and recommend brands.
 
 → [https://blog.hubspot.com/marketing/ahrefs-brand-radar-alternatives](https://blog.hubspot.com/marketing/ahrefs-brand-radar-alternatives)
-
-### Scrunch AI alternatives compared: Features, pricing, and fit [2026]
-_Thu, 13 Aug 2026 11:00:02 GMT_
-
-If you’re comparing Scrunch alternatives, start by separating monitoring from execution. Monitoring tools show how brands appear in AI-generated answers. Optimization tools add recommendations, content briefs, or workflows that help teams act on those findings.
-
-→ [https://blog.hubspot.com/marketing/scrunch-alternatives](https://blog.hubspot.com/marketing/scrunch-alternatives)
 
 ---
 
@@ -130,44 +130,72 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Sport is marketing’s greatest opportunity — and its greatest activation challenge
-_Mon, 17 Aug 2026 19:01:31 +0000_
+### OpenAI builds offerings on consent as it expands ChatGPT ads to Europe
+_Tue, 18 Aug 2026 17:08:00 +0000_
 
-In today’s attention economy, few channels or forms of entertainment capture the imagination quite like live sport. Partner insights from Sportradar.
+The company's new EU privacy policy goes live "later this month".
 
-→ [https://digiday.com/sponsored/sport-is-marketings-greatest-opportunity-and-its-greatest-activation-challenge/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/sport-is-marketings-greatest-opportunity-and-its-greatest-activation-challenge/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/openai-builds-offerings-on-consent-as-it-expands-chatgpt-ads-to-europe/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/openai-builds-offerings-on-consent-as-it-expands-chatgpt-ads-to-europe/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Brand marketers are adopting fan-first social media strategies
-_Mon, 17 Aug 2026 04:01:00 +0000_
+### How publishers can strengthen connections with advertisers in the AI era
+_Tue, 18 Aug 2026 14:00:00 +0000_
 
-Bigger brands are picking up a social playbook perfected by startup and scaleup marketers, having seen the results. But can it work at scale?
+Today’s audiences are highly decentralized — searching, streaming, scrolling and shopping across a spectrum of platforms. To maximize yield across this complex landscape, publishers must clearly demonstrate the unique contextual value of their properties and audiences. Partner insights from Google.
 
-→ [https://digiday.com/marketing/brand-marketers-are-adopting-fan-first-social-media-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/brand-marketers-are-adopting-fan-first-social-media-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/sponsored/publisher-monetization-in-the-ai-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/publisher-monetization-in-the-ai-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Creators build GEO strategies to get discovered by brands and agencies in AI search
-_Mon, 17 Aug 2026 04:01:00 +0000_
+### ANA updates efforts to standardize retail media network measurement
+_Tue, 18 Aug 2026 09:01:00 +0000_
 
-With no established playbook for AI search, creators are starting to build their own.
+The ANA is hammering out guidelines around standardization of retail media measurement, on behalf of its member base of marketers
 
-→ [https://digiday.com/marketing/creators-build-geo-strategies-to-get-discovered-by-brands-and-agencies-in-ai-search/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/creators-build-geo-strategies-to-get-discovered-by-brands-and-agencies-in-ai-search/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/ana-updates-efforts-to-standardize-retail-media-network-measurement/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ana-updates-efforts-to-standardize-retail-media-network-measurement/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### How H&M, Chobani, UrbanStems and Teleties are refining their partnership strategies
-_Mon, 17 Aug 2026 04:01:00 +0000_
+### Ad Tech Briefing: TV measurement’s competitive reset gathers pace (with more job cuts)
+_Tue, 18 Aug 2026 04:01:00 +0000_
 
-Brands are refining partnerships to match audiences, drive cultural relevance and find new growth.
+ComScore and VideoAmp confirm large job cuts, just days after rival Nielsen makes bold M&#38;A move.
 
-→ [https://digiday.com/marketing/how-hm-chobani-urbanstems-and-teleties-are-refining-their-partnership-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/how-hm-chobani-urbanstems-and-teleties-are-refining-their-partnership-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/future-of-tv/ad-tech-briefing-tv-measurements-competitive-reset-gathers-pace-with-more-job-cuts/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/ad-tech-briefing-tv-measurements-competitive-reset-gathers-pace-with-more-job-cuts/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### USA Fencing relies on creators to attract new fans ahead of the 2028 Olympics
-_Mon, 17 Aug 2026 04:01:00 +0000_
+### How DTC startups are using AI to scale more efficiently
+_Tue, 18 Aug 2026 04:01:00 +0000_
 
-Creators can bring new fans to niche sports in droves, and USA Fencing wants to tap into their cultural power.
+Brand marketers are recreating the DTC playbook for the current agentic AI landscape.
 
-→ [https://digiday.com/media/usa-fencing-relies-on-creators-to-attract-new-fans-ahead-of-the-2028-olympics/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/usa-fencing-relies-on-creators-to-attract-new-fans-ahead-of-the-2028-olympics/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/how-dtc-startups-are-using-ai-to-scale-more-efficiently/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/how-dtc-startups-are-using-ai-to-scale-more-efficiently/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### AI visibility index shows which brands are disappearing
+_Tue, 18 Aug 2026 13:48:51 +0000_
+
+Some brands dominate Google yet barely surface in AI answers. Here’s where traditional authority and AI recall diverge. The post AI visibility index shows which brands are disappearing appeared first on MarTech .
+
+→ [https://martech.org/ai-visibility-index-shows-which-brands-are-disappearing/](https://martech.org/ai-visibility-index-shows-which-brands-are-disappearing/)
+
+### IAB updates standard for disclosing AI in ads
+_Tue, 18 Aug 2026 13:02:00 +0000_
+
+IAB’s updated framework draws the AI disclosure line around what changes consumer perceptions of authenticity, identity, and what’s real. The post IAB updates standard for disclosing AI in ads appeared first on MarTech .
+
+→ [https://martech.org/iab-updates-standard-for-disclosing-ai-in-ads/](https://martech.org/iab-updates-standard-for-disclosing-ai-in-ads/)
+
+### How to overcome the 3 barriers to AI adoption
+_Tue, 18 Aug 2026 12:55:00 +0000_
+
+The biggest barriers to AI adoption may be internal: inconsistent training, bias concerns, and tactics that get ahead of strategy. The post How to overcome the 3 barriers to AI adoption appeared first on MarTech .
+
+→ [https://martech.org/how-to-overcome-the-3-barriers-to-ai-adoption/](https://martech.org/how-to-overcome-the-3-barriers-to-ai-adoption/)
+
+### How to stop overpaying for AI complexity
+_Tue, 18 Aug 2026 12:25:00 +0000_
+
+Rule-based, predictive, generative, and agentic systems come with very different costs and risks. Start with the lightest approach that can do the job. The post How to stop overpaying for AI complexity appeared first on MarTech .
+
+→ [https://martech.org/how-to-stop-overpaying-for-ai-complexity/](https://martech.org/how-to-stop-overpaying-for-ai-complexity/)
 
 ### Why LinkedIn doesn’t really care about AI slop
 _Mon, 17 Aug 2026 15:08:17 +0000_
@@ -175,33 +203,5 @@ _Mon, 17 Aug 2026 15:08:17 +0000_
 The problem is AI is perfect for producing the polished, predictable business speak the platform rewards. The post Why LinkedIn doesn&#8217;t really care about AI slop appeared first on MarTech .
 
 → [https://martech.org/why-linkedin-doesnt-really-care-about-ai-slop/](https://martech.org/why-linkedin-doesnt-really-care-about-ai-slop/)
-
-### Why buyers hate your multi-year software overhaul
-_Mon, 17 Aug 2026 12:56:00 +0000_
-
-B2B buyers are growing more risk-averse. Here is how to restructure engineering and pitches around modular API integration models. The post Why buyers hate your multi-year software overhaul appeared first on MarTech .
-
-→ [https://martech.org/why-buyers-hate-your-multi-year-software-overhaul/](https://martech.org/why-buyers-hate-your-multi-year-software-overhaul/)
-
-### The next AI opportunity is deciding where to spend
-_Mon, 17 Aug 2026 12:34:00 +0000_
-
-AI is moving deeper into media buying and budget allocation, helping marketers put more of their spending into what’s working. The post The next AI opportunity is deciding where to spend appeared first on MarTech .
-
-→ [https://martech.org/the-next-ai-opportunity-is-deciding-where-to-spend/](https://martech.org/the-next-ai-opportunity-is-deciding-where-to-spend/)
-
-### Stop treating every customer touchpoint the same
-_Mon, 17 Aug 2026 12:17:00 +0000_
-
-The moments that drive growth can also drive churn. Learn how to spot them and respond when the stakes are highest. The post Stop treating every customer touchpoint the same appeared first on MarTech .
-
-→ [https://martech.org/stop-treating-every-customer-touchpoint-the-same/](https://martech.org/stop-treating-every-customer-touchpoint-the-same/)
-
-### How to decide what’s important when everything is urgent
-_Fri, 14 Aug 2026 12:52:00 +0000_
-
-Every task consumes time and resources. Here’s a system for deciding what earns a place on the agenda and what doesn’t. The post How to decide what&#8217;s important when everything is urgent appeared first on MarTech .
-
-→ [https://martech.org/how-to-decide-whats-important-when-everything-is-urgent/](https://martech.org/how-to-decide-whats-important-when-everything-is-urgent/)
 
 ---
