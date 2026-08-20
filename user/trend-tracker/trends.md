@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-19 03:48 UTC_
+_Päivitetty: 2026-08-20 03:48 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,78 +130,39 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### OpenAI builds offerings on consent as it expands ChatGPT ads to Europe
-_Tue, 18 Aug 2026 17:08:00 +0000_
+### OpenAI’s ads business hits Europe at the six month mark
+_Wed, 19 Aug 2026 05:01:00 +0000_
 
-The company's new EU privacy policy goes live "later this month".
+OpenAI will begin serving ads to people using ChatGPT across 31 European markets beginning August 24.
 
-→ [https://digiday.com/marketing/openai-builds-offerings-on-consent-as-it-expands-chatgpt-ads-to-europe/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/openai-builds-offerings-on-consent-as-it-expands-chatgpt-ads-to-europe/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/openais-ads-business-hits-europe-at-the-six-month-mark/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/openais-ads-business-hits-europe-at-the-six-month-mark/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### How publishers can strengthen connections with advertisers in the AI era
-_Tue, 18 Aug 2026 14:00:00 +0000_
+### Future of TV Briefing: YouTube Shorts gains ad dollars but needs to crack social budgets
+_Wed, 19 Aug 2026 04:01:00 +0000_
 
-Today’s audiences are highly decentralized — searching, streaming, scrolling and shopping across a spectrum of platforms. To maximize yield across this complex landscape, publishers must clearly demonstrate the unique contextual value of their properties and audiences. Partner insights from Google.
+This week’s Future of TV Briefing looks at advertisers’ spending on YouTube Shorts inventory as the platform raises the revenue-sharing threshold for creators.
 
-→ [https://digiday.com/sponsored/publisher-monetization-in-the-ai-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/publisher-monetization-in-the-ai-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/future-of-tv/future-of-tv-briefing-youtube-shorts-gains-ad-dollars-but-needs-to-crack-social-budgets/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-youtube-shorts-gains-ad-dollars-but-needs-to-crack-social-budgets/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### ANA updates efforts to standardize retail media network measurement
-_Tue, 18 Aug 2026 09:01:00 +0000_
+### As AI automates everything, The Atlantic is building games by hand
+_Wed, 19 Aug 2026 04:01:00 +0000_
 
-The ANA is hammering out guidelines around standardization of retail media measurement, on behalf of its member base of marketers
+The Atlantic is bucking the AI automation trend with a new trivia game handcrafted by “Jeopardy!” champion and senior editor Drew Goins.
 
-→ [https://digiday.com/marketing/ana-updates-efforts-to-standardize-retail-media-network-measurement/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ana-updates-efforts-to-standardize-retail-media-network-measurement/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/as-ai-automates-everything-the-atlantic-is-building-games-by-hand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/as-ai-automates-everything-the-atlantic-is-building-games-by-hand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Ad Tech Briefing: TV measurement’s competitive reset gathers pace (with more job cuts)
-_Tue, 18 Aug 2026 04:01:00 +0000_
+### ‘Waste in the system’: Why Georgia-Pacific is holding out on buying agents
+_Wed, 19 Aug 2026 04:01:00 +0000_
 
-ComScore and VideoAmp confirm large job cuts, just days after rival Nielsen makes bold M&#38;A move.
+According to its senior director of digital media Paras Shah it’s less that the tech isn’t ready and more that online advertising isn’t.
 
-→ [https://digiday.com/future-of-tv/ad-tech-briefing-tv-measurements-competitive-reset-gathers-pace-with-more-job-cuts/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/ad-tech-briefing-tv-measurements-competitive-reset-gathers-pace-with-more-job-cuts/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/waste-in-the-system-why-georgia-pacific-is-holding-out-on-buying-agents/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/waste-in-the-system-why-georgia-pacific-is-holding-out-on-buying-agents/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### How DTC startups are using AI to scale more efficiently
-_Tue, 18 Aug 2026 04:01:00 +0000_
+### Divine, Vine’s spiritual successor, won’t rule out ads
+_Wed, 19 Aug 2026 04:01:00 +0000_
 
-Brand marketers are recreating the DTC playbook for the current agentic AI landscape.
+The app has a strict 'no AI content' rule, and company isn't ruling out advertising.
 
-→ [https://digiday.com/marketing/how-dtc-startups-are-using-ai-to-scale-more-efficiently/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/how-dtc-startups-are-using-ai-to-scale-more-efficiently/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
----
-
-## MarTech
-
-### AI visibility index shows which brands are disappearing
-_Tue, 18 Aug 2026 13:48:51 +0000_
-
-Some brands dominate Google yet barely surface in AI answers. Here’s where traditional authority and AI recall diverge. The post AI visibility index shows which brands are disappearing appeared first on MarTech .
-
-→ [https://martech.org/ai-visibility-index-shows-which-brands-are-disappearing/](https://martech.org/ai-visibility-index-shows-which-brands-are-disappearing/)
-
-### IAB updates standard for disclosing AI in ads
-_Tue, 18 Aug 2026 13:02:00 +0000_
-
-IAB’s updated framework draws the AI disclosure line around what changes consumer perceptions of authenticity, identity, and what’s real. The post IAB updates standard for disclosing AI in ads appeared first on MarTech .
-
-→ [https://martech.org/iab-updates-standard-for-disclosing-ai-in-ads/](https://martech.org/iab-updates-standard-for-disclosing-ai-in-ads/)
-
-### How to overcome the 3 barriers to AI adoption
-_Tue, 18 Aug 2026 12:55:00 +0000_
-
-The biggest barriers to AI adoption may be internal: inconsistent training, bias concerns, and tactics that get ahead of strategy. The post How to overcome the 3 barriers to AI adoption appeared first on MarTech .
-
-→ [https://martech.org/how-to-overcome-the-3-barriers-to-ai-adoption/](https://martech.org/how-to-overcome-the-3-barriers-to-ai-adoption/)
-
-### How to stop overpaying for AI complexity
-_Tue, 18 Aug 2026 12:25:00 +0000_
-
-Rule-based, predictive, generative, and agentic systems come with very different costs and risks. Start with the lightest approach that can do the job. The post How to stop overpaying for AI complexity appeared first on MarTech .
-
-→ [https://martech.org/how-to-stop-overpaying-for-ai-complexity/](https://martech.org/how-to-stop-overpaying-for-ai-complexity/)
-
-### Why LinkedIn doesn’t really care about AI slop
-_Mon, 17 Aug 2026 15:08:17 +0000_
-
-The problem is AI is perfect for producing the polished, predictable business speak the platform rewards. The post Why LinkedIn doesn&#8217;t really care about AI slop appeared first on MarTech .
-
-→ [https://martech.org/why-linkedin-doesnt-really-care-about-ai-slop/](https://martech.org/why-linkedin-doesnt-really-care-about-ai-slop/)
+→ [https://digiday.com/marketing/vine-inspired-app-divine-is-launching/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/vine-inspired-app-divine-is-launching/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
