@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-20 03:48 UTC_
+_Päivitetty: 2026-08-21 03:51 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,20 @@ Tapahtumassa käsiteltiin videon ja sisällön roolia markkinoinnissa tekoälyn 
 
 ## HubSpot Marketing Blog
 
+### AEO audit tools — the best options on the market
+_Thu, 20 Aug 2026 20:00:03 GMT_
+
+AEO audit tools have become essential for any team that needs to know whether answer engines are citing their brand, and whether those citations are accurate. While traditional SEO audits track rankings and crawl health, AEO audit tools measure answer engine visibility across the platforms where buyers now get direct recommendations. For SEO…
+
+→ [https://blog.hubspot.com/marketing/aeo-audit-tools](https://blog.hubspot.com/marketing/aeo-audit-tools)
+
+### How to write a CRM RFP (with free template)
+_Thu, 20 Aug 2026 20:00:03 GMT_
+
+CRM buying decisions go sideways in a predictable way. Sales wants pipeline automation, IT wants an on-premise option, marketing wants native email, and finance wants to know why there’s a $200K line item with no defined ROI. By the time procurement gets involved, you’ve got four vendors, three opinions, and zero consensus.
+
+→ [https://blog.hubspot.com/marketing/crm-rfp](https://blog.hubspot.com/marketing/crm-rfp)
+
 ### Running TikTok campaigns with impact — missed opportunities that make all the difference
 _Tue, 18 Aug 2026 11:00:02 GMT_
 
@@ -72,20 +86,6 @@ _Fri, 14 Aug 2026 19:30:01 GMT_
 Seventy percent of marketers believe the marketing industry has changed more in the past three years than in the past 50 . That means that marketing automation platforms need to change, too. Pardot is a longtime fixture of the B2B landscape, but the lack of development has left many businesses looking for alternatives.
 
 → [https://blog.hubspot.com/marketing/pardot-alternatives](https://blog.hubspot.com/marketing/pardot-alternatives)
-
-### HubSpot AEO vs. Profound: Features, pricing, and use cases
-_Thu, 13 Aug 2026 19:17:11 GMT_
-
-HubSpot AEO vs. Profound is a comparison between two answer engine optimization tools that take different approaches to AI search visibility. HubSpot AEO tracks how a brand appears in AI-generated answers and connects those insights directly to content creation and campaign execution inside the HubSpot ecosystem.
-
-→ [https://blog.hubspot.com/marketing/hubspot-vs-profound](https://blog.hubspot.com/marketing/hubspot-vs-profound)
-
-### Ahrefs Brand Radar alternatives for marketing teams
-_Thu, 13 Aug 2026 11:00:03 GMT_
-
-G2’s 2026 Answer Economy research found that 51% of B2B software buyers start their research with an AI chatbot more often than Google. That shift means marketing teams need to track not only traditional search performance but also how AI assistants and answer engines mention, cite, and recommend brands.
-
-→ [https://blog.hubspot.com/marketing/ahrefs-brand-radar-alternatives](https://blog.hubspot.com/marketing/ahrefs-brand-radar-alternatives)
 
 ---
 
@@ -130,39 +130,78 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### OpenAI’s ads business hits Europe at the six month mark
-_Wed, 19 Aug 2026 05:01:00 +0000_
+### Why fragmented buyer signals are holding back B2B marketing
+_Thu, 20 Aug 2026 16:31:31 +0000_
 
-OpenAI will begin serving ads to people using ChatGPT across 31 European markets beginning August 24.
+B2B buyers expect relevant, connected buying experiences, but fragmented customer data and buying signals make it difficult for organizations to deliver a unified experience. As AI raises the stakes, organizations need a connected data foundation to turn buyer signals into meaningful insights. Partner insights from Adobe.
 
-→ [https://digiday.com/marketing/openais-ads-business-hits-europe-at-the-six-month-mark/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/openais-ads-business-hits-europe-at-the-six-month-mark/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/sponsored/why-fragmented-buyer-signals-are-holding-back-b2b-marketing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/why-fragmented-buyer-signals-are-holding-back-b2b-marketing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Future of TV Briefing: YouTube Shorts gains ad dollars but needs to crack social budgets
-_Wed, 19 Aug 2026 04:01:00 +0000_
+### Creators are moving into brands’ AI search playbooks
+_Thu, 20 Aug 2026 04:01:00 +0000_
 
-This week’s Future of TV Briefing looks at advertisers’ spending on YouTube Shorts inventory as the platform raises the revenue-sharing threshold for creators.
+As brands race to show up in AI-generated answers, creators are becoming part of the strategy.
 
-→ [https://digiday.com/future-of-tv/future-of-tv-briefing-youtube-shorts-gains-ad-dollars-but-needs-to-crack-social-budgets/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-youtube-shorts-gains-ad-dollars-but-needs-to-crack-social-budgets/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/creators-are-moving-into-brands-ai-search-playbooks/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/creators-are-moving-into-brands-ai-search-playbooks/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### As AI automates everything, The Atlantic is building games by hand
-_Wed, 19 Aug 2026 04:01:00 +0000_
+### Butler/Till extends agentic media buying tests into audio with iHeartMedia
+_Thu, 20 Aug 2026 04:01:00 +0000_
 
-The Atlantic is bucking the AI automation trend with a new trivia game handcrafted by “Jeopardy!” champion and senior editor Drew Goins.
+Tests of autonomous media buying tools are spreading into more channels; publishers hope they can make direct buys easier and more attractive to advertisers.
 
-→ [https://digiday.com/media/as-ai-automates-everything-the-atlantic-is-building-games-by-hand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/as-ai-automates-everything-the-atlantic-is-building-games-by-hand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/butler-till-extends-agentic-media-buying-tests-into-audio-with-iheartmedia/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/butler-till-extends-agentic-media-buying-tests-into-audio-with-iheartmedia/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### ‘Waste in the system’: Why Georgia-Pacific is holding out on buying agents
-_Wed, 19 Aug 2026 04:01:00 +0000_
+### Target plans to lower prices after receiving almost $1 billion in tariff refunds
+_Thu, 20 Aug 2026 04:01:00 +0000_
 
-According to its senior director of digital media Paras Shah it’s less that the tech isn’t ready and more that online advertising isn’t.
+Tariff refunds were a massive tailwind for Target last quarter that could help it continue to lower prices.
 
-→ [https://digiday.com/media-buying/waste-in-the-system-why-georgia-pacific-is-holding-out-on-buying-agents/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/waste-in-the-system-why-georgia-pacific-is-holding-out-on-buying-agents/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/target-plans-to-lower-prices-after-receiving-almost-1-billion-in-tariff-refunds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/target-plans-to-lower-prices-after-receiving-almost-1-billion-in-tariff-refunds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Divine, Vine’s spiritual successor, won’t rule out ads
-_Wed, 19 Aug 2026 04:01:00 +0000_
+### Media Briefing: Ads for AI agents have a measurement problem
+_Thu, 20 Aug 2026 04:01:00 +0000_
 
-The app has a strict 'no AI content' rule, and company isn't ruling out advertising.
+A wave of startups is racing to solve AI ad measurement and attribution as publishers and advertisers experiment with serving ads to agents.
 
-→ [https://digiday.com/marketing/vine-inspired-app-divine-is-launching/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/vine-inspired-app-divine-is-launching/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/media-briefing-ads-for-ai-agents-have-a-measurement-problem/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-ads-for-ai-agents-have-a-measurement-problem/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+---
+
+## MarTech
+
+### Business websites dominate Gemini’s local AI citations
+_Thu, 20 Aug 2026 13:52:54 +0000_
+
+Nearly 60% of Gemini’s local citations point to business websites, but recommendations can change dramatically when using identical searches. The post Business websites dominate Gemini’s local AI citations appeared first on MarTech .
+
+→ [https://martech.org/business-websites-dominate-geminis-local-ai-citations/](https://martech.org/business-websites-dominate-geminis-local-ai-citations/)
+
+### The latest AI-powered martech news and releases
+_Thu, 20 Aug 2026 13:13:39 +0000_
+
+Seismic and Highspot's merger creates a bigger GTM platform, but how useful will it be to customers with disconnected data and processes? The post The latest AI-powered martech news and releases appeared first on MarTech .
+
+→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
+
+### How to tell if your personalization is over the line
+_Thu, 20 Aug 2026 12:57:00 +0000_
+
+Before using customer data to personalize an experience, test whether customers expect it, find it relevant, and feel comfortable with it. The post How to tell if your personalization is over the line appeared first on MarTech .
+
+→ [https://martech.org/how-to-tell-if-your-personalization-is-over-the-line/](https://martech.org/how-to-tell-if-your-personalization-is-over-the-line/)
+
+### Marketing contribution is the new attribution
+_Thu, 20 Aug 2026 12:28:00 +0000_
+
+Attribution turns complex buyer journeys into neat charts. Marketing contribution looks at the content, conversations, and decision points those charts miss. The post Marketing contribution is the new attribution appeared first on MarTech .
+
+→ [https://martech.org/marketing-contribution-is-the-new-attribution/](https://martech.org/marketing-contribution-is-the-new-attribution/)
+
+### Google gives political email a lane around spam filters
+_Wed, 19 Aug 2026 14:30:32 +0000_
+
+New program shows how Gmail is using sender verification and recipient feedback to decide who gets preferential inbox treatment. The post Google gives political email a lane around spam filters appeared first on MarTech .
+
+→ [https://martech.org/google-gives-political-email-a-lane-around-spam-filters/](https://martech.org/google-gives-political-email-a-lane-around-spam-filters/)
 
 ---
