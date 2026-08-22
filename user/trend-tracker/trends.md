@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-21 03:51 UTC_
+_Päivitetty: 2026-08-22 03:43 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,20 @@ Tapahtumassa käsiteltiin videon ja sisällön roolia markkinoinnissa tekoälyn 
 
 ## HubSpot Marketing Blog
 
+### Peec AI alternatives for AI visibility monitoring in 2026
+_Fri, 21 Aug 2026 11:00:02 GMT_
+
+Peec AI alternatives are AI visibility platforms that go beyond monitoring to help marketing teams close citation gaps, connect AI search data to CRM attribution, and run programs across multiple regions and content workflows.
+
+→ [https://blog.hubspot.com/marketing/peec-ai-alternatives](https://blog.hubspot.com/marketing/peec-ai-alternatives)
+
+### Tech stack consolidation: The business case for unified systems & how to build them
+_Fri, 21 Aug 2026 11:00:02 GMT_
+
+Tech stack consolidation is the process of reducing the software tools your organization runs and standardizing work on a smaller, more integrated set of systems.
+
+→ [https://blog.hubspot.com/marketing/tech-stack-consolidation](https://blog.hubspot.com/marketing/tech-stack-consolidation)
+
 ### AEO audit tools — the best options on the market
 _Thu, 20 Aug 2026 20:00:03 GMT_
 
@@ -72,20 +86,6 @@ _Tue, 18 Aug 2026 11:00:02 GMT_
 Before Invisalign ever captured a lead on TikTok, it generated pre-qualified interest with a Smile Quiz built right into the ad. The payoff: nearly a third more people finished the form , at a lower cost per lead. The campaign aimed and succeeded at going far beyond the vanity KPI of “people liked it.” It created an actual pipeline.
 
 → [https://blog.hubspot.com/marketing/running-tiktok-campaigns-with-impact](https://blog.hubspot.com/marketing/running-tiktok-campaigns-with-impact)
-
-### CRM for insurance companies: What it does and why it matters
-_Mon, 17 Aug 2026 11:00:04 GMT_
-
-Insurance is a business built on relationships, but agents can’t manage all their contacts and communications alone. A CRM for insurance companies helps agencies to manage customer relationships across the policy lifecycle, including follow-up, nurturing, customer service, and renewals.
-
-→ [https://blog.hubspot.com/marketing/crm-for-insurance-companies](https://blog.hubspot.com/marketing/crm-for-insurance-companies)
-
-### Pardot alternatives: What B2B marketers are choosing now
-_Fri, 14 Aug 2026 19:30:01 GMT_
-
-Seventy percent of marketers believe the marketing industry has changed more in the past three years than in the past 50 . That means that marketing automation platforms need to change, too. Pardot is a longtime fixture of the B2B landscape, but the lack of development has left many businesses looking for alternatives.
-
-→ [https://blog.hubspot.com/marketing/pardot-alternatives](https://blog.hubspot.com/marketing/pardot-alternatives)
 
 ---
 
@@ -130,78 +130,78 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Why fragmented buyer signals are holding back B2B marketing
-_Thu, 20 Aug 2026 16:31:31 +0000_
+### Inside toy brand Sticki Rolls’ YouTube strategy to win over Gen Alpha
+_Fri, 21 Aug 2026 04:01:00 +0000_
 
-B2B buyers expect relevant, connected buying experiences, but fragmented customer data and buying signals make it difficult for organizations to deliver a unified experience. As AI raises the stakes, organizations need a connected data foundation to turn buyer signals into meaningful insights. Partner insights from Adobe.
+Toy brand Sticki Rolls is hoping to turn its YouTube creator-generated buzz into a Gen Alpha collectible brand through pop-ups and retail expansion.
 
-→ [https://digiday.com/sponsored/why-fragmented-buyer-signals-are-holding-back-b2b-marketing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/why-fragmented-buyer-signals-are-holding-back-b2b-marketing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/inside-toy-brand-sticki-rolls-youtube-strategy-to-win-over-gen-alpha/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/inside-toy-brand-sticki-rolls-youtube-strategy-to-win-over-gen-alpha/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Creators are moving into brands’ AI search playbooks
-_Thu, 20 Aug 2026 04:01:00 +0000_
+### For brands, the creator ambassador is becoming a creator executive
+_Fri, 21 Aug 2026 04:01:00 +0000_
 
-As brands race to show up in AI-generated answers, creators are becoming part of the strategy.
+The new creator partnership brings them into the C-Suite and seeks input and strategy, like Blenders and Jordan "The Stallion" Howlett.
 
-→ [https://digiday.com/marketing/creators-are-moving-into-brands-ai-search-playbooks/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/creators-are-moving-into-brands-ai-search-playbooks/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/for-brands-the-creator-ambassador-is-becoming-a-creator-executive/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/for-brands-the-creator-ambassador-is-becoming-a-creator-executive/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Butler/Till extends agentic media buying tests into audio with iHeartMedia
-_Thu, 20 Aug 2026 04:01:00 +0000_
+### Walmart gets close to $3 billion in tariff refunds
+_Fri, 21 Aug 2026 04:01:00 +0000_
 
-Tests of autonomous media buying tools are spreading into more channels; publishers hope they can make direct buys easier and more attractive to advertisers.
+Tariff refunds continue to bolster big retailers while consumers remain constrained by higher fuel prices and other macroeconomic factors.
 
-→ [https://digiday.com/media-buying/butler-till-extends-agentic-media-buying-tests-into-audio-with-iheartmedia/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/butler-till-extends-agentic-media-buying-tests-into-audio-with-iheartmedia/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/walmart-gets-close-to-3-billion-in-tariff-refunds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/walmart-gets-close-to-3-billion-in-tariff-refunds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Target plans to lower prices after receiving almost $1 billion in tariff refunds
-_Thu, 20 Aug 2026 04:01:00 +0000_
+### Discord adds lower funnel with outcomes push
+_Fri, 21 Aug 2026 04:01:00 +0000_
 
-Tariff refunds were a massive tailwind for Target last quarter that could help it continue to lower prices.
+Discord is pushing its ad business further down the funnel, betting that its gaming communities can deliver more than impressions.
 
-→ [https://digiday.com/marketing/target-plans-to-lower-prices-after-receiving-almost-1-billion-in-tariff-refunds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/target-plans-to-lower-prices-after-receiving-almost-1-billion-in-tariff-refunds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/discord-adds-lower-funnel-with-outcomes-push/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/discord-adds-lower-funnel-with-outcomes-push/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Briefing: Ads for AI agents have a measurement problem
-_Thu, 20 Aug 2026 04:01:00 +0000_
+### Future of Marketing: For the source of Nike’s decline, ignore the easy answers
+_Fri, 21 Aug 2026 04:01:00 +0000_
 
-A wave of startups is racing to solve AI ad measurement and attribution as publishers and advertisers experiment with serving ads to agents.
+The markets have the vaunted apparel brand in last place. But to understand why it’s lagging, and the hurdles in the way of recovery, marketers should ignore hobby horse explanations.
 
-→ [https://digiday.com/media/media-briefing-ads-for-ai-agents-have-a-measurement-problem/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-ads-for-ai-agents-have-a-measurement-problem/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/future-of-marketing-for-the-source-of-nikes-decline-ignore-the-easy-answers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-for-the-source-of-nikes-decline-ignore-the-easy-answers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
 
-### Business websites dominate Gemini’s local AI citations
-_Thu, 20 Aug 2026 13:52:54 +0000_
+### B2B marketers don’t trust the data used to shape budgets
+_Fri, 21 Aug 2026 12:47:00 +0000_
 
-Nearly 60% of Gemini’s local citations point to business websites, but recommendations can change dramatically when using identical searches. The post Business websites dominate Gemini’s local AI citations appeared first on MarTech .
+Marketing data influences budgets, but only 49% fully trust its accuracy and completeness. Disconnected reporting is behind the confidence gap. The post B2B marketers don’t trust the data used to shape budgets appeared first on MarTech .
 
-→ [https://martech.org/business-websites-dominate-geminis-local-ai-citations/](https://martech.org/business-websites-dominate-geminis-local-ai-citations/)
+→ [https://martech.org/marketers-dont-trust-the-data-used-to-shape-budgets/](https://martech.org/marketers-dont-trust-the-data-used-to-shape-budgets/)
 
-### The latest AI-powered martech news and releases
-_Thu, 20 Aug 2026 13:13:39 +0000_
+### What the teams getting the most from AI do differently
+_Fri, 21 Aug 2026 12:46:00 +0000_
 
-Seismic and Highspot's merger creates a bigger GTM platform, but how useful will it be to customers with disconnected data and processes? The post The latest AI-powered martech news and releases appeared first on MarTech .
+Teams built around autonomy, experimentation, and cross-functional work can turn AI’s speed into faster campaigns without adding headcount. The post What the teams getting the most from AI do differently appeared first on MarTech .
 
-→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
+→ [https://martech.org/what-the-teams-getting-the-most-from-ai-do-differently/](https://martech.org/what-the-teams-getting-the-most-from-ai-do-differently/)
 
-### How to tell if your personalization is over the line
-_Thu, 20 Aug 2026 12:57:00 +0000_
+### The engagement illusion: What actually gets attention (and what gets ignored)
+_Fri, 21 Aug 2026 12:16:00 +0000_
 
-Before using customer data to personalize an experience, test whether customers expect it, find it relevant, and feel comfortable with it. The post How to tell if your personalization is over the line appeared first on MarTech .
+AI makes producing content fast, but earning true attention is harder than ever. On Sept. 2, we'll discuss how to cut through the noise and create meaningful engagement. The post The engagement illusion: What actually gets attention (and what gets ignored) appeared first on MarTech .
 
-→ [https://martech.org/how-to-tell-if-your-personalization-is-over-the-line/](https://martech.org/how-to-tell-if-your-personalization-is-over-the-line/)
+→ [https://martech.org/the-engagement-illusion-what-actually-gets-attention-and-what-gets-ignored/](https://martech.org/the-engagement-illusion-what-actually-gets-attention-and-what-gets-ignored/)
 
-### Marketing contribution is the new attribution
-_Thu, 20 Aug 2026 12:28:00 +0000_
+### HubSpot July 2026 updates: Agent Hub arrives and more ways to control what you see
+_Fri, 21 Aug 2026 12:14:00 +0000_
 
-Attribution turns complex buyer journeys into neat charts. Marketing contribution looks at the content, conversations, and decision points those charts miss. The post Marketing contribution is the new attribution appeared first on MarTech .
+The July 2026 HubSpot updates focus on giving you more control over what shows up where, and folding every AI agent into one place to manage them. The post HubSpot July 2026 updates: Agent Hub arrives and more ways to control what you see appeared first on MarTech .
 
-→ [https://martech.org/marketing-contribution-is-the-new-attribution/](https://martech.org/marketing-contribution-is-the-new-attribution/)
+→ [https://martech.org/hubspot-july-2026-updates-agent-hub-arrives-and-more-ways-to-control-what-you-see/](https://martech.org/hubspot-july-2026-updates-agent-hub-arrives-and-more-ways-to-control-what-you-see/)
 
-### Google gives political email a lane around spam filters
-_Wed, 19 Aug 2026 14:30:32 +0000_
+### Why long sales cycles make B2B marketing hard to measure
+_Fri, 21 Aug 2026 12:01:00 +0000_
 
-New program shows how Gmail is using sender verification and recipient feedback to decide who gets preferential inbox treatment. The post Google gives political email a lane around spam filters appeared first on MarTech .
+Long B2B sales cycles make most marketing measurement unreliable. Learn why clicks, leads, and conversions don’t tell the full story. The post Why long sales cycles make B2B marketing hard to measure appeared first on MarTech .
 
-→ [https://martech.org/google-gives-political-email-a-lane-around-spam-filters/](https://martech.org/google-gives-political-email-a-lane-around-spam-filters/)
+→ [https://martech.org/why-long-sales-cycles-make-b2b-marketing-so-hard-to-measure/](https://martech.org/why-long-sales-cycles-make-b2b-marketing-so-hard-to-measure/)
 
 ---
