@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-24 03:55 UTC_
+_Päivitetty: 2026-08-25 03:50 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,78 +130,78 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Inside toy brand Sticki Rolls’ YouTube strategy to win over Gen Alpha
-_Fri, 21 Aug 2026 04:01:00 +0000_
+### AI Marketing Strategies: From experimentation to execution with Samsung, Bayer, David’s Bridal and Dolce&Gabbana Beauty
+_Mon, 24 Aug 2026 15:58:08 +0000_
 
-Toy brand Sticki Rolls is hoping to turn its YouTube creator-generated buzz into a Gen Alpha collectible brand through pop-ups and retail expansion.
+When we convened in February, marketers’ approaches to AI were still nascent. Over the past several months, many iconic brands have moved from early experimentation to strategies and tactics that put AI firmly in the spotlight — and increasingly in the agentic driver’s seat. On Sept. 24 in New York City, Digiday, Glossy and Modern [&#8230;]
 
-→ [https://digiday.com/marketing/inside-toy-brand-sticki-rolls-youtube-strategy-to-win-over-gen-alpha/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/inside-toy-brand-sticki-rolls-youtube-strategy-to-win-over-gen-alpha/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/announcement/ai-marketing-strategies-from-experimentation-to-execution-with-samsung-bayer-davids-bridal-and-dolcegabbana-beauty/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/announcement/ai-marketing-strategies-from-experimentation-to-execution-with-samsung-bayer-davids-bridal-and-dolcegabbana-beauty/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### For brands, the creator ambassador is becoming a creator executive
-_Fri, 21 Aug 2026 04:01:00 +0000_
+### WTF are fandoms, and why are marketers chasing them?
+_Mon, 24 Aug 2026 04:01:00 +0000_
 
-The new creator partnership brings them into the C-Suite and seeks input and strategy, like Blenders and Jordan "The Stallion" Howlett.
+Marketers want more than customers. They're chasing fandom to turn audiences into communities.
 
-→ [https://digiday.com/media/for-brands-the-creator-ambassador-is-becoming-a-creator-executive/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/for-brands-the-creator-ambassador-is-becoming-a-creator-executive/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/wtf-are-fandoms-and-why-are-marketers-chasing-them/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/wtf-are-fandoms-and-why-are-marketers-chasing-them/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Walmart gets close to $3 billion in tariff refunds
-_Fri, 21 Aug 2026 04:01:00 +0000_
+### OpenAI is sharpening its focus on enterprise advertisers
+_Mon, 24 Aug 2026 04:01:00 +0000_
 
-Tariff refunds continue to bolster big retailers while consumers remain constrained by higher fuel prices and other macroeconomic factors.
+The company is hiring a dedicated marketing role aimed at positioning OpenAI as a 'premium advertising platform for the world’s marketers'.
 
-→ [https://digiday.com/marketing/walmart-gets-close-to-3-billion-in-tariff-refunds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/walmart-gets-close-to-3-billion-in-tariff-refunds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/openai-is-sharpening-its-focus-on-enterprise-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/openai-is-sharpening-its-focus-on-enterprise-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Discord adds lower funnel with outcomes push
-_Fri, 21 Aug 2026 04:01:00 +0000_
+### The new AI playbook: The rules brands are setting around customer-facing content
+_Mon, 24 Aug 2026 04:01:00 +0000_
 
-Discord is pushing its ad business further down the funnel, betting that its gaming communities can deliver more than impressions.
+For some brands, AI platforms and services are proving to be game-changing for their ability to speed up creative processes, and save money.
 
-→ [https://digiday.com/marketing/discord-adds-lower-funnel-with-outcomes-push/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/discord-adds-lower-funnel-with-outcomes-push/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/the-new-ai-playbook-the-rules-brands-are-setting-around-customer-facing-content/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/the-new-ai-playbook-the-rules-brands-are-setting-around-customer-facing-content/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Future of Marketing: For the source of Nike’s decline, ignore the easy answers
-_Fri, 21 Aug 2026 04:01:00 +0000_
+### The IAB is developing a framework to tackle AI advertising measurement
+_Mon, 24 Aug 2026 04:01:00 +0000_
 
-The markets have the vaunted apparel brand in last place. But to understand why it’s lagging, and the hurdles in the way of recovery, marketers should ignore hobby horse explanations.
+The IAB is developing a framework to solve a big challenge in advertising: how to measure and assign credit when ads influence AI agents.
 
-→ [https://digiday.com/marketing/future-of-marketing-for-the-source-of-nikes-decline-ignore-the-easy-answers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-for-the-source-of-nikes-decline-ignore-the-easy-answers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/the-iab-is-developing-a-framework-to-tackle-ai-advertising-measurement/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/the-iab-is-developing-a-framework-to-tackle-ai-advertising-measurement/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
 
-### B2B marketers don’t trust the data used to shape budgets
-_Fri, 21 Aug 2026 12:47:00 +0000_
+### Better marketing starts after the results come in
+_Mon, 24 Aug 2026 12:23:00 +0000_
 
-Marketing data influences budgets, but only 49% fully trust its accuracy and completeness. Disconnected reporting is behind the confidence gap. The post B2B marketers don’t trust the data used to shape budgets appeared first on MarTech .
+Don’t let the campaign report end the conversation. Asking why and testing your hypothesis turns results into better decisions. The post Better marketing starts after the results come in appeared first on MarTech .
 
-→ [https://martech.org/marketers-dont-trust-the-data-used-to-shape-budgets/](https://martech.org/marketers-dont-trust-the-data-used-to-shape-budgets/)
+→ [https://martech.org/better-marketing-starts-after-the-results-come-in/](https://martech.org/better-marketing-starts-after-the-results-come-in/)
 
-### What the teams getting the most from AI do differently
-_Fri, 21 Aug 2026 12:46:00 +0000_
+### Run fewer incrementality tests and get more from them
+_Mon, 24 Aug 2026 12:20:00 +0000_
 
-Teams built around autonomy, experimentation, and cross-functional work can turn AI’s speed into faster campaigns without adding headcount. The post What the teams getting the most from AI do differently appeared first on MarTech .
+Prioritize tests where uncertainty has real financial consequences, then use the results to guide decisions long after the test ends. The post Run fewer incrementality tests and get more from them appeared first on MarTech .
 
-→ [https://martech.org/what-the-teams-getting-the-most-from-ai-do-differently/](https://martech.org/what-the-teams-getting-the-most-from-ai-do-differently/)
+→ [https://martech.org/run-fewer-incrementality-tests-and-get-more-from-them/](https://martech.org/run-fewer-incrementality-tests-and-get-more-from-them/)
 
-### The engagement illusion: What actually gets attention (and what gets ignored)
-_Fri, 21 Aug 2026 12:16:00 +0000_
+### Marketing on LinkedIn: What you need to know
+_Mon, 24 Aug 2026 12:15:00 +0000_
 
-AI makes producing content fast, but earning true attention is harder than ever. On Sept. 2, we'll discuss how to cut through the noise and create meaningful engagement. The post The engagement illusion: What actually gets attention (and what gets ignored) appeared first on MarTech .
+Your guide to LinkedIn's tools, strategies and best practices. Updated with info on the new AI-powered Recommended Clips and Chapters feature. The post Marketing on LinkedIn: What you need to know appeared first on MarTech .
 
-→ [https://martech.org/the-engagement-illusion-what-actually-gets-attention-and-what-gets-ignored/](https://martech.org/the-engagement-illusion-what-actually-gets-attention-and-what-gets-ignored/)
+→ [https://martech.org/linkedin-the-marketers-guide/](https://martech.org/linkedin-the-marketers-guide/)
 
-### HubSpot July 2026 updates: Agent Hub arrives and more ways to control what you see
-_Fri, 21 Aug 2026 12:14:00 +0000_
+### The terrifying math behind your new AI workforce
+_Mon, 24 Aug 2026 12:02:00 +0000_
 
-The July 2026 HubSpot updates focus on giving you more control over what shows up where, and folding every AI agent into one place to manage them. The post HubSpot July 2026 updates: Agent Hub arrives and more ways to control what you see appeared first on MarTech .
+Autonomous marketing agents promise massive labor savings, but ballooning API fees and middleware costs can easily break your technology budget. The post The terrifying math behind your new AI workforce appeared first on MarTech .
 
-→ [https://martech.org/hubspot-july-2026-updates-agent-hub-arrives-and-more-ways-to-control-what-you-see/](https://martech.org/hubspot-july-2026-updates-agent-hub-arrives-and-more-ways-to-control-what-you-see/)
+→ [https://martech.org/the-terrifying-math-behind-your-new-ai-workforce/](https://martech.org/the-terrifying-math-behind-your-new-ai-workforce/)
 
-### Why long sales cycles make B2B marketing hard to measure
-_Fri, 21 Aug 2026 12:01:00 +0000_
+### The power of connected customer history by Rokt mParticle
+_Mon, 24 Aug 2026 11:00:00 +0000_
 
-Long B2B sales cycles make most marketing measurement unreliable. Learn why clicks, leads, and conversions don’t tell the full story. The post Why long sales cycles make B2B marketing hard to measure appeared first on MarTech .
+Why transaction data alone isn't enough for performance marketing, and how persistent customer profiles change the equation. The post The power of connected customer history appeared first on MarTech .
 
-→ [https://martech.org/why-long-sales-cycles-make-b2b-marketing-so-hard-to-measure/](https://martech.org/why-long-sales-cycles-make-b2b-marketing-so-hard-to-measure/)
+→ [https://martech.org/the-power-of-connected-customer-history/](https://martech.org/the-power-of-connected-customer-history/)
 
 ---
