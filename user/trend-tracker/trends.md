@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-25 03:50 UTC_
+_Päivitetty: 2026-08-26 03:54 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -10,6 +10,13 @@ _Päivitetty: 2026-08-25 03:50 UTC_
 # 🇫🇮 Kotimaiset lähteet
 
 ## Digimarkkinointi.fi
+
+### Sama budjetti, 40 % enemmän huomiota: kokemuksia Adnamin tekoälyoptimoijasta
+_Tue, 25 Aug 2026 11:38:12 +0000_
+
+Tekoäly löytää samalla budjetilla paremmat mainospaikat ja optimoi ne reaaliajassa nopeammin kuin ihminen ehtisi. The post Sama budjetti, 40 % enemmän huomiota: kokemuksia Adnamin tekoälyoptimoijasta appeared first on SDM Digital .
+
+→ [https://sdm.fi/blogi/sama-budjetti-40-enemman-huomiota-kokemuksia-adnamin-tekoalyoptimoijasta/](https://sdm.fi/blogi/sama-budjetti-40-enemman-huomiota-kokemuksia-adnamin-tekoalyoptimoijasta/)
 
 ### Kestävä sisältöstrategia ei kaadu somen muutoksiin, vaikka Meta rajoitti yhteiskunnallista mainontaa
 _Fri, 07 Aug 2026 07:50:50 +0000_
@@ -38,13 +45,6 @@ _Fri, 26 Jun 2026 11:50:21 +0000_
 Google esitteli uusia mainonnan trendejä: tekoäly muuttaa mainonnan, hakemisen ja ostamisen ennennäkemättömällä tavalla. The post Google Marketing Live 2026: Tekoäly mullistaa Google Ads -mainonnan – mitä se tarkoittaa markkinoijalle? appeared first on SDM Digital .
 
 → [https://sdm.fi/blogi/google-marketing-live-2026-tekoaly-mullistaa-google-mainonnan/](https://sdm.fi/blogi/google-marketing-live-2026-tekoaly-mullistaa-google-mainonnan/)
-
-### ”Video osuu tunteisiin ja tuo siksi tuloksia” – SDM:n opit TwentyThree Summit 2026-tapahtumasta
-_Wed, 03 Jun 2026 06:18:33 +0000_
-
-Tapahtumassa käsiteltiin videon ja sisällön roolia markkinoinnissa tekoälyn aikana. Osallistujia oli yhteensä yli 40 maasta, joten tilaisuus tarjosi hyvän läpileikkauksen kansainvälisen keskustelun kuumimpiin aiheisiin ja siihen, mihin suuntaan alan ammattilaiset uskovat videotuotannon kehittyvän. The post ”Video osuu tunteisiin ja tuo siksi…
-
-→ [https://sdm.fi/blogi/video-osuu-tunteisiin-twentythree-summit-2026/](https://sdm.fi/blogi/video-osuu-tunteisiin-twentythree-summit-2026/)
 
 ---
 
@@ -130,44 +130,65 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### AI Marketing Strategies: From experimentation to execution with Samsung, Bayer, David’s Bridal and Dolce&Gabbana Beauty
-_Mon, 24 Aug 2026 15:58:08 +0000_
+### Walmart finally starts supporting Apple Pay and Google Pay
+_Tue, 25 Aug 2026 04:01:00 +0000_
 
-When we convened in February, marketers’ approaches to AI were still nascent. Over the past several months, many iconic brands have moved from early experimentation to strategies and tactics that put AI firmly in the spotlight — and increasingly in the agentic driver’s seat. On Sept. 24 in New York City, Digiday, Glossy and Modern [&#8230;]
+Walmart will begin to support contactless payment methods at select Walmart stores and Sam’s Club locations
 
-→ [https://digiday.com/announcement/ai-marketing-strategies-from-experimentation-to-execution-with-samsung-bayer-davids-bridal-and-dolcegabbana-beauty/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/announcement/ai-marketing-strategies-from-experimentation-to-execution-with-samsung-bayer-davids-bridal-and-dolcegabbana-beauty/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/walmart-finally-starts-supporting-apple-pay-and-google-pay/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/walmart-finally-starts-supporting-apple-pay-and-google-pay/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### WTF are fandoms, and why are marketers chasing them?
-_Mon, 24 Aug 2026 04:01:00 +0000_
+### Ad Tech Briefing: AI advertising’s measurement problem is really a governance problem
+_Tue, 25 Aug 2026 04:01:00 +0000_
 
-Marketers want more than customers. They're chasing fandom to turn audiences into communities.
+As OpenAI accelerates its ad ambitions, efforts to establish common measurement standards become more urgent.
 
-→ [https://digiday.com/marketing/wtf-are-fandoms-and-why-are-marketers-chasing-them/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/wtf-are-fandoms-and-why-are-marketers-chasing-them/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/ad-tech-briefing-ai-advertisings-measurement-problem-is-really-a-governance-problem/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-ai-advertisings-measurement-problem-is-really-a-governance-problem/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### OpenAI is sharpening its focus on enterprise advertisers
-_Mon, 24 Aug 2026 04:01:00 +0000_
+### In Graphic Detail: How AI search has impacted the web traffic of over 50 advertisers
+_Tue, 25 Aug 2026 04:01:00 +0000_
 
-The company is hiring a dedicated marketing role aimed at positioning OpenAI as a 'premium advertising platform for the world’s marketers'.
+Data spanning one agency’s entire client roster shows the true impact of AI search on web traffic and conversions.
 
-→ [https://digiday.com/marketing/openai-is-sharpening-its-focus-on-enterprise-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/openai-is-sharpening-its-focus-on-enterprise-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/in-graphic-detail-how-ai-search-has-impacted-the-web-traffic-of-over-50-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/in-graphic-detail-how-ai-search-has-impacted-the-web-traffic-of-over-50-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### The new AI playbook: The rules brands are setting around customer-facing content
-_Mon, 24 Aug 2026 04:01:00 +0000_
+### X creates a new revenue model for creators — but will it actually win them over?
+_Tue, 25 Aug 2026 04:01:00 +0000_
 
-For some brands, AI platforms and services are proving to be game-changing for their ability to speed up creative processes, and save money.
+X's new "original content rewards program" seeks creators who publish high-quality content on the platform. Will it bring in more creators?
 
-→ [https://digiday.com/marketing/the-new-ai-playbook-the-rules-brands-are-setting-around-customer-facing-content/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/the-new-ai-playbook-the-rules-brands-are-setting-around-customer-facing-content/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/x-creates-a-new-revenue-model-for-creators-but-will-it-actually-win-them-over/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/x-creates-a-new-revenue-model-for-creators-but-will-it-actually-win-them-over/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### The IAB is developing a framework to tackle AI advertising measurement
-_Mon, 24 Aug 2026 04:01:00 +0000_
+### The case for and against turning off Google crawlers
+_Tue, 25 Aug 2026 04:01:00 +0000_
 
-The IAB is developing a framework to solve a big challenge in advertising: how to measure and assign credit when ads influence AI agents.
+Google’s AI crawlers erode publisher traffic, but blocking them risks losing vital referrals and legal blowback.
 
-→ [https://digiday.com/media/the-iab-is-developing-a-framework-to-tackle-ai-advertising-measurement/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/the-iab-is-developing-a-framework-to-tackle-ai-advertising-measurement/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/podcasts/the-case-for-and-against-turning-off-google-crawlers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/the-case-for-and-against-turning-off-google-crawlers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### How to build an AI content system that works
+_Tue, 25 Aug 2026 14:15:50 +0000_
+
+Build a reliable AI content system in Claude Code with the right context, specialized agents, and human review. The post How to build an AI content system that works appeared first on MarTech .
+
+→ [https://martech.org/how-to-build-an-ai-content-system-that-works/](https://martech.org/how-to-build-an-ai-content-system-that-works/)
+
+### 3 ways marketing automation platforms are being reinvented
+_Tue, 25 Aug 2026 12:30:00 +0000_
+
+The MAP once moved leads toward sales. Three emerging models now center customer context and what happens next. The post 3 ways marketing automation platforms are being reinvented appeared first on MarTech .
+
+→ [https://martech.org/3-ways-marketing-automation-platforms-are-being-reinvented/](https://martech.org/3-ways-marketing-automation-platforms-are-being-reinvented/)
+
+### AI is making bad marketing data harder to ignore
+_Tue, 25 Aug 2026 12:25:00 +0000_
+
+AI workflows inherit the weaknesses in your data. Learn how to find gaps across your data pipeline and fix them at the source. The post AI is making bad marketing data harder to ignore appeared first on MarTech .
+
+→ [https://martech.org/ai-is-making-bad-marketing-data-harder-to-ignore/](https://martech.org/ai-is-making-bad-marketing-data-harder-to-ignore/)
 
 ### Better marketing starts after the results come in
 _Mon, 24 Aug 2026 12:23:00 +0000_
@@ -182,26 +203,5 @@ _Mon, 24 Aug 2026 12:20:00 +0000_
 Prioritize tests where uncertainty has real financial consequences, then use the results to guide decisions long after the test ends. The post Run fewer incrementality tests and get more from them appeared first on MarTech .
 
 → [https://martech.org/run-fewer-incrementality-tests-and-get-more-from-them/](https://martech.org/run-fewer-incrementality-tests-and-get-more-from-them/)
-
-### Marketing on LinkedIn: What you need to know
-_Mon, 24 Aug 2026 12:15:00 +0000_
-
-Your guide to LinkedIn's tools, strategies and best practices. Updated with info on the new AI-powered Recommended Clips and Chapters feature. The post Marketing on LinkedIn: What you need to know appeared first on MarTech .
-
-→ [https://martech.org/linkedin-the-marketers-guide/](https://martech.org/linkedin-the-marketers-guide/)
-
-### The terrifying math behind your new AI workforce
-_Mon, 24 Aug 2026 12:02:00 +0000_
-
-Autonomous marketing agents promise massive labor savings, but ballooning API fees and middleware costs can easily break your technology budget. The post The terrifying math behind your new AI workforce appeared first on MarTech .
-
-→ [https://martech.org/the-terrifying-math-behind-your-new-ai-workforce/](https://martech.org/the-terrifying-math-behind-your-new-ai-workforce/)
-
-### The power of connected customer history by Rokt mParticle
-_Mon, 24 Aug 2026 11:00:00 +0000_
-
-Why transaction data alone isn't enough for performance marketing, and how persistent customer profiles change the equation. The post The power of connected customer history appeared first on MarTech .
-
-→ [https://martech.org/the-power-of-connected-customer-history/](https://martech.org/the-power-of-connected-customer-history/)
 
 ---
