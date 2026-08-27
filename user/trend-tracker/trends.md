@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-26 03:54 UTC_
+_Päivitetty: 2026-08-27 13:54 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Google esitteli uusia mainonnan trendejä: tekoäly muuttaa mainonnan, hakemisen
 
 ## HubSpot Marketing Blog
 
+### Best Marketo alternatives worth evaluating in 2026
+_Wed, 26 Aug 2026 11:00:03 GMT_
+
+Adobe Marketo Engage has long been the go-to for enterprise demand generation teams. But over the past few years, a growing number of marketing operations leaders have started asking a harder question: Is Marketo actually the best tool for us, or are there Marketo alternatives we should be aware of?
+
+→ [https://blog.hubspot.com/marketing/marketo-alternatives](https://blog.hubspot.com/marketing/marketo-alternatives)
+
 ### Peec AI alternatives for AI visibility monitoring in 2026
 _Fri, 21 Aug 2026 11:00:02 GMT_
 
@@ -79,13 +86,6 @@ _Thu, 20 Aug 2026 20:00:03 GMT_
 CRM buying decisions go sideways in a predictable way. Sales wants pipeline automation, IT wants an on-premise option, marketing wants native email, and finance wants to know why there’s a $200K line item with no defined ROI. By the time procurement gets involved, you’ve got four vendors, three opinions, and zero consensus.
 
 → [https://blog.hubspot.com/marketing/crm-rfp](https://blog.hubspot.com/marketing/crm-rfp)
-
-### Running TikTok campaigns with impact — missed opportunities that make all the difference
-_Tue, 18 Aug 2026 11:00:02 GMT_
-
-Before Invisalign ever captured a lead on TikTok, it generated pre-qualified interest with a Smile Quiz built right into the ad. The payoff: nearly a third more people finished the form , at a lower cost per lead. The campaign aimed and succeeded at going far beyond the vanity KPI of “people liked it.” It created an actual pipeline.
-
-→ [https://blog.hubspot.com/marketing/running-tiktok-campaigns-with-impact](https://blog.hubspot.com/marketing/running-tiktok-campaigns-with-impact)
 
 ---
 
@@ -130,78 +130,78 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Walmart finally starts supporting Apple Pay and Google Pay
-_Tue, 25 Aug 2026 04:01:00 +0000_
+### Three years after Kokai, The Trade Desk is betting on refinement with Zuma
+_Thu, 27 Aug 2026 13:01:00 +0000_
 
-Walmart will begin to support contactless payment methods at select Walmart stores and Sam’s Club locations
+The Trade Desk wants Zuma — the next version of its programmatic platform, Kokai — to be easier to use, and even harder to leave.
 
-→ [https://digiday.com/media/walmart-finally-starts-supporting-apple-pay-and-google-pay/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/walmart-finally-starts-supporting-apple-pay-and-google-pay/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/three-years-after-kokai-the-trade-desk-is-betting-on-refinement-with-zuma/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/three-years-after-kokai-the-trade-desk-is-betting-on-refinement-with-zuma/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Ad Tech Briefing: AI advertising’s measurement problem is really a governance problem
-_Tue, 25 Aug 2026 04:01:00 +0000_
+### ‘Inside, most of them are dumpster fires’: Confessions of a frustrated indie agency ad exec
+_Thu, 27 Aug 2026 04:01:00 +0000_
 
-As OpenAI accelerates its ad ambitions, efforts to establish common measurement standards become more urgent.
+From surprise corporate card cancellations to phantom return-to-office mandates, one former indie agency exec talks about the chaos behind the scenes.
 
-→ [https://digiday.com/media-buying/ad-tech-briefing-ai-advertisings-measurement-problem-is-really-a-governance-problem/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-ai-advertisings-measurement-problem-is-really-a-governance-problem/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/inside-most-of-them-are-dumpster-fires-confessions-of-a-frustrated-indie-agency-ad-exec/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/inside-most-of-them-are-dumpster-fires-confessions-of-a-frustrated-indie-agency-ad-exec/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### In Graphic Detail: How AI search has impacted the web traffic of over 50 advertisers
-_Tue, 25 Aug 2026 04:01:00 +0000_
+### The case for and against the ‘programmatic-ification’ of the creator economy
+_Thu, 27 Aug 2026 04:01:00 +0000_
 
-Data spanning one agency’s entire client roster shows the true impact of AI search on web traffic and conversions.
+Creator marketing is racing toward AI ad-stack automation, but risks turning trust into inventory.
 
-→ [https://digiday.com/marketing/in-graphic-detail-how-ai-search-has-impacted-the-web-traffic-of-over-50-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/in-graphic-detail-how-ai-search-has-impacted-the-web-traffic-of-over-50-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/the-case-for-and-against-the-programmatic-ification-of-the-creator-economy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/the-case-for-and-against-the-programmatic-ification-of-the-creator-economy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### X creates a new revenue model for creators — but will it actually win them over?
-_Tue, 25 Aug 2026 04:01:00 +0000_
+### Media Briefing: The post-traffic era of the open web is taking shape
+_Thu, 27 Aug 2026 04:01:00 +0000_
 
-X's new "original content rewards program" seeks creators who publish high-quality content on the platform. Will it bring in more creators?
+The open web isn't dead, but it is changing shape. Publishers are trading search-driven scale for stronger brands and diversified audiences.
 
-→ [https://digiday.com/media/x-creates-a-new-revenue-model-for-creators-but-will-it-actually-win-them-over/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/x-creates-a-new-revenue-model-for-creators-but-will-it-actually-win-them-over/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/media-briefing-the-post-traffic-era-of-the-open-web-is-taking-shape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-the-post-traffic-era-of-the-open-web-is-taking-shape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### The case for and against turning off Google crawlers
-_Tue, 25 Aug 2026 04:01:00 +0000_
+### Digiday+ Research: The marketers’ 2026 guide to retail media marketing, including The Home Depot, Milani Cosmetics and…
+_Wed, 26 Aug 2026 04:01:00 +0000_
 
-Google’s AI crawlers erode publisher traffic, but blocking them risks losing vital referrals and legal blowback.
+As the retail media landscape continues to evolve, marketers are rethinking where they invest, how they measure success and which retail media networks deserve a larger share of budget.
 
-→ [https://digiday.com/podcasts/the-case-for-and-against-turning-off-google-crawlers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/the-case-for-and-against-turning-off-google-crawlers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/digiday-research-the-marketers-2026-guide-to-retail-media-marketing-including-the-home-depot-milani-cosmetics-and-tinuiti/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/digiday-research-the-marketers-2026-guide-to-retail-media-marketing-including-the-home-depot-milani-cosmetics-and-tinuiti/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
 
-### How to build an AI content system that works
-_Tue, 25 Aug 2026 14:15:50 +0000_
+### Integrate buys CaliberMind and hopes to close the B2B demand gen loop
+_Thu, 27 Aug 2026 12:48:00 +0000_
 
-Build a reliable AI content system in Claude Code with the right context, specialized agents, and human review. The post How to build an AI content system that works appeared first on MarTech .
+Is the problem connecting marketing, pipeline, and revenue? Or is it the crazy ways businesses buy, which no technology can fix? The post Integrate buys CaliberMind and hopes to close the B2B demand gen loop appeared first on MarTech .
 
-→ [https://martech.org/how-to-build-an-ai-content-system-that-works/](https://martech.org/how-to-build-an-ai-content-system-that-works/)
+→ [https://martech.org/integrate-buys-calibermind-and-hopes-to-close-the-b2b-demand-gen-loop/](https://martech.org/integrate-buys-calibermind-and-hopes-to-close-the-b2b-demand-gen-loop/)
 
-### 3 ways marketing automation platforms are being reinvented
-_Tue, 25 Aug 2026 12:30:00 +0000_
+### Better data starts with treating people like people
+_Thu, 27 Aug 2026 12:35:00 +0000_
 
-The MAP once moved leads toward sales. Three emerging models now center customer context and what happens next. The post 3 ways marketing automation platforms are being reinvented appeared first on MarTech .
+From a McDonald’s order to a night at Madison Square Garden, ordinary experiences create detailed profiles people rarely see or can correct. The post Better data starts with treating people like people appeared first on MarTech .
 
-→ [https://martech.org/3-ways-marketing-automation-platforms-are-being-reinvented/](https://martech.org/3-ways-marketing-automation-platforms-are-being-reinvented/)
+→ [https://martech.org/better-data-starts-with-treating-people-like-people/](https://martech.org/better-data-starts-with-treating-people-like-people/)
 
-### AI is making bad marketing data harder to ignore
-_Tue, 25 Aug 2026 12:25:00 +0000_
+### How to keep a crisis from defining your brand online
+_Thu, 27 Aug 2026 12:20:00 +0000_
 
-AI workflows inherit the weaknesses in your data. Learn how to find gaps across your data pipeline and fix them at the source. The post AI is making bad marketing data harder to ignore appeared first on MarTech .
+A reputation crisis can shape how your brand appears in search and AI for years. Learn how to contain the damage and build digital resilience. The post How to keep a crisis from defining your brand online appeared first on MarTech .
 
-→ [https://martech.org/ai-is-making-bad-marketing-data-harder-to-ignore/](https://martech.org/ai-is-making-bad-marketing-data-harder-to-ignore/)
+→ [https://martech.org/how-to-keep-a-crisis-from-defining-your-brand-online/](https://martech.org/how-to-keep-a-crisis-from-defining-your-brand-online/)
 
-### Better marketing starts after the results come in
-_Mon, 24 Aug 2026 12:23:00 +0000_
+### Build content briefs around people, not keywords
+_Wed, 26 Aug 2026 14:27:36 +0000_
 
-Don’t let the campaign report end the conversation. Asking why and testing your hypothesis turns results into better decisions. The post Better marketing starts after the results come in appeared first on MarTech .
+Better content briefs start with the situations that drive people to search, then use keywords to support the journey, not define it. The post Build content briefs around people, not keywords appeared first on MarTech .
 
-→ [https://martech.org/better-marketing-starts-after-the-results-come-in/](https://martech.org/better-marketing-starts-after-the-results-come-in/)
+→ [https://martech.org/build-content-briefs-around-people-not-keywords/](https://martech.org/build-content-briefs-around-people-not-keywords/)
 
-### Run fewer incrementality tests and get more from them
-_Mon, 24 Aug 2026 12:20:00 +0000_
+### The AI governance test most marketers are missing
+_Wed, 26 Aug 2026 12:41:00 +0000_
 
-Prioritize tests where uncertainty has real financial consequences, then use the results to guide decisions long after the test ends. The post Run fewer incrementality tests and get more from them appeared first on MarTech .
+When AI gets a marketing decision wrong, the fix could belong in the rule, the control, the implementation or the authority behind it. Here's how to tell. The post The AI governance test most marketers are missing appeared first on MarTech .
 
-→ [https://martech.org/run-fewer-incrementality-tests-and-get-more-from-them/](https://martech.org/run-fewer-incrementality-tests-and-get-more-from-them/)
+→ [https://martech.org/the-ai-governance-test-most-marketers-are-missing/](https://martech.org/the-ai-governance-test-most-marketers-are-missing/)
 
 ---
