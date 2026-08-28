@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-27 13:54 UTC_
+_Päivitetty: 2026-08-28 15:05 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Google esitteli uusia mainonnan trendejä: tekoäly muuttaa mainonnan, hakemisen
 
 ## HubSpot Marketing Blog
 
+### AEO mentions vs. citations: Key differences explained
+_Fri, 28 Aug 2026 12:00:03 GMT_
+
+If you’ve been tracking your brand’s presence in AI-generated answers, you’ve probably noticed something confusing: your brand name sho ws up all the time, but that traffic isn’t materializing. The reason is usually the gap between an AEO mention and an AEO citation, and if you’re measuring the wrong one, you’re missing most of the picture.
+
+→ [https://blog.hubspot.com/marketing/aeo-mentions-vs-citations](https://blog.hubspot.com/marketing/aeo-mentions-vs-citations)
+
 ### Best Marketo alternatives worth evaluating in 2026
 _Wed, 26 Aug 2026 11:00:03 GMT_
 
@@ -79,13 +86,6 @@ _Thu, 20 Aug 2026 20:00:03 GMT_
 AEO audit tools have become essential for any team that needs to know whether answer engines are citing their brand, and whether those citations are accurate. While traditional SEO audits track rankings and crawl health, AEO audit tools measure answer engine visibility across the platforms where buyers now get direct recommendations. For SEO…
 
 → [https://blog.hubspot.com/marketing/aeo-audit-tools](https://blog.hubspot.com/marketing/aeo-audit-tools)
-
-### How to write a CRM RFP (with free template)
-_Thu, 20 Aug 2026 20:00:03 GMT_
-
-CRM buying decisions go sideways in a predictable way. Sales wants pipeline automation, IT wants an on-premise option, marketing wants native email, and finance wants to know why there’s a $200K line item with no defined ROI. By the time procurement gets involved, you’ve got four vendors, three opinions, and zero consensus.
-
-→ [https://blog.hubspot.com/marketing/crm-rfp](https://blog.hubspot.com/marketing/crm-rfp)
 
 ---
 
@@ -130,78 +130,39 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### Creator industry admits that fee pricing is out of control, but can’t agree on a fix
+_Fri, 28 Aug 2026 04:01:00 +0000_
+
+In the facing of rising creator costs, companies are offering benchmarking tools to level the negotiation playing field, but is it enough?
+
+→ [https://digiday.com/media/creator-industry-admits-that-fee-pricing-is-out-of-control-but-cant-agree-on-a-fix/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/creator-industry-admits-that-fee-pricing-is-out-of-control-but-cant-agree-on-a-fix/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Carhartt aligns with the NFL through the tradespeople building Highmark Stadium
+_Fri, 28 Aug 2026 04:01:00 +0000_
+
+Carhartt is finding a way to tap into football season that goes beyond partnering with the athletes themselves.
+
+→ [https://digiday.com/marketing/carhartt-is-aligning-with-the-nfl-through-the-tradespeople-building-highmark-stadium/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/carhartt-is-aligning-with-the-nfl-through-the-tradespeople-building-highmark-stadium/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Future of Marketing Briefing: Soccer’s World Cup buzz isn’t moving needle on Premier League ad spend
+_Fri, 28 Aug 2026 04:01:00 +0000_
+
+The World Cup was a success for broadcasters, but marketers looking to capitalize on rising interest in soccer must navigate a diffuse landscape of sporting properties and fan identities.
+
+→ [https://digiday.com/marketing/future-of-marketing-briefing-soccers-world-cup-buzz-isnt-moving-needle-on-premier-league-ad-spend/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-soccers-world-cup-buzz-isnt-moving-needle-on-premier-league-ad-spend/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### How one app is putting performance at the center of its CTV strategy
+_Thu, 27 Aug 2026 15:36:04 +0000_
+
+CTV is becoming a practical performance channel for brands that are willing to bring more rigor to audience strategy, creative testing and measurement. Partner insights from Nexxen.
+
+→ [https://digiday.com/sponsored/mistplay-app-ctv-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/mistplay-app-ctv-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### Three years after Kokai, The Trade Desk is betting on refinement with Zuma
 _Thu, 27 Aug 2026 13:01:00 +0000_
 
 The Trade Desk wants Zuma — the next version of its programmatic platform, Kokai — to be easier to use, and even harder to leave.
 
 → [https://digiday.com/marketing/three-years-after-kokai-the-trade-desk-is-betting-on-refinement-with-zuma/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/three-years-after-kokai-the-trade-desk-is-betting-on-refinement-with-zuma/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### ‘Inside, most of them are dumpster fires’: Confessions of a frustrated indie agency ad exec
-_Thu, 27 Aug 2026 04:01:00 +0000_
-
-From surprise corporate card cancellations to phantom return-to-office mandates, one former indie agency exec talks about the chaos behind the scenes.
-
-→ [https://digiday.com/marketing/inside-most-of-them-are-dumpster-fires-confessions-of-a-frustrated-indie-agency-ad-exec/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/inside-most-of-them-are-dumpster-fires-confessions-of-a-frustrated-indie-agency-ad-exec/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### The case for and against the ‘programmatic-ification’ of the creator economy
-_Thu, 27 Aug 2026 04:01:00 +0000_
-
-Creator marketing is racing toward AI ad-stack automation, but risks turning trust into inventory.
-
-→ [https://digiday.com/marketing/the-case-for-and-against-the-programmatic-ification-of-the-creator-economy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/the-case-for-and-against-the-programmatic-ification-of-the-creator-economy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Media Briefing: The post-traffic era of the open web is taking shape
-_Thu, 27 Aug 2026 04:01:00 +0000_
-
-The open web isn't dead, but it is changing shape. Publishers are trading search-driven scale for stronger brands and diversified audiences.
-
-→ [https://digiday.com/media/media-briefing-the-post-traffic-era-of-the-open-web-is-taking-shape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-the-post-traffic-era-of-the-open-web-is-taking-shape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Digiday+ Research: The marketers’ 2026 guide to retail media marketing, including The Home Depot, Milani Cosmetics and…
-_Wed, 26 Aug 2026 04:01:00 +0000_
-
-As the retail media landscape continues to evolve, marketers are rethinking where they invest, how they measure success and which retail media networks deserve a larger share of budget.
-
-→ [https://digiday.com/marketing/digiday-research-the-marketers-2026-guide-to-retail-media-marketing-including-the-home-depot-milani-cosmetics-and-tinuiti/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/digiday-research-the-marketers-2026-guide-to-retail-media-marketing-including-the-home-depot-milani-cosmetics-and-tinuiti/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
----
-
-## MarTech
-
-### Integrate buys CaliberMind and hopes to close the B2B demand gen loop
-_Thu, 27 Aug 2026 12:48:00 +0000_
-
-Is the problem connecting marketing, pipeline, and revenue? Or is it the crazy ways businesses buy, which no technology can fix? The post Integrate buys CaliberMind and hopes to close the B2B demand gen loop appeared first on MarTech .
-
-→ [https://martech.org/integrate-buys-calibermind-and-hopes-to-close-the-b2b-demand-gen-loop/](https://martech.org/integrate-buys-calibermind-and-hopes-to-close-the-b2b-demand-gen-loop/)
-
-### Better data starts with treating people like people
-_Thu, 27 Aug 2026 12:35:00 +0000_
-
-From a McDonald’s order to a night at Madison Square Garden, ordinary experiences create detailed profiles people rarely see or can correct. The post Better data starts with treating people like people appeared first on MarTech .
-
-→ [https://martech.org/better-data-starts-with-treating-people-like-people/](https://martech.org/better-data-starts-with-treating-people-like-people/)
-
-### How to keep a crisis from defining your brand online
-_Thu, 27 Aug 2026 12:20:00 +0000_
-
-A reputation crisis can shape how your brand appears in search and AI for years. Learn how to contain the damage and build digital resilience. The post How to keep a crisis from defining your brand online appeared first on MarTech .
-
-→ [https://martech.org/how-to-keep-a-crisis-from-defining-your-brand-online/](https://martech.org/how-to-keep-a-crisis-from-defining-your-brand-online/)
-
-### Build content briefs around people, not keywords
-_Wed, 26 Aug 2026 14:27:36 +0000_
-
-Better content briefs start with the situations that drive people to search, then use keywords to support the journey, not define it. The post Build content briefs around people, not keywords appeared first on MarTech .
-
-→ [https://martech.org/build-content-briefs-around-people-not-keywords/](https://martech.org/build-content-briefs-around-people-not-keywords/)
-
-### The AI governance test most marketers are missing
-_Wed, 26 Aug 2026 12:41:00 +0000_
-
-When AI gets a marketing decision wrong, the fix could belong in the rule, the control, the implementation or the authority behind it. Here's how to tell. The post The AI governance test most marketers are missing appeared first on MarTech .
-
-→ [https://martech.org/the-ai-governance-test-most-marketers-are-missing/](https://martech.org/the-ai-governance-test-most-marketers-are-missing/)
 
 ---
