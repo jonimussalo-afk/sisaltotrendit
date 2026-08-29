@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-28 15:05 UTC_
+_Päivitetty: 2026-08-29 09:48 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -164,5 +164,44 @@ _Thu, 27 Aug 2026 13:01:00 +0000_
 The Trade Desk wants Zuma — the next version of its programmatic platform, Kokai — to be easier to use, and even harder to leave.
 
 → [https://digiday.com/marketing/three-years-after-kokai-the-trade-desk-is-betting-on-refinement-with-zuma/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/three-years-after-kokai-the-trade-desk-is-betting-on-refinement-with-zuma/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+---
+
+## MarTech
+
+### Marketers know AI is using bad data to make decisions
+_Fri, 28 Aug 2026 12:55:00 +0000_
+
+Marketers are giving AI more authority even as bad CRM data undermines revenue measurement, reporting, and the decisions AI makes. The post Marketers know AI is using bad data to make decisions appeared first on MarTech .
+
+→ [https://martech.org/marketers-know-ai-is-using-bad-data-to-make-decisions/](https://martech.org/marketers-know-ai-is-using-bad-data-to-make-decisions/)
+
+### Stop measuring your brand and start listening
+_Fri, 28 Aug 2026 12:45:00 +0000_
+
+The most useful brand feedback often comes from what customers say and do when nobody is asking them to rate the experience. The post Stop measuring your brand and start listening appeared first on MarTech .
+
+→ [https://martech.org/stop-measuring-your-brand-and-start-listening/](https://martech.org/stop-measuring-your-brand-and-start-listening/)
+
+### Anthropic partnership makes Salesforce’s interface optional
+_Fri, 28 Aug 2026 12:28:00 +0000_
+
+Claudeforce puts Salesforce data and workflows inside Claude, pointing toward a future where AI becomes the interface to enterprise software. The post Anthropic partnership makes Salesforce&#8217;s interface optional appeared first on MarTech .
+
+→ [https://martech.org/anthropic-partnership-makes-salesforces-interface-optional/](https://martech.org/anthropic-partnership-makes-salesforces-interface-optional/)
+
+### The AI performance shake-up: What’s really driving results across channels now
+_Fri, 28 Aug 2026 12:27:00 +0000_
+
+When algorithms hide your campaign levers, tracking true impact gets tricky. On Sept. 2, we'll discuss how to regain visibility and drive real growth. The post The AI performance shake-up: What’s really driving results across channels now appeared first on MarTech .
+
+→ [https://martech.org/the-ai-performance-shake-up-whats-really-driving-results-across-channels-now/](https://martech.org/the-ai-performance-shake-up-whats-really-driving-results-across-channels-now/)
+
+### The latest AI-powered martech news and releases
+_Thu, 27 Aug 2026 14:41:50 +0000_
+
+Why replace the CEO with AI when you can replace the entire C-suite? The post The latest AI-powered martech news and releases appeared first on MarTech .
+
+→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
 
 ---
