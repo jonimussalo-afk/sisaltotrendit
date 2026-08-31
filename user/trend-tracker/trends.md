@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-30 08:59 UTC_
+_Päivitetty: 2026-08-31 09:27 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,40 +130,40 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Creator industry admits that fee pricing is out of control, but can’t agree on a fix
-_Fri, 28 Aug 2026 04:01:00 +0000_
+### The Telegraph’s next podcast play: video, events and paid memberships
+_Mon, 31 Aug 2026 04:01:00 +0000_
 
-In the facing of rising creator costs, companies are offering benchmarking tools to level the negotiation playing field, but is it enough?
+The Telegraph is expanding its video podcast strategy into franchises spanning events and paid memberships to deepen audience relationships.
 
-→ [https://digiday.com/media/creator-industry-admits-that-fee-pricing-is-out-of-control-but-cant-agree-on-a-fix/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/creator-industry-admits-that-fee-pricing-is-out-of-control-but-cant-agree-on-a-fix/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/the-telegraphs-next-podcast-play-video-events-and-paid-memberships/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/the-telegraphs-next-podcast-play-video-events-and-paid-memberships/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Carhartt aligns with the NFL through the tradespeople building Highmark Stadium
-_Fri, 28 Aug 2026 04:01:00 +0000_
+### Target’s new beauty selection has almost no Black-owned brands
+_Mon, 31 Aug 2026 04:01:00 +0000_
 
-Carhartt is finding a way to tap into football season that goes beyond partnering with the athletes themselves.
+Of the 90 brands listed as part of the new beauty assortment, Modern Retail could only identify two with Black owners or founders.
 
-→ [https://digiday.com/marketing/carhartt-is-aligning-with-the-nfl-through-the-tradespeople-building-highmark-stadium/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/carhartt-is-aligning-with-the-nfl-through-the-tradespeople-building-highmark-stadium/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/targets-new-beauty-selection-has-almost-no-black-owned-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/targets-new-beauty-selection-has-almost-no-black-owned-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Future of Marketing Briefing: Soccer’s World Cup buzz isn’t moving needle on Premier League ad spend
-_Fri, 28 Aug 2026 04:01:00 +0000_
+### How a content marketer became an award-winning cannabis creator
+_Mon, 31 Aug 2026 04:01:00 +0000_
 
-The World Cup was a success for broadcasters, but marketers looking to capitalize on rising interest in soccer must navigate a diffuse landscape of sporting properties and fan identities.
+A content marketer became a content creator to help grow one of the more difficult brands to scale on social: cannabis
 
-→ [https://digiday.com/marketing/future-of-marketing-briefing-soccers-world-cup-buzz-isnt-moving-needle-on-premier-league-ad-spend/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-soccers-world-cup-buzz-isnt-moving-needle-on-premier-league-ad-spend/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/how-a-content-marketer-became-an-award-winning-cannabis-creator/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-a-content-marketer-became-an-award-winning-cannabis-creator/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### How one app is putting performance at the center of its CTV strategy
-_Thu, 27 Aug 2026 15:36:04 +0000_
+### As WPP’s Cindy Rose marks a year as CEO, turnaround is underway but far from certain
+_Mon, 31 Aug 2026 04:01:00 +0000_
 
-CTV is becoming a practical performance channel for brands that are willing to bring more rigor to audience strategy, creative testing and measurement. Partner insights from Nexxen.
+The holdco boss has been in place for a busy year, but the agency group has a long way to go if it’s to find a secure business model.
 
-→ [https://digiday.com/sponsored/mistplay-app-ctv-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/mistplay-app-ctv-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/as-wpps-cindy-rose-marks-a-year-as-ceo-turnaround-is-underway-but-far-from-certain/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/as-wpps-cindy-rose-marks-a-year-as-ceo-turnaround-is-underway-but-far-from-certain/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Three years after Kokai, The Trade Desk is betting on refinement with Zuma
-_Thu, 27 Aug 2026 13:01:00 +0000_
+### Media Buying Briefing: Linda Boff on the power of independent agencies, and the need for financial discipline
+_Mon, 31 Aug 2026 04:01:00 +0000_
 
-The Trade Desk wants Zuma — the next version of its programmatic platform, Kokai — to be easier to use, and even harder to leave.
+The former CMO of GE has seen agencies of all stripes and sizes come and go. If they're not putting the client first, they're not doing job one.
 
-→ [https://digiday.com/marketing/three-years-after-kokai-the-trade-desk-is-betting-on-refinement-with-zuma/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/three-years-after-kokai-the-trade-desk-is-betting-on-refinement-with-zuma/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/media-buying-briefing-linda-boff-on-the-power-of-independent-agencies-and-the-need-for-financial-discipline/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-linda-boff-on-the-power-of-independent-agencies-and-the-need-for-financial-discipline/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
