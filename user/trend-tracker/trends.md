@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-08-31 09:27 UTC_
+_Päivitetty: 2026-09-01 08:24 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,44 +130,65 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### The Telegraph’s next podcast play: video, events and paid memberships
-_Mon, 31 Aug 2026 04:01:00 +0000_
+### How every major platform pays creators
+_Tue, 01 Sep 2026 04:01:00 +0000_
 
-The Telegraph is expanding its video podcast strategy into franchises spanning events and paid memberships to deepen audience relationships.
+Every platform monetizes creators differently, with varying requirements and audience thresholds, and a propensity for change.
 
-→ [https://digiday.com/media/the-telegraphs-next-podcast-play-video-events-and-paid-memberships/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/the-telegraphs-next-podcast-play-video-events-and-paid-memberships/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/how-every-major-platform-pays-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/how-every-major-platform-pays-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Target’s new beauty selection has almost no Black-owned brands
-_Mon, 31 Aug 2026 04:01:00 +0000_
+### Brands bring the U.S. Open to fans with tennis-themed pop-ups around New York City
+_Tue, 01 Sep 2026 04:01:00 +0000_
 
-Of the 90 brands listed as part of the new beauty assortment, Modern Retail could only identify two with Black owners or founders.
+Marketers are pulling out all the stops to tie their brands to the U.S. Open, including hosting public pop-ups in other parts of New York City.
 
-→ [https://digiday.com/marketing/targets-new-beauty-selection-has-almost-no-black-owned-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/targets-new-beauty-selection-has-almost-no-black-owned-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/brands-bring-the-u-s-open-to-fans-with-tennis-themed-pop-ups-around-new-york-city/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/brands-bring-the-u-s-open-to-fans-with-tennis-themed-pop-ups-around-new-york-city/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### How a content marketer became an award-winning cannabis creator
-_Mon, 31 Aug 2026 04:01:00 +0000_
+### 5 questions facing advertisers, publishers and creators heading into fall
+_Tue, 01 Sep 2026 04:01:00 +0000_
 
-A content marketer became a content creator to help grow one of the more difficult brands to scale on social: cannabis
+In this week’s Digiday Podcast episode, hosts Kimeko McCoy and Tim Peterson recap the season’s biggest developments in the media and marketing industries and the questions they raise for the final stretch of 2026.
 
-→ [https://digiday.com/media/how-a-content-marketer-became-an-award-winning-cannabis-creator/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-a-content-marketer-became-an-award-winning-cannabis-creator/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/podcasts/5-questions-facing-advertisers-publishers-and-creators-heading-into-fall/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/5-questions-facing-advertisers-publishers-and-creators-heading-into-fall/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### As WPP’s Cindy Rose marks a year as CEO, turnaround is underway but far from certain
-_Mon, 31 Aug 2026 04:01:00 +0000_
+### WTF is the Amazon ad surcharge lawsuit?
+_Tue, 01 Sep 2026 04:01:00 +0000_
 
-The holdco boss has been in place for a busy year, but the agency group has a long way to go if it’s to find a secure business model.
+The Federal Trade Commission and 22 state attorneys generals are suing Amazon alleging the company secretly overcharged advertisers in its search ad auctions for more than seven years
 
-→ [https://digiday.com/media-buying/as-wpps-cindy-rose-marks-a-year-as-ceo-turnaround-is-underway-but-far-from-certain/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/as-wpps-cindy-rose-marks-a-year-as-ceo-turnaround-is-underway-but-far-from-certain/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/wtf-is-the-amazon-ad-surcharge-lawsuit/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/wtf-is-the-amazon-ad-surcharge-lawsuit/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Buying Briefing: Linda Boff on the power of independent agencies, and the need for financial discipline
-_Mon, 31 Aug 2026 04:01:00 +0000_
+### OpenAI’s ChatGPT ads business hits $1 billion run rate as Europe gets self-serve access
+_Mon, 31 Aug 2026 13:59:09 +0000_
 
-The former CMO of GE has seen agencies of all stripes and sizes come and go. If they're not putting the client first, they're not doing job one.
+That figure comes from multiplying current monthly ad revenue by 12, so it's a snapshot of where things stand today rather than money already booked over a full year.
 
-→ [https://digiday.com/media-buying/media-buying-briefing-linda-boff-on-the-power-of-independent-agencies-and-the-need-for-financial-discipline/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-linda-boff-on-the-power-of-independent-agencies-and-the-need-for-financial-discipline/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/openais-chatgpt-ads-business-hits-1-billion-run-rate-as-europe-gets-self-serve-access/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/openais-chatgpt-ads-business-hits-1-billion-run-rate-as-europe-gets-self-serve-access/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### The only way to know what your ads really did
+_Mon, 31 Aug 2026 13:43:58 +0000_
+
+Platforms claim too much credit and backends often give too little. Holdout tests can show how much revenue advertising truly generated. The post The only way to know what your ads really did appeared first on MarTech .
+
+→ [https://martech.org/the-only-way-to-know-what-your-ads-really-did/](https://martech.org/the-only-way-to-know-what-your-ads-really-did/)
+
+### Best-in-class martech depends on your business context
+_Mon, 31 Aug 2026 13:08:38 +0000_
+
+Research across 953 martech stacks reveals when more functionality helps, when execution matters more, and when less can be better. The post Best-in-class martech depends on your business context appeared first on MarTech .
+
+→ [https://martech.org/best-in-class-martech-depends-on-your-business-context/](https://martech.org/best-in-class-martech-depends-on-your-business-context/)
+
+### The terrifying loophole in your autonomous tech stack
+_Mon, 31 Aug 2026 12:08:00 +0000_
+
+AI agents pass data back and forth to run your campaigns. Here is how to prevent proprietary leaks and privacy failures The post The terrifying loophole in your autonomous tech stack appeared first on MarTech .
+
+→ [https://martech.org/the-terrifying-loophole-in-your-autonomous-tech-stack/](https://martech.org/the-terrifying-loophole-in-your-autonomous-tech-stack/)
 
 ### Marketers know AI is using bad data to make decisions
 _Fri, 28 Aug 2026 12:55:00 +0000_
@@ -182,26 +203,5 @@ _Fri, 28 Aug 2026 12:45:00 +0000_
 The most useful brand feedback often comes from what customers say and do when nobody is asking them to rate the experience. The post Stop measuring your brand and start listening appeared first on MarTech .
 
 → [https://martech.org/stop-measuring-your-brand-and-start-listening/](https://martech.org/stop-measuring-your-brand-and-start-listening/)
-
-### Anthropic partnership makes Salesforce’s interface optional
-_Fri, 28 Aug 2026 12:28:00 +0000_
-
-Claudeforce puts Salesforce data and workflows inside Claude, pointing toward a future where AI becomes the interface to enterprise software. The post Anthropic partnership makes Salesforce&#8217;s interface optional appeared first on MarTech .
-
-→ [https://martech.org/anthropic-partnership-makes-salesforces-interface-optional/](https://martech.org/anthropic-partnership-makes-salesforces-interface-optional/)
-
-### The AI performance shake-up: What’s really driving results across channels now
-_Fri, 28 Aug 2026 12:27:00 +0000_
-
-When algorithms hide your campaign levers, tracking true impact gets tricky. On Sept. 2, we'll discuss how to regain visibility and drive real growth. The post The AI performance shake-up: What’s really driving results across channels now appeared first on MarTech .
-
-→ [https://martech.org/the-ai-performance-shake-up-whats-really-driving-results-across-channels-now/](https://martech.org/the-ai-performance-shake-up-whats-really-driving-results-across-channels-now/)
-
-### The latest AI-powered martech news and releases
-_Thu, 27 Aug 2026 14:41:50 +0000_
-
-Why replace the CEO with AI when you can replace the entire C-suite? The post The latest AI-powered martech news and releases appeared first on MarTech .
-
-→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
 
 ---
