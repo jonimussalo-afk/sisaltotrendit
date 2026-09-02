@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-01 08:24 UTC_
+_Päivitetty: 2026-09-02 07:42 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Google esitteli uusia mainonnan trendejä: tekoäly muuttaa mainonnan, hakemisen
 
 ## HubSpot Marketing Blog
 
+### How to turn data thought leadership into a growth channel, according to Semrush’s marketing lead
+_Tue, 01 Sep 2026 12:00:06 GMT_
+
+For years, we ran data studies at Semrush the way most similar companies did: whenever someone had a good idea and whenever there was time to spare. Mostly, though, our efforts were limited to one or two major reports a year.
+
+→ [https://blog.hubspot.com/marketing/turning-data-thought-leadership-into-growth-channel](https://blog.hubspot.com/marketing/turning-data-thought-leadership-into-growth-channel)
+
 ### AEO mentions vs. citations: Key differences explained
 _Fri, 28 Aug 2026 12:00:03 GMT_
 
@@ -79,13 +86,6 @@ _Fri, 21 Aug 2026 11:00:02 GMT_
 Tech stack consolidation is the process of reducing the software tools your organization runs and standardizing work on a smaller, more integrated set of systems.
 
 → [https://blog.hubspot.com/marketing/tech-stack-consolidation](https://blog.hubspot.com/marketing/tech-stack-consolidation)
-
-### AEO audit tools — the best options on the market
-_Thu, 20 Aug 2026 20:00:03 GMT_
-
-AEO audit tools have become essential for any team that needs to know whether answer engines are citing their brand, and whether those citations are accurate. While traditional SEO audits track rankings and crawl health, AEO audit tools measure answer engine visibility across the platforms where buyers now get direct recommendations. For SEO…
-
-→ [https://blog.hubspot.com/marketing/aeo-audit-tools](https://blog.hubspot.com/marketing/aeo-audit-tools)
 
 ---
 
@@ -130,6 +130,27 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### Future of TV Briefing: How strong are the fundamentals of the creator economy, really?
+_Wed, 02 Sep 2026 04:01:00 +0000_
+
+This week’s Future of TV Briefing looks at signs that influencer marketing may be on the precipice of an economic correction.
+
+→ [https://digiday.com/future-of-tv/future-of-tv-briefing-how-strong-are-the-fundamentals-of-the-creator-economy-really/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-how-strong-are-the-fundamentals-of-the-creator-economy-really/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Location data fuels mall giant Simon’s new pitch to advertisers
+_Wed, 02 Sep 2026 04:01:00 +0000_
+
+Simon is letting brands target shoppers in its malls in other environments and use new measurement tools based on Simon’s consumer data.
+
+→ [https://digiday.com/media/location-data-fuels-mall-giant-simons-new-pitch-to-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/location-data-fuels-mall-giant-simons-new-pitch-to-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Why brands are turning to older creators for authenticity AI can’t fake
+_Wed, 02 Sep 2026 04:01:00 +0000_
+
+Millennial and Gen X content creators offer consistency, authenticity, and storytelling; three things brands need now more than ever.
+
+→ [https://digiday.com/media/why-brands-are-turning-to-older-creators-for-authenticity-ai-cant-fake/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/why-brands-are-turning-to-older-creators-for-authenticity-ai-cant-fake/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### How every major platform pays creators
 _Tue, 01 Sep 2026 04:01:00 +0000_
 
@@ -144,30 +165,30 @@ Marketers are pulling out all the stops to tie their brands to the U.S. Open, in
 
 → [https://digiday.com/marketing/brands-bring-the-u-s-open-to-fans-with-tennis-themed-pop-ups-around-new-york-city/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/brands-bring-the-u-s-open-to-fans-with-tennis-themed-pop-ups-around-new-york-city/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### 5 questions facing advertisers, publishers and creators heading into fall
-_Tue, 01 Sep 2026 04:01:00 +0000_
-
-In this week’s Digiday Podcast episode, hosts Kimeko McCoy and Tim Peterson recap the season’s biggest developments in the media and marketing industries and the questions they raise for the final stretch of 2026.
-
-→ [https://digiday.com/podcasts/5-questions-facing-advertisers-publishers-and-creators-heading-into-fall/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/5-questions-facing-advertisers-publishers-and-creators-heading-into-fall/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### WTF is the Amazon ad surcharge lawsuit?
-_Tue, 01 Sep 2026 04:01:00 +0000_
-
-The Federal Trade Commission and 22 state attorneys generals are suing Amazon alleging the company secretly overcharged advertisers in its search ad auctions for more than seven years
-
-→ [https://digiday.com/media-buying/wtf-is-the-amazon-ad-surcharge-lawsuit/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/wtf-is-the-amazon-ad-surcharge-lawsuit/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### OpenAI’s ChatGPT ads business hits $1 billion run rate as Europe gets self-serve access
-_Mon, 31 Aug 2026 13:59:09 +0000_
-
-That figure comes from multiplying current monthly ad revenue by 12, so it's a snapshot of where things stand today rather than money already booked over a full year.
-
-→ [https://digiday.com/media-buying/openais-chatgpt-ads-business-hits-1-billion-run-rate-as-europe-gets-self-serve-access/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/openais-chatgpt-ads-business-hits-1-billion-run-rate-as-europe-gets-self-serve-access/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
 ---
 
 ## MarTech
+
+### Stop treating lead quality and volume as opposites
+_Tue, 01 Sep 2026 13:44:02 +0000_
+
+Getting more leads and getting better leads require different signals, tactics, and metrics. The business objective should determine which comes first. The post Stop treating lead quality and volume as opposites appeared first on MarTech .
+
+→ [https://martech.org/stop-treating-lead-quality-and-volume-as-opposites/](https://martech.org/stop-treating-lead-quality-and-volume-as-opposites/)
+
+### Your influencer marketing strategy is broken
+_Tue, 01 Sep 2026 12:48:00 +0000_
+
+Reach alone says little about a creator’s ability to drive sales, especially as algorithms put content in front of more non-followers. The post Your influencer marketing strategy is broken appeared first on MarTech .
+
+→ [https://martech.org/your-influencer-marketing-strategy-is-broken/](https://martech.org/your-influencer-marketing-strategy-is-broken/)
+
+### The hidden costs distorting your AI ROI
+_Tue, 01 Sep 2026 12:09:00 +0000_
+
+Integration, oversight, data preparation, and displaced work can turn an impressive AI productivity gain into a much smaller financial return. The post The hidden costs distorting your AI ROI appeared first on MarTech .
+
+→ [https://martech.org/the-hidden-costs-distorting-your-ai-roi/](https://martech.org/the-hidden-costs-distorting-your-ai-roi/)
 
 ### The only way to know what your ads really did
 _Mon, 31 Aug 2026 13:43:58 +0000_
@@ -182,26 +203,5 @@ _Mon, 31 Aug 2026 13:08:38 +0000_
 Research across 953 martech stacks reveals when more functionality helps, when execution matters more, and when less can be better. The post Best-in-class martech depends on your business context appeared first on MarTech .
 
 → [https://martech.org/best-in-class-martech-depends-on-your-business-context/](https://martech.org/best-in-class-martech-depends-on-your-business-context/)
-
-### The terrifying loophole in your autonomous tech stack
-_Mon, 31 Aug 2026 12:08:00 +0000_
-
-AI agents pass data back and forth to run your campaigns. Here is how to prevent proprietary leaks and privacy failures The post The terrifying loophole in your autonomous tech stack appeared first on MarTech .
-
-→ [https://martech.org/the-terrifying-loophole-in-your-autonomous-tech-stack/](https://martech.org/the-terrifying-loophole-in-your-autonomous-tech-stack/)
-
-### Marketers know AI is using bad data to make decisions
-_Fri, 28 Aug 2026 12:55:00 +0000_
-
-Marketers are giving AI more authority even as bad CRM data undermines revenue measurement, reporting, and the decisions AI makes. The post Marketers know AI is using bad data to make decisions appeared first on MarTech .
-
-→ [https://martech.org/marketers-know-ai-is-using-bad-data-to-make-decisions/](https://martech.org/marketers-know-ai-is-using-bad-data-to-make-decisions/)
-
-### Stop measuring your brand and start listening
-_Fri, 28 Aug 2026 12:45:00 +0000_
-
-The most useful brand feedback often comes from what customers say and do when nobody is asking them to rate the experience. The post Stop measuring your brand and start listening appeared first on MarTech .
-
-→ [https://martech.org/stop-measuring-your-brand-and-start-listening/](https://martech.org/stop-measuring-your-brand-and-start-listening/)
 
 ---
