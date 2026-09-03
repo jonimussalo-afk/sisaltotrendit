@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-02 07:42 UTC_
+_Päivitetty: 2026-09-03 07:52 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,20 @@ Google esitteli uusia mainonnan trendejä: tekoäly muuttaa mainonnan, hakemisen
 
 ## HubSpot Marketing Blog
 
+### What high-citation brands do differently in AI search: The 2026 AEO playbook
+_Wed, 02 Sep 2026 12:00:02 GMT_
+
+Answer engine optimization is disrupting search as we know it. What once was predictable — add a keyword, focus on high-quality backlinks, increase your domain rating — has become a new game that doesn’t play by the same rules.
+
+→ [https://blog.hubspot.com/marketing/brands-with-high-ai-search-citations](https://blog.hubspot.com/marketing/brands-with-high-ai-search-citations)
+
+### Using LinkedIn for AEO: How marketers can use social media to improve their AI visibility [experiment]
+_Wed, 02 Sep 2026 12:00:02 GMT_
+
+Over the past few months, I noticed a pattern while researching for clients. When I searched Perplexity for B2B reports or insights that I could cite for a project, the source list would look like this: Gartner, McKinsey, peer-reviewed paper, then … John Smith on LinkedIn?
+
+→ [https://blog.hubspot.com/marketing/linkedin-aeo-experiment](https://blog.hubspot.com/marketing/linkedin-aeo-experiment)
+
 ### How to turn data thought leadership into a growth channel, according to Semrush’s marketing lead
 _Tue, 01 Sep 2026 12:00:06 GMT_
 
@@ -72,20 +86,6 @@ _Wed, 26 Aug 2026 11:00:03 GMT_
 Adobe Marketo Engage has long been the go-to for enterprise demand generation teams. But over the past few years, a growing number of marketing operations leaders have started asking a harder question: Is Marketo actually the best tool for us, or are there Marketo alternatives we should be aware of?
 
 → [https://blog.hubspot.com/marketing/marketo-alternatives](https://blog.hubspot.com/marketing/marketo-alternatives)
-
-### Peec AI alternatives for AI visibility monitoring in 2026
-_Fri, 21 Aug 2026 11:00:02 GMT_
-
-Peec AI alternatives are AI visibility platforms that go beyond monitoring to help marketing teams close citation gaps, connect AI search data to CRM attribution, and run programs across multiple regions and content workflows.
-
-→ [https://blog.hubspot.com/marketing/peec-ai-alternatives](https://blog.hubspot.com/marketing/peec-ai-alternatives)
-
-### Tech stack consolidation: The business case for unified systems & how to build them
-_Fri, 21 Aug 2026 11:00:02 GMT_
-
-Tech stack consolidation is the process of reducing the software tools your organization runs and standardizing work on a smaller, more integrated set of systems.
-
-→ [https://blog.hubspot.com/marketing/tech-stack-consolidation](https://blog.hubspot.com/marketing/tech-stack-consolidation)
 
 ---
 
@@ -130,6 +130,27 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### Media Briefing: What to expect at the Digiday Publishing Summit, September 2026 edition
+_Thu, 03 Sep 2026 04:01:00 +0000_
+
+Here's a sneak peek at the topics that will be discussed onstage during the Digiday Publishing Summit, September 2026 edition.
+
+→ [https://digiday.com/media/media-briefing-what-to-expect-at-the-digiday-publishing-summit-september-2026-edition/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-what-to-expect-at-the-digiday-publishing-summit-september-2026-edition/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Ace Hardware adds weather-triggered programmatic ads to retail media strategy
+_Thu, 03 Sep 2026 04:01:00 +0000_
+
+This story was originally published on sister site, Modern Retail. Almost one year into its existence, Ace Hardware’s retail media network, RedVest Media, just announced a slate of new features for advertisers as part of an upfront event last week. The new features include incrementality measurement functions for off-site media; social…
+
+→ [https://digiday.com/marketing/ace-hardware-adds-weather-triggered-programmatic-ads-to-retail-media-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ace-hardware-adds-weather-triggered-programmatic-ads-to-retail-media-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Why Google’s ad business escaped a breakup
+_Thu, 03 Sep 2026 04:01:00 +0000_
+
+The reasoning behind the latest decision to spare Google a breakup
+
+→ [https://digiday.com/media-buying/whats-behind-the-latest-decision-to-leave-googles-ad-business-intact/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/whats-behind-the-latest-decision-to-leave-googles-ad-business-intact/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### Future of TV Briefing: How strong are the fundamentals of the creator economy, really?
 _Wed, 02 Sep 2026 04:01:00 +0000_
 
@@ -144,30 +165,30 @@ Simon is letting brands target shoppers in its malls in other environments and u
 
 → [https://digiday.com/media/location-data-fuels-mall-giant-simons-new-pitch-to-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/location-data-fuels-mall-giant-simons-new-pitch-to-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Why brands are turning to older creators for authenticity AI can’t fake
-_Wed, 02 Sep 2026 04:01:00 +0000_
-
-Millennial and Gen X content creators offer consistency, authenticity, and storytelling; three things brands need now more than ever.
-
-→ [https://digiday.com/media/why-brands-are-turning-to-older-creators-for-authenticity-ai-cant-fake/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/why-brands-are-turning-to-older-creators-for-authenticity-ai-cant-fake/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### How every major platform pays creators
-_Tue, 01 Sep 2026 04:01:00 +0000_
-
-Every platform monetizes creators differently, with varying requirements and audience thresholds, and a propensity for change.
-
-→ [https://digiday.com/marketing/how-every-major-platform-pays-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/how-every-major-platform-pays-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Brands bring the U.S. Open to fans with tennis-themed pop-ups around New York City
-_Tue, 01 Sep 2026 04:01:00 +0000_
-
-Marketers are pulling out all the stops to tie their brands to the U.S. Open, including hosting public pop-ups in other parts of New York City.
-
-→ [https://digiday.com/marketing/brands-bring-the-u-s-open-to-fans-with-tennis-themed-pop-ups-around-new-york-city/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/brands-bring-the-u-s-open-to-fans-with-tennis-themed-pop-ups-around-new-york-city/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
 ---
 
 ## MarTech
+
+### What’s next in content operations? Agents (what else?)
+_Wed, 02 Sep 2026 20:47:46 +0000_
+
+Orange Logic SVP Misti Vogt tells us why old ways of managing digital assets are failing, and why the future of content operations belongs to agentic systems. The post What’s next in content operations? Agents (what else?) appeared first on MarTech .
+
+→ [https://martech.org/whats-next-in-content-operations-agents-what-else/](https://martech.org/whats-next-in-content-operations-agents-what-else/)
+
+### Marketers are media measurement’s biggest problem
+_Wed, 02 Sep 2026 12:50:00 +0000_
+
+Stop customizing your way around fragmented data. Start unifying it for your own reporting and for an industry waiting on you to lead. The post Marketers are media measurement’s biggest problem appeared first on MarTech .
+
+→ [https://martech.org/marketers-are-media-measurements-biggest-problem/](https://martech.org/marketers-are-media-measurements-biggest-problem/)
+
+### OpenAI’s audacious ad revenue claim
+_Wed, 02 Sep 2026 12:26:00 +0000_
+
+OpenAI is making ChatGPT ads easier to buy. That's a long way from proving advertisers will spend the $100 billion it projects for 2030. The post OpenAI&#8217;s audacious ad revenue claim appeared first on MarTech .
+
+→ [https://martech.org/openais-audacious-claim-about-ad-revenue/](https://martech.org/openais-audacious-claim-about-ad-revenue/)
 
 ### Stop treating lead quality and volume as opposites
 _Tue, 01 Sep 2026 13:44:02 +0000_
@@ -182,26 +203,5 @@ _Tue, 01 Sep 2026 12:48:00 +0000_
 Reach alone says little about a creator’s ability to drive sales, especially as algorithms put content in front of more non-followers. The post Your influencer marketing strategy is broken appeared first on MarTech .
 
 → [https://martech.org/your-influencer-marketing-strategy-is-broken/](https://martech.org/your-influencer-marketing-strategy-is-broken/)
-
-### The hidden costs distorting your AI ROI
-_Tue, 01 Sep 2026 12:09:00 +0000_
-
-Integration, oversight, data preparation, and displaced work can turn an impressive AI productivity gain into a much smaller financial return. The post The hidden costs distorting your AI ROI appeared first on MarTech .
-
-→ [https://martech.org/the-hidden-costs-distorting-your-ai-roi/](https://martech.org/the-hidden-costs-distorting-your-ai-roi/)
-
-### The only way to know what your ads really did
-_Mon, 31 Aug 2026 13:43:58 +0000_
-
-Platforms claim too much credit and backends often give too little. Holdout tests can show how much revenue advertising truly generated. The post The only way to know what your ads really did appeared first on MarTech .
-
-→ [https://martech.org/the-only-way-to-know-what-your-ads-really-did/](https://martech.org/the-only-way-to-know-what-your-ads-really-did/)
-
-### Best-in-class martech depends on your business context
-_Mon, 31 Aug 2026 13:08:38 +0000_
-
-Research across 953 martech stacks reveals when more functionality helps, when execution matters more, and when less can be better. The post Best-in-class martech depends on your business context appeared first on MarTech .
-
-→ [https://martech.org/best-in-class-martech-depends-on-your-business-context/](https://martech.org/best-in-class-martech-depends-on-your-business-context/)
 
 ---
