@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-03 07:52 UTC_
+_Päivitetty: 2026-09-04 07:47 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Google esitteli uusia mainonnan trendejä: tekoäly muuttaa mainonnan, hakemisen
 
 ## HubSpot Marketing Blog
 
+### Ahrefs Brand Radar alternatives for marketing teams
+_Thu, 03 Sep 2026 21:15:00 GMT_
+
+G2’s 2026 Answer Economy research found that 51% of B2B software buyers start their research with an AI chatbot more often than Google. That shift means marketing teams need to track not only traditional search performance but also how AI assistants and answer engines mention, cite, and recommend brands.
+
+→ [https://blog.hubspot.com/marketing/ahrefs-brand-radar-alternatives](https://blog.hubspot.com/marketing/ahrefs-brand-radar-alternatives)
+
 ### What high-citation brands do differently in AI search: The 2026 AEO playbook
 _Wed, 02 Sep 2026 12:00:02 GMT_
 
@@ -79,13 +86,6 @@ _Fri, 28 Aug 2026 12:00:03 GMT_
 If you’ve been tracking your brand’s presence in AI-generated answers, you’ve probably noticed something confusing: your brand name sho ws up all the time, but that traffic isn’t materializing. The reason is usually the gap between an AEO mention and an AEO citation, and if you’re measuring the wrong one, you’re missing most of the picture.
 
 → [https://blog.hubspot.com/marketing/aeo-mentions-vs-citations](https://blog.hubspot.com/marketing/aeo-mentions-vs-citations)
-
-### Best Marketo alternatives worth evaluating in 2026
-_Wed, 26 Aug 2026 11:00:03 GMT_
-
-Adobe Marketo Engage has long been the go-to for enterprise demand generation teams. But over the past few years, a growing number of marketing operations leaders have started asking a harder question: Is Marketo actually the best tool for us, or are there Marketo alternatives we should be aware of?
-
-→ [https://blog.hubspot.com/marketing/marketo-alternatives](https://blog.hubspot.com/marketing/marketo-alternatives)
 
 ---
 
@@ -130,6 +130,27 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### Media agencies build audit tools to prevent AI agents from overcharging
+_Fri, 04 Sep 2026 04:01:00 +0000_
+
+Agencies experimenting with agentic buying methods have run into a new problem – estimating the true cost of their agentic systems.
+
+→ [https://digiday.com/media-buying/media-agencies-build-audit-tools-to-prevent-ai-agents-from-overcharging/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-agencies-build-audit-tools-to-prevent-ai-agents-from-overcharging/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Marketers say usage rights are driving up the price to work with creators
+_Fri, 04 Sep 2026 04:01:00 +0000_
+
+Creator pricing’s biggest hurdle are usage rights, which can create confusion and frustration on every side of the negotiation table.
+
+→ [https://digiday.com/media/marketers-say-usage-rights-are-driving-up-the-price-to-work-with-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/marketers-say-usage-rights-are-driving-up-the-price-to-work-with-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Future of Marketing: Brands want creators who can win over humans and machines at once
+_Fri, 04 Sep 2026 04:01:00 +0000_
+
+Why creator briefs are starting to look like a map of AI search queries.
+
+→ [https://digiday.com/marketing/future-of-marketing-brands-want-creators-who-can-win-over-humans-and-machines-at-once/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-brands-want-creators-who-can-win-over-humans-and-machines-at-once/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### Media Briefing: What to expect at the Digiday Publishing Summit, September 2026 edition
 _Thu, 03 Sep 2026 04:01:00 +0000_
 
@@ -140,34 +161,34 @@ Here's a sneak peek at the topics that will be discussed onstage during the Digi
 ### Ace Hardware adds weather-triggered programmatic ads to retail media strategy
 _Thu, 03 Sep 2026 04:01:00 +0000_
 
-This story was originally published on sister site, Modern Retail. Almost one year into its existence, Ace Hardware’s retail media network, RedVest Media, just announced a slate of new features for advertisers as part of an upfront event last week. The new features include incrementality measurement functions for off-site media; social…
+Almost one year into its existence, Ace Hardware’s retail media network, RedVest Media, just announced a slate of new features for advertisers as part of an upfront event last week.
 
 → [https://digiday.com/marketing/ace-hardware-adds-weather-triggered-programmatic-ads-to-retail-media-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ace-hardware-adds-weather-triggered-programmatic-ads-to-retail-media-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Why Google’s ad business escaped a breakup
-_Thu, 03 Sep 2026 04:01:00 +0000_
-
-The reasoning behind the latest decision to spare Google a breakup
-
-→ [https://digiday.com/media-buying/whats-behind-the-latest-decision-to-leave-googles-ad-business-intact/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/whats-behind-the-latest-decision-to-leave-googles-ad-business-intact/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Future of TV Briefing: How strong are the fundamentals of the creator economy, really?
-_Wed, 02 Sep 2026 04:01:00 +0000_
-
-This week’s Future of TV Briefing looks at signs that influencer marketing may be on the precipice of an economic correction.
-
-→ [https://digiday.com/future-of-tv/future-of-tv-briefing-how-strong-are-the-fundamentals-of-the-creator-economy-really/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-how-strong-are-the-fundamentals-of-the-creator-economy-really/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Location data fuels mall giant Simon’s new pitch to advertisers
-_Wed, 02 Sep 2026 04:01:00 +0000_
-
-Simon is letting brands target shoppers in its malls in other environments and use new measurement tools based on Simon’s consumer data.
-
-→ [https://digiday.com/media/location-data-fuels-mall-giant-simons-new-pitch-to-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/location-data-fuels-mall-giant-simons-new-pitch-to-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### The latest AI-powered martech news and releases
+_Thu, 03 Sep 2026 15:16:01 +0000_
+
+Adobe’s acquisition of Rilo adds AI workflow orchestration to its growing effort to automate the work surrounding enterprise marketing. The post The latest AI-powered martech news and releases appeared first on MarTech .
+
+→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
+
+### Google loses the ad monopoly case, but keeps the monopoly
+_Thu, 03 Sep 2026 14:50:24 +0000_
+
+A federal judge found Google illegally monopolized key ad-tech markets, but rejected the remedy that could have fundamentally reshaped them. The post Google loses the ad monopoly case, but keeps the monopoly appeared first on MarTech .
+
+→ [https://martech.org/google-loses-the-ad-monopoly-case-but-keeps-the-monopoly/](https://martech.org/google-loses-the-ad-monopoly-case-but-keeps-the-monopoly/)
+
+### Rapid AI changes mean GEO is a weekly job now
+_Thu, 03 Sep 2026 12:54:00 +0000_
+
+AI answers keep changing, so PR, SEO, and content need a shared view of what buyers ask, which sources get cited, and what moves each week. The post Rapid AI changes mean GEO is a weekly job now appeared first on MarTech .
+
+→ [https://martech.org/rapid-ai-changes-mean-geo-is-a-weekly-job-now/](https://martech.org/rapid-ai-changes-mean-geo-is-a-weekly-job-now/)
 
 ### What’s next in content operations? Agents (what else?)
 _Wed, 02 Sep 2026 20:47:46 +0000_
@@ -182,26 +203,5 @@ _Wed, 02 Sep 2026 12:50:00 +0000_
 Stop customizing your way around fragmented data. Start unifying it for your own reporting and for an industry waiting on you to lead. The post Marketers are media measurement’s biggest problem appeared first on MarTech .
 
 → [https://martech.org/marketers-are-media-measurements-biggest-problem/](https://martech.org/marketers-are-media-measurements-biggest-problem/)
-
-### OpenAI’s audacious ad revenue claim
-_Wed, 02 Sep 2026 12:26:00 +0000_
-
-OpenAI is making ChatGPT ads easier to buy. That's a long way from proving advertisers will spend the $100 billion it projects for 2030. The post OpenAI&#8217;s audacious ad revenue claim appeared first on MarTech .
-
-→ [https://martech.org/openais-audacious-claim-about-ad-revenue/](https://martech.org/openais-audacious-claim-about-ad-revenue/)
-
-### Stop treating lead quality and volume as opposites
-_Tue, 01 Sep 2026 13:44:02 +0000_
-
-Getting more leads and getting better leads require different signals, tactics, and metrics. The business objective should determine which comes first. The post Stop treating lead quality and volume as opposites appeared first on MarTech .
-
-→ [https://martech.org/stop-treating-lead-quality-and-volume-as-opposites/](https://martech.org/stop-treating-lead-quality-and-volume-as-opposites/)
-
-### Your influencer marketing strategy is broken
-_Tue, 01 Sep 2026 12:48:00 +0000_
-
-Reach alone says little about a creator’s ability to drive sales, especially as algorithms put content in front of more non-followers. The post Your influencer marketing strategy is broken appeared first on MarTech .
-
-→ [https://martech.org/your-influencer-marketing-strategy-is-broken/](https://martech.org/your-influencer-marketing-strategy-is-broken/)
 
 ---
