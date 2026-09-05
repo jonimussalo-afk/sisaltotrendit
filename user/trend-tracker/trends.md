@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-04 07:47 UTC_
+_Päivitetty: 2026-09-05 07:29 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -164,44 +164,5 @@ _Thu, 03 Sep 2026 04:01:00 +0000_
 Almost one year into its existence, Ace Hardware’s retail media network, RedVest Media, just announced a slate of new features for advertisers as part of an upfront event last week.
 
 → [https://digiday.com/marketing/ace-hardware-adds-weather-triggered-programmatic-ads-to-retail-media-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ace-hardware-adds-weather-triggered-programmatic-ads-to-retail-media-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
----
-
-## MarTech
-
-### The latest AI-powered martech news and releases
-_Thu, 03 Sep 2026 15:16:01 +0000_
-
-Adobe’s acquisition of Rilo adds AI workflow orchestration to its growing effort to automate the work surrounding enterprise marketing. The post The latest AI-powered martech news and releases appeared first on MarTech .
-
-→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
-
-### Google loses the ad monopoly case, but keeps the monopoly
-_Thu, 03 Sep 2026 14:50:24 +0000_
-
-A federal judge found Google illegally monopolized key ad-tech markets, but rejected the remedy that could have fundamentally reshaped them. The post Google loses the ad monopoly case, but keeps the monopoly appeared first on MarTech .
-
-→ [https://martech.org/google-loses-the-ad-monopoly-case-but-keeps-the-monopoly/](https://martech.org/google-loses-the-ad-monopoly-case-but-keeps-the-monopoly/)
-
-### Rapid AI changes mean GEO is a weekly job now
-_Thu, 03 Sep 2026 12:54:00 +0000_
-
-AI answers keep changing, so PR, SEO, and content need a shared view of what buyers ask, which sources get cited, and what moves each week. The post Rapid AI changes mean GEO is a weekly job now appeared first on MarTech .
-
-→ [https://martech.org/rapid-ai-changes-mean-geo-is-a-weekly-job-now/](https://martech.org/rapid-ai-changes-mean-geo-is-a-weekly-job-now/)
-
-### What’s next in content operations? Agents (what else?)
-_Wed, 02 Sep 2026 20:47:46 +0000_
-
-Orange Logic SVP Misti Vogt tells us why old ways of managing digital assets are failing, and why the future of content operations belongs to agentic systems. The post What’s next in content operations? Agents (what else?) appeared first on MarTech .
-
-→ [https://martech.org/whats-next-in-content-operations-agents-what-else/](https://martech.org/whats-next-in-content-operations-agents-what-else/)
-
-### Marketers are media measurement’s biggest problem
-_Wed, 02 Sep 2026 12:50:00 +0000_
-
-Stop customizing your way around fragmented data. Start unifying it for your own reporting and for an industry waiting on you to lead. The post Marketers are media measurement’s biggest problem appeared first on MarTech .
-
-→ [https://martech.org/marketers-are-media-measurements-biggest-problem/](https://martech.org/marketers-are-media-measurements-biggest-problem/)
 
 ---
