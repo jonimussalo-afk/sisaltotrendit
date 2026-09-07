@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-06 07:42 UTC_
+_Päivitetty: 2026-09-07 08:01 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,6 +130,27 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### Anthropologie is launching Nike as sneaker shoppers increase nearly 30%
+_Mon, 07 Sep 2026 04:01:00 +0000_
+
+The retailer is planning a full digital campaign to accompany the launch. The first of nine styles launched on Monday, with the rest rolling out by September 21.
+
+→ [https://digiday.com/marketing/anthropologie-is-launching-nike-as-sneaker-shoppers-increase-nearly-30/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/anthropologie-is-launching-nike-as-sneaker-shoppers-increase-nearly-30/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Google divestiture is dead — and publishers are fine with that
+_Mon, 07 Sep 2026 04:01:00 +0000_
+
+Publishers didn’t get a Google AdX breakup; they got behavioral remedies, promised transparency and a new reminder that Google’s real power lies in controlling demand, not pipes.
+
+→ [https://digiday.com/media/google-divestiture-is-dead-and-publishers-are-fine-with-that/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/google-divestiture-is-dead-and-publishers-are-fine-with-that/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Media Buying Briefing: Back-to-school brand spending on TikTok rises
+_Mon, 07 Sep 2026 04:01:00 +0000_
+
+Advertisers increased investment on TikTok, YouTube and search during summer months – but the back-to-school period is becoming a longer and more general sales period.
+
+→ [https://digiday.com/media-buying/media-buying-briefing-back-to-school-brand-spending-on-tiktok-rises/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-back-to-school-brand-spending-on-tiktok-rises/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### Media agencies build audit tools to prevent AI agents from overcharging
 _Fri, 04 Sep 2026 04:01:00 +0000_
 
@@ -144,25 +165,43 @@ Creator pricing’s biggest hurdle are usage rights, which can create confusion 
 
 → [https://digiday.com/media/marketers-say-usage-rights-are-driving-up-the-price-to-work-with-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/marketers-say-usage-rights-are-driving-up-the-price-to-work-with-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Future of Marketing: Brands want creators who can win over humans and machines at once
-_Fri, 04 Sep 2026 04:01:00 +0000_
+---
 
-Why creator briefs are starting to look like a map of AI search queries.
+## MarTech
 
-→ [https://digiday.com/marketing/future-of-marketing-brands-want-creators-who-can-win-over-humans-and-machines-at-once/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-brands-want-creators-who-can-win-over-humans-and-machines-at-once/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+### Marketing without signals: How to perform when the data disappears
+_Fri, 04 Sep 2026 14:02:44 +0000_
 
-### Media Briefing: What to expect at the Digiday Publishing Summit, September 2026 edition
-_Thu, 03 Sep 2026 04:01:00 +0000_
+Navigating signal loss without losing momentum is a hurdle for every marketing leader. At the MarTech Conference we talked about building control with the data you already own. The post Marketing without signals: How to perform when the data disappears appeared first on MarTech .
 
-Here's a sneak peek at the topics that will be discussed onstage during the Digiday Publishing Summit, September 2026 edition.
+→ [https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/](https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/)
 
-→ [https://digiday.com/media/media-briefing-what-to-expect-at-the-digiday-publishing-summit-september-2026-edition/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-what-to-expect-at-the-digiday-publishing-summit-september-2026-edition/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+### 10 Salesforce Winter ’27 updates marketers need to know
+_Fri, 04 Sep 2026 12:53:00 +0000_
 
-### Ace Hardware adds weather-triggered programmatic ads to retail media strategy
-_Thu, 03 Sep 2026 04:01:00 +0000_
+From Agentforce campaign creation to cleaner reporting, these are the Winter ’27 changes with the biggest impact on marketing teams. The post 10 Salesforce Winter ’27 updates marketers need to know appeared first on MarTech .
 
-Almost one year into its existence, Ace Hardware’s retail media network, RedVest Media, just announced a slate of new features for advertisers as part of an upfront event last week.
+→ [https://martech.org/10-salesforce-winter-27-updates-marketers-need-to-know/](https://martech.org/10-salesforce-winter-27-updates-marketers-need-to-know/)
 
-→ [https://digiday.com/marketing/ace-hardware-adds-weather-triggered-programmatic-ads-to-retail-media-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ace-hardware-adds-weather-triggered-programmatic-ads-to-retail-media-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+### Software buyers are moving faster than software sellers
+_Fri, 04 Sep 2026 12:18:00 +0000_
+
+AI is accelerating software decisions while quotes, approvals, and sales handoffs discourage buyers ready to spend. The post Software buyers are moving faster than software sellers appeared first on MarTech .
+
+→ [https://martech.org/software-buyers-are-moving-faster-than-software-sellers/](https://martech.org/software-buyers-are-moving-faster-than-software-sellers/)
+
+### The next CDP decision goes beyond the CDP
+_Fri, 04 Sep 2026 12:04:00 +0000_
+
+As composability becomes standard, the real question is where customer data, intelligence, and decision-making should live. The post The next CDP decision goes beyond the CDP appeared first on MarTech .
+
+→ [https://martech.org/the-next-cdp-decision-goes-beyond-the-cdp/](https://martech.org/the-next-cdp-decision-goes-beyond-the-cdp/)
+
+### The latest AI-powered martech news and releases
+_Thu, 03 Sep 2026 15:16:01 +0000_
+
+Adobe’s acquisition of Rilo adds AI workflow orchestration to its growing effort to automate the work surrounding enterprise marketing. The post The latest AI-powered martech news and releases appeared first on MarTech .
+
+→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
 
 ---
