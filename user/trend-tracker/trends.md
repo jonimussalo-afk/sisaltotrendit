@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-07 08:01 UTC_
+_Päivitetty: 2026-09-08 07:53 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,40 +130,40 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### ‘Frogs in the boiling water’: The Amazon-FTC case and the myth of ad auction transparency
+_Tue, 08 Sep 2026 04:01:00 +0000_
+
+The regulator accused Amazon of “deceptive and unfair practices,” but the e-commerce giant’s opaque auction dynamics aren’t all that unusual in today’s digital ad market.
+
+→ [https://digiday.com/media-buying/frogs-in-the-boiling-water-the-amazon-ftc-case-and-the-myth-of-ad-auction-transparency/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/frogs-in-the-boiling-water-the-amazon-ftc-case-and-the-myth-of-ad-auction-transparency/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### What’s in and out for creators heading into Q4
+_Tue, 08 Sep 2026 04:01:00 +0000_
+
+A look at the creator economy trends heading in to Q4 2026, from clipping to creators in the C-suite, diversification and regulation.
+
+→ [https://digiday.com/media/whats-in-and-out-for-creators-heading-into-q4/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/whats-in-and-out-for-creators-heading-into-q4/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Ad Tech Briefing: Regulatory storm clouds gather and scatter over Big Tech, and indies count the cost
+_Tue, 08 Sep 2026 04:01:00 +0000_
+
+The FTC's Amazon charges presage Google's second antitrust let-off in a year, while The Trade Desk sheds hundreds.
+
+→ [https://digiday.com/marketing/ad-tech-briefing-regulatory-storm-cloud-gather-and-scatter-over-big-tech-and-indies-count-the-cost/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ad-tech-briefing-regulatory-storm-cloud-gather-and-scatter-over-big-tech-and-indies-count-the-cost/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Marketers face dilemma around rising bot and AI web traffic
+_Tue, 08 Sep 2026 04:01:00 +0000_
+
+Bot traffic is rising for e-commerce brands and interfering with retargeting strategies. But marketers are split on whether they should remain open to AI visitors or work harder to block.
+
+→ [https://digiday.com/media-buying/marketers-face-dilemma-around-rising-bot-and-ai-web-traffic/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/marketers-face-dilemma-around-rising-bot-and-ai-web-traffic/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### Anthropologie is launching Nike as sneaker shoppers increase nearly 30%
 _Mon, 07 Sep 2026 04:01:00 +0000_
 
 The retailer is planning a full digital campaign to accompany the launch. The first of nine styles launched on Monday, with the rest rolling out by September 21.
 
 → [https://digiday.com/marketing/anthropologie-is-launching-nike-as-sneaker-shoppers-increase-nearly-30/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/anthropologie-is-launching-nike-as-sneaker-shoppers-increase-nearly-30/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Google divestiture is dead — and publishers are fine with that
-_Mon, 07 Sep 2026 04:01:00 +0000_
-
-Publishers didn’t get a Google AdX breakup; they got behavioral remedies, promised transparency and a new reminder that Google’s real power lies in controlling demand, not pipes.
-
-→ [https://digiday.com/media/google-divestiture-is-dead-and-publishers-are-fine-with-that/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/google-divestiture-is-dead-and-publishers-are-fine-with-that/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Media Buying Briefing: Back-to-school brand spending on TikTok rises
-_Mon, 07 Sep 2026 04:01:00 +0000_
-
-Advertisers increased investment on TikTok, YouTube and search during summer months – but the back-to-school period is becoming a longer and more general sales period.
-
-→ [https://digiday.com/media-buying/media-buying-briefing-back-to-school-brand-spending-on-tiktok-rises/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-back-to-school-brand-spending-on-tiktok-rises/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Media agencies build audit tools to prevent AI agents from overcharging
-_Fri, 04 Sep 2026 04:01:00 +0000_
-
-Agencies experimenting with agentic buying methods have run into a new problem – estimating the true cost of their agentic systems.
-
-→ [https://digiday.com/media-buying/media-agencies-build-audit-tools-to-prevent-ai-agents-from-overcharging/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-agencies-build-audit-tools-to-prevent-ai-agents-from-overcharging/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Marketers say usage rights are driving up the price to work with creators
-_Fri, 04 Sep 2026 04:01:00 +0000_
-
-Creator pricing’s biggest hurdle are usage rights, which can create confusion and frustration on every side of the negotiation table.
-
-→ [https://digiday.com/media/marketers-say-usage-rights-are-driving-up-the-price-to-work-with-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/marketers-say-usage-rights-are-driving-up-the-price-to-work-with-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
