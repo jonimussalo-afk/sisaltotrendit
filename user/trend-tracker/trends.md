@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-08 07:53 UTC_
+_Päivitetty: 2026-09-09 07:56 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Google esitteli uusia mainonnan trendejä: tekoäly muuttaa mainonnan, hakemisen
 
 ## HubSpot Marketing Blog
 
+### How much does AEO cost? Pricing by agency, tools, and software
+_Tue, 08 Sep 2026 12:00:03 GMT_
+
+How much does AEO cost? The short answer is roughly $30 a month for a monitoring tool you run yourself to over $15,000 a month for a full-service agency program that handles everything for you — with a wide middle in between.
+
+→ [https://blog.hubspot.com/marketing/how-much-does-aeo-cost](https://blog.hubspot.com/marketing/how-much-does-aeo-cost)
+
 ### Ahrefs Brand Radar alternatives for marketing teams
 _Thu, 03 Sep 2026 21:15:00 GMT_
 
@@ -79,13 +86,6 @@ _Tue, 01 Sep 2026 12:00:06 GMT_
 For years, we ran data studies at Semrush the way most similar companies did: whenever someone had a good idea and whenever there was time to spare. Mostly, though, our efforts were limited to one or two major reports a year.
 
 → [https://blog.hubspot.com/marketing/turning-data-thought-leadership-into-growth-channel](https://blog.hubspot.com/marketing/turning-data-thought-leadership-into-growth-channel)
-
-### AEO mentions vs. citations: Key differences explained
-_Fri, 28 Aug 2026 12:00:03 GMT_
-
-If you’ve been tracking your brand’s presence in AI-generated answers, you’ve probably noticed something confusing: your brand name sho ws up all the time, but that traffic isn’t materializing. The reason is usually the gap between an AEO mention and an AEO citation, and if you’re measuring the wrong one, you’re missing most of the picture.
-
-→ [https://blog.hubspot.com/marketing/aeo-mentions-vs-citations](https://blog.hubspot.com/marketing/aeo-mentions-vs-citations)
 
 ---
 
@@ -130,6 +130,34 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### How 11 retail media networks are trying to differentiate themselves to advertisers
+_Wed, 09 Sep 2026 04:01:00 +0000_
+
+With the launch of myriad retail media networks, these new divisions of various consumer-facing companies are now fighting for ad dollars.
+
+→ [https://digiday.com/media/how-11-retail-media-networks-are-trying-to-differentiate-themselves-to-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-11-retail-media-networks-are-trying-to-differentiate-themselves-to-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Future of TV Briefing: Where have all the cord-cutters gone?
+_Wed, 09 Sep 2026 04:01:00 +0000_
+
+This week’s Future of TV Briefing looks at recent data indicating that people may be getting rid of their cable boxes but they’re not exactly getting rid of cable TV.
+
+→ [https://digiday.com/future-of-tv/future-of-tv-briefing-where-have-all-the-cord-cutters-gone/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-where-have-all-the-cord-cutters-gone/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### WTF is a ghost creator?
+_Wed, 09 Sep 2026 04:01:00 +0000_
+
+Some companies are hiring creators not for their audience, but as a mouthpiece for a very specific brief. Think execution, not creativity. This is the ghost creator.
+
+→ [https://digiday.com/media/wtf-is-a-ghost-creator/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/wtf-is-a-ghost-creator/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### ShopMy, Google and WordPress are among this year’s Digiday Technology Awards finalists
+_Tue, 08 Sep 2026 17:37:06 +0000_
+
+This year’s Digiday Technology Awards finalists reflect an industry adapting to a rapidly changing digital landscape, with AI-ready infrastructure, first-party data, privacy and operational efficiency emerging as defining priorities.&#160; Across publishing, commerce and advertising, technology leaders are rethinking the systems that underpin…
+
+→ [https://digiday.com/announcement/awards/shopmy-google-and-wordpress-are-among-this-years-digiday-technology-awards-finalists/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/announcement/awards/shopmy-google-and-wordpress-are-among-this-years-digiday-technology-awards-finalists/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### ‘Frogs in the boiling water’: The Amazon-FTC case and the myth of ad auction transparency
 _Tue, 08 Sep 2026 04:01:00 +0000_
 
@@ -137,37 +165,37 @@ The regulator accused Amazon of “deceptive and unfair practices,” but the e-
 
 → [https://digiday.com/media-buying/frogs-in-the-boiling-water-the-amazon-ftc-case-and-the-myth-of-ad-auction-transparency/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/frogs-in-the-boiling-water-the-amazon-ftc-case-and-the-myth-of-ad-auction-transparency/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### What’s in and out for creators heading into Q4
-_Tue, 08 Sep 2026 04:01:00 +0000_
-
-A look at the creator economy trends heading in to Q4 2026, from clipping to creators in the C-suite, diversification and regulation.
-
-→ [https://digiday.com/media/whats-in-and-out-for-creators-heading-into-q4/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/whats-in-and-out-for-creators-heading-into-q4/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Ad Tech Briefing: Regulatory storm clouds gather and scatter over Big Tech, and indies count the cost
-_Tue, 08 Sep 2026 04:01:00 +0000_
-
-The FTC's Amazon charges presage Google's second antitrust let-off in a year, while The Trade Desk sheds hundreds.
-
-→ [https://digiday.com/marketing/ad-tech-briefing-regulatory-storm-cloud-gather-and-scatter-over-big-tech-and-indies-count-the-cost/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ad-tech-briefing-regulatory-storm-cloud-gather-and-scatter-over-big-tech-and-indies-count-the-cost/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Marketers face dilemma around rising bot and AI web traffic
-_Tue, 08 Sep 2026 04:01:00 +0000_
-
-Bot traffic is rising for e-commerce brands and interfering with retargeting strategies. But marketers are split on whether they should remain open to AI visitors or work harder to block.
-
-→ [https://digiday.com/media-buying/marketers-face-dilemma-around-rising-bot-and-ai-web-traffic/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/marketers-face-dilemma-around-rising-bot-and-ai-web-traffic/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Anthropologie is launching Nike as sneaker shoppers increase nearly 30%
-_Mon, 07 Sep 2026 04:01:00 +0000_
-
-The retailer is planning a full digital campaign to accompany the launch. The first of nine styles launched on Monday, with the rest rolling out by September 21.
-
-→ [https://digiday.com/marketing/anthropologie-is-launching-nike-as-sneaker-shoppers-increase-nearly-30/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/anthropologie-is-launching-nike-as-sneaker-shoppers-increase-nearly-30/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
 ---
 
 ## MarTech
+
+### The data trust crisis: Why your customer data is getting worse
+_Tue, 08 Sep 2026 14:19:51 +0000_
+
+Unreliable customer data threatens your personalization and ROI. At the MarTech Conference we discussed how to navigate data decay and build a high-trust measurement framework. The post The data trust crisis: Why your customer data is getting worse appeared first on MarTech .
+
+→ [https://martech.org/the-data-trust-crisis-why-your-customer-data-is-getting-worse/](https://martech.org/the-data-trust-crisis-why-your-customer-data-is-getting-worse/)
+
+### Why AI hasn’t solved marketing’s time problem
+_Tue, 08 Sep 2026 12:27:00 +0000_
+
+AI makes it easier to produce marketing content, but faster production doesn’t mean more time for strategy, planning, or better work. The post Why AI hasn’t solved marketing’s time problem appeared first on MarTech .
+
+→ [https://martech.org/why-ai-hasnt-solved-marketings-time-problem/](https://martech.org/why-ai-hasnt-solved-marketings-time-problem/)
+
+### Your 2027 CTV budget needs evidence now
+_Tue, 08 Sep 2026 12:07:00 +0000_
+
+Run a narrow test now to learn what CTV costs against your actual accounts and whether the channel is worth funding next year. The post Your 2027 CTV budget needs evidence now appeared first on MarTech .
+
+→ [https://martech.org/your-2027-ctv-budget-needs-evidence-now/](https://martech.org/your-2027-ctv-budget-needs-evidence-now/)
+
+### Why growing restaurant chains win at local search and AI visibility by SOCi
+_Tue, 08 Sep 2026 11:00:00 +0000_
+
+Research finds a measurable digital visibility gap between expanding and shrinking restaurant chains across search, reviews, social, and AI. The post Why growing restaurant chains win at local search and AI visibility appeared first on MarTech .
+
+→ [https://martech.org/why-growing-restaurant-chains-win-at-local-search-and-ai-visibility/](https://martech.org/why-growing-restaurant-chains-win-at-local-search-and-ai-visibility/)
 
 ### Marketing without signals: How to perform when the data disappears
 _Fri, 04 Sep 2026 14:02:44 +0000_
@@ -175,33 +203,5 @@ _Fri, 04 Sep 2026 14:02:44 +0000_
 Navigating signal loss without losing momentum is a hurdle for every marketing leader. At the MarTech Conference we talked about building control with the data you already own. The post Marketing without signals: How to perform when the data disappears appeared first on MarTech .
 
 → [https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/](https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/)
-
-### 10 Salesforce Winter ’27 updates marketers need to know
-_Fri, 04 Sep 2026 12:53:00 +0000_
-
-From Agentforce campaign creation to cleaner reporting, these are the Winter ’27 changes with the biggest impact on marketing teams. The post 10 Salesforce Winter ’27 updates marketers need to know appeared first on MarTech .
-
-→ [https://martech.org/10-salesforce-winter-27-updates-marketers-need-to-know/](https://martech.org/10-salesforce-winter-27-updates-marketers-need-to-know/)
-
-### Software buyers are moving faster than software sellers
-_Fri, 04 Sep 2026 12:18:00 +0000_
-
-AI is accelerating software decisions while quotes, approvals, and sales handoffs discourage buyers ready to spend. The post Software buyers are moving faster than software sellers appeared first on MarTech .
-
-→ [https://martech.org/software-buyers-are-moving-faster-than-software-sellers/](https://martech.org/software-buyers-are-moving-faster-than-software-sellers/)
-
-### The next CDP decision goes beyond the CDP
-_Fri, 04 Sep 2026 12:04:00 +0000_
-
-As composability becomes standard, the real question is where customer data, intelligence, and decision-making should live. The post The next CDP decision goes beyond the CDP appeared first on MarTech .
-
-→ [https://martech.org/the-next-cdp-decision-goes-beyond-the-cdp/](https://martech.org/the-next-cdp-decision-goes-beyond-the-cdp/)
-
-### The latest AI-powered martech news and releases
-_Thu, 03 Sep 2026 15:16:01 +0000_
-
-Adobe’s acquisition of Rilo adds AI workflow orchestration to its growing effort to automate the work surrounding enterprise marketing. The post The latest AI-powered martech news and releases appeared first on MarTech .
-
-→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
 
 ---
