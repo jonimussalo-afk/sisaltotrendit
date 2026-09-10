@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-09 07:56 UTC_
+_Päivitetty: 2026-09-10 07:56 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Google esitteli uusia mainonnan trendejä: tekoäly muuttaa mainonnan, hakemisen
 
 ## HubSpot Marketing Blog
 
+### How to optimize your website for AI search
+_Wed, 09 Sep 2026 12:00:03 GMT_
+
+Learning how to optimize your website for AI search is one of the hottest skills for marketers right now, because the audience for these tools is growing fast. Monthly unique visitors to the major answer engines climbed from 634 million in Q1 2025 to 904 million in Q1 2026, up more than 40% in a year, according to Wix Studio .
+
+→ [https://blog.hubspot.com/marketing/optimize-website-ai-search](https://blog.hubspot.com/marketing/optimize-website-ai-search)
+
 ### How much does AEO cost? Pricing by agency, tools, and software
 _Tue, 08 Sep 2026 12:00:03 GMT_
 
@@ -79,13 +86,6 @@ _Wed, 02 Sep 2026 12:00:02 GMT_
 Over the past few months, I noticed a pattern while researching for clients. When I searched Perplexity for B2B reports or insights that I could cite for a project, the source list would look like this: Gartner, McKinsey, peer-reviewed paper, then … John Smith on LinkedIn?
 
 → [https://blog.hubspot.com/marketing/linkedin-aeo-experiment](https://blog.hubspot.com/marketing/linkedin-aeo-experiment)
-
-### How to turn data thought leadership into a growth channel, according to Semrush’s marketing lead
-_Tue, 01 Sep 2026 12:00:06 GMT_
-
-For years, we ran data studies at Semrush the way most similar companies did: whenever someone had a good idea and whenever there was time to spare. Mostly, though, our efforts were limited to one or two major reports a year.
-
-→ [https://blog.hubspot.com/marketing/turning-data-thought-leadership-into-growth-channel](https://blog.hubspot.com/marketing/turning-data-thought-leadership-into-growth-channel)
 
 ---
 
@@ -130,6 +130,34 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### Google avoided (yet another) breakup… now comes the test of the ad tech remedies
+_Thu, 10 Sep 2026 04:01:00 +0000_
+
+Here's how Google's GAM might look after the next 30 days, following the closing stages of its marathon antitrust trial.
+
+→ [https://digiday.com/media-buying/google-avoided-yet-another-breakup-now-comes-the-test-of-the-ad-tech-remedies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/google-avoided-yet-another-breakup-now-comes-the-test-of-the-ad-tech-remedies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Instacart launches custom AI assistants for retailers
+_Thu, 10 Sep 2026 04:01:00 +0000_
+
+Retail giants like Walmart, Kroger and Amazon have launched AI assistants allowing consumers to ask for recommendations or curated shopping lists. Now, Instacart has made it easier for other retailers such as regional grocers to follow in their footsteps.
+
+→ [https://digiday.com/marketing/instacart-launches-custom-ai-assistants-for-retailers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/instacart-launches-custom-ai-assistants-for-retailers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### AI reshapes agency economics, but their contracts are still scrambling to catch up
+_Thu, 10 Sep 2026 04:01:00 +0000_
+
+AI is changing agency work. Agencies are adding provisions to existing contracts instead of rewriting their MSAs.
+
+→ [https://digiday.com/marketing/ai-reshapes-agency-economics-but-their-contracts-are-still-scrambling-to-catch-up/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ai-reshapes-agency-economics-but-their-contracts-are-still-scrambling-to-catch-up/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Media Briefing: Publishers are rebuilding their newsrooms for the post-Google era
+_Thu, 10 Sep 2026 04:01:00 +0000_
+
+Publishers like USA Today Co. and NYT are reshaping audience teams and creating new roles to prepare for an AI search future.
+
+→ [https://digiday.com/media/media-briefing-publishers-are-rebuilding-their-newsrooms-for-the-post-google-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-publishers-are-rebuilding-their-newsrooms-for-the-post-google-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### How 11 retail media networks are trying to differentiate themselves to advertisers
 _Wed, 09 Sep 2026 04:01:00 +0000_
 
@@ -137,37 +165,37 @@ With the launch of myriad retail media networks, these new divisions of various 
 
 → [https://digiday.com/media/how-11-retail-media-networks-are-trying-to-differentiate-themselves-to-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-11-retail-media-networks-are-trying-to-differentiate-themselves-to-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Future of TV Briefing: Where have all the cord-cutters gone?
-_Wed, 09 Sep 2026 04:01:00 +0000_
-
-This week’s Future of TV Briefing looks at recent data indicating that people may be getting rid of their cable boxes but they’re not exactly getting rid of cable TV.
-
-→ [https://digiday.com/future-of-tv/future-of-tv-briefing-where-have-all-the-cord-cutters-gone/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-where-have-all-the-cord-cutters-gone/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### WTF is a ghost creator?
-_Wed, 09 Sep 2026 04:01:00 +0000_
-
-Some companies are hiring creators not for their audience, but as a mouthpiece for a very specific brief. Think execution, not creativity. This is the ghost creator.
-
-→ [https://digiday.com/media/wtf-is-a-ghost-creator/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/wtf-is-a-ghost-creator/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### ShopMy, Google and WordPress are among this year’s Digiday Technology Awards finalists
-_Tue, 08 Sep 2026 17:37:06 +0000_
-
-This year’s Digiday Technology Awards finalists reflect an industry adapting to a rapidly changing digital landscape, with AI-ready infrastructure, first-party data, privacy and operational efficiency emerging as defining priorities.&#160; Across publishing, commerce and advertising, technology leaders are rethinking the systems that underpin…
-
-→ [https://digiday.com/announcement/awards/shopmy-google-and-wordpress-are-among-this-years-digiday-technology-awards-finalists/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/announcement/awards/shopmy-google-and-wordpress-are-among-this-years-digiday-technology-awards-finalists/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### ‘Frogs in the boiling water’: The Amazon-FTC case and the myth of ad auction transparency
-_Tue, 08 Sep 2026 04:01:00 +0000_
-
-The regulator accused Amazon of “deceptive and unfair practices,” but the e-commerce giant’s opaque auction dynamics aren’t all that unusual in today’s digital ad market.
-
-→ [https://digiday.com/media-buying/frogs-in-the-boiling-water-the-amazon-ftc-case-and-the-myth-of-ad-auction-transparency/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/frogs-in-the-boiling-water-the-amazon-ftc-case-and-the-myth-of-ad-auction-transparency/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
 ---
 
 ## MarTech
+
+### Your next CMO will come from marketing operations
+_Wed, 09 Sep 2026 13:25:25 +0000_
+
+The CMO role is evolving, from creative to technical, and it may have finally found a C-suite ally in the CIO. The post Your next CMO will come from marketing operations appeared first on MarTech .
+
+→ [https://martech.org/your-next-cmo-will-come-from-marketing-operations/](https://martech.org/your-next-cmo-will-come-from-marketing-operations/)
+
+### Built for yesterday: Why your data architecture can’t keep up with AI
+_Wed, 09 Sep 2026 13:22:33 +0000_
+
+Struggling to power AI with outdated systems? At the September MarTech Conference we discussed how composable data architecture enables real-time decisions without a rebuild. The post Built for yesterday: Why your data architecture can’t keep up with AI appeared first on MarTech .
+
+→ [https://martech.org/built-for-yesterday-why-your-data-architecture-cant-keep-up-with-ai/](https://martech.org/built-for-yesterday-why-your-data-architecture-cant-keep-up-with-ai/)
+
+### What WYSIWYG editors can teach us about AI and jobs
+_Wed, 09 Sep 2026 12:10:00 +0000_
+
+From WYSIWYG editors to vibe coding, technology keeps shifting where human skills matter rather than simply eliminating them. The post What WYSIWYG editors can teach us about AI and jobs appeared first on MarTech .
+
+→ [https://martech.org/what-wysiwyg-editors-can-teach-us-about-ai-and-jobs/](https://martech.org/what-wysiwyg-editors-can-teach-us-about-ai-and-jobs/)
+
+### A better way to answer the AI ROI question
+_Wed, 09 Sep 2026 12:08:00 +0000_
+
+A three-layer framework separates AI foundations, working systems, and business outcomes without claiming revenue that can’t be proved. The post A better way to answer the AI ROI question appeared first on MarTech .
+
+→ [https://martech.org/a-better-way-to-answer-the-ai-roi-question/](https://martech.org/a-better-way-to-answer-the-ai-roi-question/)
 
 ### The data trust crisis: Why your customer data is getting worse
 _Tue, 08 Sep 2026 14:19:51 +0000_
@@ -175,33 +203,5 @@ _Tue, 08 Sep 2026 14:19:51 +0000_
 Unreliable customer data threatens your personalization and ROI. At the MarTech Conference we discussed how to navigate data decay and build a high-trust measurement framework. The post The data trust crisis: Why your customer data is getting worse appeared first on MarTech .
 
 → [https://martech.org/the-data-trust-crisis-why-your-customer-data-is-getting-worse/](https://martech.org/the-data-trust-crisis-why-your-customer-data-is-getting-worse/)
-
-### Why AI hasn’t solved marketing’s time problem
-_Tue, 08 Sep 2026 12:27:00 +0000_
-
-AI makes it easier to produce marketing content, but faster production doesn’t mean more time for strategy, planning, or better work. The post Why AI hasn’t solved marketing’s time problem appeared first on MarTech .
-
-→ [https://martech.org/why-ai-hasnt-solved-marketings-time-problem/](https://martech.org/why-ai-hasnt-solved-marketings-time-problem/)
-
-### Your 2027 CTV budget needs evidence now
-_Tue, 08 Sep 2026 12:07:00 +0000_
-
-Run a narrow test now to learn what CTV costs against your actual accounts and whether the channel is worth funding next year. The post Your 2027 CTV budget needs evidence now appeared first on MarTech .
-
-→ [https://martech.org/your-2027-ctv-budget-needs-evidence-now/](https://martech.org/your-2027-ctv-budget-needs-evidence-now/)
-
-### Why growing restaurant chains win at local search and AI visibility by SOCi
-_Tue, 08 Sep 2026 11:00:00 +0000_
-
-Research finds a measurable digital visibility gap between expanding and shrinking restaurant chains across search, reviews, social, and AI. The post Why growing restaurant chains win at local search and AI visibility appeared first on MarTech .
-
-→ [https://martech.org/why-growing-restaurant-chains-win-at-local-search-and-ai-visibility/](https://martech.org/why-growing-restaurant-chains-win-at-local-search-and-ai-visibility/)
-
-### Marketing without signals: How to perform when the data disappears
-_Fri, 04 Sep 2026 14:02:44 +0000_
-
-Navigating signal loss without losing momentum is a hurdle for every marketing leader. At the MarTech Conference we talked about building control with the data you already own. The post Marketing without signals: How to perform when the data disappears appeared first on MarTech .
-
-→ [https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/](https://martech.org/marketing-without-signals-how-to-perform-when-the-data-disappears/)
 
 ---
