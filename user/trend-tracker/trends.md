@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-10 07:56 UTC_
+_Päivitetty: 2026-09-11 07:52 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Google esitteli uusia mainonnan trendejä: tekoäly muuttaa mainonnan, hakemisen
 
 ## HubSpot Marketing Blog
 
+### AI search tools marketers should know in 2026
+_Thu, 10 Sep 2026 12:00:03 GMT_
+
+Something big just shifted in how people find answers online. More buyers are skipping the investigation and deliberation of clicking through blue links on Google, in favor of asking ChatGPT, Perplexity, and the like for one direct answer.
+
+→ [https://blog.hubspot.com/marketing/best-ai-search-tools](https://blog.hubspot.com/marketing/best-ai-search-tools)
+
 ### How to optimize your website for AI search
 _Wed, 09 Sep 2026 12:00:03 GMT_
 
@@ -79,13 +86,6 @@ _Wed, 02 Sep 2026 12:00:02 GMT_
 Answer engine optimization is disrupting search as we know it. What once was predictable — add a keyword, focus on high-quality backlinks, increase your domain rating — has become a new game that doesn’t play by the same rules.
 
 → [https://blog.hubspot.com/marketing/brands-with-high-ai-search-citations](https://blog.hubspot.com/marketing/brands-with-high-ai-search-citations)
-
-### Using LinkedIn for AEO: How marketers can use social media to improve their AI visibility [experiment]
-_Wed, 02 Sep 2026 12:00:02 GMT_
-
-Over the past few months, I noticed a pattern while researching for clients. When I searched Perplexity for B2B reports or insights that I could cite for a project, the source list would look like this: Gartner, McKinsey, peer-reviewed paper, then … John Smith on LinkedIn?
-
-→ [https://blog.hubspot.com/marketing/linkedin-aeo-experiment](https://blog.hubspot.com/marketing/linkedin-aeo-experiment)
 
 ---
 
@@ -130,78 +130,78 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Google avoided (yet another) breakup… now comes the test of the ad tech remedies
-_Thu, 10 Sep 2026 04:01:00 +0000_
+### Molson Coors ditches its TV-era workflow to move at creator speed, quadrupling engagement
+_Fri, 11 Sep 2026 04:01:00 +0000_
 
-Here's how Google's GAM might look after the next 30 days, following the closing stages of its marathon antitrust trial.
+Molson Coors partnered with Movers+Shakers' new consultancy group to completely overhaul its approach to creators, and it's working.
 
-→ [https://digiday.com/media-buying/google-avoided-yet-another-breakup-now-comes-the-test-of-the-ad-tech-remedies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/google-avoided-yet-another-breakup-now-comes-the-test-of-the-ad-tech-remedies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/molson-coors-ditches-its-tv-era-workflow-to-move-at-creator-speed-quadrupling-engagement/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/molson-coors-ditches-its-tv-era-workflow-to-move-at-creator-speed-quadrupling-engagement/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Instacart launches custom AI assistants for retailers
-_Thu, 10 Sep 2026 04:01:00 +0000_
+### Future of Marketing Briefing: One more helping, for gluttons still hungry for Publicis and PepsiCo takes
+_Fri, 11 Sep 2026 04:01:00 +0000_
 
-Retail giants like Walmart, Kroger and Amazon have launched AI assistants allowing consumers to ask for recommendations or curated shopping lists. Now, Instacart has made it easier for other retailers such as regional grocers to follow in their footsteps.
+Yes, more thoughts on what it means, or doesn’t, that Publicis walked away from competing for Coca-Cola’s media dollars to grab PepsiCo’s instead.
 
-→ [https://digiday.com/marketing/instacart-launches-custom-ai-assistants-for-retailers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/instacart-launches-custom-ai-assistants-for-retailers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/future-of-marketing-briefing-one-more-helping-for-gluttons-still-hungry-for-publicis-and-pepsico-takes/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-one-more-helping-for-gluttons-still-hungry-for-publicis-and-pepsico-takes/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### AI reshapes agency economics, but their contracts are still scrambling to catch up
-_Thu, 10 Sep 2026 04:01:00 +0000_
+### Why the CMO’s next chapter is becoming a true business leader again
+_Thu, 10 Sep 2026 21:08:59 +0000_
 
-AI is changing agency work. Agencies are adding provisions to existing contracts instead of rewriting their MSAs.
+CMOs became stewards of activity rather than owners of outcomes, reshaping how the position was perceived at the highest levels of the organization.
 
-→ [https://digiday.com/marketing/ai-reshapes-agency-economics-but-their-contracts-are-still-scrambling-to-catch-up/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ai-reshapes-agency-economics-but-their-contracts-are-still-scrambling-to-catch-up/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/sponsored/why-the-cmos-next-chapter-is-becoming-a-true-business-leader-again/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/why-the-cmos-next-chapter-is-becoming-a-true-business-leader-again/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Briefing: Publishers are rebuilding their newsrooms for the post-Google era
-_Thu, 10 Sep 2026 04:01:00 +0000_
+### ‘Certainly a disappointment’: Omnicom CFO’s verdict on losing PepsiCo to Publicis
+_Thu, 10 Sep 2026 17:20:00 +0000_
 
-Publishers like USA Today Co. and NYT are reshaping audience teams and creating new roles to prepare for an AI search future.
+Speaking at the Goldman Sachs' Communacopia and Technology Conference earlier today, Phil Angelastro gave a sobering take on PepsiCo’s decision to walk away after more than 25 years.
 
-→ [https://digiday.com/media/media-briefing-publishers-are-rebuilding-their-newsrooms-for-the-post-google-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-publishers-are-rebuilding-their-newsrooms-for-the-post-google-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/certainly-a-disappointment-omnicom-cfos-verdict-on-losing-pepsico-to-publicis/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/certainly-a-disappointment-omnicom-cfos-verdict-on-losing-pepsico-to-publicis/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### How 11 retail media networks are trying to differentiate themselves to advertisers
-_Wed, 09 Sep 2026 04:01:00 +0000_
+### Amazon Ads brings advertisers to ChatGPT, extending its supply-chasing streak
+_Thu, 10 Sep 2026 13:01:00 +0000_
 
-With the launch of myriad retail media networks, these new divisions of various consumer-facing companies are now fighting for ad dollars.
+Amazon has cut a deal to let its advertisers buy ads from the popular AI-powered chatbot, adding to a long list of premium supply its spent more than a year locking down.
 
-→ [https://digiday.com/media/how-11-retail-media-networks-are-trying-to-differentiate-themselves-to-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-11-retail-media-networks-are-trying-to-differentiate-themselves-to-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/amazon-brings-its-dsp-to-openais-chatgpt-ads-extending-its-supply-chasing-streak/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/amazon-brings-its-dsp-to-openais-chatgpt-ads-extending-its-supply-chasing-streak/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
 
-### Your next CMO will come from marketing operations
-_Wed, 09 Sep 2026 13:25:25 +0000_
+### The latest AI-powered martech news and releases
+_Thu, 10 Sep 2026 16:45:09 +0000_
 
-The CMO role is evolving, from creative to technical, and it may have finally found a C-suite ally in the CIO. The post Your next CMO will come from marketing operations appeared first on MarTech .
+Anthropic has a blueprint for AI agents that can shop and buy for consumers, but trust, pricing, and accountability are in the way. The post The latest AI-powered martech news and releases appeared first on MarTech .
 
-→ [https://martech.org/your-next-cmo-will-come-from-marketing-operations/](https://martech.org/your-next-cmo-will-come-from-marketing-operations/)
+→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
 
-### Built for yesterday: Why your data architecture can’t keep up with AI
-_Wed, 09 Sep 2026 13:22:33 +0000_
+### The engagement illusion: What actually gets attention (and what gets ignored)
+_Thu, 10 Sep 2026 15:04:41 +0000_
 
-Struggling to power AI with outdated systems? At the September MarTech Conference we discussed how composable data architecture enables real-time decisions without a rebuild. The post Built for yesterday: Why your data architecture can’t keep up with AI appeared first on MarTech .
+AI makes producing content fast, but earning true attention is harder than ever. At the September MarTech Conference, we discussed cutting through the noise to create meaningful engagement. The post The engagement illusion: What actually gets attention (and what gets ignored) appeared first on MarTech .
 
-→ [https://martech.org/built-for-yesterday-why-your-data-architecture-cant-keep-up-with-ai/](https://martech.org/built-for-yesterday-why-your-data-architecture-cant-keep-up-with-ai/)
+→ [https://martech.org/the-engagement-illusion-what-actually-gets-attention-and-what-gets-ignored/](https://martech.org/the-engagement-illusion-what-actually-gets-attention-and-what-gets-ignored/)
 
-### What WYSIWYG editors can teach us about AI and jobs
-_Wed, 09 Sep 2026 12:10:00 +0000_
+### The answer to your martech problem depends on the problem
+_Thu, 10 Sep 2026 13:28:00 +0000_
 
-From WYSIWYG editors to vibe coding, technology keeps shifting where human skills matter rather than simply eliminating them. The post What WYSIWYG editors can teach us about AI and jobs appeared first on MarTech .
+Buying more, improving how teams use what they have, and cutting the stack can all work — but not for the same reasons. The post The answer to your martech problem depends on the problem appeared first on MarTech .
 
-→ [https://martech.org/what-wysiwyg-editors-can-teach-us-about-ai-and-jobs/](https://martech.org/what-wysiwyg-editors-can-teach-us-about-ai-and-jobs/)
+→ [https://martech.org/the-answer-to-your-martech-problem-depends-on-the-problem/](https://martech.org/the-answer-to-your-martech-problem-depends-on-the-problem/)
 
-### A better way to answer the AI ROI question
-_Wed, 09 Sep 2026 12:08:00 +0000_
+### How to create B2B content that buyers keep using
+_Thu, 10 Sep 2026 12:24:00 +0000_
 
-A three-layer framework separates AI foundations, working systems, and business outcomes without claiming revenue that can’t be proved. The post A better way to answer the AI ROI question appeared first on MarTech .
+As AI makes content easier to create, the opportunity is to build resources that help buyers make decisions, solve problems, and take action. The post How to create B2B content that buyers keep using appeared first on MarTech .
 
-→ [https://martech.org/a-better-way-to-answer-the-ai-roi-question/](https://martech.org/a-better-way-to-answer-the-ai-roi-question/)
+→ [https://martech.org/how-to-create-b2b-content-that-buyers-keep-using/](https://martech.org/how-to-create-b2b-content-that-buyers-keep-using/)
 
-### The data trust crisis: Why your customer data is getting worse
-_Tue, 08 Sep 2026 14:19:51 +0000_
+### AI is putting marketing’s in-house model to the test
+_Thu, 10 Sep 2026 12:19:00 +0000_
 
-Unreliable customer data threatens your personalization and ROI. At the MarTech Conference we discussed how to navigate data decay and build a high-trust measurement framework. The post The data trust crisis: Why your customer data is getting worse appeared first on MarTech .
+CMOs once asked agencies to prove their value. AI could force them to answer the same question about their own teams. The post AI is putting marketing’s in-house model to the test appeared first on MarTech .
 
-→ [https://martech.org/the-data-trust-crisis-why-your-customer-data-is-getting-worse/](https://martech.org/the-data-trust-crisis-why-your-customer-data-is-getting-worse/)
+→ [https://martech.org/ai-is-putting-marketings-in-house-model-to-the-test/](https://martech.org/ai-is-putting-marketings-in-house-model-to-the-test/)
 
 ---
