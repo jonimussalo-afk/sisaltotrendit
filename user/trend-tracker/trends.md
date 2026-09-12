@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-11 07:52 UTC_
+_Päivitetty: 2026-09-12 07:44 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -169,39 +169,39 @@ Amazon has cut a deal to let its advertisers buy ads from the popular AI-powered
 
 ## MarTech
 
-### The latest AI-powered martech news and releases
-_Thu, 10 Sep 2026 16:45:09 +0000_
+### Lost in translation: Why content and data teams can’t speak the same language
+_Fri, 11 Sep 2026 14:27:40 +0000_
 
-Anthropic has a blueprint for AI agents that can shop and buy for consumers, but trust, pricing, and accountability are in the way. The post The latest AI-powered martech news and releases appeared first on MarTech .
+At the September MarTech Conference, we discussed how content and data teams can align signals, build shared context, and drive outcomes. The post Lost in translation: Why content and data teams can’t speak the same language appeared first on MarTech .
 
-→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
+→ [https://martech.org/lost-in-translation-why-content-and-data-teams-cant-speak-the-same-language/](https://martech.org/lost-in-translation-why-content-and-data-teams-cant-speak-the-same-language/)
 
-### The engagement illusion: What actually gets attention (and what gets ignored)
-_Thu, 10 Sep 2026 15:04:41 +0000_
+### FTC puts personalized pricing practices on notice
+_Fri, 11 Sep 2026 12:36:00 +0000_
 
-AI makes producing content fast, but earning true attention is harder than ever. At the September MarTech Conference, we discussed cutting through the noise to create meaningful engagement. The post The engagement illusion: What actually gets attention (and what gets ignored) appeared first on MarTech .
+The agency isn't banning personalized pricing, but sellers may have to explain when and how customer data affects prices. The post FTC puts personalized pricing practices on notice appeared first on MarTech .
 
-→ [https://martech.org/the-engagement-illusion-what-actually-gets-attention-and-what-gets-ignored/](https://martech.org/the-engagement-illusion-what-actually-gets-attention-and-what-gets-ignored/)
+→ [https://martech.org/ftc-puts-personalized-pricing-practices-on-notice/](https://martech.org/ftc-puts-personalized-pricing-practices-on-notice/)
 
-### The answer to your martech problem depends on the problem
-_Thu, 10 Sep 2026 13:28:00 +0000_
+### AI is changing media faster than marketers can measure it
+_Fri, 11 Sep 2026 12:20:00 +0000_
 
-Buying more, improving how teams use what they have, and cutting the stack can all work — but not for the same reasons. The post The answer to your martech problem depends on the problem appeared first on MarTech .
+IAB finds advertisers spending more and adapting to AI-driven discovery, but their ability to measure those new customer journeys is lagging. The post AI is changing media faster than marketers can measure it appeared first on MarTech .
 
-→ [https://martech.org/the-answer-to-your-martech-problem-depends-on-the-problem/](https://martech.org/the-answer-to-your-martech-problem-depends-on-the-problem/)
+→ [https://martech.org/ai-is-changing-media-faster-than-marketers-can-measure-it/](https://martech.org/ai-is-changing-media-faster-than-marketers-can-measure-it/)
 
-### How to create B2B content that buyers keep using
-_Thu, 10 Sep 2026 12:24:00 +0000_
+### AI can scale your promises faster than you can build trust
+_Fri, 11 Sep 2026 12:13:00 +0000_
 
-As AI makes content easier to create, the opportunity is to build resources that help buyers make decisions, solve problems, and take action. The post How to create B2B content that buyers keep using appeared first on MarTech .
+Your AI strategy shouldn’t be judged by how much marketing it produces. Look at whether it makes the next customer interaction easier to earn. The post AI can scale your promises faster than you can build trust appeared first on MarTech .
 
-→ [https://martech.org/how-to-create-b2b-content-that-buyers-keep-using/](https://martech.org/how-to-create-b2b-content-that-buyers-keep-using/)
+→ [https://martech.org/ai-can-scale-your-promises-faster-than-you-can-build-trust/](https://martech.org/ai-can-scale-your-promises-faster-than-you-can-build-trust/)
 
-### AI is putting marketing’s in-house model to the test
-_Thu, 10 Sep 2026 12:19:00 +0000_
+### The real AI decision every CMO is making this quarter
+_Fri, 11 Sep 2026 12:10:00 +0000_
 
-CMOs once asked agencies to prove their value. AI could force them to answer the same question about their own teams. The post AI is putting marketing’s in-house model to the test appeared first on MarTech .
+AI is making common marketing capabilities easier to buy. The harder question is which company-specific workflows are worth owning. The post The real AI decision every CMO is making this quarter appeared first on MarTech .
 
-→ [https://martech.org/ai-is-putting-marketings-in-house-model-to-the-test/](https://martech.org/ai-is-putting-marketings-in-house-model-to-the-test/)
+→ [https://martech.org/the-real-ai-decision-every-cmo-is-making-this-quarter/](https://martech.org/the-real-ai-decision-every-cmo-is-making-this-quarter/)
 
 ---
