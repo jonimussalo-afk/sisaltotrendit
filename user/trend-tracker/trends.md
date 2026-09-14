@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-13 08:05 UTC_
+_Päivitetty: 2026-09-14 08:39 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,40 +130,40 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Molson Coors ditches its TV-era workflow to move at creator speed, quadrupling engagement
-_Fri, 11 Sep 2026 04:01:00 +0000_
+### Media Buying Briefing: How Publicis keeps winning clients without pitches
+_Mon, 14 Sep 2026 04:01:00 +0000_
 
-Molson Coors partnered with Movers+Shakers' new consultancy group to completely overhaul its approach to creators, and it's working.
+PepsiCo and LVMH wins show Publicis has deliberately cultivated a habit of winning major media accounts outside the traditional review process.
 
-→ [https://digiday.com/media/molson-coors-ditches-its-tv-era-workflow-to-move-at-creator-speed-quadrupling-engagement/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/molson-coors-ditches-its-tv-era-workflow-to-move-at-creator-speed-quadrupling-engagement/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/media-buying-briefing-how-publicis-keeps-winning-clients-without-pitches/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-how-publicis-keeps-winning-clients-without-pitches/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Future of Marketing Briefing: One more helping, for gluttons still hungry for Publicis and PepsiCo takes
-_Fri, 11 Sep 2026 04:01:00 +0000_
+### OpenAI’s next ChatGPT ad format: click to chat, not to site
+_Mon, 14 Sep 2026 04:01:00 +0000_
 
-Yes, more thoughts on what it means, or doesn’t, that Publicis walked away from competing for Coca-Cola’s media dollars to grab PepsiCo’s instead.
+The new format lets brands turn an ad click into a conversation with an AI agent inside ChatGPT, rather than sending users to their websites.
 
-→ [https://digiday.com/marketing/future-of-marketing-briefing-one-more-helping-for-gluttons-still-hungry-for-publicis-and-pepsico-takes/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-one-more-helping-for-gluttons-still-hungry-for-publicis-and-pepsico-takes/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/openais-next-chatgpt-ad-format-click-to-chat-not-to-site/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/openais-next-chatgpt-ad-format-click-to-chat-not-to-site/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Why the CMO’s next chapter is becoming a true business leader again
-_Thu, 10 Sep 2026 21:08:59 +0000_
+### As Google’s ad tech case nears its end, the antitrust fight moves to AI
+_Mon, 14 Sep 2026 04:01:00 +0000_
 
-CMOs became stewards of activity rather than owners of outcomes, reshaping how the position was perceived at the highest levels of the organization.
+Google avoided breakups in antitrust cases as AI ads and CTV draw scrutiny; see what regulators may target next.
 
-→ [https://digiday.com/sponsored/why-the-cmos-next-chapter-is-becoming-a-true-business-leader-again/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/why-the-cmos-next-chapter-is-becoming-a-true-business-leader-again/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/as-googles-ad-tech-case-nears-its-end-the-antitrust-fight-moves-to-ai/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/as-googles-ad-tech-case-nears-its-end-the-antitrust-fight-moves-to-ai/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### ‘Certainly a disappointment’: Omnicom CFO’s verdict on losing PepsiCo to Publicis
-_Thu, 10 Sep 2026 17:20:00 +0000_
+### Google rolls out pay-per-use AI licensing program to publishers
+_Mon, 14 Sep 2026 04:01:00 +0000_
 
-Speaking at the Goldman Sachs' Communacopia and Technology Conference earlier today, Phil Angelastro gave a sobering take on PepsiCo’s decision to walk away after more than 25 years.
+Google has been quietly scaling a pay-per-use AI licensing scheme for publishers. But critics say the program looks less like a meaningful payout and more like a legal fig leaf.
 
-→ [https://digiday.com/media-buying/certainly-a-disappointment-omnicom-cfos-verdict-on-losing-pepsico-to-publicis/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/certainly-a-disappointment-omnicom-cfos-verdict-on-losing-pepsico-to-publicis/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/google-rolls-out-pay-per-use-ai-licensing-program-to-publishers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/google-rolls-out-pay-per-use-ai-licensing-program-to-publishers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Amazon Ads brings advertisers to ChatGPT, extending its supply-chasing streak
-_Thu, 10 Sep 2026 13:01:00 +0000_
+### What we’ve learned from the creator snafus at this year’s US Open
+_Mon, 14 Sep 2026 04:01:00 +0000_
 
-Amazon has cut a deal to let its advertisers buy ads from the popular AI-powered chatbot, adding to a long list of premium supply its spent more than a year locking down.
+Everyone's hating on creators at the US Open, but they're here to stay in the tennis world, just perhaps with some adjustments.
 
-→ [https://digiday.com/media-buying/amazon-brings-its-dsp-to-openais-chatgpt-ads-extending-its-supply-chasing-streak/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/amazon-brings-its-dsp-to-openais-chatgpt-ads-extending-its-supply-chasing-streak/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/what-weve-learned-from-the-creator-snafus-at-this-years-us-open/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/what-weve-learned-from-the-creator-snafus-at-this-years-us-open/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
