@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-14 08:39 UTC_
+_Päivitetty: 2026-09-15 08:27 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,44 +130,72 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Media Buying Briefing: How Publicis keeps winning clients without pitches
-_Mon, 14 Sep 2026 04:01:00 +0000_
+### Marketers are using AI search concerns to argue for higher media budgets
+_Tue, 15 Sep 2026 04:01:00 +0000_
 
-PepsiCo and LVMH wins show Publicis has deliberately cultivated a habit of winning major media accounts outside the traditional review process.
+Brands with long consideration journeys, like insurance and cars, are paying close attention to shifting search behaviors. They're using that concern to make their case for more media dollars.
 
-→ [https://digiday.com/media-buying/media-buying-briefing-how-publicis-keeps-winning-clients-without-pitches/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-how-publicis-keeps-winning-clients-without-pitches/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/marketers-are-using-ai-search-concerns-to-argue-for-higher-media-budgets/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/marketers-are-using-ai-search-concerns-to-argue-for-higher-media-budgets/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### OpenAI’s next ChatGPT ad format: click to chat, not to site
-_Mon, 14 Sep 2026 04:01:00 +0000_
+### In Graphic Detail: Inside the scramble to measure a brand’s AI visibility
+_Tue, 15 Sep 2026 04:01:00 +0000_
 
-The new format lets brands turn an ad click into a conversation with an AI agent inside ChatGPT, rather than sending users to their websites.
+Marketers are catching on that AI doesn’t rank their brands, it decides whether it gets brought up at all. That shift is already reshaping how the industry works.
 
-→ [https://digiday.com/marketing/openais-next-chatgpt-ad-format-click-to-chat-not-to-site/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/openais-next-chatgpt-ad-format-click-to-chat-not-to-site/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/in-graphic-detail-inside-the-scramble-to-measure-a-brands-ai-visibility/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/in-graphic-detail-inside-the-scramble-to-measure-a-brands-ai-visibility/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### As Google’s ad tech case nears its end, the antitrust fight moves to AI
-_Mon, 14 Sep 2026 04:01:00 +0000_
+### Kroger’s ad business sees most profit growth since 2021
+_Tue, 15 Sep 2026 04:01:00 +0000_
 
-Google avoided breakups in antitrust cases as AI ads and CTV draw scrutiny; see what regulators may target next.
+Profit for the Kroger Precision Marketing advertising business grew 24% in the second quarter, according to Kroger’s latest financial earnings release.
 
-→ [https://digiday.com/marketing/as-googles-ad-tech-case-nears-its-end-the-antitrust-fight-moves-to-ai/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/as-googles-ad-tech-case-nears-its-end-the-antitrust-fight-moves-to-ai/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/krogers-ad-business-sees-most-profit-growth-since-2021/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/krogers-ad-business-sees-most-profit-growth-since-2021/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Google rolls out pay-per-use AI licensing program to publishers
-_Mon, 14 Sep 2026 04:01:00 +0000_
+### Electronic Arts is bundling its games to make a bigger pitch to advertisers
+_Tue, 15 Sep 2026 04:01:00 +0000_
 
-Google has been quietly scaling a pay-per-use AI licensing scheme for publishers. But critics say the program looks less like a meaningful payout and more like a legal fig leaf.
+The gaming company is betting that giving brands access to multiple franchises in one buy will help it win bigger advertising budgets.
 
-→ [https://digiday.com/media/google-rolls-out-pay-per-use-ai-licensing-program-to-publishers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/google-rolls-out-pay-per-use-ai-licensing-program-to-publishers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/electronic-arts-is-bundling-its-games-to-make-a-bigger-pitch-to-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/electronic-arts-is-bundling-its-games-to-make-a-bigger-pitch-to-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### What we’ve learned from the creator snafus at this year’s US Open
-_Mon, 14 Sep 2026 04:01:00 +0000_
+### As more surfaces become ad inventory, the economics get complicated
+_Tue, 15 Sep 2026 04:01:00 +0000_
 
-Everyone's hating on creators at the US Open, but they're here to stay in the tennis world, just perhaps with some adjustments.
+Ads now invade fridges, dashboards and AI search, testing consumers’ tolerance and the value exchange.
 
-→ [https://digiday.com/media/what-weve-learned-from-the-creator-snafus-at-this-years-us-open/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/what-weve-learned-from-the-creator-snafus-at-this-years-us-open/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/podcasts/as-more-surfaces-become-ad-inventory-the-economics-get-complicated/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/as-more-surfaces-become-ad-inventory-the-economics-get-complicated/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### The AI performance shake-up: What’s really driving results across channels now
+_Mon, 14 Sep 2026 13:35:51 +0000_
+
+When algorithms hide your campaign levers, tracking true impact gets tricky. At the MarTech Conference, we discussed how to regain visibility and drive growth. The post The AI performance shake-up: What’s really driving results across channels now appeared first on MarTech .
+
+→ [https://martech.org/the-ai-performance-shake-up-whats-really-driving-results-across-channels-now/](https://martech.org/the-ai-performance-shake-up-whats-really-driving-results-across-channels-now/)
+
+### Who owns your AI agents after they launch?
+_Mon, 14 Sep 2026 12:49:00 +0000_
+
+AI agent ownership often falls between teams. Here’s how to assign responsibility for maintenance, oversight, and retirement. The post Who owns your AI agents after they launch? appeared first on MarTech .
+
+→ [https://martech.org/who-owns-your-ai-agents-after-they-launch/](https://martech.org/who-owns-your-ai-agents-after-they-launch/)
+
+### The ultimate battle for your digital storefront
+_Mon, 14 Sep 2026 12:13:00 +0000_
+
+AI search engines are rewriting the rules of retail. Here is how to keep your brand visible when algorithms replace human shoppers. The post The ultimate battle for your digital storefront appeared first on MarTech .
+
+→ [https://martech.org/the-ultimate-battle-for-your-digital-storefront/](https://martech.org/the-ultimate-battle-for-your-digital-storefront/)
+
+### AI exposes what your brand guidelines leave unsaid
+_Mon, 14 Sep 2026 11:58:00 +0000_
+
+Brand teams have always relied on people to interpret vague guidelines. AI turns those hidden assumptions into a problem that can scale fast. The post AI exposes what your brand guidelines leave unsaid appeared first on MarTech .
+
+→ [https://martech.org/ai-exposes-what-your-brand-guidelines-leave-unsaid/](https://martech.org/ai-exposes-what-your-brand-guidelines-leave-unsaid/)
 
 ### Lost in translation: Why content and data teams can’t speak the same language
 _Fri, 11 Sep 2026 14:27:40 +0000_
@@ -175,33 +203,5 @@ _Fri, 11 Sep 2026 14:27:40 +0000_
 At the September MarTech Conference, we discussed how content and data teams can align signals, build shared context, and drive outcomes. The post Lost in translation: Why content and data teams can’t speak the same language appeared first on MarTech .
 
 → [https://martech.org/lost-in-translation-why-content-and-data-teams-cant-speak-the-same-language/](https://martech.org/lost-in-translation-why-content-and-data-teams-cant-speak-the-same-language/)
-
-### FTC puts personalized pricing practices on notice
-_Fri, 11 Sep 2026 12:36:00 +0000_
-
-The agency isn't banning personalized pricing, but sellers may have to explain when and how customer data affects prices. The post FTC puts personalized pricing practices on notice appeared first on MarTech .
-
-→ [https://martech.org/ftc-puts-personalized-pricing-practices-on-notice/](https://martech.org/ftc-puts-personalized-pricing-practices-on-notice/)
-
-### AI is changing media faster than marketers can measure it
-_Fri, 11 Sep 2026 12:20:00 +0000_
-
-IAB finds advertisers spending more and adapting to AI-driven discovery, but their ability to measure those new customer journeys is lagging. The post AI is changing media faster than marketers can measure it appeared first on MarTech .
-
-→ [https://martech.org/ai-is-changing-media-faster-than-marketers-can-measure-it/](https://martech.org/ai-is-changing-media-faster-than-marketers-can-measure-it/)
-
-### AI can scale your promises faster than you can build trust
-_Fri, 11 Sep 2026 12:13:00 +0000_
-
-Your AI strategy shouldn’t be judged by how much marketing it produces. Look at whether it makes the next customer interaction easier to earn. The post AI can scale your promises faster than you can build trust appeared first on MarTech .
-
-→ [https://martech.org/ai-can-scale-your-promises-faster-than-you-can-build-trust/](https://martech.org/ai-can-scale-your-promises-faster-than-you-can-build-trust/)
-
-### The real AI decision every CMO is making this quarter
-_Fri, 11 Sep 2026 12:10:00 +0000_
-
-AI is making common marketing capabilities easier to buy. The harder question is which company-specific workflows are worth owning. The post The real AI decision every CMO is making this quarter appeared first on MarTech .
-
-→ [https://martech.org/the-real-ai-decision-every-cmo-is-making-this-quarter/](https://martech.org/the-real-ai-decision-every-cmo-is-making-this-quarter/)
 
 ---
