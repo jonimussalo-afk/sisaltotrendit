@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-15 08:27 UTC_
+_Päivitetty: 2026-09-16 08:21 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Google esitteli uusia mainonnan trendejä: tekoäly muuttaa mainonnan, hakemisen
 
 ## HubSpot Marketing Blog
 
+### Enterprise email marketing shortfalls and the upmarket features to avoid them
+_Tue, 15 Sep 2026 12:00:02 GMT_
+
+Most email marketing teams know the basics. Authenticate your domain. Clean your list. Write a compelling subject line—test before you send.
+
+→ [https://blog.hubspot.com/marketing/advanced-email-marketing-challenges](https://blog.hubspot.com/marketing/advanced-email-marketing-challenges)
+
 ### AI search tools marketers should know in 2026
 _Thu, 10 Sep 2026 12:00:03 GMT_
 
@@ -79,13 +86,6 @@ _Thu, 03 Sep 2026 21:15:00 GMT_
 G2’s 2026 Answer Economy research found that 51% of B2B software buyers start their research with an AI chatbot more often than Google. That shift means marketing teams need to track not only traditional search performance but also how AI assistants and answer engines mention, cite, and recommend brands.
 
 → [https://blog.hubspot.com/marketing/ahrefs-brand-radar-alternatives](https://blog.hubspot.com/marketing/ahrefs-brand-radar-alternatives)
-
-### What high-citation brands do differently in AI search: The 2026 AEO playbook
-_Wed, 02 Sep 2026 12:00:02 GMT_
-
-Answer engine optimization is disrupting search as we know it. What once was predictable — add a keyword, focus on high-quality backlinks, increase your domain rating — has become a new game that doesn’t play by the same rules.
-
-→ [https://blog.hubspot.com/marketing/brands-with-high-ai-search-citations](https://blog.hubspot.com/marketing/brands-with-high-ai-search-citations)
 
 ---
 
@@ -130,78 +130,78 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Marketers are using AI search concerns to argue for higher media budgets
-_Tue, 15 Sep 2026 04:01:00 +0000_
+### Future of TV Briefing: Every major streaming subscription price increase since 2019
+_Wed, 16 Sep 2026 04:01:00 +0000_
 
-Brands with long consideration journeys, like insurance and cars, are paying close attention to shifting search behaviors. They're using that concern to make their case for more media dollars.
+This week’s Future of TV Briefing features charts breaking down every monthly subscription price change since 2019 across ad-free and ad-supported tiers for nine major streaming services.
 
-→ [https://digiday.com/media-buying/marketers-are-using-ai-search-concerns-to-argue-for-higher-media-budgets/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/marketers-are-using-ai-search-concerns-to-argue-for-higher-media-budgets/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/future-of-tv/future-of-tv-briefing-every-major-streaming-subscription-price-increase-since-2019/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-every-major-streaming-subscription-price-increase-since-2019/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### In Graphic Detail: Inside the scramble to measure a brand’s AI visibility
-_Tue, 15 Sep 2026 04:01:00 +0000_
+### Perplexity is betting big on creators
+_Wed, 16 Sep 2026 04:01:00 +0000_
 
-Marketers are catching on that AI doesn’t rank their brands, it decides whether it gets brought up at all. That shift is already reshaping how the industry works.
+AI companies face a tricky sell: to convince creators to advocate for a technology that many fear could threaten livelihoods.
 
-→ [https://digiday.com/marketing/in-graphic-detail-inside-the-scramble-to-measure-a-brands-ai-visibility/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/in-graphic-detail-inside-the-scramble-to-measure-a-brands-ai-visibility/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/perplexity-is-betting-big-on-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/perplexity-is-betting-big-on-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Kroger’s ad business sees most profit growth since 2021
-_Tue, 15 Sep 2026 04:01:00 +0000_
+### ‘It’s hard to be a $7 billion company’: The investment banker’s diagnosis for ad tech’s public woes
+_Wed, 16 Sep 2026 04:01:00 +0000_
 
-Profit for the Kroger Precision Marketing advertising business grew 24% in the second quarter, according to Kroger’s latest financial earnings release.
+Public ad tech is disappearing and an investment banker just explained why.
 
-→ [https://digiday.com/media/krogers-ad-business-sees-most-profit-growth-since-2021/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/krogers-ad-business-sees-most-profit-growth-since-2021/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/its-hard-to-be-a-7-billion-company-the-investment-bankers-diagnosis-for-ad-techs-public-woes/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/its-hard-to-be-a-7-billion-company-the-investment-bankers-diagnosis-for-ad-techs-public-woes/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Electronic Arts is bundling its games to make a bigger pitch to advertisers
-_Tue, 15 Sep 2026 04:01:00 +0000_
+### IAB Creator Upfront: Why a half-built infrastructure is holding back CFO buy-in
+_Wed, 16 Sep 2026 04:01:00 +0000_
 
-The gaming company is betting that giving brands access to multiple franchises in one buy will help it win bigger advertising budgets.
+IAB's inaugural Creatorfronts sought to smooth-over some creator economy bumps to help get more CFOs on board.
 
-→ [https://digiday.com/marketing/electronic-arts-is-bundling-its-games-to-make-a-bigger-pitch-to-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/electronic-arts-is-bundling-its-games-to-make-a-bigger-pitch-to-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/iab-creator-upfront-why-a-half-built-infrastructure-is-holding-back-cfo-buy-in/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/iab-creator-upfront-why-a-half-built-infrastructure-is-holding-back-cfo-buy-in/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### As more surfaces become ad inventory, the economics get complicated
-_Tue, 15 Sep 2026 04:01:00 +0000_
+### How Reuters’ dynamic paywall is boosting subscriptions and ads
+_Wed, 16 Sep 2026 04:01:00 +0000_
 
-Ads now invade fridges, dashboards and AI search, testing consumers’ tolerance and the value exchange.
+Reuters’ dynamic paywall is helping the publisher grow subscriptions while strengthening (rather than cannibalizing) its ads business.
 
-→ [https://digiday.com/podcasts/as-more-surfaces-become-ad-inventory-the-economics-get-complicated/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/as-more-surfaces-become-ad-inventory-the-economics-get-complicated/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/how-reuters-dynamic-paywall-is-boosting-subscriptions-and-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-reuters-dynamic-paywall-is-boosting-subscriptions-and-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
 
-### The AI performance shake-up: What’s really driving results across channels now
-_Mon, 14 Sep 2026 13:35:51 +0000_
+### Salesforce bets CRM experience can give its AI an edge
+_Tue, 15 Sep 2026 15:08:48 +0000_
 
-When algorithms hide your campaign levers, tracking true impact gets tricky. At the MarTech Conference, we discussed how to regain visibility and drive growth. The post The AI performance shake-up: What’s really driving results across channels now appeared first on MarTech .
+Koa puts decades of Salesforce’s CRM knowledge into a reasoning model built to handle the operational work behind customer interactions. The post Salesforce bets CRM experience can give its AI an edge appeared first on MarTech .
 
-→ [https://martech.org/the-ai-performance-shake-up-whats-really-driving-results-across-channels-now/](https://martech.org/the-ai-performance-shake-up-whats-really-driving-results-across-channels-now/)
+→ [https://martech.org/salesforce-bets-crm-experience-can-give-its-ai-an-edge/](https://martech.org/salesforce-bets-crm-experience-can-give-its-ai-an-edge/)
 
-### Who owns your AI agents after they launch?
-_Mon, 14 Sep 2026 12:49:00 +0000_
+### The next martech strategy starts with the operating environment
+_Tue, 15 Sep 2026 12:49:00 +0000_
 
-AI agent ownership often falls between teams. Here’s how to assign responsibility for maintenance, oversight, and retirement. The post Who owns your AI agents after they launch? appeared first on MarTech .
+The people who “just know how things work” have been the hidden infrastructure of martech. AI is making that impossible to ignore. The post The next martech strategy starts with the operating environment appeared first on MarTech .
 
-→ [https://martech.org/who-owns-your-ai-agents-after-they-launch/](https://martech.org/who-owns-your-ai-agents-after-they-launch/)
+→ [https://martech.org/the-next-martech-strategy-starts-with-the-operating-environment/](https://martech.org/the-next-martech-strategy-starts-with-the-operating-environment/)
 
-### The ultimate battle for your digital storefront
-_Mon, 14 Sep 2026 12:13:00 +0000_
+### ChatGPT Ads are a tactical bet, not a platform strategy
+_Tue, 15 Sep 2026 12:08:00 +0000_
 
-AI search engines are rewriting the rules of retail. Here is how to keep your brand visible when algorithms replace human shoppers. The post The ultimate battle for your digital storefront appeared first on MarTech .
+Marketers have a short-term opportunity to test inexpensive inventory while keeping most of their resources on Google. The post ChatGPT Ads are a tactical bet, not a platform strategy appeared first on MarTech .
 
-→ [https://martech.org/the-ultimate-battle-for-your-digital-storefront/](https://martech.org/the-ultimate-battle-for-your-digital-storefront/)
+→ [https://martech.org/chatgpt-ads-are-a-tactical-bet-not-a-platform-strategy/](https://martech.org/chatgpt-ads-are-a-tactical-bet-not-a-platform-strategy/)
 
-### AI exposes what your brand guidelines leave unsaid
-_Mon, 14 Sep 2026 11:58:00 +0000_
+### Why marketing keeps redrawing its org chart
+_Tue, 15 Sep 2026 12:03:00 +0000_
 
-Brand teams have always relied on people to interpret vague guidelines. AI turns those hidden assumptions into a problem that can scale fast. The post AI exposes what your brand guidelines leave unsaid appeared first on MarTech .
+Every marketing org structure solves a different problem. The challenge is knowing when your current model has stopped solving yours. The post Why marketing keeps redrawing its org chart appeared first on MarTech .
 
-→ [https://martech.org/ai-exposes-what-your-brand-guidelines-leave-unsaid/](https://martech.org/ai-exposes-what-your-brand-guidelines-leave-unsaid/)
+→ [https://martech.org/why-marketing-keeps-redrawing-its-org-chart/](https://martech.org/why-marketing-keeps-redrawing-its-org-chart/)
 
-### Lost in translation: Why content and data teams can’t speak the same language
-_Fri, 11 Sep 2026 14:27:40 +0000_
+### 3 ways to make AI safer in a live ad account by Optmyzr
+_Tue, 15 Sep 2026 11:00:00 +0000_
 
-At the September MarTech Conference, we discussed how content and data teams can align signals, build shared context, and drive outcomes. The post Lost in translation: Why content and data teams can’t speak the same language appeared first on MarTech .
+Automation layering techniques can be deployed to successfully make AI-driven PPC safer. The post 3 ways to make AI safer in a live ad account appeared first on MarTech .
 
-→ [https://martech.org/lost-in-translation-why-content-and-data-teams-cant-speak-the-same-language/](https://martech.org/lost-in-translation-why-content-and-data-teams-cant-speak-the-same-language/)
+→ [https://martech.org/3-ways-to-make-ai-safer-in-a-live-ad-account/](https://martech.org/3-ways-to-make-ai-safer-in-a-live-ad-account/)
 
 ---
