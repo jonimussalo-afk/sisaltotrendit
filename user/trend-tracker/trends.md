@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-16 08:21 UTC_
+_Päivitetty: 2026-09-17 08:27 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Google esitteli uusia mainonnan trendejä: tekoäly muuttaa mainonnan, hakemisen
 
 ## HubSpot Marketing Blog
 
+### Inside the creator economy’s AI reckoning
+_Wed, 16 Sep 2026 12:00:03 GMT_
+
+&nbsp; Few phenomena within the creator economy have moved as fast as AI’s embrace. What was once treated with anxious suspicion is now more widely viewed as a necessary strategy.
+
+→ [https://blog.hubspot.com/marketing/creator-economy-ai-reckoning](https://blog.hubspot.com/marketing/creator-economy-ai-reckoning)
+
 ### Enterprise email marketing shortfalls and the upmarket features to avoid them
 _Tue, 15 Sep 2026 12:00:02 GMT_
 
@@ -79,13 +86,6 @@ _Tue, 08 Sep 2026 12:00:03 GMT_
 How much does AEO cost? The short answer is roughly $30 a month for a monitoring tool you run yourself to over $15,000 a month for a full-service agency program that handles everything for you — with a wide middle in between.
 
 → [https://blog.hubspot.com/marketing/how-much-does-aeo-cost](https://blog.hubspot.com/marketing/how-much-does-aeo-cost)
-
-### Ahrefs Brand Radar alternatives for marketing teams
-_Thu, 03 Sep 2026 21:15:00 GMT_
-
-G2’s 2026 Answer Economy research found that 51% of B2B software buyers start their research with an AI chatbot more often than Google. That shift means marketing teams need to track not only traditional search performance but also how AI assistants and answer engines mention, cite, and recommend brands.
-
-→ [https://blog.hubspot.com/marketing/ahrefs-brand-radar-alternatives](https://blog.hubspot.com/marketing/ahrefs-brand-radar-alternatives)
 
 ---
 
@@ -130,78 +130,78 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Future of TV Briefing: Every major streaming subscription price increase since 2019
-_Wed, 16 Sep 2026 04:01:00 +0000_
+### Should brands swerve, or steer as F1’s U.S. viewership slows?
+_Thu, 17 Sep 2026 04:01:00 +0000_
 
-This week’s Future of TV Briefing features charts breaking down every monthly subscription price change since 2019 across ad-free and ad-supported tiers for nine major streaming services.
+Formula One is spending to re-engage fans for the seasons’ second half. With viewership figures under question, should brands seeking to share its growth story worry?
 
-→ [https://digiday.com/future-of-tv/future-of-tv-briefing-every-major-streaming-subscription-price-increase-since-2019/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-every-major-streaming-subscription-price-increase-since-2019/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/should-brands-swerve-or-steer-as-f1s-u-s-viewership-slows/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/should-brands-swerve-or-steer-as-f1s-u-s-viewership-slows/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Perplexity is betting big on creators
-_Wed, 16 Sep 2026 04:01:00 +0000_
+### Nearly all luxury resale transactions on TikTok Shop US now come from livestreams
+_Thu, 17 Sep 2026 04:01:00 +0000_
 
-AI companies face a tricky sell: to convince creators to advocate for a technology that many fear could threaten livelihoods.
+Year-to-date, 94% of revenue on TikTok Shop from luxury resale in the U.S. is coming from livestreaming, the platform revealed last week.
 
-→ [https://digiday.com/marketing/perplexity-is-betting-big-on-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/perplexity-is-betting-big-on-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/nearly-all-luxury-resale-transactions-on-tiktok-shop-us-now-come-from-livestreams/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/nearly-all-luxury-resale-transactions-on-tiktok-shop-us-now-come-from-livestreams/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### ‘It’s hard to be a $7 billion company’: The investment banker’s diagnosis for ad tech’s public woes
-_Wed, 16 Sep 2026 04:01:00 +0000_
+### Media Briefing: Overheard at the Digiday Publishing Summit, Sept. ‘26 ‘Google Zero’ edition
+_Thu, 17 Sep 2026 04:01:00 +0000_
 
-Public ad tech is disappearing and an investment banker just explained why.
+Publishers debate zero-click search, AI licensing contracts and AI visibility at the Digiday Publishing Summit town hall.
 
-→ [https://digiday.com/media/its-hard-to-be-a-7-billion-company-the-investment-bankers-diagnosis-for-ad-techs-public-woes/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/its-hard-to-be-a-7-billion-company-the-investment-bankers-diagnosis-for-ad-techs-public-woes/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/media-briefing-overheard-at-the-digiday-publishing-summit-sept-26-google-zero-edition/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-overheard-at-the-digiday-publishing-summit-sept-26-google-zero-edition/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### IAB Creator Upfront: Why a half-built infrastructure is holding back CFO buy-in
-_Wed, 16 Sep 2026 04:01:00 +0000_
+### Inside the complex anatomy of agency AI bills
+_Thu, 17 Sep 2026 04:01:00 +0000_
 
-IAB's inaugural Creatorfronts sought to smooth-over some creator economy bumps to help get more CFOs on board.
+From AI subscriptions to metered token usage, agencies are grappling with a more complicated cost structure and who pays.
 
-→ [https://digiday.com/media/iab-creator-upfront-why-a-half-built-infrastructure-is-holding-back-cfo-buy-in/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/iab-creator-upfront-why-a-half-built-infrastructure-is-holding-back-cfo-buy-in/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/inside-the-complex-anatomy-of-agency-ai-bills/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/inside-the-complex-anatomy-of-agency-ai-bills/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### How Reuters’ dynamic paywall is boosting subscriptions and ads
-_Wed, 16 Sep 2026 04:01:00 +0000_
+### Why WPP isn’t the biggest casualty in the PepsiCo-Coca-Cola-Publicis shuffle
+_Thu, 17 Sep 2026 04:01:00 +0000_
 
-Reuters’ dynamic paywall is helping the publisher grow subscriptions while strengthening (rather than cannibalizing) its ads business.
+The PepsiCo-Publicis-Coke shuffle left WPP looking like the loser. It’s more complicated than that.
 
-→ [https://digiday.com/media/how-reuters-dynamic-paywall-is-boosting-subscriptions-and-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-reuters-dynamic-paywall-is-boosting-subscriptions-and-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/why-wpp-isnt-the-biggest-casualty-in-the-pepsico-coca-cola-publicis-shuffle/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/why-wpp-isnt-the-biggest-casualty-in-the-pepsico-coca-cola-publicis-shuffle/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
 
-### Salesforce bets CRM experience can give its AI an edge
-_Tue, 15 Sep 2026 15:08:48 +0000_
+### HubSpot rebuilds its platform around AI agents
+_Wed, 16 Sep 2026 14:26:59 +0000_
 
-Koa puts decades of Salesforce’s CRM knowledge into a reasoning model built to handle the operational work behind customer interactions. The post Salesforce bets CRM experience can give its AI an edge appeared first on MarTech .
+A redesigned Breeze Assistant coordinates AI agents while a self-updating CRM supplies the business and customer context they need. The post HubSpot rebuilds its platform around AI agents appeared first on MarTech .
 
-→ [https://martech.org/salesforce-bets-crm-experience-can-give-its-ai-an-edge/](https://martech.org/salesforce-bets-crm-experience-can-give-its-ai-an-edge/)
+→ [https://martech.org/hubspot-rebuilds-its-platform-around-ai-agents/](https://martech.org/hubspot-rebuilds-its-platform-around-ai-agents/)
 
-### The next martech strategy starts with the operating environment
-_Tue, 15 Sep 2026 12:49:00 +0000_
+### Does anyone understand the CDP market anymore?
+_Wed, 16 Sep 2026 13:13:26 +0000_
 
-The people who “just know how things work” have been the hidden infrastructure of martech. AI is making that impossible to ignore. The post The next martech strategy starts with the operating environment appeared first on MarTech .
+The CDP space re-invented itself in the past three years through AI agents and M&#038;A. BlueConic CEO Melissa Murray Bailey helps us sort it out. The post Does anyone understand the CDP market anymore? appeared first on MarTech .
 
-→ [https://martech.org/the-next-martech-strategy-starts-with-the-operating-environment/](https://martech.org/the-next-martech-strategy-starts-with-the-operating-environment/)
+→ [https://martech.org/does-anyone-understand-the-cdp-market-anymore/](https://martech.org/does-anyone-understand-the-cdp-market-anymore/)
 
-### ChatGPT Ads are a tactical bet, not a platform strategy
-_Tue, 15 Sep 2026 12:08:00 +0000_
+### The problem with AI doing exactly what you ask
+_Wed, 16 Sep 2026 13:03:16 +0000_
 
-Marketers have a short-term opportunity to test inexpensive inventory while keeping most of their resources on Google. The post ChatGPT Ads are a tactical bet, not a platform strategy appeared first on MarTech .
+AI agents don't need to go rogue to create problems. They can simply pursue a poorly defined objective with remarkable effectiveness. The post The problem with AI doing exactly what you ask appeared first on MarTech .
 
-→ [https://martech.org/chatgpt-ads-are-a-tactical-bet-not-a-platform-strategy/](https://martech.org/chatgpt-ads-are-a-tactical-bet-not-a-platform-strategy/)
+→ [https://martech.org/the-problem-with-ai-doing-exactly-what-you-ask/](https://martech.org/the-problem-with-ai-doing-exactly-what-you-ask/)
 
-### Why marketing keeps redrawing its org chart
-_Tue, 15 Sep 2026 12:03:00 +0000_
+### IAB Tech Lab proposes new rules for programmatic
+_Wed, 16 Sep 2026 13:02:00 +0000_
 
-Every marketing org structure solves a different problem. The challenge is knowing when your current model has stopped solving yours. The post Why marketing keeps redrawing its org chart appeared first on MarTech .
+The proposed practices aim to give buyers and sellers clearer rules for using existing standards and reducing friction in programmatic transactions. The post IAB Tech Lab proposes new rules for programmatic appeared first on MarTech .
 
-→ [https://martech.org/why-marketing-keeps-redrawing-its-org-chart/](https://martech.org/why-marketing-keeps-redrawing-its-org-chart/)
+→ [https://martech.org/iab-tech-lab-proposes-new-rules-for-programmatic/](https://martech.org/iab-tech-lab-proposes-new-rules-for-programmatic/)
 
-### 3 ways to make AI safer in a live ad account by Optmyzr
-_Tue, 15 Sep 2026 11:00:00 +0000_
+### Companies are measuring AI against the wrong goal
+_Wed, 16 Sep 2026 12:26:00 +0000_
 
-Automation layering techniques can be deployed to successfully make AI-driven PPC safer. The post 3 ways to make AI safer in a live ad account appeared first on MarTech .
+AI productivity gains won’t translate into growth unless companies connect their AI strategy to creating more value for customers. The post Companies are measuring AI against the wrong goal appeared first on MarTech .
 
-→ [https://martech.org/3-ways-to-make-ai-safer-in-a-live-ad-account/](https://martech.org/3-ways-to-make-ai-safer-in-a-live-ad-account/)
+→ [https://martech.org/companies-are-measuring-ai-against-the-wrong-goal/](https://martech.org/companies-are-measuring-ai-against-the-wrong-goal/)
 
 ---
