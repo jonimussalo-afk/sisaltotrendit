@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-17 08:27 UTC_
+_Päivitetty: 2026-09-18 08:02 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,44 +130,65 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Should brands swerve, or steer as F1’s U.S. viewership slows?
-_Thu, 17 Sep 2026 04:01:00 +0000_
+### Walmart adds marketplace data, deeper AI features to Scintilla insights platform
+_Fri, 18 Sep 2026 04:01:00 +0000_
 
-Formula One is spending to re-engage fans for the seasons’ second half. With viewership figures under question, should brands seeking to share its growth story worry?
+The upgrade includes access to marketplace data, customizable dashboards, custom alerts, a deeper version of its Marty agent and a closer link with the Scintilla data platform.
 
-→ [https://digiday.com/marketing/should-brands-swerve-or-steer-as-f1s-u-s-viewership-slows/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/should-brands-swerve-or-steer-as-f1s-u-s-viewership-slows/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/walmart-adds-marketplace-data-deeper-ai-features-to-scintilla-insights-platform/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/walmart-adds-marketplace-data-deeper-ai-features-to-scintilla-insights-platform/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Nearly all luxury resale transactions on TikTok Shop US now come from livestreams
-_Thu, 17 Sep 2026 04:01:00 +0000_
+### How women athletes are betting on the creator playbook
+_Fri, 18 Sep 2026 04:01:00 +0000_
 
-Year-to-date, 94% of revenue on TikTok Shop from luxury resale in the U.S. is coming from livestreaming, the platform revealed last week.
+Women athletes are increasingly leaning on content creation to build their brand, grow their sports' fandom, and help close salary gaps.
 
-→ [https://digiday.com/media/nearly-all-luxury-resale-transactions-on-tiktok-shop-us-now-come-from-livestreams/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/nearly-all-luxury-resale-transactions-on-tiktok-shop-us-now-come-from-livestreams/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/how-women-athletes-are-betting-on-the-creator-playbook/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-women-athletes-are-betting-on-the-creator-playbook/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Briefing: Overheard at the Digiday Publishing Summit, Sept. ‘26 ‘Google Zero’ edition
-_Thu, 17 Sep 2026 04:01:00 +0000_
+### Axios preps new Axios Direct feeds for AI models, agents as revenue tops 2026 goal
+_Fri, 18 Sep 2026 04:01:00 +0000_
 
-Publishers debate zero-click search, AI licensing contracts and AI visibility at the Digiday Publishing Summit town hall.
+Axios has reached its revenue goal for 2026. Now the news publisher is building a new revenue stream to keep up the pace in 2027 and beyond.
 
-→ [https://digiday.com/media/media-briefing-overheard-at-the-digiday-publishing-summit-sept-26-google-zero-edition/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-overheard-at-the-digiday-publishing-summit-sept-26-google-zero-edition/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/axios-preps-new-axios-direct-feeds-for-ai-models-agents-as-revenue-tops-2026-goal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/axios-preps-new-axios-direct-feeds-for-ai-models-agents-as-revenue-tops-2026-goal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Inside the complex anatomy of agency AI bills
-_Thu, 17 Sep 2026 04:01:00 +0000_
+### Who wins and loses from the remedies to Google’s ad tech monopoly
+_Fri, 18 Sep 2026 04:01:00 +0000_
 
-From AI subscriptions to metered token usage, agencies are grappling with a more complicated cost structure and who pays.
+Google avoided a breakup. Here's who actually benefits from what it got instead.
 
-→ [https://digiday.com/marketing/inside-the-complex-anatomy-of-agency-ai-bills/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/inside-the-complex-anatomy-of-agency-ai-bills/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/who-wins-and-loses-from-the-remedies-to-googles-ad-tech-monopoly/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/who-wins-and-loses-from-the-remedies-to-googles-ad-tech-monopoly/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Why WPP isn’t the biggest casualty in the PepsiCo-Coca-Cola-Publicis shuffle
-_Thu, 17 Sep 2026 04:01:00 +0000_
+### The state of subscriber engagement in the AI era: Publishers’ first-party relationship strategies
+_Thu, 17 Sep 2026 18:09:00 +0000_
 
-The PepsiCo-Publicis-Coke shuffle left WPP looking like the loser. It’s more complicated than that.
+This State of the Industry report, sponsored by Braze, explores how publishers are adapting their subscription, engagement and revenue strategies as AI reshapes how audiences discover and consume content. Shifts in AI-driven search behavior are forcing publishers to rethink one of the foundations of their digital businesses: how they turn audience…
 
-→ [https://digiday.com/media-buying/why-wpp-isnt-the-biggest-casualty-in-the-pepsico-coca-cola-publicis-shuffle/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/why-wpp-isnt-the-biggest-casualty-in-the-pepsico-coca-cola-publicis-shuffle/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/sponsored/the-state-of-subscriber-engagement-in-the-ai-era-publishers-first-party-relationship-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/the-state-of-subscriber-engagement-in-the-ai-era-publishers-first-party-relationship-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### The latest AI-powered martech news and releases
+_Thu, 17 Sep 2026 12:45:00 +0000_
+
+Adobe is expanding free AI and digital skills training worldwide, giving millions of students, teachers, and marketers tools for the AI era. The post The latest AI-powered martech news and releases appeared first on MarTech .
+
+→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
+
+### What happens to martech when the CMO disappears?
+_Thu, 17 Sep 2026 12:11:00 +0000_
+
+Fewer Fortune 500 companies have CMOs, but marketing isn't going away. Its broader mandate is changing what martech needs to deliver. The post What happens to martech when the CMO disappears? appeared first on MarTech .
+
+→ [https://martech.org/what-happens-to-martech-when-the-cmo-disappears/](https://martech.org/what-happens-to-martech-when-the-cmo-disappears/)
+
+### Why you need to know the ‘nones’ of your business
+_Thu, 17 Sep 2026 12:04:00 +0000_
+
+As unattributed customers pile up, marketers need to stop treating them as noise and start figuring out what brought them there. The post Why you need to know the &#8216;nones&#8217; of your business appeared first on MarTech .
+
+→ [https://martech.org/why-you-need-to-know-the-nones-of-your-business/](https://martech.org/why-you-need-to-know-the-nones-of-your-business/)
 
 ### HubSpot rebuilds its platform around AI agents
 _Wed, 16 Sep 2026 14:26:59 +0000_
@@ -182,26 +203,5 @@ _Wed, 16 Sep 2026 13:13:26 +0000_
 The CDP space re-invented itself in the past three years through AI agents and M&#038;A. BlueConic CEO Melissa Murray Bailey helps us sort it out. The post Does anyone understand the CDP market anymore? appeared first on MarTech .
 
 → [https://martech.org/does-anyone-understand-the-cdp-market-anymore/](https://martech.org/does-anyone-understand-the-cdp-market-anymore/)
-
-### The problem with AI doing exactly what you ask
-_Wed, 16 Sep 2026 13:03:16 +0000_
-
-AI agents don't need to go rogue to create problems. They can simply pursue a poorly defined objective with remarkable effectiveness. The post The problem with AI doing exactly what you ask appeared first on MarTech .
-
-→ [https://martech.org/the-problem-with-ai-doing-exactly-what-you-ask/](https://martech.org/the-problem-with-ai-doing-exactly-what-you-ask/)
-
-### IAB Tech Lab proposes new rules for programmatic
-_Wed, 16 Sep 2026 13:02:00 +0000_
-
-The proposed practices aim to give buyers and sellers clearer rules for using existing standards and reducing friction in programmatic transactions. The post IAB Tech Lab proposes new rules for programmatic appeared first on MarTech .
-
-→ [https://martech.org/iab-tech-lab-proposes-new-rules-for-programmatic/](https://martech.org/iab-tech-lab-proposes-new-rules-for-programmatic/)
-
-### Companies are measuring AI against the wrong goal
-_Wed, 16 Sep 2026 12:26:00 +0000_
-
-AI productivity gains won’t translate into growth unless companies connect their AI strategy to creating more value for customers. The post Companies are measuring AI against the wrong goal appeared first on MarTech .
-
-→ [https://martech.org/companies-are-measuring-ai-against-the-wrong-goal/](https://martech.org/companies-are-measuring-ai-against-the-wrong-goal/)
 
 ---
