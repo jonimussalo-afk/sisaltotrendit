@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-18 08:02 UTC_
+_Päivitetty: 2026-09-19 07:52 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -10,6 +10,13 @@ _Päivitetty: 2026-09-18 08:02 UTC_
 # 🇫🇮 Kotimaiset lähteet
 
 ## Digimarkkinointi.fi
+
+### Datastrategia ratkaisee AI:n aikakaudella: onko yrityksesi data kasvun mahdollistaja vai este?
+_Fri, 18 Sep 2026 12:42:09 +0000_
+
+The post Datastrategia ratkaisee AI:n aikakaudella: onko yrityksesi data kasvun mahdollistaja vai este? appeared first on SDM Digital .
+
+→ [https://sdm.fi/blogi/digimarkkinoinnin-datastrategia/](https://sdm.fi/blogi/digimarkkinoinnin-datastrategia/)
 
 ### Sama budjetti, 40 % enemmän huomiota: kokemuksia Adnamin tekoälyoptimoijasta
 _Tue, 25 Aug 2026 11:38:12 +0000_
@@ -38,13 +45,6 @@ _Mon, 29 Jun 2026 11:03:27 +0000_
 Saavuttamaton sisältö ei vain syrji käyttäjiä, vaan se heikentää tuloksia koko ostopolulla. The post Saavutettavuus sosiaalisessa mediassa: kuinka sitä voi toteuttaa ja miksi se on tärkeää? appeared first on SDM Digital .
 
 → [https://sdm.fi/blogi/saavutettavuus-sosiaalisessa-mediassa/](https://sdm.fi/blogi/saavutettavuus-sosiaalisessa-mediassa/)
-
-### Google Marketing Live 2026: Tekoäly mullistaa Google Ads -mainonnan – mitä se tarkoittaa markkinoijalle?
-_Fri, 26 Jun 2026 11:50:21 +0000_
-
-Google esitteli uusia mainonnan trendejä: tekoäly muuttaa mainonnan, hakemisen ja ostamisen ennennäkemättömällä tavalla. The post Google Marketing Live 2026: Tekoäly mullistaa Google Ads -mainonnan – mitä se tarkoittaa markkinoijalle? appeared first on SDM Digital .
-
-→ [https://sdm.fi/blogi/google-marketing-live-2026-tekoaly-mullistaa-google-mainonnan/](https://sdm.fi/blogi/google-marketing-live-2026-tekoaly-mullistaa-google-mainonnan/)
 
 ---
 
@@ -158,16 +158,44 @@ Google avoided a breakup. Here's who actually benefits from what it got instead.
 
 → [https://digiday.com/media-buying/who-wins-and-loses-from-the-remedies-to-googles-ad-tech-monopoly/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/who-wins-and-loses-from-the-remedies-to-googles-ad-tech-monopoly/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### The state of subscriber engagement in the AI era: Publishers’ first-party relationship strategies
-_Thu, 17 Sep 2026 18:09:00 +0000_
+### Future of Marketing Briefing: Creators are learning to pitch AEO, not just audiences
+_Fri, 18 Sep 2026 04:01:00 +0000_
 
-This State of the Industry report, sponsored by Braze, explores how publishers are adapting their subscription, engagement and revenue strategies as AI reshapes how audiences discover and consume content. Shifts in AI-driven search behavior are forcing publishers to rethink one of the foundations of their digital businesses: how they turn audience…
+The next line in a creator’s pitch: I got cited
 
-→ [https://digiday.com/sponsored/the-state-of-subscriber-engagement-in-the-ai-era-publishers-first-party-relationship-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/the-state-of-subscriber-engagement-in-the-ai-era-publishers-first-party-relationship-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/future-of-marketing-briefing-creators-are-learning-to-pitch-aeo-not-just-audiences/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-creators-are-learning-to-pitch-aeo-not-just-audiences/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### How to evaluate composable versus packaged CDP
+_Fri, 18 Sep 2026 17:46:00 +0000_
+
+Evaluating data warehouse readiness, engineering capacity, and real-time execution speeds determines optimal CDP architecture. The post How to evaluate composable versus packaged CDP appeared first on MarTech .
+
+→ [https://martech.org/how-to-evaluate-composable-versus-packaged-cdp/](https://martech.org/how-to-evaluate-composable-versus-packaged-cdp/)
+
+### AI is telling consumers not to buy your product
+_Fri, 18 Sep 2026 14:33:30 +0000_
+
+Nearly 81% of consumers who use chatbots for online shopping have decided against a purchase based on AI guidance. The post AI is telling consumers not to buy your product appeared first on MarTech .
+
+→ [https://martech.org/ai-is-telling-consumers-not-to-buy-your-product/](https://martech.org/ai-is-telling-consumers-not-to-buy-your-product/)
+
+### Faster AI can make slow marketing processes worse
+_Fri, 18 Sep 2026 12:03:00 +0000_
+
+AI doesn't fix broken workflows — it exposes them. Here's how to eliminate hidden bottlenecks and modernize your team’s operating model. The post Faster AI can make slow marketing processes worse appeared first on MarTech .
+
+→ [https://martech.org/faster-ai-can-make-slow-marketing-processes-worse/](https://martech.org/faster-ai-can-make-slow-marketing-processes-worse/)
+
+### Your marketing automation needs more context
+_Fri, 18 Sep 2026 12:00:00 +0000_
+
+When marketing automation forgets recent buyer activity, messaging falls flat. Here's how to give your workflows context and build smarter customer journeys. The post Your marketing automation needs more context appeared first on MarTech .
+
+→ [https://martech.org/your-marketing-automation-needs-more-context/](https://martech.org/your-marketing-automation-needs-more-context/)
 
 ### The latest AI-powered martech news and releases
 _Thu, 17 Sep 2026 12:45:00 +0000_
@@ -175,33 +203,5 @@ _Thu, 17 Sep 2026 12:45:00 +0000_
 Adobe is expanding free AI and digital skills training worldwide, giving millions of students, teachers, and marketers tools for the AI era. The post The latest AI-powered martech news and releases appeared first on MarTech .
 
 → [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
-
-### What happens to martech when the CMO disappears?
-_Thu, 17 Sep 2026 12:11:00 +0000_
-
-Fewer Fortune 500 companies have CMOs, but marketing isn't going away. Its broader mandate is changing what martech needs to deliver. The post What happens to martech when the CMO disappears? appeared first on MarTech .
-
-→ [https://martech.org/what-happens-to-martech-when-the-cmo-disappears/](https://martech.org/what-happens-to-martech-when-the-cmo-disappears/)
-
-### Why you need to know the ‘nones’ of your business
-_Thu, 17 Sep 2026 12:04:00 +0000_
-
-As unattributed customers pile up, marketers need to stop treating them as noise and start figuring out what brought them there. The post Why you need to know the &#8216;nones&#8217; of your business appeared first on MarTech .
-
-→ [https://martech.org/why-you-need-to-know-the-nones-of-your-business/](https://martech.org/why-you-need-to-know-the-nones-of-your-business/)
-
-### HubSpot rebuilds its platform around AI agents
-_Wed, 16 Sep 2026 14:26:59 +0000_
-
-A redesigned Breeze Assistant coordinates AI agents while a self-updating CRM supplies the business and customer context they need. The post HubSpot rebuilds its platform around AI agents appeared first on MarTech .
-
-→ [https://martech.org/hubspot-rebuilds-its-platform-around-ai-agents/](https://martech.org/hubspot-rebuilds-its-platform-around-ai-agents/)
-
-### Does anyone understand the CDP market anymore?
-_Wed, 16 Sep 2026 13:13:26 +0000_
-
-The CDP space re-invented itself in the past three years through AI agents and M&#038;A. BlueConic CEO Melissa Murray Bailey helps us sort it out. The post Does anyone understand the CDP market anymore? appeared first on MarTech .
-
-→ [https://martech.org/does-anyone-understand-the-cdp-market-anymore/](https://martech.org/does-anyone-understand-the-cdp-market-anymore/)
 
 ---
