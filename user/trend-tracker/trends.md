@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-20 08:22 UTC_
+_Päivitetty: 2026-09-21 08:40 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,40 +130,40 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Walmart adds marketplace data, deeper AI features to Scintilla insights platform
-_Fri, 18 Sep 2026 04:01:00 +0000_
+### Can adland realistically reduce its reliance on Google’s vertically integrated ad stack?
+_Mon, 21 Sep 2026 04:01:00 +0000_
 
-The upgrade includes access to marketplace data, customizable dashboards, custom alerts, a deeper version of its Marty agent and a closer link with the Scintilla data platform.
+The court has ordered Google to open up its ad tech stack, but can interoperability alone can loosen its grip on the market.
 
-→ [https://digiday.com/media/walmart-adds-marketplace-data-deeper-ai-features-to-scintilla-insights-platform/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/walmart-adds-marketplace-data-deeper-ai-features-to-scintilla-insights-platform/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/can-adland-realistically-reduce-its-reliance-on-googles-vertically-integrated-ad-stack/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/can-adland-realistically-reduce-its-reliance-on-googles-vertically-integrated-ad-stack/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### How women athletes are betting on the creator playbook
-_Fri, 18 Sep 2026 04:01:00 +0000_
+### Media Buying Briefing: Handicapping the fight to win over Coca-Cola’s North American media
+_Mon, 21 Sep 2026 04:01:00 +0000_
 
-Women athletes are increasingly leaning on content creation to build their brand, grow their sports' fandom, and help close salary gaps.
+WPP seems to be in the catbird seat to hold onto Coca-Cola's global media business. But will Omnicom or Dentsu win North American media?
 
-→ [https://digiday.com/media/how-women-athletes-are-betting-on-the-creator-playbook/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-women-athletes-are-betting-on-the-creator-playbook/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/media-buying-briefing-handicapping-the-fight-to-win-over-coca-colas-north-american-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-handicapping-the-fight-to-win-over-coca-colas-north-american-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Axios preps new Axios Direct feeds for AI models, agents as revenue tops 2026 goal
-_Fri, 18 Sep 2026 04:01:00 +0000_
+### The case for and against retail media networks as brand-building channels
+_Mon, 21 Sep 2026 04:01:00 +0000_
 
-Axios has reached its revenue goal for 2026. Now the news publisher is building a new revenue stream to keep up the pace in 2027 and beyond.
+Retail media networks pitch brand-building on shopper data, but ROI metrics, costs and budget fights hold them back.
 
-→ [https://digiday.com/media/axios-preps-new-axios-direct-feeds-for-ai-models-agents-as-revenue-tops-2026-goal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/axios-preps-new-axios-direct-feeds-for-ai-models-agents-as-revenue-tops-2026-goal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/the-case-for-and-against-retail-media-networks-as-brand-building-channels/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/the-case-for-and-against-retail-media-networks-as-brand-building-channels/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Who wins and loses from the remedies to Google’s ad tech monopoly
-_Fri, 18 Sep 2026 04:01:00 +0000_
+### Paywall violation ‘eviscerates’ fair use defense: What OpenAI-NYT twist means for publishers
+_Mon, 21 Sep 2026 04:01:00 +0000_
 
-Google avoided a breakup. Here's who actually benefits from what it got instead.
+For publishers, the newly unsealed material doesn't just bolster their legal case; it validates years of frustration over how their work has been treated.
 
-→ [https://digiday.com/media-buying/who-wins-and-loses-from-the-remedies-to-googles-ad-tech-monopoly/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/who-wins-and-loses-from-the-remedies-to-googles-ad-tech-monopoly/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/paywall-violation-eviscerates-fair-use-defense-what-openai-nyt-twist-means-for-publishers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/paywall-violation-eviscerates-fair-use-defense-what-openai-nyt-twist-means-for-publishers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Future of Marketing Briefing: Creators are learning to pitch AEO, not just audiences
-_Fri, 18 Sep 2026 04:01:00 +0000_
+### Pinterest unveils new suite of ad tools, including Visual Search Ads, in its pitch to brands
+_Mon, 21 Sep 2026 04:01:00 +0000_
 
-The next line in a creator’s pitch: I got cited
+For brands, Pinterest executives said, the opportunity is huge. Pinterest’s user base is growing and, importantly for many companies, young.
 
-→ [https://digiday.com/marketing/future-of-marketing-briefing-creators-are-learning-to-pitch-aeo-not-just-audiences/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-creators-are-learning-to-pitch-aeo-not-just-audiences/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/pinterest-unveils-new-suite-of-ad-tools-including-visual-search-ads-in-its-pitch-to-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/pinterest-unveils-new-suite-of-ad-tools-including-visual-search-ads-in-its-pitch-to-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
