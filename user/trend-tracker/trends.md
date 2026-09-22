@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-21 08:40 UTC_
+_Päivitetty: 2026-09-22 08:19 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Saavuttamaton sisältö ei vain syrji käyttäjiä, vaan se heikentää tuloksia
 
 ## HubSpot Marketing Blog
 
+### The psychology behind why AI shows it's working
+_Mon, 21 Sep 2026 12:00:03 GMT_
+
+In 2025, most of the major answer engines made an almost identical update. Claude, ChatGPT, Gemini, and many others started to show what they were thinking.
+
+→ [https://blog.hubspot.com/marketing/why-ai-shows-loadtime](https://blog.hubspot.com/marketing/why-ai-shows-loadtime)
+
 ### Inside the creator economy’s AI reckoning
 _Wed, 16 Sep 2026 12:00:03 GMT_
 
@@ -79,13 +86,6 @@ _Wed, 09 Sep 2026 12:00:03 GMT_
 Learning how to optimize your website for AI search is one of the hottest skills for marketers right now, because the audience for these tools is growing fast. Monthly unique visitors to the major answer engines climbed from 634 million in Q1 2025 to 904 million in Q1 2026, up more than 40% in a year, according to Wix Studio .
 
 → [https://blog.hubspot.com/marketing/optimize-website-ai-search](https://blog.hubspot.com/marketing/optimize-website-ai-search)
-
-### How much does AEO cost? Pricing by agency, tools, and software
-_Tue, 08 Sep 2026 12:00:03 GMT_
-
-How much does AEO cost? The short answer is roughly $30 a month for a monitoring tool you run yourself to over $15,000 a month for a full-service agency program that handles everything for you — with a wide middle in between.
-
-→ [https://blog.hubspot.com/marketing/how-much-does-aeo-cost](https://blog.hubspot.com/marketing/how-much-does-aeo-cost)
 
 ---
 
@@ -130,51 +130,65 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Can adland realistically reduce its reliance on Google’s vertically integrated ad stack?
-_Mon, 21 Sep 2026 04:01:00 +0000_
+### Some creators want to negotiate deals like TV networks
+_Tue, 22 Sep 2026 04:01:00 +0000_
 
-The court has ordered Google to open up its ad tech stack, but can interoperability alone can loosen its grip on the market.
+Creators have been brought onto traditional upfronts within the last year, but it's looking like they're ready for their own show.
 
-→ [https://digiday.com/media-buying/can-adland-realistically-reduce-its-reliance-on-googles-vertically-integrated-ad-stack/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/can-adland-realistically-reduce-its-reliance-on-googles-vertically-integrated-ad-stack/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/future-of-tv/some-creators-want-to-negotiate-deals-like-tv-networks/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/some-creators-want-to-negotiate-deals-like-tv-networks/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Buying Briefing: Handicapping the fight to win over Coca-Cola’s North American media
-_Mon, 21 Sep 2026 04:01:00 +0000_
+### Ad Tech Briefing: Google’s ad tech remedies arrive just as the platform battle moves to AI
+_Tue, 22 Sep 2026 04:01:00 +0000_
 
-WPP seems to be in the catbird seat to hold onto Coca-Cola's global media business. But will Omnicom or Dentsu win North American media?
+Regulators are prising open Google’s programmatic machinery just as AI, commerce and ad tech players race to control more of the advertising stack.
 
-→ [https://digiday.com/media-buying/media-buying-briefing-handicapping-the-fight-to-win-over-coca-colas-north-american-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-handicapping-the-fight-to-win-over-coca-colas-north-american-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/ad-tech-briefing-googles-ad-tech-remedies-arrive-just-as-the-platform-battle-moves-to-ai/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-googles-ad-tech-remedies-arrive-just-as-the-platform-battle-moves-to-ai/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### The case for and against retail media networks as brand-building channels
-_Mon, 21 Sep 2026 04:01:00 +0000_
+### How Semafor is redefining the head of video role
+_Tue, 22 Sep 2026 04:01:00 +0000_
 
-Retail media networks pitch brand-building on shopper data, but ROI metrics, costs and budget fights hold them back.
+As Semafor’s head of video, Adam Banicki sits at the intersection of the newsroom and the commercial team, reporting to the editor-in-chief with a dotted line to the revenue side.
 
-→ [https://digiday.com/marketing/the-case-for-and-against-retail-media-networks-as-brand-building-channels/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/the-case-for-and-against-retail-media-networks-as-brand-building-channels/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/how-semafor-is-redefining-the-head-of-video-role/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-semafor-is-redefining-the-head-of-video-role/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Paywall violation ‘eviscerates’ fair use defense: What OpenAI-NYT twist means for publishers
-_Mon, 21 Sep 2026 04:01:00 +0000_
+### Comscore data shows how AI discovery is splintering beyond ChatGPT
+_Tue, 22 Sep 2026 04:01:00 +0000_
 
-For publishers, the newly unsealed material doesn't just bolster their legal case; it validates years of frustration over how their work has been treated.
+Comscore data shows ChatGPT losing ground to Gemini and Claude as AI citations emerge as a key visibility metric for publishers and brands.
 
-→ [https://digiday.com/media/paywall-violation-eviscerates-fair-use-defense-what-openai-nyt-twist-means-for-publishers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/paywall-violation-eviscerates-fair-use-defense-what-openai-nyt-twist-means-for-publishers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/comscore-data-shows-how-ai-discovery-is-splintering-beyond-chatgpt/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/comscore-data-shows-how-ai-discovery-is-splintering-beyond-chatgpt/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Pinterest unveils new suite of ad tools, including Visual Search Ads, in its pitch to brands
-_Mon, 21 Sep 2026 04:01:00 +0000_
+### Some marketers see ‘no ceiling’ for beauty brands advertising in sports
+_Tue, 22 Sep 2026 04:01:00 +0000_
 
-For brands, Pinterest executives said, the opportunity is huge. Pinterest’s user base is growing and, importantly for many companies, young.
+By now, many in the beauty space have wised up to just how powerful a tool athletes and sports are for their brands.
 
-→ [https://digiday.com/marketing/pinterest-unveils-new-suite-of-ad-tools-including-visual-search-ads-in-its-pitch-to-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/pinterest-unveils-new-suite-of-ad-tools-including-visual-search-ads-in-its-pitch-to-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/some-marketers-see-no-ceiling-for-beauty-brands-advertising-in-sports/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/some-marketers-see-no-ceiling-for-beauty-brands-advertising-in-sports/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
 
-### How to evaluate composable versus packaged CDP
-_Fri, 18 Sep 2026 17:46:00 +0000_
+### Your site migration needs a paid search playbook
+_Mon, 21 Sep 2026 12:59:00 +0000_
 
-Evaluating data warehouse readiness, engineering capacity, and real-time execution speeds determines optimal CDP architecture. The post How to evaluate composable versus packaged CDP appeared first on MarTech .
+Google’s organic migration guidance is extensive. Paid search advertisers need clearer answers about what changes, resets, and recalibrates. The post Your site migration needs a paid search playbook appeared first on MarTech .
 
-→ [https://martech.org/how-to-evaluate-composable-versus-packaged-cdp/](https://martech.org/how-to-evaluate-composable-versus-packaged-cdp/)
+→ [https://martech.org/your-site-migration-needs-a-paid-search-playbook/](https://martech.org/your-site-migration-needs-a-paid-search-playbook/)
+
+### Building an AI governance framework for marketing
+_Mon, 21 Sep 2026 12:25:00 +0000_
+
+Establishing cross-functional oversight spanning legal, security, and ops mitigates copyright and privacy risks. The post Building an AI governance framework for marketing appeared first on MarTech .
+
+→ [https://martech.org/building-an-ai-governance-framework-for-marketing/](https://martech.org/building-an-ai-governance-framework-for-marketing/)
+
+### Do you really need so much marketing?
+_Mon, 21 Sep 2026 12:05:00 +0000_
+
+Every new asset creates more work downstream. Rethink review, approval, and testing before scaling AI output. The post Do you really need so much marketing? appeared first on MarTech .
+
+→ [https://martech.org/do-you-really-need-so-much-marketing/](https://martech.org/do-you-really-need-so-much-marketing/)
 
 ### AI is telling consumers not to buy your product
 _Fri, 18 Sep 2026 14:33:30 +0000_
@@ -189,19 +203,5 @@ _Fri, 18 Sep 2026 12:03:00 +0000_
 AI doesn't fix broken workflows — it exposes them. Here's how to eliminate hidden bottlenecks and modernize your team’s operating model. The post Faster AI can make slow marketing processes worse appeared first on MarTech .
 
 → [https://martech.org/faster-ai-can-make-slow-marketing-processes-worse/](https://martech.org/faster-ai-can-make-slow-marketing-processes-worse/)
-
-### Your marketing automation needs more context
-_Fri, 18 Sep 2026 12:00:00 +0000_
-
-When marketing automation forgets recent buyer activity, messaging falls flat. Here's how to give your workflows context and build smarter customer journeys. The post Your marketing automation needs more context appeared first on MarTech .
-
-→ [https://martech.org/your-marketing-automation-needs-more-context/](https://martech.org/your-marketing-automation-needs-more-context/)
-
-### The latest AI-powered martech news and releases
-_Thu, 17 Sep 2026 12:45:00 +0000_
-
-Adobe is expanding free AI and digital skills training worldwide, giving millions of students, teachers, and marketers tools for the AI era. The post The latest AI-powered martech news and releases appeared first on MarTech .
-
-→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
 
 ---
