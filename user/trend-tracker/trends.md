@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-22 08:19 UTC_
+_Päivitetty: 2026-09-23 08:21 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Saavuttamaton sisältö ei vain syrji käyttäjiä, vaan se heikentää tuloksia
 
 ## HubSpot Marketing Blog
 
+### Scrunch vs. Peec AI: Choosing the right AEO tool [2026]
+_Tue, 22 Sep 2026 16:30:04 GMT_
+
+This Scrunch vs. Peec AI comparison evaluates how both tools measure AI answer engine representation across different buyer segments, price points, and feature scopes.
+
+→ [https://blog.hubspot.com/marketing/scrunch-vs-peec-ai](https://blog.hubspot.com/marketing/scrunch-vs-peec-ai)
+
 ### The psychology behind why AI shows it's working
 _Mon, 21 Sep 2026 12:00:03 GMT_
 
@@ -79,13 +86,6 @@ _Thu, 10 Sep 2026 12:00:03 GMT_
 Something big just shifted in how people find answers online. More buyers are skipping the investigation and deliberation of clicking through blue links on Google, in favor of asking ChatGPT, Perplexity, and the like for one direct answer.
 
 → [https://blog.hubspot.com/marketing/best-ai-search-tools](https://blog.hubspot.com/marketing/best-ai-search-tools)
-
-### How to optimize your website for AI search
-_Wed, 09 Sep 2026 12:00:03 GMT_
-
-Learning how to optimize your website for AI search is one of the hottest skills for marketers right now, because the audience for these tools is growing fast. Monthly unique visitors to the major answer engines climbed from 634 million in Q1 2025 to 904 million in Q1 2026, up more than 40% in a year, according to Wix Studio .
-
-→ [https://blog.hubspot.com/marketing/optimize-website-ai-search](https://blog.hubspot.com/marketing/optimize-website-ai-search)
 
 ---
 
@@ -130,44 +130,65 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Some creators want to negotiate deals like TV networks
-_Tue, 22 Sep 2026 04:01:00 +0000_
+### In Graphic Detail: LLMs keep citing YouTube in search results
+_Wed, 23 Sep 2026 04:01:00 +0000_
 
-Creators have been brought onto traditional upfronts within the last year, but it's looking like they're ready for their own show.
+The videos getting cited reveal how different AI search can be from traditional Google search.
 
-→ [https://digiday.com/future-of-tv/some-creators-want-to-negotiate-deals-like-tv-networks/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/some-creators-want-to-negotiate-deals-like-tv-networks/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/in-graphic-detail-llms-keep-citing-youtube-in-search-results/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/in-graphic-detail-llms-keep-citing-youtube-in-search-results/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Ad Tech Briefing: Google’s ad tech remedies arrive just as the platform battle moves to AI
-_Tue, 22 Sep 2026 04:01:00 +0000_
+### Future of TV Briefing: Inside The Wall Street Journal’s new shows strategy
+_Wed, 23 Sep 2026 04:01:00 +0000_
 
-Regulators are prising open Google’s programmatic machinery just as AI, commerce and ad tech players race to control more of the advertising stack.
+This week’s Future of TV Briefing looks at how The Wall Street Journal is switching up its podcast operations to accommodate video and social.
 
-→ [https://digiday.com/media-buying/ad-tech-briefing-googles-ad-tech-remedies-arrive-just-as-the-platform-battle-moves-to-ai/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-googles-ad-tech-remedies-arrive-just-as-the-platform-battle-moves-to-ai/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/future-of-tv/future-of-tv-briefing-inside-the-wall-street-journals-new-shows-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-inside-the-wall-street-journals-new-shows-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### How Semafor is redefining the head of video role
-_Tue, 22 Sep 2026 04:01:00 +0000_
+### Publishers’ scorecard on Google’s ad tech remedies: they’re progress, but far from a clean win
+_Wed, 23 Sep 2026 04:01:00 +0000_
 
-As Semafor’s head of video, Adam Banicki sits at the intersection of the newsroom and the commercial team, reporting to the editor-in-chief with a dotted line to the revenue side.
+After years of waiting for the DOJ to finally curb Google’s ad tech power, publishers are finding the devil in these new remedies.
 
-→ [https://digiday.com/media/how-semafor-is-redefining-the-head-of-video-role/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-semafor-is-redefining-the-head-of-video-role/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/publishers-scorecard-on-googles-ad-tech-remedies-theyre-progress-but-far-from-a-clean-win/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/publishers-scorecard-on-googles-ad-tech-remedies-theyre-progress-but-far-from-a-clean-win/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Comscore data shows how AI discovery is splintering beyond ChatGPT
-_Tue, 22 Sep 2026 04:01:00 +0000_
+### Marketers have bought into microdramas — but a lack of ROI might make them irrelevant
+_Wed, 23 Sep 2026 04:01:00 +0000_
 
-Comscore data shows ChatGPT losing ground to Gemini and Claude as AI citations emerge as a key visibility metric for publishers and brands.
+Microdramas are attracting brand dollars and audiences. The harder question is whether the format can translate that attention into meas.
 
-→ [https://digiday.com/media/comscore-data-shows-how-ai-discovery-is-splintering-beyond-chatgpt/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/comscore-data-shows-how-ai-discovery-is-splintering-beyond-chatgpt/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/r-i-p-quibi-you-would-have-loved-microdramas/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/r-i-p-quibi-you-would-have-loved-microdramas/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Some marketers see ‘no ceiling’ for beauty brands advertising in sports
-_Tue, 22 Sep 2026 04:01:00 +0000_
+### What The New York Times looks for in AI licensing partnerships
+_Wed, 23 Sep 2026 04:01:00 +0000_
 
-By now, many in the beauty space have wised up to just how powerful a tool athletes and sports are for their brands.
+The New York Times is seeing a more publisher-friendly AI licensing ecosystem, but the marketplaces still have a long way to go.
 
-→ [https://digiday.com/marketing/some-marketers-see-no-ceiling-for-beauty-brands-advertising-in-sports/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/some-marketers-see-no-ceiling-for-beauty-brands-advertising-in-sports/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/what-the-new-york-times-looks-for-in-ai-licensing-partnerships/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/what-the-new-york-times-looks-for-in-ai-licensing-partnerships/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### IAB sets new standards for agentic buying and measurement
+_Tue, 22 Sep 2026 12:54:00 +0000_
+
+New frameworks aim to standardize how AI agents handle media proposals and how companies structure contracts for advertising measurement. The post IAB sets new standards for agentic buying and measurement appeared first on MarTech .
+
+→ [https://martech.org/iab-sets-new-standards-for-agentic-buying-and-measurement/](https://martech.org/iab-sets-new-standards-for-agentic-buying-and-measurement/)
+
+### How to build a marketing team with AI coworkers
+_Tue, 22 Sep 2026 12:36:00 +0000_
+
+Before adding AI agents to the team, marketers need to decide what they can do alone, what needs review, and who remains accountable. The post How to build a marketing team with AI coworkers appeared first on MarTech .
+
+→ [https://martech.org/how-to-build-a-marketing-team-with-ai-coworkers/](https://martech.org/how-to-build-a-marketing-team-with-ai-coworkers/)
+
+### When flat marketing budgets threaten growth
+_Tue, 22 Sep 2026 12:33:00 +0000_
+
+Find efficiencies across AI, agencies, technology, and staffing while protecting the investments that drive future demand. The post When flat marketing budgets threaten growth appeared first on MarTech .
+
+→ [https://martech.org/when-flat-marketing-budgets-threaten-growth/](https://martech.org/when-flat-marketing-budgets-threaten-growth/)
 
 ### Your site migration needs a paid search playbook
 _Mon, 21 Sep 2026 12:59:00 +0000_
@@ -182,26 +203,5 @@ _Mon, 21 Sep 2026 12:25:00 +0000_
 Establishing cross-functional oversight spanning legal, security, and ops mitigates copyright and privacy risks. The post Building an AI governance framework for marketing appeared first on MarTech .
 
 → [https://martech.org/building-an-ai-governance-framework-for-marketing/](https://martech.org/building-an-ai-governance-framework-for-marketing/)
-
-### Do you really need so much marketing?
-_Mon, 21 Sep 2026 12:05:00 +0000_
-
-Every new asset creates more work downstream. Rethink review, approval, and testing before scaling AI output. The post Do you really need so much marketing? appeared first on MarTech .
-
-→ [https://martech.org/do-you-really-need-so-much-marketing/](https://martech.org/do-you-really-need-so-much-marketing/)
-
-### AI is telling consumers not to buy your product
-_Fri, 18 Sep 2026 14:33:30 +0000_
-
-Nearly 81% of consumers who use chatbots for online shopping have decided against a purchase based on AI guidance. The post AI is telling consumers not to buy your product appeared first on MarTech .
-
-→ [https://martech.org/ai-is-telling-consumers-not-to-buy-your-product/](https://martech.org/ai-is-telling-consumers-not-to-buy-your-product/)
-
-### Faster AI can make slow marketing processes worse
-_Fri, 18 Sep 2026 12:03:00 +0000_
-
-AI doesn't fix broken workflows — it exposes them. Here's how to eliminate hidden bottlenecks and modernize your team’s operating model. The post Faster AI can make slow marketing processes worse appeared first on MarTech .
-
-→ [https://martech.org/faster-ai-can-make-slow-marketing-processes-worse/](https://martech.org/faster-ai-can-make-slow-marketing-processes-worse/)
 
 ---
