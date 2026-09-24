@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-23 08:21 UTC_
+_Päivitetty: 2026-09-24 08:13 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Saavuttamaton sisältö ei vain syrji käyttäjiä, vaan se heikentää tuloksia
 
 ## HubSpot Marketing Blog
 
+### AEO checker tools that measure answer engine visibility [2026]
+_Wed, 23 Sep 2026 15:30:05 GMT_
+
+An AEO checker tells you whether the AI answers your buyers rely on actually mention your brand. People increasingly ask ChatGPT, Perplexity, and Gemini a question and act on the reply without clicking a link, so visibility that once showed up in your rankings can vanish into an answer you never see.
+
+→ [https://blog.hubspot.com/marketing/best-aeo-checkers](https://blog.hubspot.com/marketing/best-aeo-checkers)
+
 ### Scrunch vs. Peec AI: Choosing the right AEO tool [2026]
 _Tue, 22 Sep 2026 16:30:04 GMT_
 
@@ -79,13 +86,6 @@ _Tue, 15 Sep 2026 12:00:02 GMT_
 Most email marketing teams know the basics. Authenticate your domain. Clean your list. Write a compelling subject line—test before you send.
 
 → [https://blog.hubspot.com/marketing/advanced-email-marketing-challenges](https://blog.hubspot.com/marketing/advanced-email-marketing-challenges)
-
-### AI search tools marketers should know in 2026
-_Thu, 10 Sep 2026 12:00:03 GMT_
-
-Something big just shifted in how people find answers online. More buyers are skipping the investigation and deliberation of clicking through blue links on Google, in favor of asking ChatGPT, Perplexity, and the like for one direct answer.
-
-→ [https://blog.hubspot.com/marketing/best-ai-search-tools](https://blog.hubspot.com/marketing/best-ai-search-tools)
 
 ---
 
@@ -130,6 +130,34 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### From brand deals to equity deals: creators want a stake, not just a fee
+_Thu, 24 Sep 2026 04:01:00 +0000_
+
+The creator economy is moving into a new phase: creators getting into companies at the ground floor through sweat equity or angel investing.
+
+→ [https://digiday.com/media/from-brand-deals-to-equity-deals-creators-want-a-stake-not-just-a-fee/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/from-brand-deals-to-equity-deals-creators-want-a-stake-not-just-a-fee/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Why Sephora released a beauty set exclusively on TikTok Shop
+_Thu, 24 Sep 2026 04:01:00 +0000_
+
+TikTok Shop’s combination of eyeball-sucking entertainment and frictionless shopping have made it a legitimate competitor to beauty giants like the LVMH-owned Sephora.
+
+→ [https://digiday.com/marketing/why-sephora-released-a-beauty-set-exclusively-on-tiktok-shop/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/why-sephora-released-a-beauty-set-exclusively-on-tiktok-shop/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Media Briefing: Publishers question whether personalization actually pays off
+_Thu, 24 Sep 2026 04:01:00 +0000_
+
+Publishers are personalizing newsletters to get more value from readers, but questions remain over whether it's a meaningful differentiator.
+
+→ [https://digiday.com/media/media-briefing-publishers-question-whether-personalization-actually-pays-off/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-publishers-question-whether-personalization-actually-pays-off/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Talent firm 24 Seven consolidates the new business efforts of its three concentric agencies
+_Wed, 23 Sep 2026 20:21:23 +0000_
+
+SktechDeck, Markacy and Futureman are now being pitched by 24 Seven’s new business team as any combination of the three shops that a client might want to tap
+
+→ [https://digiday.com/media-buying/talent-firm-24-seven-consolidates-the-new-business-efforts-of-its-three-concentric-agencies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/talent-firm-24-seven-consolidates-the-new-business-efforts-of-its-three-concentric-agencies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### In Graphic Detail: LLMs keep citing YouTube in search results
 _Wed, 23 Sep 2026 04:01:00 +0000_
 
@@ -137,71 +165,43 @@ The videos getting cited reveal how different AI search can be from traditional 
 
 → [https://digiday.com/marketing/in-graphic-detail-llms-keep-citing-youtube-in-search-results/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/in-graphic-detail-llms-keep-citing-youtube-in-search-results/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Future of TV Briefing: Inside The Wall Street Journal’s new shows strategy
-_Wed, 23 Sep 2026 04:01:00 +0000_
-
-This week’s Future of TV Briefing looks at how The Wall Street Journal is switching up its podcast operations to accommodate video and social.
-
-→ [https://digiday.com/future-of-tv/future-of-tv-briefing-inside-the-wall-street-journals-new-shows-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-inside-the-wall-street-journals-new-shows-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Publishers’ scorecard on Google’s ad tech remedies: they’re progress, but far from a clean win
-_Wed, 23 Sep 2026 04:01:00 +0000_
-
-After years of waiting for the DOJ to finally curb Google’s ad tech power, publishers are finding the devil in these new remedies.
-
-→ [https://digiday.com/media/publishers-scorecard-on-googles-ad-tech-remedies-theyre-progress-but-far-from-a-clean-win/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/publishers-scorecard-on-googles-ad-tech-remedies-theyre-progress-but-far-from-a-clean-win/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Marketers have bought into microdramas — but a lack of ROI might make them irrelevant
-_Wed, 23 Sep 2026 04:01:00 +0000_
-
-Microdramas are attracting brand dollars and audiences. The harder question is whether the format can translate that attention into meas.
-
-→ [https://digiday.com/marketing/r-i-p-quibi-you-would-have-loved-microdramas/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/r-i-p-quibi-you-would-have-loved-microdramas/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### What The New York Times looks for in AI licensing partnerships
-_Wed, 23 Sep 2026 04:01:00 +0000_
-
-The New York Times is seeing a more publisher-friendly AI licensing ecosystem, but the marketplaces still have a long way to go.
-
-→ [https://digiday.com/media/what-the-new-york-times-looks-for-in-ai-licensing-partnerships/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/what-the-new-york-times-looks-for-in-ai-licensing-partnerships/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
 ---
 
 ## MarTech
 
-### IAB sets new standards for agentic buying and measurement
-_Tue, 22 Sep 2026 12:54:00 +0000_
+### AI search is changing ecommerce forever
+_Wed, 23 Sep 2026 13:09:58 +0000_
 
-New frameworks aim to standardize how AI agents handle media proposals and how companies structure contracts for advertising measurement. The post IAB sets new standards for agentic buying and measurement appeared first on MarTech .
+The catalog and product pages most online retailers publish were built for a bygone era, with six-word queries and a page of blue links. The post AI search is changing ecommerce forever appeared first on MarTech .
 
-→ [https://martech.org/iab-sets-new-standards-for-agentic-buying-and-measurement/](https://martech.org/iab-sets-new-standards-for-agentic-buying-and-measurement/)
+→ [https://martech.org/ai-search-is-changing-ecommerce-forever/](https://martech.org/ai-search-is-changing-ecommerce-forever/)
 
-### How to build a marketing team with AI coworkers
-_Tue, 22 Sep 2026 12:36:00 +0000_
+### OpenAI testing third-party-style tracking in ChatGPT ads
+_Wed, 23 Sep 2026 12:37:00 +0000_
 
-Before adding AI agents to the team, marketers need to decide what they can do alone, what needs review, and who remains accountable. The post How to build a marketing team with AI coworkers appeared first on MarTech .
+A persistent identifier could improve ChatGPT ad measurement while creating new questions about consent and the personal data behind it. The post OpenAI testing third-party-style tracking in ChatGPT ads appeared first on MarTech .
 
-→ [https://martech.org/how-to-build-a-marketing-team-with-ai-coworkers/](https://martech.org/how-to-build-a-marketing-team-with-ai-coworkers/)
+→ [https://martech.org/openai-testing-third-party-style-tracking-in-chatgpt-ads/](https://martech.org/openai-testing-third-party-style-tracking-in-chatgpt-ads/)
 
-### When flat marketing budgets threaten growth
-_Tue, 22 Sep 2026 12:33:00 +0000_
+### The real AI advantage is what your company already knows
+_Wed, 23 Sep 2026 12:03:00 +0000_
 
-Find efficiencies across AI, agencies, technology, and staffing while protecting the investments that drive future demand. The post When flat marketing budgets threaten growth appeared first on MarTech .
+AI amplifies what you feed it. Capture customer knowledge, past decisions, and hard-won experience to make that output more valuable. The post The real AI advantage is what your company already knows appeared first on MarTech .
 
-→ [https://martech.org/when-flat-marketing-budgets-threaten-growth/](https://martech.org/when-flat-marketing-budgets-threaten-growth/)
+→ [https://martech.org/the-real-ai-advantage-is-what-your-company-already-knows/](https://martech.org/the-real-ai-advantage-is-what-your-company-already-knows/)
 
-### Your site migration needs a paid search playbook
-_Mon, 21 Sep 2026 12:59:00 +0000_
+### Marketo co-founder Jon Miller rethinks B2B marketing automation for the AI age
+_Wed, 23 Sep 2026 12:02:00 +0000_
 
-Google’s organic migration guidance is extensive. Paid search advertisers need clearer answers about what changes, resets, and recalibrates. The post Your site migration needs a paid search playbook appeared first on MarTech .
+Legacy marketing automation wasn't built for modern B2B buying groups. Jon Miller’s new platform, Phave, sets out to change that. The post Marketo co-founder Jon Miller rethinks B2B marketing automation for the AI age appeared first on MarTech .
 
-→ [https://martech.org/your-site-migration-needs-a-paid-search-playbook/](https://martech.org/your-site-migration-needs-a-paid-search-playbook/)
+→ [https://martech.org/marketo-co-founder-jon-miller-rethinks-b2b-marketing-automation-for-the-ai-age/](https://martech.org/marketo-co-founder-jon-miller-rethinks-b2b-marketing-automation-for-the-ai-age/)
 
-### Building an AI governance framework for marketing
-_Mon, 21 Sep 2026 12:25:00 +0000_
+### Retail media is evolving. Here is what marketers should value now by DoorDash
+_Wed, 23 Sep 2026 11:00:00 +0000_
 
-Establishing cross-functional oversight spanning legal, security, and ops mitigates copyright and privacy risks. The post Building an AI governance framework for marketing appeared first on MarTech .
+Navigating fragmented retail media networks is exhausting. Discover how to evaluate key partners, prove incrementality, and build a cohesive commerce strategy. The post Retail media is evolving. Here is what marketers should value now appeared first on MarTech .
 
-→ [https://martech.org/building-an-ai-governance-framework-for-marketing/](https://martech.org/building-an-ai-governance-framework-for-marketing/)
+→ [https://martech.org/retail-media-is-evolving-here-is-what-marketers-should-value-now/](https://martech.org/retail-media-is-evolving-here-is-what-marketers-should-value-now/)
 
 ---
