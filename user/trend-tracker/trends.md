@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-24 08:13 UTC_
+_Päivitetty: 2026-09-25 08:36 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,44 +130,72 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### From brand deals to equity deals: creators want a stake, not just a fee
-_Thu, 24 Sep 2026 04:01:00 +0000_
+### DMexco ’26 Briefing: From scaling AI operations to teaching the next generation of ‘bold’ CMOs
+_Fri, 25 Sep 2026 04:01:00 +0000_
 
-The creator economy is moving into a new phase: creators getting into companies at the ground floor through sweat equity or angel investing.
+DMexco 2026 media partner Digiday hosted two panels that outlined the challenge of AI at scale and the CMO of the future.
 
-→ [https://digiday.com/media/from-brand-deals-to-equity-deals-creators-want-a-stake-not-just-a-fee/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/from-brand-deals-to-equity-deals-creators-want-a-stake-not-just-a-fee/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/dmexco-26-briefing-from-scaling-ai-operations-to-teaching-the-next-generation-of-bold-cmos/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/dmexco-26-briefing-from-scaling-ai-operations-to-teaching-the-next-generation-of-bold-cmos/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Why Sephora released a beauty set exclusively on TikTok Shop
-_Thu, 24 Sep 2026 04:01:00 +0000_
+### YouTube invests in AI agents, live ‘gamification,’ and editing tools to keep creators close
+_Fri, 25 Sep 2026 04:01:00 +0000_
 
-TikTok Shop’s combination of eyeball-sucking entertainment and frictionless shopping have made it a legitimate competitor to beauty giants like the LVMH-owned Sephora.
+Made On YouTube announced a spate of new features for the creator platform; here are the most important ones and what they mean for creators.
 
-→ [https://digiday.com/marketing/why-sephora-released-a-beauty-set-exclusively-on-tiktok-shop/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/why-sephora-released-a-beauty-set-exclusively-on-tiktok-shop/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/future-of-tv/youtube-invests-in-ai-agents-live-gamification-and-editing-tools-to-keep-creators-close/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/youtube-invests-in-ai-agents-live-gamification-and-editing-tools-to-keep-creators-close/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Briefing: Publishers question whether personalization actually pays off
-_Thu, 24 Sep 2026 04:01:00 +0000_
+### Marketers bemoan the culture of ‘good enough’ as standards fall amid the AI bubble
+_Fri, 25 Sep 2026 04:01:00 +0000_
 
-Publishers are personalizing newsletters to get more value from readers, but questions remain over whether it's a meaningful differentiator.
+‘Drowning in measurement,’ marketers mull priorities in an internet where ‘two audiences’ exist.
 
-→ [https://digiday.com/media/media-briefing-publishers-question-whether-personalization-actually-pays-off/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-publishers-question-whether-personalization-actually-pays-off/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/marketers-bemoan-the-culture-of-good-enough-go-as-standards-fall-amid-the-ai-bubble/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/marketers-bemoan-the-culture-of-good-enough-go-as-standards-fall-amid-the-ai-bubble/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Talent firm 24 Seven consolidates the new business efforts of its three concentric agencies
-_Wed, 23 Sep 2026 20:21:23 +0000_
+### Future of Marketing Briefing: Imagining the ad business hiding inside Meta’s Muse
+_Fri, 25 Sep 2026 04:01:00 +0000_
 
-SktechDeck, Markacy and Futureman are now being pitched by 24 Seven’s new business team as any combination of the three shops that a client might want to tap
+Meta's Muse is ad-free for now. Don’t expect that to last.
 
-→ [https://digiday.com/media-buying/talent-firm-24-seven-consolidates-the-new-business-efforts-of-its-three-concentric-agencies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/talent-firm-24-seven-consolidates-the-new-business-efforts-of-its-three-concentric-agencies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/future-of-marketing-briefing-imagining-the-ad-business-hiding-inside-metas-muse/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-imagining-the-ad-business-hiding-inside-metas-muse/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### In Graphic Detail: LLMs keep citing YouTube in search results
-_Wed, 23 Sep 2026 04:01:00 +0000_
+### Why Instacart is focused on reducing item markups to grow its delivery platform
+_Fri, 25 Sep 2026 04:01:00 +0000_
 
-The videos getting cited reveal how different AI search can be from traditional Google search.
+Instacart CEO Chris Rogers says lower online markups, loyalty perks and cheaper delivery options are crucial to driving more online grocery growth in the coming years.
 
-→ [https://digiday.com/marketing/in-graphic-detail-llms-keep-citing-youtube-in-search-results/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/in-graphic-detail-llms-keep-citing-youtube-in-search-results/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/why-instacart-is-focused-on-reducing-item-markups-to-grow-its-delivery-platform/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/why-instacart-is-focused-on-reducing-item-markups-to-grow-its-delivery-platform/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### The latest AI-powered martech news and releases
+_Thu, 24 Sep 2026 14:07:20 +0000_
+
+A new Chrome extension uses AI to identify and hide LinkedIn slop — including the kind written by humans. The post The latest AI-powered martech news and releases appeared first on MarTech .
+
+→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
+
+### Martech category labels don’t mean anything anymore
+_Thu, 24 Sep 2026 12:16:00 +0000_
+
+Six years of DXP homepage snapshots show how quickly martech vendors change their labels — and how little those labels reveal about the product. The post Martech category labels don&#8217;t mean anything anymore appeared first on MarTech .
+
+→ [https://martech.org/martech-category-labels-dont-mean-anything-anymore/](https://martech.org/martech-category-labels-dont-mean-anything-anymore/)
+
+### B2B brands turn to creator video to fight AI slop and aid AI search
+_Thu, 24 Sep 2026 12:13:00 +0000_
+
+Creator video gives B2B brands a way to stand out from AI-generated content and build credibility with buyers using AI to research products. The post B2B brands turn to creator video to fight AI slop and aid AI search appeared first on MarTech .
+
+→ [https://martech.org/b2b-brands-turn-to-creator-video-to-fight-ai-slop-and-aid-ai-search/](https://martech.org/b2b-brands-turn-to-creator-video-to-fight-ai-slop-and-aid-ai-search/)
+
+### How to build cross-sell email flows that drive repeat purchases
+_Thu, 24 Sep 2026 12:07:00 +0000_
+
+The first purchase gives you clues about what a customer may need next. Use them to build more relevant post-purchase journeys. The post How to build cross-sell email flows that drive repeat purchases appeared first on MarTech .
+
+→ [https://martech.org/how-to-build-cross-sell-email-flows-that-drive-repeat-purchases/](https://martech.org/how-to-build-cross-sell-email-flows-that-drive-repeat-purchases/)
 
 ### AI search is changing ecommerce forever
 _Wed, 23 Sep 2026 13:09:58 +0000_
@@ -175,33 +203,5 @@ _Wed, 23 Sep 2026 13:09:58 +0000_
 The catalog and product pages most online retailers publish were built for a bygone era, with six-word queries and a page of blue links. The post AI search is changing ecommerce forever appeared first on MarTech .
 
 → [https://martech.org/ai-search-is-changing-ecommerce-forever/](https://martech.org/ai-search-is-changing-ecommerce-forever/)
-
-### OpenAI testing third-party-style tracking in ChatGPT ads
-_Wed, 23 Sep 2026 12:37:00 +0000_
-
-A persistent identifier could improve ChatGPT ad measurement while creating new questions about consent and the personal data behind it. The post OpenAI testing third-party-style tracking in ChatGPT ads appeared first on MarTech .
-
-→ [https://martech.org/openai-testing-third-party-style-tracking-in-chatgpt-ads/](https://martech.org/openai-testing-third-party-style-tracking-in-chatgpt-ads/)
-
-### The real AI advantage is what your company already knows
-_Wed, 23 Sep 2026 12:03:00 +0000_
-
-AI amplifies what you feed it. Capture customer knowledge, past decisions, and hard-won experience to make that output more valuable. The post The real AI advantage is what your company already knows appeared first on MarTech .
-
-→ [https://martech.org/the-real-ai-advantage-is-what-your-company-already-knows/](https://martech.org/the-real-ai-advantage-is-what-your-company-already-knows/)
-
-### Marketo co-founder Jon Miller rethinks B2B marketing automation for the AI age
-_Wed, 23 Sep 2026 12:02:00 +0000_
-
-Legacy marketing automation wasn't built for modern B2B buying groups. Jon Miller’s new platform, Phave, sets out to change that. The post Marketo co-founder Jon Miller rethinks B2B marketing automation for the AI age appeared first on MarTech .
-
-→ [https://martech.org/marketo-co-founder-jon-miller-rethinks-b2b-marketing-automation-for-the-ai-age/](https://martech.org/marketo-co-founder-jon-miller-rethinks-b2b-marketing-automation-for-the-ai-age/)
-
-### Retail media is evolving. Here is what marketers should value now by DoorDash
-_Wed, 23 Sep 2026 11:00:00 +0000_
-
-Navigating fragmented retail media networks is exhausting. Discover how to evaluate key partners, prove incrementality, and build a cohesive commerce strategy. The post Retail media is evolving. Here is what marketers should value now appeared first on MarTech .
-
-→ [https://martech.org/retail-media-is-evolving-here-is-what-marketers-should-value-now/](https://martech.org/retail-media-is-evolving-here-is-what-marketers-should-value-now/)
 
 ---
