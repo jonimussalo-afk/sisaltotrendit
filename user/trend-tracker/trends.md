@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-25 08:36 UTC_
+_Päivitetty: 2026-09-26 08:23 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -169,6 +169,27 @@ Instacart CEO Chris Rogers says lower online markups, loyalty perks and cheaper 
 
 ## MarTech
 
+### GTM teams are losing track of their AI agents
+_Fri, 25 Sep 2026 12:17:00 +0000_
+
+AI agents are spreading across the GTM stack, but many teams lack the visibility and ownership needed to keep track of what they do. The post GTM teams are losing track of their AI agents appeared first on MarTech .
+
+→ [https://martech.org/gtm-teams-are-losing-track-of-their-ai-agents/](https://martech.org/gtm-teams-are-losing-track-of-their-ai-agents/)
+
+### Why you need to stop treating LLMs like people
+_Fri, 25 Sep 2026 12:15:00 +0000_
+
+When you treat LLMs like thinking partners, you end up with vague prompts, hallucinations, and unreliable outputs. The post Why you need to stop treating LLMs like people appeared first on MarTech .
+
+→ [https://martech.org/why-you-need-to-stop-treating-llms-like-people/](https://martech.org/why-you-need-to-stop-treating-llms-like-people/)
+
+### The martech skills you need to survive
+_Fri, 25 Sep 2026 12:08:00 +0000_
+
+Build portable expertise, owned relationships, and adaptable skills that help your marketing career gain from AI and platform changes. The post The martech skills you need to survive appeared first on MarTech .
+
+→ [https://martech.org/the-martech-skills-you-need-to-survive/](https://martech.org/the-martech-skills-you-need-to-survive/)
+
 ### The latest AI-powered martech news and releases
 _Thu, 24 Sep 2026 14:07:20 +0000_
 
@@ -182,26 +203,5 @@ _Thu, 24 Sep 2026 12:16:00 +0000_
 Six years of DXP homepage snapshots show how quickly martech vendors change their labels — and how little those labels reveal about the product. The post Martech category labels don&#8217;t mean anything anymore appeared first on MarTech .
 
 → [https://martech.org/martech-category-labels-dont-mean-anything-anymore/](https://martech.org/martech-category-labels-dont-mean-anything-anymore/)
-
-### B2B brands turn to creator video to fight AI slop and aid AI search
-_Thu, 24 Sep 2026 12:13:00 +0000_
-
-Creator video gives B2B brands a way to stand out from AI-generated content and build credibility with buyers using AI to research products. The post B2B brands turn to creator video to fight AI slop and aid AI search appeared first on MarTech .
-
-→ [https://martech.org/b2b-brands-turn-to-creator-video-to-fight-ai-slop-and-aid-ai-search/](https://martech.org/b2b-brands-turn-to-creator-video-to-fight-ai-slop-and-aid-ai-search/)
-
-### How to build cross-sell email flows that drive repeat purchases
-_Thu, 24 Sep 2026 12:07:00 +0000_
-
-The first purchase gives you clues about what a customer may need next. Use them to build more relevant post-purchase journeys. The post How to build cross-sell email flows that drive repeat purchases appeared first on MarTech .
-
-→ [https://martech.org/how-to-build-cross-sell-email-flows-that-drive-repeat-purchases/](https://martech.org/how-to-build-cross-sell-email-flows-that-drive-repeat-purchases/)
-
-### AI search is changing ecommerce forever
-_Wed, 23 Sep 2026 13:09:58 +0000_
-
-The catalog and product pages most online retailers publish were built for a bygone era, with six-word queries and a page of blue links. The post AI search is changing ecommerce forever appeared first on MarTech .
-
-→ [https://martech.org/ai-search-is-changing-ecommerce-forever/](https://martech.org/ai-search-is-changing-ecommerce-forever/)
 
 ---
