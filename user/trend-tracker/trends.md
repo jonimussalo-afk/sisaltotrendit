@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-27 09:01 UTC_
+_Päivitetty: 2026-09-28 09:28 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,6 +130,27 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### Digiday Publishing Summit September 2026 Recap: How publishers are rebuilding for the post-search era
+_Mon, 28 Sep 2026 04:01:00 +0000_
+
+Execs at DPS described how they’re preparing for a post-search era by prioritizing direct audiences, diversified revenue and AI strategies.
+
+→ [https://digiday.com/media/digiday-publishing-summit-september-2026-recap-how-publishers-are-rebuilding-for-the-post-search-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/digiday-publishing-summit-september-2026-recap-how-publishers-are-rebuilding-for-the-post-search-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### ‘Not hiring’ entry-level talent: Industry acknowledges runaway crisis brought on by introducing AI to the workforce
+_Mon, 28 Sep 2026 04:01:00 +0000_
+
+Entry-level talent is challenged by AI in the workforce. What are some of the solutions for that cohort?
+
+→ [https://digiday.com/marketing/not-hiring-entry-level-talent-industry-acknowledges-runaway-crisis-brought-on-by-introducing-ai-to-the-workforce/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/not-hiring-entry-level-talent-industry-acknowledges-runaway-crisis-brought-on-by-introducing-ai-to-the-workforce/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Media Buying Briefing: Stagwell’s chief AI officer explains why Palantir differentiates its data platform from…
+_Mon, 28 Sep 2026 04:01:00 +0000_
+
+John Kahan explains how Palantir lets clients control their own data destiny, and what differential privacy means as a differentiator.
+
+→ [https://digiday.com/media-buying/media-buying-briefing-stagwells-chief-ai-officer-explains-why-palantir-differentiates-its-data-platform-from-competitors/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-stagwells-chief-ai-officer-explains-why-palantir-differentiates-its-data-platform-from-competitors/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### DMexco ’26 Briefing: From scaling AI operations to teaching the next generation of ‘bold’ CMOs
 _Fri, 25 Sep 2026 04:01:00 +0000_
 
@@ -143,27 +164,6 @@ _Fri, 25 Sep 2026 04:01:00 +0000_
 Made On YouTube announced a spate of new features for the creator platform; here are the most important ones and what they mean for creators.
 
 → [https://digiday.com/future-of-tv/youtube-invests-in-ai-agents-live-gamification-and-editing-tools-to-keep-creators-close/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/youtube-invests-in-ai-agents-live-gamification-and-editing-tools-to-keep-creators-close/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Marketers bemoan the culture of ‘good enough’ as standards fall amid the AI bubble
-_Fri, 25 Sep 2026 04:01:00 +0000_
-
-‘Drowning in measurement,’ marketers mull priorities in an internet where ‘two audiences’ exist.
-
-→ [https://digiday.com/marketing/marketers-bemoan-the-culture-of-good-enough-go-as-standards-fall-amid-the-ai-bubble/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/marketers-bemoan-the-culture-of-good-enough-go-as-standards-fall-amid-the-ai-bubble/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Future of Marketing Briefing: Imagining the ad business hiding inside Meta’s Muse
-_Fri, 25 Sep 2026 04:01:00 +0000_
-
-Meta's Muse is ad-free for now. Don’t expect that to last.
-
-→ [https://digiday.com/marketing/future-of-marketing-briefing-imagining-the-ad-business-hiding-inside-metas-muse/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-imagining-the-ad-business-hiding-inside-metas-muse/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Why Instacart is focused on reducing item markups to grow its delivery platform
-_Fri, 25 Sep 2026 04:01:00 +0000_
-
-Instacart CEO Chris Rogers says lower online markups, loyalty perks and cheaper delivery options are crucial to driving more online grocery growth in the coming years.
-
-→ [https://digiday.com/marketing/why-instacart-is-focused-on-reducing-item-markups-to-grow-its-delivery-platform/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/why-instacart-is-focused-on-reducing-item-markups-to-grow-its-delivery-platform/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
