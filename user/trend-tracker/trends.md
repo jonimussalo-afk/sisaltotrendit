@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-28 09:28 UTC_
+_Päivitetty: 2026-09-29 09:33 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,6 +130,34 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### Behind Hoka’s bid to own the NYC marathon’s run-up period
+_Tue, 29 Sep 2026 04:01:00 +0000_
+
+Hoka’s been targeting runners training for the New York City marathon with the aim of creating more shoe evangelists.
+
+→ [https://digiday.com/marketing/behind-hokas-bid-to-own-the-nyc-marathons-run-up-period/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/behind-hokas-bid-to-own-the-nyc-marathons-run-up-period/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Condé Nast, Hearst among 300 media execs to push federal ‘bad bots’ bill on AI scraping
+_Tue, 29 Sep 2026 04:01:00 +0000_
+
+More than 300 publishing execs are heading to Washington, D.C to push Congress to crack down on AI bots that scrape their content without permission.
+
+→ [https://digiday.com/media/conde-nast-hearst-among-300-media-execs-to-push-federal-bad-bots-bill-on-ai-scraping/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/conde-nast-hearst-among-300-media-execs-to-push-federal-bad-bots-bill-on-ai-scraping/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Here’s what OpenAI needs to do to reach its billion-dollar ad ambitions
+_Tue, 29 Sep 2026 04:01:00 +0000_
+
+OpenAI has billion-dollar goals for its ChatGPT ads by the end of this year. But can it woo advertisers enough to make good on those goals?
+
+→ [https://digiday.com/podcasts/heres-what-openai-needs-to-do-to-reach-its-billion-dollar-ad-ambitions/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/heres-what-openai-needs-to-do-to-reach-its-billion-dollar-ad-ambitions/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Ad Tech Briefing: AI is changing programmatic buying faster than who controls it
+_Tue, 29 Sep 2026 04:01:00 +0000_
+
+As more decisions become automated, the value of a control depends on whether publishers can see its effects.
+
+→ [https://digiday.com/marketing/ad-tech-briefing-ai-is-changing-programmatic-buying-faster-than-who-controls-it/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ad-tech-briefing-ai-is-changing-programmatic-buying-faster-than-who-controls-it/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### Digiday Publishing Summit September 2026 Recap: How publishers are rebuilding for the post-search era
 _Mon, 28 Sep 2026 04:01:00 +0000_
 
@@ -137,37 +165,37 @@ Execs at DPS described how they’re preparing for a post-search era by prioriti
 
 → [https://digiday.com/media/digiday-publishing-summit-september-2026-recap-how-publishers-are-rebuilding-for-the-post-search-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/digiday-publishing-summit-september-2026-recap-how-publishers-are-rebuilding-for-the-post-search-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### ‘Not hiring’ entry-level talent: Industry acknowledges runaway crisis brought on by introducing AI to the workforce
-_Mon, 28 Sep 2026 04:01:00 +0000_
-
-Entry-level talent is challenged by AI in the workforce. What are some of the solutions for that cohort?
-
-→ [https://digiday.com/marketing/not-hiring-entry-level-talent-industry-acknowledges-runaway-crisis-brought-on-by-introducing-ai-to-the-workforce/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/not-hiring-entry-level-talent-industry-acknowledges-runaway-crisis-brought-on-by-introducing-ai-to-the-workforce/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Media Buying Briefing: Stagwell’s chief AI officer explains why Palantir differentiates its data platform from…
-_Mon, 28 Sep 2026 04:01:00 +0000_
-
-John Kahan explains how Palantir lets clients control their own data destiny, and what differential privacy means as a differentiator.
-
-→ [https://digiday.com/media-buying/media-buying-briefing-stagwells-chief-ai-officer-explains-why-palantir-differentiates-its-data-platform-from-competitors/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-stagwells-chief-ai-officer-explains-why-palantir-differentiates-its-data-platform-from-competitors/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### DMexco ’26 Briefing: From scaling AI operations to teaching the next generation of ‘bold’ CMOs
-_Fri, 25 Sep 2026 04:01:00 +0000_
-
-DMexco 2026 media partner Digiday hosted two panels that outlined the challenge of AI at scale and the CMO of the future.
-
-→ [https://digiday.com/marketing/dmexco-26-briefing-from-scaling-ai-operations-to-teaching-the-next-generation-of-bold-cmos/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/dmexco-26-briefing-from-scaling-ai-operations-to-teaching-the-next-generation-of-bold-cmos/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### YouTube invests in AI agents, live ‘gamification,’ and editing tools to keep creators close
-_Fri, 25 Sep 2026 04:01:00 +0000_
-
-Made On YouTube announced a spate of new features for the creator platform; here are the most important ones and what they mean for creators.
-
-→ [https://digiday.com/future-of-tv/youtube-invests-in-ai-agents-live-gamification-and-editing-tools-to-keep-creators-close/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/youtube-invests-in-ai-agents-live-gamification-and-editing-tools-to-keep-creators-close/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
 ---
 
 ## MarTech
+
+### Optimizing content for generative engine search models
+_Mon, 28 Sep 2026 12:34:00 +0000_
+
+Adjusting content and technical strategies preserves brand authority as search shifts to AI answer engines. The post Optimizing content for generative engine search models appeared first on MarTech .
+
+→ [https://martech.org/optimizing-content-for-generative-engine-search-models/](https://martech.org/optimizing-content-for-generative-engine-search-models/)
+
+### 6 sales alignment plays from ABM leaders at Snowflake, Datadog, and Unisys
+_Mon, 28 Sep 2026 12:17:00 +0000_
+
+From account selection and actionable signals to AI-powered workflows, these plays show how ABM teams can make sales alignment an operating discipline. The post 6 sales alignment plays from ABM leaders at Snowflake, Datadog, and Unisys appeared first on MarTech .
+
+→ [https://martech.org/6-sales-alignment-plays-from-abm-leaders-at-snowflake-datadog-and-unisys/](https://martech.org/6-sales-alignment-plays-from-abm-leaders-at-snowflake-datadog-and-unisys/)
+
+### What marketing job postings say about AI skills
+_Mon, 28 Sep 2026 12:15:00 +0000_
+
+Research shows employers want marketers who can turn processes into working AI automations. The post What marketing job postings say about AI skills appeared first on MarTech .
+
+→ [https://martech.org/what-marketing-job-postings-say-about-ai-skills/](https://martech.org/what-marketing-job-postings-say-about-ai-skills/)
+
+### AI made marketing faster than it made marketing better
+_Mon, 28 Sep 2026 11:53:00 +0000_
+
+AI can accelerate production, but it can’t decide what’s worth making, who it’s for, or how success should be measured. The post AI made marketing faster than it made marketing better appeared first on MarTech .
+
+→ [https://martech.org/ai-made-marketing-faster-than-it-made-marketing-better/](https://martech.org/ai-made-marketing-faster-than-it-made-marketing-better/)
 
 ### GTM teams are losing track of their AI agents
 _Fri, 25 Sep 2026 12:17:00 +0000_
@@ -175,33 +203,5 @@ _Fri, 25 Sep 2026 12:17:00 +0000_
 AI agents are spreading across the GTM stack, but many teams lack the visibility and ownership needed to keep track of what they do. The post GTM teams are losing track of their AI agents appeared first on MarTech .
 
 → [https://martech.org/gtm-teams-are-losing-track-of-their-ai-agents/](https://martech.org/gtm-teams-are-losing-track-of-their-ai-agents/)
-
-### Why you need to stop treating LLMs like people
-_Fri, 25 Sep 2026 12:15:00 +0000_
-
-When you treat LLMs like thinking partners, you end up with vague prompts, hallucinations, and unreliable outputs. The post Why you need to stop treating LLMs like people appeared first on MarTech .
-
-→ [https://martech.org/why-you-need-to-stop-treating-llms-like-people/](https://martech.org/why-you-need-to-stop-treating-llms-like-people/)
-
-### The martech skills you need to survive
-_Fri, 25 Sep 2026 12:08:00 +0000_
-
-Build portable expertise, owned relationships, and adaptable skills that help your marketing career gain from AI and platform changes. The post The martech skills you need to survive appeared first on MarTech .
-
-→ [https://martech.org/the-martech-skills-you-need-to-survive/](https://martech.org/the-martech-skills-you-need-to-survive/)
-
-### The latest AI-powered martech news and releases
-_Thu, 24 Sep 2026 14:07:20 +0000_
-
-A new Chrome extension uses AI to identify and hide LinkedIn slop — including the kind written by humans. The post The latest AI-powered martech news and releases appeared first on MarTech .
-
-→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
-
-### Martech category labels don’t mean anything anymore
-_Thu, 24 Sep 2026 12:16:00 +0000_
-
-Six years of DXP homepage snapshots show how quickly martech vendors change their labels — and how little those labels reveal about the product. The post Martech category labels don&#8217;t mean anything anymore appeared first on MarTech .
-
-→ [https://martech.org/martech-category-labels-dont-mean-anything-anymore/](https://martech.org/martech-category-labels-dont-mean-anything-anymore/)
 
 ---
