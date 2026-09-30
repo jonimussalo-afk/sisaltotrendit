@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-29 09:33 UTC_
+_Päivitetty: 2026-09-30 09:25 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Saavuttamaton sisältö ei vain syrji käyttäjiä, vaan se heikentää tuloksia
 
 ## HubSpot Marketing Blog
 
+### Profound vs. Athena AI for AEO: How the tools compare
+_Tue, 29 Sep 2026 17:00:02 GMT_
+
+If you’ve searched “Profound versus Athena AI for AEO,” you’ve probably already hit a wall: every comparison you find is written by a competitor, an affiliate, or the vendors themselves.
+
+→ [https://blog.hubspot.com/marketing/profound-vs-athenahq](https://blog.hubspot.com/marketing/profound-vs-athenahq)
+
 ### AEO checker tools that measure answer engine visibility [2026]
 _Wed, 23 Sep 2026 15:30:05 GMT_
 
@@ -79,13 +86,6 @@ _Wed, 16 Sep 2026 12:00:03 GMT_
 &nbsp; Few phenomena within the creator economy have moved as fast as AI’s embrace. What was once treated with anxious suspicion is now more widely viewed as a necessary strategy.
 
 → [https://blog.hubspot.com/marketing/creator-economy-ai-reckoning](https://blog.hubspot.com/marketing/creator-economy-ai-reckoning)
-
-### Enterprise email marketing shortfalls and the upmarket features to avoid them
-_Tue, 15 Sep 2026 12:00:02 GMT_
-
-Most email marketing teams know the basics. Authenticate your domain. Clean your list. Write a compelling subject line—test before you send.
-
-→ [https://blog.hubspot.com/marketing/advanced-email-marketing-challenges](https://blog.hubspot.com/marketing/advanced-email-marketing-challenges)
 
 ---
 
@@ -130,44 +130,72 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Behind Hoka’s bid to own the NYC marathon’s run-up period
-_Tue, 29 Sep 2026 04:01:00 +0000_
+### Future of TV Briefing: TV ad industry’s measurement currency frustrations hit (another) boiling point
+_Wed, 30 Sep 2026 04:01:00 +0000_
 
-Hoka’s been targeting runners training for the New York City marathon with the aim of creating more shoe evangelists.
+This week’s Future of TV Briefing looks at a new task force being formed by the Coalition for Innovative Media Measurement to tackle the TV ad industry’s measurement currency conundrum.
 
-→ [https://digiday.com/marketing/behind-hokas-bid-to-own-the-nyc-marathons-run-up-period/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/behind-hokas-bid-to-own-the-nyc-marathons-run-up-period/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/future-of-tv/future-of-tv-briefing-tv-ad-industrys-measurement-currency-frustrations-hit-another-boiling-point/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-tv-ad-industrys-measurement-currency-frustrations-hit-another-boiling-point/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Condé Nast, Hearst among 300 media execs to push federal ‘bad bots’ bill on AI scraping
-_Tue, 29 Sep 2026 04:01:00 +0000_
+### How Kroger, Giant Eagle and DoorDash are building their agentic AI assistants
+_Wed, 30 Sep 2026 04:01:00 +0000_
 
-More than 300 publishing execs are heading to Washington, D.C to push Congress to crack down on AI bots that scrape their content without permission.
+Companies are finding that they must deploy practical AI tools that bridge the gap between physical stores and online ordering.
 
-→ [https://digiday.com/media/conde-nast-hearst-among-300-media-execs-to-push-federal-bad-bots-bill-on-ai-scraping/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/conde-nast-hearst-among-300-media-execs-to-push-federal-bad-bots-bill-on-ai-scraping/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/how-kroger-giant-eagle-and-doordash-are-building-their-agentic-ai-assistants/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/how-kroger-giant-eagle-and-doordash-are-building-their-agentic-ai-assistants/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Here’s what OpenAI needs to do to reach its billion-dollar ad ambitions
-_Tue, 29 Sep 2026 04:01:00 +0000_
+### How Shira Lazar grew social account ‘What’s Trending’ to seven figures in revenue
+_Wed, 30 Sep 2026 04:01:00 +0000_
 
-OpenAI has billion-dollar goals for its ChatGPT ads by the end of this year. But can it woo advertisers enough to make good on those goals?
+Shira Lazar saw that creator-led media brands were the future 15 years ago, and now the entire industry has caught on.
 
-→ [https://digiday.com/podcasts/heres-what-openai-needs-to-do-to-reach-its-billion-dollar-ad-ambitions/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/heres-what-openai-needs-to-do-to-reach-its-billion-dollar-ad-ambitions/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/how-shira-lazar-grew-social-account-whats-trending-to-seven-figures-in-revenue/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-shira-lazar-grew-social-account-whats-trending-to-seven-figures-in-revenue/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Ad Tech Briefing: AI is changing programmatic buying faster than who controls it
-_Tue, 29 Sep 2026 04:01:00 +0000_
+### Beauty brand Cakes wants to turn its TikTok virality into an owned media strategy
+_Wed, 30 Sep 2026 04:01:00 +0000_
 
-As more decisions become automated, the value of a control depends on whether publishers can see its effects.
+Cakes is launching Cakes Media to shift from paid TikTok views to a permanent, brand-owned audience as ad costs climb.
 
-→ [https://digiday.com/marketing/ad-tech-briefing-ai-is-changing-programmatic-buying-faster-than-who-controls-it/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ad-tech-briefing-ai-is-changing-programmatic-buying-faster-than-who-controls-it/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/beauty-brand-cakes-wants-to-turn-its-tiktok-virality-into-an-owned-media-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/beauty-brand-cakes-wants-to-turn-its-tiktok-virality-into-an-owned-media-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Digiday Publishing Summit September 2026 Recap: How publishers are rebuilding for the post-search era
-_Mon, 28 Sep 2026 04:01:00 +0000_
+### Mobile ad giants AppLovin and Unity locked in legal dispute over data collection
+_Tue, 29 Sep 2026 17:31:42 +0000_
 
-Execs at DPS described how they’re preparing for a post-search era by prioritizing direct audiences, diversified revenue and AI strategies.
+AppLovin seeks court order against Unity claiming improper collection of data generated through its business.
 
-→ [https://digiday.com/media/digiday-publishing-summit-september-2026-recap-how-publishers-are-rebuilding-for-the-post-search-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/digiday-publishing-summit-september-2026-recap-how-publishers-are-rebuilding-for-the-post-search-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/mobile-ad-giants-applovin-and-unity-locked-in-legal-dispute-over-data-collection/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/mobile-ad-giants-applovin-and-unity-locked-in-legal-dispute-over-data-collection/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### Braze expands AI from content creation to campaign operations
+_Tue, 29 Sep 2026 13:42:52 +0000_
+
+New tools give marketers easier access to AI decisioning, automate campaign checks, and connect Braze with external LLMs such as Claude. The post Braze expands AI from content creation to campaign operations appeared first on MarTech .
+
+→ [https://martech.org/braze-expands-ai-from-content-creation-to-campaign-operations/](https://martech.org/braze-expands-ai-from-content-creation-to-campaign-operations/)
+
+### 4 reasons your brand guidelines must become a brand system
+_Tue, 29 Sep 2026 12:49:00 +0000_
+
+Brand guidelines can tell people what’s allowed. A brand system helps them understand why it works — and when to adapt it. The post 4 reasons your brand guidelines must become a brand system appeared first on MarTech .
+
+→ [https://martech.org/4-reasons-your-brand-guidelines-must-become-a-brand-system/](https://martech.org/4-reasons-your-brand-guidelines-must-become-a-brand-system/)
+
+### Shoppers will spend more and buy less this holiday season
+_Tue, 29 Sep 2026 12:49:00 +0000_
+
+Holiday sales could grow even as consumers trade down, stretch purchases across the season, and use discounts to stock up on essentials. The post Shoppers will spend more and buy less this holiday season appeared first on MarTech .
+
+→ [https://martech.org/shoppers-will-spend-more-and-buy-less-this-holiday-season/](https://martech.org/shoppers-will-spend-more-and-buy-less-this-holiday-season/)
+
+### How to build a visual SEO strategy for AI search
+_Tue, 29 Sep 2026 12:31:00 +0000_
+
+Move beyond optimizing individual images by connecting visual assets to authoritative entity data and keeping those signals consistent. The post How to build a visual SEO strategy for AI search appeared first on MarTech .
+
+→ [https://martech.org/how-to-build-a-visual-seo-strategy-for-ai-search/](https://martech.org/how-to-build-a-visual-seo-strategy-for-ai-search/)
 
 ### Optimizing content for generative engine search models
 _Mon, 28 Sep 2026 12:34:00 +0000_
@@ -175,33 +203,5 @@ _Mon, 28 Sep 2026 12:34:00 +0000_
 Adjusting content and technical strategies preserves brand authority as search shifts to AI answer engines. The post Optimizing content for generative engine search models appeared first on MarTech .
 
 → [https://martech.org/optimizing-content-for-generative-engine-search-models/](https://martech.org/optimizing-content-for-generative-engine-search-models/)
-
-### 6 sales alignment plays from ABM leaders at Snowflake, Datadog, and Unisys
-_Mon, 28 Sep 2026 12:17:00 +0000_
-
-From account selection and actionable signals to AI-powered workflows, these plays show how ABM teams can make sales alignment an operating discipline. The post 6 sales alignment plays from ABM leaders at Snowflake, Datadog, and Unisys appeared first on MarTech .
-
-→ [https://martech.org/6-sales-alignment-plays-from-abm-leaders-at-snowflake-datadog-and-unisys/](https://martech.org/6-sales-alignment-plays-from-abm-leaders-at-snowflake-datadog-and-unisys/)
-
-### What marketing job postings say about AI skills
-_Mon, 28 Sep 2026 12:15:00 +0000_
-
-Research shows employers want marketers who can turn processes into working AI automations. The post What marketing job postings say about AI skills appeared first on MarTech .
-
-→ [https://martech.org/what-marketing-job-postings-say-about-ai-skills/](https://martech.org/what-marketing-job-postings-say-about-ai-skills/)
-
-### AI made marketing faster than it made marketing better
-_Mon, 28 Sep 2026 11:53:00 +0000_
-
-AI can accelerate production, but it can’t decide what’s worth making, who it’s for, or how success should be measured. The post AI made marketing faster than it made marketing better appeared first on MarTech .
-
-→ [https://martech.org/ai-made-marketing-faster-than-it-made-marketing-better/](https://martech.org/ai-made-marketing-faster-than-it-made-marketing-better/)
-
-### GTM teams are losing track of their AI agents
-_Fri, 25 Sep 2026 12:17:00 +0000_
-
-AI agents are spreading across the GTM stack, but many teams lack the visibility and ownership needed to keep track of what they do. The post GTM teams are losing track of their AI agents appeared first on MarTech .
-
-→ [https://martech.org/gtm-teams-are-losing-track-of-their-ai-agents/](https://martech.org/gtm-teams-are-losing-track-of-their-ai-agents/)
 
 ---
