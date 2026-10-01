@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-09-30 09:25 UTC_
+_Päivitetty: 2026-10-01 09:51 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,20 @@ Saavuttamaton sisältö ei vain syrji käyttäjiä, vaan se heikentää tuloksia
 
 ## HubSpot Marketing Blog
 
+### How to use vector embeddings in AEO
+_Wed, 30 Sep 2026 17:30:04 GMT_
+
+A vector embedding is a numerical representation created by an embedding model. The model converts text into a list of numbers that can be compared with other vectors, helping a retrieval system find passages with similar meaning even when they use different words. Semantic retrieval is one tool AI systems can use to find source material; modern…
+
+→ [https://blog.hubspot.com/marketing/vector-embeddings-aeo](https://blog.hubspot.com/marketing/vector-embeddings-aeo)
+
+### AI search optimization tools: What actually works in 2026
+_Wed, 30 Sep 2026 17:30:04 GMT_
+
+AI search optimization tools help marketers understand where a brand appears in AI-generated answers, which sources earn citations, and what to improve next. They complement traditional SEO tools rather than replace them: SEO measures rankings, clicks, and organic traffic, while AI-search tooling adds visibility signals such as mentions,…
+
+→ [https://blog.hubspot.com/marketing/ai-search-optimization-tools](https://blog.hubspot.com/marketing/ai-search-optimization-tools)
+
 ### Profound vs. Athena AI for AEO: How the tools compare
 _Tue, 29 Sep 2026 17:00:02 GMT_
 
@@ -72,20 +86,6 @@ _Tue, 22 Sep 2026 16:30:04 GMT_
 This Scrunch vs. Peec AI comparison evaluates how both tools measure AI answer engine representation across different buyer segments, price points, and feature scopes.
 
 → [https://blog.hubspot.com/marketing/scrunch-vs-peec-ai](https://blog.hubspot.com/marketing/scrunch-vs-peec-ai)
-
-### The psychology behind why AI shows it's working
-_Mon, 21 Sep 2026 12:00:03 GMT_
-
-In 2025, most of the major answer engines made an almost identical update. Claude, ChatGPT, Gemini, and many others started to show what they were thinking.
-
-→ [https://blog.hubspot.com/marketing/why-ai-shows-loadtime](https://blog.hubspot.com/marketing/why-ai-shows-loadtime)
-
-### Inside the creator economy’s AI reckoning
-_Wed, 16 Sep 2026 12:00:03 GMT_
-
-&nbsp; Few phenomena within the creator economy have moved as fast as AI’s embrace. What was once treated with anxious suspicion is now more widely viewed as a necessary strategy.
-
-→ [https://blog.hubspot.com/marketing/creator-economy-ai-reckoning](https://blog.hubspot.com/marketing/creator-economy-ai-reckoning)
 
 ---
 
@@ -130,78 +130,39 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Future of TV Briefing: TV ad industry’s measurement currency frustrations hit (another) boiling point
-_Wed, 30 Sep 2026 04:01:00 +0000_
+### Amazon wants to own the long game in ad measurement
+_Thu, 01 Oct 2026 04:01:00 +0000_
 
-This week’s Future of TV Briefing looks at a new task force being formed by the Coalition for Innovative Media Measurement to tackle the TV ad industry’s measurement currency conundrum.
+Amazon says its ads sell more than they get credit for. Agencies want proof.
 
-→ [https://digiday.com/future-of-tv/future-of-tv-briefing-tv-ad-industrys-measurement-currency-frustrations-hit-another-boiling-point/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-tv-ad-industrys-measurement-currency-frustrations-hit-another-boiling-point/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/amazon-wants-to-own-the-long-game-in-ad-measurement/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/amazon-wants-to-own-the-long-game-in-ad-measurement/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### How Kroger, Giant Eagle and DoorDash are building their agentic AI assistants
-_Wed, 30 Sep 2026 04:01:00 +0000_
+### OpenAI’s measurement gaps are keeping ChatGPT ads budgets at test level
+_Thu, 01 Oct 2026 04:01:00 +0000_
 
-Companies are finding that they must deploy practical AI tools that bridge the gap between physical stores and online ordering.
+OpenAI's ChatGPT ads have a measurement catch-22
 
-→ [https://digiday.com/marketing/how-kroger-giant-eagle-and-doordash-are-building-their-agentic-ai-assistants/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/how-kroger-giant-eagle-and-doordash-are-building-their-agentic-ai-assistants/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/openais-measurement-gaps-are-keeping-chatgpt-ads-budgets-at-test-level/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/openais-measurement-gaps-are-keeping-chatgpt-ads-budgets-at-test-level/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### How Shira Lazar grew social account ‘What’s Trending’ to seven figures in revenue
-_Wed, 30 Sep 2026 04:01:00 +0000_
+### Media Briefing: Publishers are turning GEO from an experiment into a business
+_Thu, 01 Oct 2026 04:01:00 +0000_
 
-Shira Lazar saw that creator-led media brands were the future 15 years ago, and now the entire industry has caught on.
+Publishers are turning GEO into a new revenue stream as clients increasingly look to boost their brands’ visibility in AI-generated answers.
 
-→ [https://digiday.com/media/how-shira-lazar-grew-social-account-whats-trending-to-seven-figures-in-revenue/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-shira-lazar-grew-social-account-whats-trending-to-seven-figures-in-revenue/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/media-briefing-publishers-are-turning-geo-from-an-experiment-into-a-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-publishers-are-turning-geo-from-an-experiment-into-a-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Beauty brand Cakes wants to turn its TikTok virality into an owned media strategy
-_Wed, 30 Sep 2026 04:01:00 +0000_
+### The creator economy’s stance on AI is shifting — again
+_Thu, 01 Oct 2026 04:01:00 +0000_
 
-Cakes is launching Cakes Media to shift from paid TikTok views to a permanent, brand-owned audience as ad costs climb.
+Creators are integrating AI tools into their workflows, but at what point does it overtake the creative process and result in sameness?
 
-→ [https://digiday.com/marketing/beauty-brand-cakes-wants-to-turn-its-tiktok-virality-into-an-owned-media-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/beauty-brand-cakes-wants-to-turn-its-tiktok-virality-into-an-owned-media-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/the-creator-economys-stance-on-ai-is-shifting-again/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/the-creator-economys-stance-on-ai-is-shifting-again/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Mobile ad giants AppLovin and Unity locked in legal dispute over data collection
-_Tue, 29 Sep 2026 17:31:42 +0000_
+### In Graphic Detail: Where brands stand when AI agents do the shopping
+_Thu, 01 Oct 2026 04:01:00 +0000_
 
-AppLovin seeks court order against Unity claiming improper collection of data generated through its business.
+Getting picked by the agents is the new commerce fight
 
-→ [https://digiday.com/marketing/mobile-ad-giants-applovin-and-unity-locked-in-legal-dispute-over-data-collection/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/mobile-ad-giants-applovin-and-unity-locked-in-legal-dispute-over-data-collection/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
----
-
-## MarTech
-
-### Braze expands AI from content creation to campaign operations
-_Tue, 29 Sep 2026 13:42:52 +0000_
-
-New tools give marketers easier access to AI decisioning, automate campaign checks, and connect Braze with external LLMs such as Claude. The post Braze expands AI from content creation to campaign operations appeared first on MarTech .
-
-→ [https://martech.org/braze-expands-ai-from-content-creation-to-campaign-operations/](https://martech.org/braze-expands-ai-from-content-creation-to-campaign-operations/)
-
-### 4 reasons your brand guidelines must become a brand system
-_Tue, 29 Sep 2026 12:49:00 +0000_
-
-Brand guidelines can tell people what’s allowed. A brand system helps them understand why it works — and when to adapt it. The post 4 reasons your brand guidelines must become a brand system appeared first on MarTech .
-
-→ [https://martech.org/4-reasons-your-brand-guidelines-must-become-a-brand-system/](https://martech.org/4-reasons-your-brand-guidelines-must-become-a-brand-system/)
-
-### Shoppers will spend more and buy less this holiday season
-_Tue, 29 Sep 2026 12:49:00 +0000_
-
-Holiday sales could grow even as consumers trade down, stretch purchases across the season, and use discounts to stock up on essentials. The post Shoppers will spend more and buy less this holiday season appeared first on MarTech .
-
-→ [https://martech.org/shoppers-will-spend-more-and-buy-less-this-holiday-season/](https://martech.org/shoppers-will-spend-more-and-buy-less-this-holiday-season/)
-
-### How to build a visual SEO strategy for AI search
-_Tue, 29 Sep 2026 12:31:00 +0000_
-
-Move beyond optimizing individual images by connecting visual assets to authoritative entity data and keeping those signals consistent. The post How to build a visual SEO strategy for AI search appeared first on MarTech .
-
-→ [https://martech.org/how-to-build-a-visual-seo-strategy-for-ai-search/](https://martech.org/how-to-build-a-visual-seo-strategy-for-ai-search/)
-
-### Optimizing content for generative engine search models
-_Mon, 28 Sep 2026 12:34:00 +0000_
-
-Adjusting content and technical strategies preserves brand authority as search shifts to AI answer engines. The post Optimizing content for generative engine search models appeared first on MarTech .
-
-→ [https://martech.org/optimizing-content-for-generative-engine-search-models/](https://martech.org/optimizing-content-for-generative-engine-search-models/)
+→ [https://digiday.com/marketing/in-graphic-detail-where-brands-stand-when-ai-agents-do-the-shopping/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/in-graphic-detail-where-brands-stand-when-ai-agents-do-the-shopping/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
