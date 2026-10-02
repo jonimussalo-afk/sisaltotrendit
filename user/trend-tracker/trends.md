@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-01 09:51 UTC_
+_Päivitetty: 2026-10-02 09:28 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Saavuttamaton sisältö ei vain syrji käyttäjiä, vaan se heikentää tuloksia
 
 ## HubSpot Marketing Blog
 
+### Diagnosing AEO gaps: A content audit guide
+_Thu, 01 Oct 2026 18:30:05 GMT_
+
+If you’ve been asked to diagnose and fix AEO gaps, the first step is to conduct an audit. For most brands, an AEO gap is any reason an AI answer engine can’t (or won’t) use its page as a source.
+
+→ [https://blog.hubspot.com/marketing/fix-aeo-gaps](https://blog.hubspot.com/marketing/fix-aeo-gaps)
+
 ### How to use vector embeddings in AEO
 _Wed, 30 Sep 2026 17:30:04 GMT_
 
@@ -79,13 +86,6 @@ _Wed, 23 Sep 2026 15:30:05 GMT_
 An AEO checker tells you whether the AI answers your buyers rely on actually mention your brand. People increasingly ask ChatGPT, Perplexity, and Gemini a question and act on the reply without clicking a link, so visibility that once showed up in your rankings can vanish into an answer you never see.
 
 → [https://blog.hubspot.com/marketing/best-aeo-checkers](https://blog.hubspot.com/marketing/best-aeo-checkers)
-
-### Scrunch vs. Peec AI: Choosing the right AEO tool [2026]
-_Tue, 22 Sep 2026 16:30:04 GMT_
-
-This Scrunch vs. Peec AI comparison evaluates how both tools measure AI answer engine representation across different buyer segments, price points, and feature scopes.
-
-→ [https://blog.hubspot.com/marketing/scrunch-vs-peec-ai](https://blog.hubspot.com/marketing/scrunch-vs-peec-ai)
 
 ---
 
@@ -130,39 +130,78 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Amazon wants to own the long game in ad measurement
-_Thu, 01 Oct 2026 04:01:00 +0000_
+### Marketing’s upper middle embraces AI creative production
+_Fri, 02 Oct 2026 04:01:00 +0000_
 
-Amazon says its ads sell more than they get credit for. Agencies want proof.
+Scaled AI creative production is becoming ordinary among CMOS outside the billion dollar club.
 
-→ [https://digiday.com/media-buying/amazon-wants-to-own-the-long-game-in-ad-measurement/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/amazon-wants-to-own-the-long-game-in-ad-measurement/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/marketings-upper-middle-embraces-ai-creative-production/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/marketings-upper-middle-embraces-ai-creative-production/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### OpenAI’s measurement gaps are keeping ChatGPT ads budgets at test level
-_Thu, 01 Oct 2026 04:01:00 +0000_
+### ‘It scared the hell out of me’: What brands have learned from creator partnerships
+_Fri, 02 Oct 2026 04:01:00 +0000_
 
-OpenAI's ChatGPT ads have a measurement catch-22
+At Shoptalk Fall, brands like Favorite Daughter, SharkNinja and Bob's Discount Furniture talked about what they've learned from working with creators.
 
-→ [https://digiday.com/marketing/openais-measurement-gaps-are-keeping-chatgpt-ads-budgets-at-test-level/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/openais-measurement-gaps-are-keeping-chatgpt-ads-budgets-at-test-level/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/it-scared-the-hell-out-of-me-what-brands-have-learned-from-creator-partnerships/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/it-scared-the-hell-out-of-me-what-brands-have-learned-from-creator-partnerships/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Briefing: Publishers are turning GEO from an experiment into a business
-_Thu, 01 Oct 2026 04:01:00 +0000_
+### SPUR publishes AI content tracking standard, pitches OpenAI and Google to join advisory board
+_Fri, 02 Oct 2026 04:01:00 +0000_
 
-Publishers are turning GEO into a new revenue stream as clients increasingly look to boost their brands’ visibility in AI-generated answers.
+Publishers are pushing for AI transparency with a new SPUR standard to track how AI tools use content, and inviting frontier AI labs to help.
 
-→ [https://digiday.com/media/media-briefing-publishers-are-turning-geo-from-an-experiment-into-a-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-publishers-are-turning-geo-from-an-experiment-into-a-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/spur-publishes-ai-content-tracking-standard-pitches-openai-and-google-to-join-advisory-board/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/spur-publishes-ai-content-tracking-standard-pitches-openai-and-google-to-join-advisory-board/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### The creator economy’s stance on AI is shifting — again
-_Thu, 01 Oct 2026 04:01:00 +0000_
+### Future of Marketing Briefing: Agency fees in creator deals are the next transparency headache for marketers
+_Fri, 02 Oct 2026 04:01:00 +0000_
 
-Creators are integrating AI tools into their workflows, but at what point does it overtake the creative process and result in sameness?
+As creator marketing budgets grow, so do questions about what agencies are taking.
 
-→ [https://digiday.com/media/the-creator-economys-stance-on-ai-is-shifting-again/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/the-creator-economys-stance-on-ai-is-shifting-again/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/future-of-marketing-briefing-agency-fees-in-creator-deals-are-the-next-transparency-headache-for-marketers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-agency-fees-in-creator-deals-are-the-next-transparency-headache-for-marketers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### In Graphic Detail: Where brands stand when AI agents do the shopping
-_Thu, 01 Oct 2026 04:01:00 +0000_
+### Digiday’s guide to what’s in and out for Advertising Week NY 2026
+_Fri, 02 Oct 2026 04:01:00 +0000_
 
-Getting picked by the agents is the new commerce fight
+Here are the trends as we see them for AWNY 2026.
 
-→ [https://digiday.com/marketing/in-graphic-detail-where-brands-stand-when-ai-agents-do-the-shopping/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/in-graphic-detail-where-brands-stand-when-ai-agents-do-the-shopping/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/digidays-guide-to-whats-in-and-out-for-advertising-week-ny-2026/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/digidays-guide-to-whats-in-and-out-for-advertising-week-ny-2026/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+---
+
+## MarTech
+
+### 7 AI search myths busted by data
+_Thu, 01 Oct 2026 14:35:32 +0000_
+
+AI is changing search, but some of the loudest claims about traffic, content, measurement, and SEO jobs don’t hold up when you check the numbers. The post 7 AI search myths busted by data appeared first on MarTech .
+
+→ [https://martech.org/7-ai-search-myths-busted-by-data/](https://martech.org/7-ai-search-myths-busted-by-data/)
+
+### The latest AI-powered martech news and releases
+_Thu, 01 Oct 2026 13:59:39 +0000_
+
+Payments, identity, authorization, infrastructure, and trust could keep autonomous purchasing “just around the corner” for years. The post The latest AI-powered martech news and releases appeared first on MarTech .
+
+→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
+
+### Marketing on LinkedIn: What you need to know
+_Thu, 01 Oct 2026 12:56:00 +0000_
+
+Your guide to LinkedIn's tools, strategies and best practices. Updated with info on the new Creator Discovery feature. The post Marketing on LinkedIn: What you need to know appeared first on MarTech .
+
+→ [https://martech.org/linkedin-the-marketers-guide/](https://martech.org/linkedin-the-marketers-guide/)
+
+### Get more from AI without spending more
+_Thu, 01 Oct 2026 12:25:00 +0000_
+
+AI usage gets expensive fast. Better prompting, reusable frameworks, prompt logs, and guardrails help teams get more, and spend less. The post Get more from AI without spending more appeared first on MarTech .
+
+→ [https://martech.org/get-more-from-ai-without-spending-more/](https://martech.org/get-more-from-ai-without-spending-more/)
+
+### Salesforce buys AI customer research startup Listen Labs
+_Wed, 30 Sep 2026 14:13:40 +0000_
+
+The AI research startup will bring customer interviews, analysis, and simulated customer behavior closer to Salesforce’s CRM and AI agents. The post Salesforce buys AI customer research startup Listen Labs appeared first on MarTech .
+
+→ [https://martech.org/salesforce-buys-ai-customer-research-startup-listen-labs/](https://martech.org/salesforce-buys-ai-customer-research-startup-listen-labs/)
 
 ---
