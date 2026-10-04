@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-03 08:56 UTC_
+_Päivitetty: 2026-10-04 09:31 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -164,5 +164,44 @@ _Fri, 02 Oct 2026 04:01:00 +0000_
 As creator marketing budgets grow, so do questions about what agencies are taking.
 
 → [https://digiday.com/marketing/future-of-marketing-briefing-agency-fees-in-creator-deals-are-the-next-transparency-headache-for-marketers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-agency-fees-in-creator-deals-are-the-next-transparency-headache-for-marketers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+---
+
+## MarTech
+
+### B2B marketing doesn’t have an ROI problem. It has an evidence problem.
+_Fri, 02 Oct 2026 12:45:00 +0000_
+
+Connect buyer journeys, marketing influence, and revenue across the B2B sales cycle — beyond campaign-level reporting. The post B2B marketing doesn’t have an ROI problem. It has an evidence problem. appeared first on MarTech .
+
+→ [https://martech.org/b2b-marketing-doesnt-have-an-roi-problem-it-has-an-evidence-problem/](https://martech.org/b2b-marketing-doesnt-have-an-roi-problem-it-has-an-evidence-problem/)
+
+### AI is making customers expect more and tolerate less
+_Fri, 02 Oct 2026 12:15:00 +0000_
+
+Faster service is part of AI’s promise. Customers aren't impressed when speed comes with unresolved problems and no easy way to reach a person. The post AI is making customers expect more and tolerate less appeared first on MarTech .
+
+→ [https://martech.org/ai-is-making-customers-expect-more-and-tolerate-less/](https://martech.org/ai-is-making-customers-expect-more-and-tolerate-less/)
+
+### 7 AI search myths busted by data
+_Thu, 01 Oct 2026 14:35:32 +0000_
+
+AI is changing search, but some of the loudest claims about traffic, content, measurement, and SEO jobs don’t hold up when you check the numbers. The post 7 AI search myths busted by data appeared first on MarTech .
+
+→ [https://martech.org/7-ai-search-myths-busted-by-data/](https://martech.org/7-ai-search-myths-busted-by-data/)
+
+### The latest AI-powered martech news and releases
+_Thu, 01 Oct 2026 13:59:39 +0000_
+
+Payments, identity, authorization, infrastructure, and trust could keep autonomous purchasing “just around the corner” for years. The post The latest AI-powered martech news and releases appeared first on MarTech .
+
+→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
+
+### Marketing on LinkedIn: What you need to know
+_Thu, 01 Oct 2026 12:56:00 +0000_
+
+Your guide to LinkedIn's tools, strategies and best practices. Updated with info on the new Creator Discovery feature. The post Marketing on LinkedIn: What you need to know appeared first on MarTech .
+
+→ [https://martech.org/linkedin-the-marketers-guide/](https://martech.org/linkedin-the-marketers-guide/)
 
 ---
