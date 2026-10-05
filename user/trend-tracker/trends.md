@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-04 09:31 UTC_
+_Päivitetty: 2026-10-05 10:07 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,40 +130,40 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### How TikTok is helping app advertisers rethink attribution
-_Fri, 02 Oct 2026 16:40:00 +0000_
+### OpenAI moves to make ChatGPT ads more measurable — and more visual
+_Mon, 05 Oct 2026 10:01:00 +0000_
 
-For app marketers, performance measurement often comes with a familiar challenge: the numbers do not always match. Partner insights from TikTok.
+OpenAI is adding a new format, measurement tools and brand suitability testing as it looks to attract bigger budgets.
 
-→ [https://digiday.com/sponsored/how-tiktok-is-helping-app-advertisers-rethink-attribution/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/how-tiktok-is-helping-app-advertisers-rethink-attribution/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/openai-moves-to-make-chatgpt-ads-more-measurable-and-more-visual/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/openai-moves-to-make-chatgpt-ads-more-measurable-and-more-visual/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Marketing’s upper middle embraces AI creative production
-_Fri, 02 Oct 2026 04:01:00 +0000_
+### Digiday Media Agency Report 2026: How agencies adapt to a media landscape shaped by AI and creators
+_Mon, 05 Oct 2026 04:01:00 +0000_
 
-Scaled AI creative production is becoming ordinary among CMOS outside the billion dollar club.
+Media agencies are navigating an increasingly complex advertising landscape — and advertisers are reassessing their media strategies.
 
-→ [https://digiday.com/marketing/marketings-upper-middle-embraces-ai-creative-production/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/marketings-upper-middle-embraces-ai-creative-production/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/digiday-media-agency-report-2026-how-agencies-adapt-to-a-media-landscape-shaped-by-ai-and-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/digiday-media-agency-report-2026-how-agencies-adapt-to-a-media-landscape-shaped-by-ai-and-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### ‘It scared the hell out of me’: What brands have learned from creator partnerships
-_Fri, 02 Oct 2026 04:01:00 +0000_
+### ‘The future is going to be in real life”: IRL events are becoming the new proof point for creator marketing
+_Mon, 05 Oct 2026 04:01:00 +0000_
 
-At Shoptalk Fall, brands like Favorite Daughter, SharkNinja and Bob's Discount Furniture talked about what they've learned from working with creators.
+Plenty of creators are making the same bet, and until recently most of them were the biggest names in the business.
 
-→ [https://digiday.com/marketing/it-scared-the-hell-out-of-me-what-brands-have-learned-from-creator-partnerships/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/it-scared-the-hell-out-of-me-what-brands-have-learned-from-creator-partnerships/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/the-future-is-going-to-be-in-real-life-irl-events-are-becoming-the-new-proof-point-for-creator-marketing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/the-future-is-going-to-be-in-real-life-irl-events-are-becoming-the-new-proof-point-for-creator-marketing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### SPUR publishes AI content tracking standard, pitches OpenAI and Google to join advisory board
-_Fri, 02 Oct 2026 04:01:00 +0000_
+### Media Buying Briefing: With so much at stake, midterm election spending is insane
+_Mon, 05 Oct 2026 04:01:00 +0000_
 
-Publishers are pushing for AI transparency with a new SPUR standard to track how AI tools use content, and inviting frontier AI labs to help.
+With a record $11.6 billion expected to be spent once all votes are cast and counted, this midterm election season is like none ever experienced before.
 
-→ [https://digiday.com/media/spur-publishes-ai-content-tracking-standard-pitches-openai-and-google-to-join-advisory-board/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/spur-publishes-ai-content-tracking-standard-pitches-openai-and-google-to-join-advisory-board/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/media-buying-briefing-with-so-much-at-stake-midterm-election-spending-is-insane/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-with-so-much-at-stake-midterm-election-spending-is-insane/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Future of Marketing Briefing: Agency fees in creator deals are the next transparency headache for marketers
-_Fri, 02 Oct 2026 04:01:00 +0000_
+### ‘We’re all going to live with uncertainty forever’: Advertising Week New York opens amid industry rebuild
+_Mon, 05 Oct 2026 04:01:00 +0000_
 
-As creator marketing budgets grow, so do questions about what agencies are taking.
+Why this year’s Advertising Week New York feels different (yes, we know we say that every year).
 
-→ [https://digiday.com/marketing/future-of-marketing-briefing-agency-fees-in-creator-deals-are-the-next-transparency-headache-for-marketers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-agency-fees-in-creator-deals-are-the-next-transparency-headache-for-marketers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/were-all-going-to-live-with-uncertainty-forever-advertising-week-new-york-opens-amid-industry-rebuild/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/were-all-going-to-live-with-uncertainty-forever-advertising-week-new-york-opens-amid-industry-rebuild/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
