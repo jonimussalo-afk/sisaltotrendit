@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-05 10:07 UTC_
+_Päivitetty: 2026-10-06 09:51 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,44 +130,72 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### OpenAI moves to make ChatGPT ads more measurable — and more visual
-_Mon, 05 Oct 2026 10:01:00 +0000_
+### How consumer healthcare brands are adapting FMCG media strategies
+_Tue, 06 Oct 2026 04:01:00 +0000_
 
-OpenAI is adding a new format, measurement tools and brand suitability testing as it looks to attract bigger budgets.
+Companies like Opella are borrowing from the consumer brand playbook as they pivot around shifting health habits. Can they adapt FMCG marketing without also importing the issues facing that category?
 
-→ [https://digiday.com/marketing/openai-moves-to-make-chatgpt-ads-more-measurable-and-more-visual/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/openai-moves-to-make-chatgpt-ads-more-measurable-and-more-visual/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/how-consumer-healthcare-brands-are-adapting-fmcg-media-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/how-consumer-healthcare-brands-are-adapting-fmcg-media-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Digiday Media Agency Report 2026: How agencies adapt to a media landscape shaped by AI and creators
-_Mon, 05 Oct 2026 04:01:00 +0000_
+### At S4 Capital’s Monks, agents can run autonomously, unsupervised for days
+_Tue, 06 Oct 2026 04:01:00 +0000_
 
-Media agencies are navigating an increasingly complex advertising landscape — and advertisers are reassessing their media strategies.
+S4 Capital’s digital agency now budgets for tokens and talent from the same pot.
 
-→ [https://digiday.com/media-buying/digiday-media-agency-report-2026-how-agencies-adapt-to-a-media-landscape-shaped-by-ai-and-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/digiday-media-agency-report-2026-how-agencies-adapt-to-a-media-landscape-shaped-by-ai-and-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### ‘The future is going to be in real life”: IRL events are becoming the new proof point for creator marketing
-_Mon, 05 Oct 2026 04:01:00 +0000_
+### Ad Tech Briefing: AppLovin and Unity’s dual explained
+_Tue, 06 Oct 2026 04:01:00 +0000_
 
-Plenty of creators are making the same bet, and until recently most of them were the biggest names in the business.
+The mobile advertising duo’s legal dual exposes a bigger question about who owns the data generated inside mobile ad auctions.
 
-→ [https://digiday.com/marketing/the-future-is-going-to-be-in-real-life-irl-events-are-becoming-the-new-proof-point-for-creator-marketing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/the-future-is-going-to-be-in-real-life-irl-events-are-becoming-the-new-proof-point-for-creator-marketing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/applovin/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/applovin/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Buying Briefing: With so much at stake, midterm election spending is insane
-_Mon, 05 Oct 2026 04:01:00 +0000_
+### Omnicom Media digs into the reasons people avoid ads — and offers solutions for clients
+_Tue, 06 Oct 2026 04:01:00 +0000_
 
-With a record $11.6 billion expected to be spent once all votes are cast and counted, this midterm election season is like none ever experienced before.
+As it dug into the reasons and ways consumers skip ads, Omnicom Media also laid out four ways to get them more interested in clients' messaging.
 
-→ [https://digiday.com/media-buying/media-buying-briefing-with-so-much-at-stake-midterm-election-spending-is-insane/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-with-so-much-at-stake-midterm-election-spending-is-insane/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/omnicom-media-digs-into-the-reasons-people-avoid-ads-and-offers-solutions-for-clients/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/omnicom-media-digs-into-the-reasons-people-avoid-ads-and-offers-solutions-for-clients/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### ‘We’re all going to live with uncertainty forever’: Advertising Week New York opens amid industry rebuild
-_Mon, 05 Oct 2026 04:01:00 +0000_
+### From The Brooklyn Nets to The Golden Girls, Digiday editors break down the state of ad agencies
+_Tue, 06 Oct 2026 04:01:00 +0000_
 
-Why this year’s Advertising Week New York feels different (yes, we know we say that every year).
+On the Digiday Podcast, Digiday staffers break down the state of play among major agencies using sports analogies and The Golden Girls.
 
-→ [https://digiday.com/marketing/were-all-going-to-live-with-uncertainty-forever-advertising-week-new-york-opens-amid-industry-rebuild/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/were-all-going-to-live-with-uncertainty-forever-advertising-week-new-york-opens-amid-industry-rebuild/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/podcasts/from-the-brooklyn-nets-to-the-golden-girls-digiday-editors-break-down-the-state-of-ad-agencies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/from-the-brooklyn-nets-to-the-golden-girls-digiday-editors-break-down-the-state-of-ad-agencies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### Apprenticeships are the key to saving early-career marketing roles
+_Mon, 05 Oct 2026 13:44:52 +0000_
+
+Junior roles face an unprecedented AI squeeze. Here is how to build structured apprenticeships to preserve the supply of marketing talent. The post Apprenticeships are the key to saving early-career marketing roles appeared first on MarTech .
+
+→ [https://martech.org/apprenticeships-are-the-key-to-saving-early-career-marketing-roles/](https://martech.org/apprenticeships-are-the-key-to-saving-early-career-marketing-roles/)
+
+### How to turn customer signals into smarter email automation
+_Mon, 05 Oct 2026 12:56:00 +0000_
+
+Use customer behavior, inaction, and contextual signals to build more relevant email automations and triggered campaigns. The post How to turn customer signals into smarter email automation appeared first on MarTech .
+
+→ [https://martech.org/how-to-turn-customer-signals-into-smarter-email-automation/](https://martech.org/how-to-turn-customer-signals-into-smarter-email-automation/)
+
+### How to maximize ROI with first-party data strategies
+_Mon, 05 Oct 2026 12:47:00 +0000_
+
+Signal loss is forcing a shift to value-exchange collection and native identity resolution to protect pipeline revenue. The post How to maximize ROI with first-party data strategies appeared first on MarTech .
+
+→ [https://martech.org/how-to-maximize-roi-with-first-party-data-strategies/](https://martech.org/how-to-maximize-roi-with-first-party-data-strategies/)
+
+### AI usage surges 6X for local search, fragmenting the digital ecosystem by SOCi
+_Mon, 05 Oct 2026 11:00:00 +0000_
+
+Local search behavior now straddles multiple platforms, with consumers traversing a 'verification loop' to find actionable information. The post AI usage surges 6X for local search, fragmenting the digital ecosystem appeared first on MarTech .
+
+→ [https://martech.org/ai-usage-surges-6x-for-local-search-fragmenting-the-digital-ecosystem/](https://martech.org/ai-usage-surges-6x-for-local-search-fragmenting-the-digital-ecosystem/)
 
 ### B2B marketing doesn’t have an ROI problem. It has an evidence problem.
 _Fri, 02 Oct 2026 12:45:00 +0000_
@@ -175,33 +203,5 @@ _Fri, 02 Oct 2026 12:45:00 +0000_
 Connect buyer journeys, marketing influence, and revenue across the B2B sales cycle — beyond campaign-level reporting. The post B2B marketing doesn’t have an ROI problem. It has an evidence problem. appeared first on MarTech .
 
 → [https://martech.org/b2b-marketing-doesnt-have-an-roi-problem-it-has-an-evidence-problem/](https://martech.org/b2b-marketing-doesnt-have-an-roi-problem-it-has-an-evidence-problem/)
-
-### AI is making customers expect more and tolerate less
-_Fri, 02 Oct 2026 12:15:00 +0000_
-
-Faster service is part of AI’s promise. Customers aren't impressed when speed comes with unresolved problems and no easy way to reach a person. The post AI is making customers expect more and tolerate less appeared first on MarTech .
-
-→ [https://martech.org/ai-is-making-customers-expect-more-and-tolerate-less/](https://martech.org/ai-is-making-customers-expect-more-and-tolerate-less/)
-
-### 7 AI search myths busted by data
-_Thu, 01 Oct 2026 14:35:32 +0000_
-
-AI is changing search, but some of the loudest claims about traffic, content, measurement, and SEO jobs don’t hold up when you check the numbers. The post 7 AI search myths busted by data appeared first on MarTech .
-
-→ [https://martech.org/7-ai-search-myths-busted-by-data/](https://martech.org/7-ai-search-myths-busted-by-data/)
-
-### The latest AI-powered martech news and releases
-_Thu, 01 Oct 2026 13:59:39 +0000_
-
-Payments, identity, authorization, infrastructure, and trust could keep autonomous purchasing “just around the corner” for years. The post The latest AI-powered martech news and releases appeared first on MarTech .
-
-→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
-
-### Marketing on LinkedIn: What you need to know
-_Thu, 01 Oct 2026 12:56:00 +0000_
-
-Your guide to LinkedIn's tools, strategies and best practices. Updated with info on the new Creator Discovery feature. The post Marketing on LinkedIn: What you need to know appeared first on MarTech .
-
-→ [https://martech.org/linkedin-the-marketers-guide/](https://martech.org/linkedin-the-marketers-guide/)
 
 ---
