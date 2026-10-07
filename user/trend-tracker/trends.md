@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-06 09:51 UTC_
+_Päivitetty: 2026-10-07 09:57 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,40 +52,40 @@ Saavuttamaton sisältö ei vain syrji käyttäjiä, vaan se heikentää tuloksia
 
 ## HubSpot Marketing Blog
 
-### GTM tech stack: What it is and how to build one
-_Fri, 02 Oct 2026 17:00:03 GMT_
+### AI agents for digital marketing: How to scale campaign execution without scaling headcount
+_Tue, 06 Oct 2026 12:00:06 GMT_
 
-A GTM tech stack is the set of tools a company uses to run go-to-market activities across the customer lifecycle. These platforms can make it easier to connect marketing, sales, and customer teams. But, if the pieces aren’t compatible, a business’ GTM tech stack is just another layer of disconnected tools. The difference comes down to how the…
+Digital marketing is one of the most process-intensive functions in marketing, and AI agents for digital marketing are changing how teams handle that load. Every campaign involves the same chain of tasks. Building audiences, setting up nurture sequences, writing follow-ups, and monitoring performance all have to happen every time, across every…
 
-→ [https://blog.hubspot.com/marketing/gtm-tech-stack](https://blog.hubspot.com/marketing/gtm-tech-stack)
+→ [https://blog.hubspot.com/marketing/ai-agent-guide-for-digital-marketing](https://blog.hubspot.com/marketing/ai-agent-guide-for-digital-marketing)
 
-### Diagnosing AEO gaps: A content audit guide
-_Thu, 01 Oct 2026 18:30:05 GMT_
+### AEO for outreach: How to earn citations and placements that build AI visibility
+_Tue, 06 Oct 2026 12:00:05 GMT_
 
-If you’ve been asked to diagnose and fix AEO gaps, the first step is to conduct an audit. For most brands, an AEO gap is any reason an AI answer engine can’t (or won’t) use its page as a source.
+Link-building and content outreach were built for search engines. Domain authority, anchor text, and referring domains were the signals that moved search rankings, and they translated directly into an SEO playbook you could run at scale. Answer engines don’t work the same way.
 
-→ [https://blog.hubspot.com/marketing/fix-aeo-gaps](https://blog.hubspot.com/marketing/fix-aeo-gaps)
+→ [https://blog.hubspot.com/marketing/aeo-guide-for-outreach](https://blog.hubspot.com/marketing/aeo-guide-for-outreach)
 
-### How to use vector embeddings in AEO
-_Wed, 30 Sep 2026 17:30:04 GMT_
+### AEO for content marketers: How to capture awareness and drive revenue with content
+_Tue, 06 Oct 2026 12:00:04 GMT_
 
-A vector embedding is a numerical representation created by an embedding model. The model converts text into a list of numbers that can be compared with other vectors, helping a retrieval system find passages with similar meaning even when they use different words. Semantic retrieval is one tool AI systems can use to find source material; modern…
+Content marketers are used to publishing consistently, earning trust, and measuring how content contributes to demand. But now, buyers also do their research in AI assistants and answer engines, sometimes without clicking through to a website.&nbsp;
 
-→ [https://blog.hubspot.com/marketing/vector-embeddings-aeo](https://blog.hubspot.com/marketing/vector-embeddings-aeo)
+→ [https://blog.hubspot.com/marketing/aeo-guide-for-content-marketers](https://blog.hubspot.com/marketing/aeo-guide-for-content-marketers)
 
-### AI search optimization tools: What actually works in 2026
-_Wed, 30 Sep 2026 17:30:04 GMT_
+### AEO for brand marketing: How to ensure your brand narrative shows up accurately in AI results
+_Tue, 06 Oct 2026 12:00:03 GMT_
 
-AI search optimization tools help marketers understand where a brand appears in AI-generated answers, which sources earn citations, and what to improve next. They complement traditional SEO tools rather than replace them: SEO measures rankings, clicks, and organic traffic, while AI-search tooling adds visibility signals such as mentions,…
+Brand marketing has always been about controlling the narrative, so that the story your company tells about itself is the one the market hears. That job has gotten harder.
 
-→ [https://blog.hubspot.com/marketing/ai-search-optimization-tools](https://blog.hubspot.com/marketing/ai-search-optimization-tools)
+→ [https://blog.hubspot.com/marketing/aeo-guide-for-brand-marketing](https://blog.hubspot.com/marketing/aeo-guide-for-brand-marketing)
 
-### Profound vs. Athena AI for AEO: How the tools compare
-_Tue, 29 Sep 2026 17:00:02 GMT_
+### AEO for SEO: How to maintain search visibility as buyers move to answer engines
+_Tue, 06 Oct 2026 12:00:03 GMT_
 
-If you’ve searched “Profound versus Athena AI for AEO,” you’ve probably already hit a wall: every comparison you find is written by a competitor, an affiliate, or the vendors themselves.
+Search engine optimization (SEO) teams have long used rankings, organic traffic, and conversions to understand how people find and engage with content. Those signals still matter, but they don’t show whether a brand appears in AI-generated answers.
 
-→ [https://blog.hubspot.com/marketing/profound-vs-athenahq](https://blog.hubspot.com/marketing/profound-vs-athenahq)
+→ [https://blog.hubspot.com/marketing/aeo-guide-for-seo](https://blog.hubspot.com/marketing/aeo-guide-for-seo)
 
 ---
 
@@ -130,44 +130,72 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### How consumer healthcare brands are adapting FMCG media strategies
-_Tue, 06 Oct 2026 04:01:00 +0000_
+### ‘Defensible to the CFO’: Prime Day catalyzes Amazon video and DSP spend growth
+_Wed, 07 Oct 2026 04:01:00 +0000_
 
-Companies like Opella are borrowing from the consumer brand playbook as they pivot around shifting health habits. Can they adapt FMCG marketing without also importing the issues facing that category?
+Advertisers are wary of discounting away their profit margins, but find it hard to argue against increasing ad spend with e-commerce titan.
 
-→ [https://digiday.com/media-buying/how-consumer-healthcare-brands-are-adapting-fmcg-media-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/how-consumer-healthcare-brands-are-adapting-fmcg-media-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/defensible-to-the-cfo-prime-day-catalyzes-amazon-video-and-dsp-spend-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/defensible-to-the-cfo-prime-day-catalyzes-amazon-video-and-dsp-spend-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### At S4 Capital’s Monks, agents can run autonomously, unsupervised for days
-_Tue, 06 Oct 2026 04:01:00 +0000_
+### Omnicom Media and Rembrand partner to evolve in-content ad placements
+_Wed, 07 Oct 2026 04:01:00 +0000_
 
-S4 Capital’s digital agency now budgets for tokens and talent from the same pot.
+The holdco and the ad-tech platform are taking in-content ad insertion to a new level, identifying scenes that can be monetized contextually.
 
-→ [https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/omnicom-media-and-rembrand-partner-to-evolve-in-content-ad-placements/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/omnicom-media-and-rembrand-partner-to-evolve-in-content-ad-placements/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Ad Tech Briefing: AppLovin and Unity’s dual explained
-_Tue, 06 Oct 2026 04:01:00 +0000_
+### From influencers to AI, here’s what Gen Alpha thinks about your brand
+_Wed, 07 Oct 2026 04:01:00 +0000_
 
-The mobile advertising duo’s legal dual exposes a bigger question about who owns the data generated inside mobile ad auctions.
+The Gen Alpha cohort now influences nearly half of total U.S. household spending in families with children ages 8-14.
 
-→ [https://digiday.com/media-buying/applovin/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/applovin/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/from-influencers-to-ai-heres-what-gen-alpha-thinks-about-your-brand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/from-influencers-to-ai-heres-what-gen-alpha-thinks-about-your-brand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Omnicom Media digs into the reasons people avoid ads — and offers solutions for clients
-_Tue, 06 Oct 2026 04:01:00 +0000_
+### Future of TV Briefing: Hispanic TV-and-streaming viewership in 4 charts
+_Wed, 07 Oct 2026 04:01:00 +0000_
 
-As it dug into the reasons and ways consumers skip ads, Omnicom Media also laid out four ways to get them more interested in clients' messaging.
+This week’s Future of TV Briefing looks at how Hispanic audiences spend their time between traditional TV and streaming.
 
-→ [https://digiday.com/media-buying/omnicom-media-digs-into-the-reasons-people-avoid-ads-and-offers-solutions-for-clients/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/omnicom-media-digs-into-the-reasons-people-avoid-ads-and-offers-solutions-for-clients/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/future-of-tv/future-of-tv-briefing-hispanic-tv-and-streaming-viewership-in-4-charts/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-hispanic-tv-and-streaming-viewership-in-4-charts/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### From The Brooklyn Nets to The Golden Girls, Digiday editors break down the state of ad agencies
-_Tue, 06 Oct 2026 04:01:00 +0000_
+### Apple’s secret blocklist is the talk of Advertising Week New York (mostly off the record)
+_Wed, 07 Oct 2026 04:01:00 +0000_
 
-On the Digiday Podcast, Digiday staffers break down the state of play among major agencies using sports analogies and The Golden Girls.
+Ad execs at Advertising Week want to know one thing: are they on Apple’s block list.
 
-→ [https://digiday.com/podcasts/from-the-brooklyn-nets-to-the-golden-girls-digiday-editors-break-down-the-state-of-ad-agencies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/from-the-brooklyn-nets-to-the-golden-girls-digiday-editors-break-down-the-state-of-ad-agencies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/apples-secret-blocklist-is-the-talk-of-advertising-week-new-york-mostly-off-the-record/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/apples-secret-blocklist-is-the-talk-of-advertising-week-new-york-mostly-off-the-record/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### Treasure AI takes on two martech headaches at once
+_Tue, 06 Oct 2026 15:06:01 +0000_
+
+Personalization Studio targets marketers’ dependence on technical teams. A new pricing model ties email costs more closely to engagement. The post Treasure AI takes on two martech headaches at once appeared first on MarTech .
+
+→ [https://martech.org/treasure-ai-takes-on-two-martech-headaches-at-once/](https://martech.org/treasure-ai-takes-on-two-martech-headaches-at-once/)
+
+### How to strengthen your brand story to improve AEO visibility
+_Tue, 06 Oct 2026 12:58:00 +0000_
+
+What others say about your brand can influence how it appears in AI answers. Learn how to audit, update, and reinforce your brand story across the web. The post How to strengthen your brand story to improve AEO visibility appeared first on MarTech .
+
+→ [https://martech.org/how-to-strengthen-your-brand-story-to-improve-aeo-visibility/](https://martech.org/how-to-strengthen-your-brand-story-to-improve-aeo-visibility/)
+
+### OpenAI adds visuals to ChatGPT ads
+_Tue, 06 Oct 2026 12:40:00 +0000_
+
+OpenAI is expanding ChatGPT ads with visual formats and better measurement, but bots are already inflating click through numbers. The post OpenAI adds visuals to ChatGPT ads appeared first on MarTech .
+
+→ [https://martech.org/openai-ads-visuals-to-chatgpt-ad/](https://martech.org/openai-ads-visuals-to-chatgpt-ad/)
+
+### How to tell if AI advice is worth your attention
+_Tue, 06 Oct 2026 12:18:00 +0000_
+
+Before adopting the latest AI tactic, look for evidence, experience, and results you can replicate — and make sure the solution solves a real problem. The post How to tell if AI advice is worth your attention appeared first on MarTech .
+
+→ [https://martech.org/how-to-tell-if-ai-advice-is-worth-your-attention/](https://martech.org/how-to-tell-if-ai-advice-is-worth-your-attention/)
 
 ### Apprenticeships are the key to saving early-career marketing roles
 _Mon, 05 Oct 2026 13:44:52 +0000_
@@ -175,33 +203,5 @@ _Mon, 05 Oct 2026 13:44:52 +0000_
 Junior roles face an unprecedented AI squeeze. Here is how to build structured apprenticeships to preserve the supply of marketing talent. The post Apprenticeships are the key to saving early-career marketing roles appeared first on MarTech .
 
 → [https://martech.org/apprenticeships-are-the-key-to-saving-early-career-marketing-roles/](https://martech.org/apprenticeships-are-the-key-to-saving-early-career-marketing-roles/)
-
-### How to turn customer signals into smarter email automation
-_Mon, 05 Oct 2026 12:56:00 +0000_
-
-Use customer behavior, inaction, and contextual signals to build more relevant email automations and triggered campaigns. The post How to turn customer signals into smarter email automation appeared first on MarTech .
-
-→ [https://martech.org/how-to-turn-customer-signals-into-smarter-email-automation/](https://martech.org/how-to-turn-customer-signals-into-smarter-email-automation/)
-
-### How to maximize ROI with first-party data strategies
-_Mon, 05 Oct 2026 12:47:00 +0000_
-
-Signal loss is forcing a shift to value-exchange collection and native identity resolution to protect pipeline revenue. The post How to maximize ROI with first-party data strategies appeared first on MarTech .
-
-→ [https://martech.org/how-to-maximize-roi-with-first-party-data-strategies/](https://martech.org/how-to-maximize-roi-with-first-party-data-strategies/)
-
-### AI usage surges 6X for local search, fragmenting the digital ecosystem by SOCi
-_Mon, 05 Oct 2026 11:00:00 +0000_
-
-Local search behavior now straddles multiple platforms, with consumers traversing a 'verification loop' to find actionable information. The post AI usage surges 6X for local search, fragmenting the digital ecosystem appeared first on MarTech .
-
-→ [https://martech.org/ai-usage-surges-6x-for-local-search-fragmenting-the-digital-ecosystem/](https://martech.org/ai-usage-surges-6x-for-local-search-fragmenting-the-digital-ecosystem/)
-
-### B2B marketing doesn’t have an ROI problem. It has an evidence problem.
-_Fri, 02 Oct 2026 12:45:00 +0000_
-
-Connect buyer journeys, marketing influence, and revenue across the B2B sales cycle — beyond campaign-level reporting. The post B2B marketing doesn’t have an ROI problem. It has an evidence problem. appeared first on MarTech .
-
-→ [https://martech.org/b2b-marketing-doesnt-have-an-roi-problem-it-has-an-evidence-problem/](https://martech.org/b2b-marketing-doesnt-have-an-roi-problem-it-has-an-evidence-problem/)
 
 ---
