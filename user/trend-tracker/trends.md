@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-07 09:57 UTC_
+_Päivitetty: 2026-10-08 10:10 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -10,6 +10,13 @@ _Päivitetty: 2026-10-07 09:57 UTC_
 # 🇫🇮 Kotimaiset lähteet
 
 ## Digimarkkinointi.fi
+
+### Miten seurata yrityksen AI-näkyvyyttä eri lähteistä?
+_Thu, 08 Oct 2026 06:58:02 +0000_
+
+Moni asiakas kysyy nykyään suosituksia ChatGPT:ltä eikä Googlelta. Miten selvität, mainitseeko AI yrityksesi ja millä sävyllä? The post Miten seurata yrityksen AI-näkyvyyttä eri lähteistä? appeared first on SDM Digital .
+
+→ [https://sdm.fi/blogi/miten-seurata-yrityksen-ai-nakyvyytta-eri-lahteista/](https://sdm.fi/blogi/miten-seurata-yrityksen-ai-nakyvyytta-eri-lahteista/)
 
 ### Datastrategia ratkaisee AI:n aikakaudella: onko yrityksesi data kasvun mahdollistaja vai este?
 _Fri, 18 Sep 2026 12:42:09 +0000_
@@ -39,18 +46,25 @@ Mitä kuvien optimointi nykypäivänä tarkoittaa? The post Miten kuvia kannatta
 
 → [https://sdm.fi/blogi/kuvien-optimointi-tekoalyn-saavutettavuuden-aikakaudella/](https://sdm.fi/blogi/kuvien-optimointi-tekoalyn-saavutettavuuden-aikakaudella/)
 
-### Saavutettavuus sosiaalisessa mediassa: kuinka sitä voi toteuttaa ja miksi se on tärkeää?
-_Mon, 29 Jun 2026 11:03:27 +0000_
-
-Saavuttamaton sisältö ei vain syrji käyttäjiä, vaan se heikentää tuloksia koko ostopolulla. The post Saavutettavuus sosiaalisessa mediassa: kuinka sitä voi toteuttaa ja miksi se on tärkeää? appeared first on SDM Digital .
-
-→ [https://sdm.fi/blogi/saavutettavuus-sosiaalisessa-mediassa/](https://sdm.fi/blogi/saavutettavuus-sosiaalisessa-mediassa/)
-
 ---
 
 # 🌍 Kansainväliset lähteet
 
 ## HubSpot Marketing Blog
+
+### The best enterprise email marketing software in 2026
+_Wed, 07 Oct 2026 18:00:03 GMT_
+
+Enterprise email marketing software is built for high-volume programs that span teams, brands, and regions. With so much software available, the hard part comes before and after the send — whether governance keeps every team within the rules, CRM-native data surfaces the right consented audience, and attribution connects email engagement to…
+
+→ [https://blog.hubspot.com/marketing/best-enterprise-email-marketing-tools](https://blog.hubspot.com/marketing/best-enterprise-email-marketing-tools)
+
+### How AI search optimization works for modern marketers
+_Wed, 07 Oct 2026 18:00:03 GMT_
+
+Today, when a buyer asks ChatGPT, Perplexity, or Google’s AI Mode a question, they rarely see a list of suggested links. They see one synthesized answer that cites a handful of sources. If your brand is one of those citations, you win attention, traffic, and trust. If it isn’t, you’re invisible, even when you rank on page one.
+
+→ [https://blog.hubspot.com/marketing/how-ai-search-optimization-works](https://blog.hubspot.com/marketing/how-ai-search-optimization-works)
 
 ### AI agents for digital marketing: How to scale campaign execution without scaling headcount
 _Tue, 06 Oct 2026 12:00:06 GMT_
@@ -72,20 +86,6 @@ _Tue, 06 Oct 2026 12:00:04 GMT_
 Content marketers are used to publishing consistently, earning trust, and measuring how content contributes to demand. But now, buyers also do their research in AI assistants and answer engines, sometimes without clicking through to a website.&nbsp;
 
 → [https://blog.hubspot.com/marketing/aeo-guide-for-content-marketers](https://blog.hubspot.com/marketing/aeo-guide-for-content-marketers)
-
-### AEO for brand marketing: How to ensure your brand narrative shows up accurately in AI results
-_Tue, 06 Oct 2026 12:00:03 GMT_
-
-Brand marketing has always been about controlling the narrative, so that the story your company tells about itself is the one the market hears. That job has gotten harder.
-
-→ [https://blog.hubspot.com/marketing/aeo-guide-for-brand-marketing](https://blog.hubspot.com/marketing/aeo-guide-for-brand-marketing)
-
-### AEO for SEO: How to maintain search visibility as buyers move to answer engines
-_Tue, 06 Oct 2026 12:00:03 GMT_
-
-Search engine optimization (SEO) teams have long used rankings, organic traffic, and conversions to understand how people find and engage with content. Those signals still matter, but they don’t show whether a brand appears in AI-generated answers.
-
-→ [https://blog.hubspot.com/marketing/aeo-guide-for-seo](https://blog.hubspot.com/marketing/aeo-guide-for-seo)
 
 ---
 
@@ -130,44 +130,72 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### ‘Defensible to the CFO’: Prime Day catalyzes Amazon video and DSP spend growth
-_Wed, 07 Oct 2026 04:01:00 +0000_
+### ‘There’s nothing wrong with being a heritage brand’: How Revlon is updating its image by looking to the past
+_Thu, 08 Oct 2026 04:01:00 +0000_
 
-Advertisers are wary of discounting away their profit margins, but find it hard to argue against increasing ad spend with e-commerce titan.
+Revlon named musician and actress Teyana Taylor and country music star Megan Moroney as the faces of its “Revlon Be Unforgettable” campaign.
 
-→ [https://digiday.com/media-buying/defensible-to-the-cfo-prime-day-catalyzes-amazon-video-and-dsp-spend-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/defensible-to-the-cfo-prime-day-catalyzes-amazon-video-and-dsp-spend-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/theres-nothing-wrong-with-being-a-heritage-brand-how-revlon-is-updating-its-image-by-looking-to-the-past/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/theres-nothing-wrong-with-being-a-heritage-brand-how-revlon-is-updating-its-image-by-looking-to-the-past/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Omnicom Media and Rembrand partner to evolve in-content ad placements
-_Wed, 07 Oct 2026 04:01:00 +0000_
+### Inside agency OK Future’s AI ‘pressure cooker’ experiment with Goodwipes
+_Thu, 08 Oct 2026 04:01:00 +0000_
 
-The holdco and the ad-tech platform are taking in-content ad insertion to a new level, identifying scenes that can be monetized contextually.
+OK Future cut Goodwipes’ AI spoof from six weeks to four days, exposing big savings and burnout risks.
 
-→ [https://digiday.com/media-buying/omnicom-media-and-rembrand-partner-to-evolve-in-content-ad-placements/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/omnicom-media-and-rembrand-partner-to-evolve-in-content-ad-placements/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/inside-agency-ok-futures-ai-pressure-cooker-experiment-with-goodwipes/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/inside-agency-ok-futures-ai-pressure-cooker-experiment-with-goodwipes/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### From influencers to AI, here’s what Gen Alpha thinks about your brand
-_Wed, 07 Oct 2026 04:01:00 +0000_
+### As agencies push agentic media future, execs work to ward off client rogue fears
+_Thu, 08 Oct 2026 04:01:00 +0000_
 
-The Gen Alpha cohort now influences nearly half of total U.S. household spending in families with children ages 8-14.
+Agentic media tools dominate agency pitch decks; just don't mention the Hugging Face Incident.
 
-→ [https://digiday.com/marketing/from-influencers-to-ai-heres-what-gen-alpha-thinks-about-your-brand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/from-influencers-to-ai-heres-what-gen-alpha-thinks-about-your-brand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/as-agencies-push-agentic-media-future-execs-work-to-ward-off-client-rogue-fears/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/as-agencies-push-agentic-media-future-execs-work-to-ward-off-client-rogue-fears/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Future of TV Briefing: Hispanic TV-and-streaming viewership in 4 charts
-_Wed, 07 Oct 2026 04:01:00 +0000_
+### Heineken serves up outcomes with mixed attention and brand awareness approach
+_Thu, 08 Oct 2026 04:01:00 +0000_
 
-This week’s Future of TV Briefing looks at how Hispanic audiences spend their time between traditional TV and streaming.
+With budgets under constant pressure, in-house teams at Heineken are turning to novel brand metrics to justify digital ad spend on the open web.
 
-→ [https://digiday.com/future-of-tv/future-of-tv-briefing-hispanic-tv-and-streaming-viewership-in-4-charts/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-hispanic-tv-and-streaming-viewership-in-4-charts/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/heineken-aims-to-serve-up-outcomes-with-mixed-attention-and-brand-awareness-approach/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/heineken-aims-to-serve-up-outcomes-with-mixed-attention-and-brand-awareness-approach/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Apple’s secret blocklist is the talk of Advertising Week New York (mostly off the record)
-_Wed, 07 Oct 2026 04:01:00 +0000_
+### Apple’s Safari ad tech blocklist sends publishers back to IAB Tech Lab’s Trusted Server
+_Thu, 08 Oct 2026 04:01:00 +0000_
 
-Ad execs at Advertising Week want to know one thing: are they on Apple’s block list.
+What publishers once filed under someday now has a deadline, and Apple set it.
 
-→ [https://digiday.com/media-buying/apples-secret-blocklist-is-the-talk-of-advertising-week-new-york-mostly-off-the-record/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/apples-secret-blocklist-is-the-talk-of-advertising-week-new-york-mostly-off-the-record/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/apples-safari-ad-tech-blocklist-sends-publishers-back-to-iab-tech-labs-trusted-server/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/apples-safari-ad-tech-blocklist-sends-publishers-back-to-iab-tech-labs-trusted-server/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### Classic marketing automation is dead: What’s next?
+_Wed, 07 Oct 2026 13:52:00 +0000_
+
+Rule-based automation is giving way to truly autonomous marketing. Discover how human-in-the-loop design frees your team to focus on real business outcomes. The post Classic marketing automation is dead: What’s next? appeared first on MarTech .
+
+→ [https://martech.org/classic-marketing-automation-is-dead-whats-next/](https://martech.org/classic-marketing-automation-is-dead-whats-next/)
+
+### When marketing automation moves too fast
+_Wed, 07 Oct 2026 13:06:00 +0000_
+
+Hyper-efficient funnels may boost short-term performance while eroding trust and marketer agency. Here’s where to draw the line. The post When marketing automation moves too fast appeared first on MarTech .
+
+→ [https://martech.org/when-marketing-automation-moves-too-fast/](https://martech.org/when-marketing-automation-moves-too-fast/)
+
+### 20 years and billions of dollars later, CX still has the same problem
+_Wed, 07 Oct 2026 12:16:00 +0000_
+
+Despite decades of CX investment, companies still struggle to deliver the experiences they think they do. Here’s what’s getting in the way. The post 20 years and billions of dollars later, CX still has the same problem appeared first on MarTech .
+
+→ [https://martech.org/20-years-and-billions-of-dollars-later-cx-still-has-the-same-problem/](https://martech.org/20-years-and-billions-of-dollars-later-cx-still-has-the-same-problem/)
+
+### Stop letting AI make your marketing decisions by Brick Marketing
+_Wed, 07 Oct 2026 11:00:00 +0000_
+
+AI can support marketing implementation, but experienced marketers must guide strategy, evaluate work and stay accountable for results. The post Stop letting AI make your marketing decisions appeared first on MarTech .
+
+→ [https://martech.org/stop-letting-ai-make-your-marketing-decisions/](https://martech.org/stop-letting-ai-make-your-marketing-decisions/)
 
 ### Treasure AI takes on two martech headaches at once
 _Tue, 06 Oct 2026 15:06:01 +0000_
@@ -175,33 +203,5 @@ _Tue, 06 Oct 2026 15:06:01 +0000_
 Personalization Studio targets marketers’ dependence on technical teams. A new pricing model ties email costs more closely to engagement. The post Treasure AI takes on two martech headaches at once appeared first on MarTech .
 
 → [https://martech.org/treasure-ai-takes-on-two-martech-headaches-at-once/](https://martech.org/treasure-ai-takes-on-two-martech-headaches-at-once/)
-
-### How to strengthen your brand story to improve AEO visibility
-_Tue, 06 Oct 2026 12:58:00 +0000_
-
-What others say about your brand can influence how it appears in AI answers. Learn how to audit, update, and reinforce your brand story across the web. The post How to strengthen your brand story to improve AEO visibility appeared first on MarTech .
-
-→ [https://martech.org/how-to-strengthen-your-brand-story-to-improve-aeo-visibility/](https://martech.org/how-to-strengthen-your-brand-story-to-improve-aeo-visibility/)
-
-### OpenAI adds visuals to ChatGPT ads
-_Tue, 06 Oct 2026 12:40:00 +0000_
-
-OpenAI is expanding ChatGPT ads with visual formats and better measurement, but bots are already inflating click through numbers. The post OpenAI adds visuals to ChatGPT ads appeared first on MarTech .
-
-→ [https://martech.org/openai-ads-visuals-to-chatgpt-ad/](https://martech.org/openai-ads-visuals-to-chatgpt-ad/)
-
-### How to tell if AI advice is worth your attention
-_Tue, 06 Oct 2026 12:18:00 +0000_
-
-Before adopting the latest AI tactic, look for evidence, experience, and results you can replicate — and make sure the solution solves a real problem. The post How to tell if AI advice is worth your attention appeared first on MarTech .
-
-→ [https://martech.org/how-to-tell-if-ai-advice-is-worth-your-attention/](https://martech.org/how-to-tell-if-ai-advice-is-worth-your-attention/)
-
-### Apprenticeships are the key to saving early-career marketing roles
-_Mon, 05 Oct 2026 13:44:52 +0000_
-
-Junior roles face an unprecedented AI squeeze. Here is how to build structured apprenticeships to preserve the supply of marketing talent. The post Apprenticeships are the key to saving early-career marketing roles appeared first on MarTech .
-
-→ [https://martech.org/apprenticeships-are-the-key-to-saving-early-career-marketing-roles/](https://martech.org/apprenticeships-are-the-key-to-saving-early-career-marketing-roles/)
 
 ---
