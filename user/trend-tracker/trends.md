@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-08 10:10 UTC_
+_Päivitetty: 2026-10-09 10:11 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,40 +52,40 @@ Mitä kuvien optimointi nykypäivänä tarkoittaa? The post Miten kuvia kannatta
 
 ## HubSpot Marketing Blog
 
-### The best enterprise email marketing software in 2026
-_Wed, 07 Oct 2026 18:00:03 GMT_
+### AEO for digital PR: How to build earned media presence that shows up in AI results
+_Thu, 08 Oct 2026 20:09:15 GMT_
 
-Enterprise email marketing software is built for high-volume programs that span teams, brands, and regions. With so much software available, the hard part comes before and after the send — whether governance keeps every team within the rules, CRM-native data surfaces the right consented audience, and attribution connects email engagement to…
+Digital PR has always been about earning coverage that influences the audience you can’t reach through paid channels. While the value proposition of digital PR hasn’t changed, the definition of “showing up” has.
 
-→ [https://blog.hubspot.com/marketing/best-enterprise-email-marketing-tools](https://blog.hubspot.com/marketing/best-enterprise-email-marketing-tools)
+→ [https://blog.hubspot.com/marketing/aeo-guide-for-digital-pr](https://blog.hubspot.com/marketing/aeo-guide-for-digital-pr)
 
-### How AI search optimization works for modern marketers
-_Wed, 07 Oct 2026 18:00:03 GMT_
+### AEO for marketing agencies: How to deliver measurable AI visibility results for every client
+_Thu, 08 Oct 2026 20:05:40 GMT_
 
-Today, when a buyer asks ChatGPT, Perplexity, or Google’s AI Mode a question, they rarely see a list of suggested links. They see one synthesized answer that cites a handful of sources. If your brand is one of those citations, you win attention, traffic, and trust. If it isn’t, you’re invisible, even when you rank on page one.
+Clients are asking about AEO. Some have seen competitors show up in AI results and want to know what it means. Others have read that AI is changing how buyers find vendors and want to know what their agency is doing about it.
 
-→ [https://blog.hubspot.com/marketing/how-ai-search-optimization-works](https://blog.hubspot.com/marketing/how-ai-search-optimization-works)
+→ [https://blog.hubspot.com/marketing/aeo-guide-for-marketing-agencies](https://blog.hubspot.com/marketing/aeo-guide-for-marketing-agencies)
 
-### AI agents for digital marketing: How to scale campaign execution without scaling headcount
-_Tue, 06 Oct 2026 12:00:06 GMT_
+### Enterprise AEO: How to manage brand visibility at scale across products, segments, and markets
+_Thu, 08 Oct 2026 20:02:20 GMT_
 
-Digital marketing is one of the most process-intensive functions in marketing, and AI agents for digital marketing are changing how teams handle that load. Every campaign involves the same chain of tasks. Building audiences, setting up nurture sequences, writing follow-ups, and monitoring performance all have to happen every time, across every…
+Enterprise brand teams face a complex version of AEO that most tools weren’t built for. A single brand might span a dozen product lines, operate in multiple languages, and compete in markets where local answer engines have their own citation patterns.
 
-→ [https://blog.hubspot.com/marketing/ai-agent-guide-for-digital-marketing](https://blog.hubspot.com/marketing/ai-agent-guide-for-digital-marketing)
+→ [https://blog.hubspot.com/marketing/aeo-guide-for-enterprise](https://blog.hubspot.com/marketing/aeo-guide-for-enterprise)
 
-### AEO for outreach: How to earn citations and placements that build AI visibility
-_Tue, 06 Oct 2026 12:00:05 GMT_
+### AEO for marketing operations: How to build scalable processes that connect AEO to revenue
+_Thu, 08 Oct 2026 19:58:36 GMT_
 
-Link-building and content outreach were built for search engines. Domain authority, anchor text, and referring domains were the signals that moved search rankings, and they translated directly into an SEO playbook you could run at scale. Answer engines don’t work the same way.
+Buyer behavior has changed since the advent of artificial intelligence. Now, before ever filling out a form or clicking an ad, prospects are likely asking AI for recommendations, comparing vendors, and gathering answers. Those interactions shape which companies make the shortlist, but they often happen outside the systems marketing operations…
 
-→ [https://blog.hubspot.com/marketing/aeo-guide-for-outreach](https://blog.hubspot.com/marketing/aeo-guide-for-outreach)
+→ [https://blog.hubspot.com/marketing/aeo-guide-for-marketing-operations](https://blog.hubspot.com/marketing/aeo-guide-for-marketing-operations)
 
-### AEO for content marketers: How to capture awareness and drive revenue with content
-_Tue, 06 Oct 2026 12:00:04 GMT_
+### AEO for demand generation teams: How to generate qualified pipeline as AI reshapes buyer discovery
+_Thu, 08 Oct 2026 19:55:48 GMT_
 
-Content marketers are used to publishing consistently, earning trust, and measuring how content contributes to demand. But now, buyers also do their research in AI assistants and answer engines, sometimes without clicking through to a website.&nbsp;
+Demand generation has been built around the assumption that buyers will come to a brand when they are ready to learn about its category, whether through search, ads, content, or other channels. The funnel starts when a prospect arrives somewhere the business can see, measure, and influence it. But AI is changing what happens before that point.
 
-→ [https://blog.hubspot.com/marketing/aeo-guide-for-content-marketers](https://blog.hubspot.com/marketing/aeo-guide-for-content-marketers)
+→ [https://blog.hubspot.com/marketing/aeo-guide-for-demand-generation-teams](https://blog.hubspot.com/marketing/aeo-guide-for-demand-generation-teams)
 
 ---
 
@@ -130,78 +130,39 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### ‘Mission and capital can coexist’: Golden State Valkyries’ Jess Smith on pitch to sponsors
+_Fri, 09 Oct 2026 04:01:00 +0000_
+
+The WNBA’s newest team must navigate measurement demands and marketers wanting to share in the ‘mission’ if it’s to establish a commercial foothold.
+
+→ [https://digiday.com/marketing/mission-and-capital-can-coexist-golden-state-valkyries-jess-smith-on-pitch-to-sponsors/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/mission-and-capital-can-coexist-golden-state-valkyries-jess-smith-on-pitch-to-sponsors/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### As creators increasingly move into Hollywood, deal terms can put their IP at risk
+_Fri, 09 Oct 2026 04:01:00 +0000_
+
+Advertising Week New York explored the business of creator-led programming across entertainment, and the problems arising within it
+
+→ [https://digiday.com/media/as-creators-increasingly-move-into-hollywood-deal-terms-can-put-their-ip-at-risk/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/as-creators-increasingly-move-into-hollywood-deal-terms-can-put-their-ip-at-risk/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Future of Marketing Briefing: Why top creators are taking fewer brand deals
+_Fri, 09 Oct 2026 04:01:00 +0000_
+
+The biggest creators are cutting their brand rosters and asking more of the partners they keep.
+
+→ [https://digiday.com/marketing/future-of-marketing-briefing-why-top-creators-are-taking-fewer-brand-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-why-top-creators-are-taking-fewer-brand-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Interoperability may be the future, but it cannot be an entire AI strategy
+_Thu, 08 Oct 2026 20:58:56 +0000_
+
+Patricia Clark, vp, go-to-market, Nexxen AI has become more than the topic du jour. It&#8217;s the topic of the year — and probably the decade — in and outside the world of advertising. For agencies, AI presents particularly compelling opportunities: less manual work, faster insights and a greater ability to connect planning, activation,…
+
+→ [https://digiday.com/sponsored/interoperability-may-be-the-future-but-it-cannot-be-an-entire-ai-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/interoperability-may-be-the-future-but-it-cannot-be-an-entire-ai-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### ‘There’s nothing wrong with being a heritage brand’: How Revlon is updating its image by looking to the past
 _Thu, 08 Oct 2026 04:01:00 +0000_
 
 Revlon named musician and actress Teyana Taylor and country music star Megan Moroney as the faces of its “Revlon Be Unforgettable” campaign.
 
 → [https://digiday.com/marketing/theres-nothing-wrong-with-being-a-heritage-brand-how-revlon-is-updating-its-image-by-looking-to-the-past/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/theres-nothing-wrong-with-being-a-heritage-brand-how-revlon-is-updating-its-image-by-looking-to-the-past/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Inside agency OK Future’s AI ‘pressure cooker’ experiment with Goodwipes
-_Thu, 08 Oct 2026 04:01:00 +0000_
-
-OK Future cut Goodwipes’ AI spoof from six weeks to four days, exposing big savings and burnout risks.
-
-→ [https://digiday.com/marketing/inside-agency-ok-futures-ai-pressure-cooker-experiment-with-goodwipes/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/inside-agency-ok-futures-ai-pressure-cooker-experiment-with-goodwipes/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### As agencies push agentic media future, execs work to ward off client rogue fears
-_Thu, 08 Oct 2026 04:01:00 +0000_
-
-Agentic media tools dominate agency pitch decks; just don't mention the Hugging Face Incident.
-
-→ [https://digiday.com/media-buying/as-agencies-push-agentic-media-future-execs-work-to-ward-off-client-rogue-fears/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/as-agencies-push-agentic-media-future-execs-work-to-ward-off-client-rogue-fears/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Heineken serves up outcomes with mixed attention and brand awareness approach
-_Thu, 08 Oct 2026 04:01:00 +0000_
-
-With budgets under constant pressure, in-house teams at Heineken are turning to novel brand metrics to justify digital ad spend on the open web.
-
-→ [https://digiday.com/media-buying/heineken-aims-to-serve-up-outcomes-with-mixed-attention-and-brand-awareness-approach/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/heineken-aims-to-serve-up-outcomes-with-mixed-attention-and-brand-awareness-approach/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Apple’s Safari ad tech blocklist sends publishers back to IAB Tech Lab’s Trusted Server
-_Thu, 08 Oct 2026 04:01:00 +0000_
-
-What publishers once filed under someday now has a deadline, and Apple set it.
-
-→ [https://digiday.com/media/apples-safari-ad-tech-blocklist-sends-publishers-back-to-iab-tech-labs-trusted-server/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/apples-safari-ad-tech-blocklist-sends-publishers-back-to-iab-tech-labs-trusted-server/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
----
-
-## MarTech
-
-### Classic marketing automation is dead: What’s next?
-_Wed, 07 Oct 2026 13:52:00 +0000_
-
-Rule-based automation is giving way to truly autonomous marketing. Discover how human-in-the-loop design frees your team to focus on real business outcomes. The post Classic marketing automation is dead: What’s next? appeared first on MarTech .
-
-→ [https://martech.org/classic-marketing-automation-is-dead-whats-next/](https://martech.org/classic-marketing-automation-is-dead-whats-next/)
-
-### When marketing automation moves too fast
-_Wed, 07 Oct 2026 13:06:00 +0000_
-
-Hyper-efficient funnels may boost short-term performance while eroding trust and marketer agency. Here’s where to draw the line. The post When marketing automation moves too fast appeared first on MarTech .
-
-→ [https://martech.org/when-marketing-automation-moves-too-fast/](https://martech.org/when-marketing-automation-moves-too-fast/)
-
-### 20 years and billions of dollars later, CX still has the same problem
-_Wed, 07 Oct 2026 12:16:00 +0000_
-
-Despite decades of CX investment, companies still struggle to deliver the experiences they think they do. Here’s what’s getting in the way. The post 20 years and billions of dollars later, CX still has the same problem appeared first on MarTech .
-
-→ [https://martech.org/20-years-and-billions-of-dollars-later-cx-still-has-the-same-problem/](https://martech.org/20-years-and-billions-of-dollars-later-cx-still-has-the-same-problem/)
-
-### Stop letting AI make your marketing decisions by Brick Marketing
-_Wed, 07 Oct 2026 11:00:00 +0000_
-
-AI can support marketing implementation, but experienced marketers must guide strategy, evaluate work and stay accountable for results. The post Stop letting AI make your marketing decisions appeared first on MarTech .
-
-→ [https://martech.org/stop-letting-ai-make-your-marketing-decisions/](https://martech.org/stop-letting-ai-make-your-marketing-decisions/)
-
-### Treasure AI takes on two martech headaches at once
-_Tue, 06 Oct 2026 15:06:01 +0000_
-
-Personalization Studio targets marketers’ dependence on technical teams. A new pricing model ties email costs more closely to engagement. The post Treasure AI takes on two martech headaches at once appeared first on MarTech .
-
-→ [https://martech.org/treasure-ai-takes-on-two-martech-headaches-at-once/](https://martech.org/treasure-ai-takes-on-two-martech-headaches-at-once/)
 
 ---
