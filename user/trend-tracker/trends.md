@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-09 10:11 UTC_
+_Päivitetty: 2026-10-10 09:32 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -164,5 +164,44 @@ _Thu, 08 Oct 2026 04:01:00 +0000_
 Revlon named musician and actress Teyana Taylor and country music star Megan Moroney as the faces of its “Revlon Be Unforgettable” campaign.
 
 → [https://digiday.com/marketing/theres-nothing-wrong-with-being-a-heritage-brand-how-revlon-is-updating-its-image-by-looking-to-the-past/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/theres-nothing-wrong-with-being-a-heritage-brand-how-revlon-is-updating-its-image-by-looking-to-the-past/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+---
+
+## MarTech
+
+### AI budgets are growing faster than proof of ROI
+_Fri, 09 Oct 2026 12:24:00 +0000_
+
+Companies are spending heavily on AI, but most agent projects are still short of full scale and many marketing teams can’t show clear financial value. The post AI budgets are growing faster than proof of ROI appeared first on MarTech .
+
+→ [https://martech.org/ai-budgets-are-growing-faster-than-proof-of-roi/](https://martech.org/ai-budgets-are-growing-faster-than-proof-of-roi/)
+
+### Why HIPAA compliance in martech goes beyond BAAs
+_Fri, 09 Oct 2026 12:23:00 +0000_
+
+A business associate agreement won't fix risky data flows. Here's what to check across tracking tools, EHR feeds, and ad platforms. The post Why HIPAA compliance in martech goes beyond BAAs appeared first on MarTech .
+
+→ [https://martech.org/why-hipaa-compliance-in-martech-goes-beyond-baas/](https://martech.org/why-hipaa-compliance-in-martech-goes-beyond-baas/)
+
+### Not everyone in marketing should be an AI builder
+_Fri, 09 Oct 2026 12:07:00 +0000_
+
+Marketing teams are rewarding AI builders, but they also need maintainers, monitors, and users. Here's why those roles matter. The post Not everyone in marketing should be an AI builder appeared first on MarTech .
+
+→ [https://martech.org/not-everyone-in-marketing-should-be-an-ai-builder/](https://martech.org/not-everyone-in-marketing-should-be-an-ai-builder/)
+
+### The latest AI-powered martech news and releases
+_Thu, 08 Oct 2026 14:49:09 +0000_
+
+General AI is generally fine, but a new study shows that for SEO problems you should get a specialist. The post The latest AI-powered martech news and releases appeared first on MarTech .
+
+→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
+
+### More buyer signals won’t tell you what buyers need next
+_Thu, 08 Oct 2026 12:43:00 +0000_
+
+Clicks, visits, and engagement scores show what buyers did. Better marketing starts with understanding what they’re trying to accomplish. The post More buyer signals won’t tell you what buyers need next appeared first on MarTech .
+
+→ [https://martech.org/more-buyer-signals-wont-tell-you-what-buyers-need-next/](https://martech.org/more-buyer-signals-wont-tell-you-what-buyers-need-next/)
 
 ---
