@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-11 09:45 UTC_
+_Päivitetty: 2026-10-12 10:24 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,40 +130,40 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### ‘Mission and capital can coexist’: Golden State Valkyries’ Jess Smith on pitch to sponsors
-_Fri, 09 Oct 2026 04:01:00 +0000_
+### Ad industry tallies early losses from Apple’s Safari tracking block
+_Mon, 12 Oct 2026 04:01:00 +0000_
 
-The WNBA’s newest team must navigate measurement demands and marketers wanting to share in the ‘mission’ if it’s to establish a commercial foothold.
+A week after Apple’s Safari block, the ad industry is still waiting for the other shoe to drop.
 
-→ [https://digiday.com/marketing/mission-and-capital-can-coexist-golden-state-valkyries-jess-smith-on-pitch-to-sponsors/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/mission-and-capital-can-coexist-golden-state-valkyries-jess-smith-on-pitch-to-sponsors/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/ad-industry-tallies-early-losses-from-apples-safari-tracking-block/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/ad-industry-tallies-early-losses-from-apples-safari-tracking-block/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### As creators increasingly move into Hollywood, deal terms can put their IP at risk
-_Fri, 09 Oct 2026 04:01:00 +0000_
+### Welcome to Creator University: Inside the colleges building creator economy programs
+_Mon, 12 Oct 2026 04:01:00 +0000_
 
-Advertising Week New York explored the business of creator-led programming across entertainment, and the problems arising within it
+As more young folks seek to enter the creator economy, universities are offering classes covering every layer of the still-growing ecosystem.
 
-→ [https://digiday.com/media/as-creators-increasingly-move-into-hollywood-deal-terms-can-put-their-ip-at-risk/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/as-creators-increasingly-move-into-hollywood-deal-terms-can-put-their-ip-at-risk/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/welcome-to-creator-university-inside-the-colleges-building-creator-economy-programs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/welcome-to-creator-university-inside-the-colleges-building-creator-economy-programs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Future of Marketing Briefing: Why top creators are taking fewer brand deals
-_Fri, 09 Oct 2026 04:01:00 +0000_
+### ‘An important capability for us’: PepsiCo CEO on Publicis switch
+_Mon, 12 Oct 2026 04:01:00 +0000_
 
-The biggest creators are cutting their brand rosters and asking more of the partners they keep.
+Pepsico’s Ramon Laguarta used a recent appearance in front of investors to champion the company’s decision to hand its global media account to Publicis Groupe.
 
-→ [https://digiday.com/marketing/future-of-marketing-briefing-why-top-creators-are-taking-fewer-brand-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-why-top-creators-are-taking-fewer-brand-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/an-important-capability-for-us-pepsico-ceo-on-publicis-switch/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/an-important-capability-for-us-pepsico-ceo-on-publicis-switch/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Interoperability may be the future, but it cannot be an entire AI strategy
-_Thu, 08 Oct 2026 20:58:56 +0000_
+### Media Buying Briefing: Synthetic audience adoption by agencies and clients takes off
+_Mon, 12 Oct 2026 04:01:00 +0000_
 
-Patricia Clark, vp, go-to-market, Nexxen AI has become more than the topic du jour. It&#8217;s the topic of the year — and probably the decade — in and outside the world of advertising. For agencies, AI presents particularly compelling opportunities: less manual work, faster insights and a greater ability to connect planning, activation,…
+Agencies like Goodway Group are incorporating synthetic data stacks into media planning, while clients use the tech for product design and creative strategy.
 
-→ [https://digiday.com/sponsored/interoperability-may-be-the-future-but-it-cannot-be-an-entire-ai-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/interoperability-may-be-the-future-but-it-cannot-be-an-entire-ai-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/media-buying-briefing-synthetic-audience-adoption-by-agencies-and-clients-takes-off/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-synthetic-audience-adoption-by-agencies-and-clients-takes-off/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### ‘There’s nothing wrong with being a heritage brand’: How Revlon is updating its image by looking to the past
-_Thu, 08 Oct 2026 04:01:00 +0000_
+### For some publishers, agentic advertising is still a question of ROI
+_Mon, 12 Oct 2026 04:01:00 +0000_
 
-Revlon named musician and actress Teyana Taylor and country music star Megan Moroney as the faces of its “Revlon Be Unforgettable” campaign.
+Despite the hype around agentic media buying, some publishers remain skeptical of its potential to deliver meaningful revenue.
 
-→ [https://digiday.com/marketing/theres-nothing-wrong-with-being-a-heritage-brand-how-revlon-is-updating-its-image-by-looking-to-the-past/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/theres-nothing-wrong-with-being-a-heritage-brand-how-revlon-is-updating-its-image-by-looking-to-the-past/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/for-some-publishers-agentic-advertising-is-still-a-question-of-roi/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/for-some-publishers-agentic-advertising-is-still-a-question-of-roi/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
