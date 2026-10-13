@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-12 10:24 UTC_
+_Päivitetty: 2026-10-13 10:15 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,6 +130,34 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### CNN takes All Access abroad to turn global reach into paying subscribers
+_Tue, 13 Oct 2026 10:01:00 +0000_
+
+CNN is bringing its All Access subscription service to the U.K. and Canada as part of a broader push to turn its international audience into paying subscribers.
+
+→ [https://digiday.com/media/cnn-takes-all-access-abroad-to-turn-global-reach-into-paying-subscribers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/cnn-takes-all-access-abroad-to-turn-global-reach-into-paying-subscribers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Ad Tech Briefing: Zeta goes big as Apple casts a shadow over Advertising Week
+_Tue, 13 Oct 2026 04:01:00 +0000_
+
+Advertising Week New York saw more ad tech M&#38;A, plus, the rise of the "universal buying platform."
+
+→ [https://digiday.com/media-buying/ad-tech-briefing-zeta-goes-big-as-apple-casts-a-shadow-over-advertising-week/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-zeta-goes-big-as-apple-casts-a-shadow-over-advertising-week/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Media buys and mega partnerships: How the creator economy is splitting in two
+_Tue, 13 Oct 2026 04:01:00 +0000_
+
+There’s a growing bifurcation in the creator economy. While the Alix Earle’s and Mr Beast’s of the world take on the role of agencies, nano and micro creators have become media buys. “Brands are increasingly approaching the space just like they would traditional channels with a media mix that reflects what they’ve done historically,” said [&#8230;]
+
+→ [https://digiday.com/podcasts/media-buys-and-mega-partnerships-how-the-creator-economy-is-splitting-in-two/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/media-buys-and-mega-partnerships-how-the-creator-economy-is-splitting-in-two/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### How many people does it take to run an agency? According to Bad Mktg, just two if you’re using AI
+_Tue, 13 Oct 2026 04:01:00 +0000_
+
+BaD Mktg is just two employees and a lot of AI to run the business and ideate. The secret to its success? The experience of the people leading the ideation.
+
+→ [https://digiday.com/marketing/how-many-people-does-it-take-to-run-an-agency-according-to-bad-mktg-just-two-if-youre-using-ai/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/how-many-people-does-it-take-to-run-an-agency-according-to-bad-mktg-just-two-if-youre-using-ai/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### Ad industry tallies early losses from Apple’s Safari tracking block
 _Mon, 12 Oct 2026 04:01:00 +0000_
 
@@ -137,37 +165,30 @@ A week after Apple’s Safari block, the ad industry is still waiting for the ot
 
 → [https://digiday.com/media/ad-industry-tallies-early-losses-from-apples-safari-tracking-block/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/ad-industry-tallies-early-losses-from-apples-safari-tracking-block/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Welcome to Creator University: Inside the colleges building creator economy programs
-_Mon, 12 Oct 2026 04:01:00 +0000_
-
-As more young folks seek to enter the creator economy, universities are offering classes covering every layer of the still-growing ecosystem.
-
-→ [https://digiday.com/media/welcome-to-creator-university-inside-the-colleges-building-creator-economy-programs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/welcome-to-creator-university-inside-the-colleges-building-creator-economy-programs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### ‘An important capability for us’: PepsiCo CEO on Publicis switch
-_Mon, 12 Oct 2026 04:01:00 +0000_
-
-Pepsico’s Ramon Laguarta used a recent appearance in front of investors to champion the company’s decision to hand its global media account to Publicis Groupe.
-
-→ [https://digiday.com/media-buying/an-important-capability-for-us-pepsico-ceo-on-publicis-switch/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/an-important-capability-for-us-pepsico-ceo-on-publicis-switch/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Media Buying Briefing: Synthetic audience adoption by agencies and clients takes off
-_Mon, 12 Oct 2026 04:01:00 +0000_
-
-Agencies like Goodway Group are incorporating synthetic data stacks into media planning, while clients use the tech for product design and creative strategy.
-
-→ [https://digiday.com/media-buying/media-buying-briefing-synthetic-audience-adoption-by-agencies-and-clients-takes-off/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-synthetic-audience-adoption-by-agencies-and-clients-takes-off/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### For some publishers, agentic advertising is still a question of ROI
-_Mon, 12 Oct 2026 04:01:00 +0000_
-
-Despite the hype around agentic media buying, some publishers remain skeptical of its potential to deliver meaningful revenue.
-
-→ [https://digiday.com/media/for-some-publishers-agentic-advertising-is-still-a-question-of-roi/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/for-some-publishers-agentic-advertising-is-still-a-question-of-roi/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
 ---
 
 ## MarTech
+
+### How MOps teams are restructuring for autonomous AI agents
+_Mon, 12 Oct 2026 12:50:00 +0000_
+
+Managing autonomous software agents requires shifting marketing operations from manual execution to agent orchestration and systems oversight. The post How MOps teams are restructuring for autonomous AI agents appeared first on MarTech .
+
+→ [https://martech.org/how-mops-teams-are-restructuring-for-autonomous-ai-agents/](https://martech.org/how-mops-teams-are-restructuring-for-autonomous-ai-agents/)
+
+### Your social media following isn’t the asset you think it is
+_Mon, 12 Oct 2026 12:19:00 +0000_
+
+Every new piece of content shouldn't mean starting from zero. Learn how to turn fleeting social media attention into ongoing audience relationships. The post Your social media following isn&#8217;t the asset you think it is appeared first on MarTech .
+
+→ [https://martech.org/your-social-media-following-isnt-the-asset-you-think-it-is/](https://martech.org/your-social-media-following-isnt-the-asset-you-think-it-is/)
+
+### The state of AI in marketing: Q4 2026
+_Mon, 12 Oct 2026 12:04:00 +0000_
+
+Examining where AI stands in Q4 2026 reveals a key gap: moving beyond basic tools requires systemic change to unlock real business value. The post The state of AI in marketing: Q4 2026 appeared first on MarTech .
+
+→ [https://martech.org/the-state-of-ai-in-marketing-q4-2026/](https://martech.org/the-state-of-ai-in-marketing-q4-2026/)
 
 ### AI budgets are growing faster than proof of ROI
 _Fri, 09 Oct 2026 12:24:00 +0000_
@@ -182,26 +203,5 @@ _Fri, 09 Oct 2026 12:23:00 +0000_
 A business associate agreement won't fix risky data flows. Here's what to check across tracking tools, EHR feeds, and ad platforms. The post Why HIPAA compliance in martech goes beyond BAAs appeared first on MarTech .
 
 → [https://martech.org/why-hipaa-compliance-in-martech-goes-beyond-baas/](https://martech.org/why-hipaa-compliance-in-martech-goes-beyond-baas/)
-
-### Not everyone in marketing should be an AI builder
-_Fri, 09 Oct 2026 12:07:00 +0000_
-
-Marketing teams are rewarding AI builders, but they also need maintainers, monitors, and users. Here's why those roles matter. The post Not everyone in marketing should be an AI builder appeared first on MarTech .
-
-→ [https://martech.org/not-everyone-in-marketing-should-be-an-ai-builder/](https://martech.org/not-everyone-in-marketing-should-be-an-ai-builder/)
-
-### The latest AI-powered martech news and releases
-_Thu, 08 Oct 2026 14:49:09 +0000_
-
-General AI is generally fine, but a new study shows that for SEO problems you should get a specialist. The post The latest AI-powered martech news and releases appeared first on MarTech .
-
-→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
-
-### More buyer signals won’t tell you what buyers need next
-_Thu, 08 Oct 2026 12:43:00 +0000_
-
-Clicks, visits, and engagement scores show what buyers did. Better marketing starts with understanding what they’re trying to accomplish. The post More buyer signals won’t tell you what buyers need next appeared first on MarTech .
-
-→ [https://martech.org/more-buyer-signals-wont-tell-you-what-buyers-need-next/](https://martech.org/more-buyer-signals-wont-tell-you-what-buyers-need-next/)
 
 ---
