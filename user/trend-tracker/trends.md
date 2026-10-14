@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-13 10:15 UTC_
+_Päivitetty: 2026-10-14 08:28 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,6 +130,34 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
+### Future of TV Briefing: TikTok Shop success = small creators + more videos
+_Wed, 14 Oct 2026 04:01:00 +0000_
+
+This week’s Future of TV Briefing looks at how “more videos from smaller creators” is the recipe for success on TikTok Shop.
+
+→ [https://digiday.com/future-of-tv/future-of-tv-briefing-tiktok-shop-success-small-creators-more-videos/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-tiktok-shop-success-small-creators-more-videos/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Ikea’s CMO sees LLMs as the newest place a brand has to hold its line
+_Wed, 14 Oct 2026 04:01:00 +0000_
+
+LLMs have widened the brand. Ikea’s CMO thinks the basics still hold.
+
+→ [https://digiday.com/marketing/ikeas-cmo-sees-llms-as-the-newest-place-a-brand-has-to-hold-its-line/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ikeas-cmo-sees-llms-as-the-newest-place-a-brand-has-to-hold-its-line/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Amazon News, Politico and Warner Bros. Discovery are finalists for the 2026 Digiday Awards finalists
+_Tue, 13 Oct 2026 17:01:53 +0000_
+
+This year’s Digiday Awards finalists demonstrated how innovation, audience insights and multiplatform storytelling can work together to create more engaging and accessible experiences. Their work reflected a focus on understanding audiences, reaching them across channels and turning creative investments into measurable results. These nominees…
+
+→ [https://digiday.com/announcement/awards/amazon-news-politico-and-warner-bros-discovery-are-finalists-for-the-2026-digiday-awards-finalists/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/announcement/awards/amazon-news-politico-and-warner-bros-discovery-are-finalists-for-the-2026-digiday-awards-finalists/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Publicis is selling directly to AI-anxious CEOs as it steps away from traditional pitches
+_Tue, 13 Oct 2026 11:54:46 +0000_
+
+Publicis boss Sadoun says agency group is skipping CMOs in more new business pitches, as Groupe notches up new business wins.
+
+→ [https://digiday.com/media-buying/publicis-is-selling-directly-to-ai-anxious-ceos-as-it-steps-away-from-traditional-pitches/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/publicis-is-selling-directly-to-ai-anxious-ceos-as-it-steps-away-from-traditional-pitches/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### CNN takes All Access abroad to turn global reach into paying subscribers
 _Tue, 13 Oct 2026 10:01:00 +0000_
 
@@ -137,71 +165,43 @@ CNN is bringing its All Access subscription service to the U.K. and Canada as pa
 
 → [https://digiday.com/media/cnn-takes-all-access-abroad-to-turn-global-reach-into-paying-subscribers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/cnn-takes-all-access-abroad-to-turn-global-reach-into-paying-subscribers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Ad Tech Briefing: Zeta goes big as Apple casts a shadow over Advertising Week
-_Tue, 13 Oct 2026 04:01:00 +0000_
-
-Advertising Week New York saw more ad tech M&#38;A, plus, the rise of the "universal buying platform."
-
-→ [https://digiday.com/media-buying/ad-tech-briefing-zeta-goes-big-as-apple-casts-a-shadow-over-advertising-week/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-zeta-goes-big-as-apple-casts-a-shadow-over-advertising-week/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Media buys and mega partnerships: How the creator economy is splitting in two
-_Tue, 13 Oct 2026 04:01:00 +0000_
-
-There’s a growing bifurcation in the creator economy. While the Alix Earle’s and Mr Beast’s of the world take on the role of agencies, nano and micro creators have become media buys. “Brands are increasingly approaching the space just like they would traditional channels with a media mix that reflects what they’ve done historically,” said [&#8230;]
-
-→ [https://digiday.com/podcasts/media-buys-and-mega-partnerships-how-the-creator-economy-is-splitting-in-two/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/media-buys-and-mega-partnerships-how-the-creator-economy-is-splitting-in-two/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### How many people does it take to run an agency? According to Bad Mktg, just two if you’re using AI
-_Tue, 13 Oct 2026 04:01:00 +0000_
-
-BaD Mktg is just two employees and a lot of AI to run the business and ideate. The secret to its success? The experience of the people leading the ideation.
-
-→ [https://digiday.com/marketing/how-many-people-does-it-take-to-run-an-agency-according-to-bad-mktg-just-two-if-youre-using-ai/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/how-many-people-does-it-take-to-run-an-agency-according-to-bad-mktg-just-two-if-youre-using-ai/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Ad industry tallies early losses from Apple’s Safari tracking block
-_Mon, 12 Oct 2026 04:01:00 +0000_
-
-A week after Apple’s Safari block, the ad industry is still waiting for the other shoe to drop.
-
-→ [https://digiday.com/media/ad-industry-tallies-early-losses-from-apples-safari-tracking-block/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/ad-industry-tallies-early-losses-from-apples-safari-tracking-block/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
 ---
 
 ## MarTech
 
-### How MOps teams are restructuring for autonomous AI agents
-_Mon, 12 Oct 2026 12:50:00 +0000_
+### Salesforce buys AI analytics startup Loops
+_Tue, 13 Oct 2026 14:53:55 +0000_
 
-Managing autonomous software agents requires shifting marketing operations from manual execution to agent orchestration and systems oversight. The post How MOps teams are restructuring for autonomous AI agents appeared first on MarTech .
+Salesforce is buying Loops to help explain why business metrics change, pushing analytics closer to continuous AI-driven interpretation. The post Salesforce buys AI analytics startup Loops appeared first on MarTech .
 
-→ [https://martech.org/how-mops-teams-are-restructuring-for-autonomous-ai-agents/](https://martech.org/how-mops-teams-are-restructuring-for-autonomous-ai-agents/)
+→ [https://martech.org/salesforce-buys-ai-analytics-startup-loops/](https://martech.org/salesforce-buys-ai-analytics-startup-loops/)
 
-### Your social media following isn’t the asset you think it is
-_Mon, 12 Oct 2026 12:19:00 +0000_
+### Google changed its content guidance. Don’t expect a reset.
+_Tue, 13 Oct 2026 13:20:46 +0000_
 
-Every new piece of content shouldn't mean starting from zero. Learn how to turn fleeting social media attention into ongoing audience relationships. The post Your social media following isn&#8217;t the asset you think it is appeared first on MarTech .
+The company wants more human review of AI content, but won't guarantee that following the rules will bring back lost search traffic. The post Google changed its content guidance. Don’t expect a reset. appeared first on MarTech .
 
-→ [https://martech.org/your-social-media-following-isnt-the-asset-you-think-it-is/](https://martech.org/your-social-media-following-isnt-the-asset-you-think-it-is/)
+→ [https://martech.org/google-changed-its-content-guidance-dont-expect-a-reset/](https://martech.org/google-changed-its-content-guidance-dont-expect-a-reset/)
 
-### The state of AI in marketing: Q4 2026
-_Mon, 12 Oct 2026 12:04:00 +0000_
+### AI agents are coming between you and your customers
+_Tue, 13 Oct 2026 11:56:00 +0000_
 
-Examining where AI stands in Q4 2026 reveals a key gap: moving beyond basic tools requires systemic change to unlock real business value. The post The state of AI in marketing: Q4 2026 appeared first on MarTech .
+Customer preferences, purchase decisions, and even checkout are moving beyond brands' control. Here's what you can still influence — and how. The post AI agents are coming between you and your customers appeared first on MarTech .
 
-→ [https://martech.org/the-state-of-ai-in-marketing-q4-2026/](https://martech.org/the-state-of-ai-in-marketing-q4-2026/)
+→ [https://martech.org/ai-agents-are-coming-between-you-and-your-customers/](https://martech.org/ai-agents-are-coming-between-you-and-your-customers/)
 
-### AI budgets are growing faster than proof of ROI
-_Fri, 09 Oct 2026 12:24:00 +0000_
+### The benefits of server-side tracking — and what it takes to get them
+_Tue, 13 Oct 2026 11:48:00 +0000_
 
-Companies are spending heavily on AI, but most agent projects are still short of full scale and many marketing teams can’t show clear financial value. The post AI budgets are growing faster than proof of ROI appeared first on MarTech .
+Moving tracking to your server puts you in charge of what vendors receive. But protecting customer data takes more than a technical change. The post The benefits of server-side tracking — and what it takes to get them appeared first on MarTech .
 
-→ [https://martech.org/ai-budgets-are-growing-faster-than-proof-of-roi/](https://martech.org/ai-budgets-are-growing-faster-than-proof-of-roi/)
+→ [https://martech.org/the-benefits-of-server-side-tracking-and-what-it-takes-to-get-them/](https://martech.org/the-benefits-of-server-side-tracking-and-what-it-takes-to-get-them/)
 
-### Why HIPAA compliance in martech goes beyond BAAs
-_Fri, 09 Oct 2026 12:23:00 +0000_
+### Why ‘earned autonomy’ is the sweet spot for AI and customer loyalty in 2027 by SAP
+_Tue, 13 Oct 2026 11:00:00 +0000_
 
-A business associate agreement won't fix risky data flows. Here's what to check across tracking tools, EHR feeds, and ad platforms. The post Why HIPAA compliance in martech goes beyond BAAs appeared first on MarTech .
+New SAP research shows 60% of consumers want shared control with AI. Here's why autonomy has to be earned, not assumed. The post Why &#8216;earned autonomy&#8217; is the sweet spot for AI and customer loyalty in 2027 appeared first on MarTech .
 
-→ [https://martech.org/why-hipaa-compliance-in-martech-goes-beyond-baas/](https://martech.org/why-hipaa-compliance-in-martech-goes-beyond-baas/)
+→ [https://martech.org/why-earned-autonomy-is-the-sweet-spot-for-ai-and-customer-loyalty-in-2027/](https://martech.org/why-earned-autonomy-is-the-sweet-spot-for-ai-and-customer-loyalty-in-2027/)
 
 ---
