@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-14 08:28 UTC_
+_Päivitetty: 2026-10-15 08:03 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,20 @@ Mitä kuvien optimointi nykypäivänä tarkoittaa? The post Miten kuvia kannatta
 
 ## HubSpot Marketing Blog
 
+### Tracking AI Overviews: What the data actually shows
+_Wed, 14 Oct 2026 16:30:04 GMT_
+
+AI Overviews have shifted how audiences discover brands. Gone are the days when users would click through multiple search results until they found what they’re looking for. Now, AI Overviews answers questions directly on the results page, meaning brands are either cited or ignored without users ever visiting a website.
+
+→ [https://blog.hubspot.com/marketing/tracking-ai-overviews](https://blog.hubspot.com/marketing/tracking-ai-overviews)
+
+### Claude skills vs. plugins vs. MCP connectors: A simple guide
+_Wed, 14 Oct 2026 16:30:04 GMT_
+
+If you’ve opened Claude’s Customize settings and weren’t sure whether a task called for a Skill, a connector, or a Plugin, you’re not alone.
+
+→ [https://blog.hubspot.com/marketing/claude-skills-plugins-mcp](https://blog.hubspot.com/marketing/claude-skills-plugins-mcp)
+
 ### AEO for digital PR: How to build earned media presence that shows up in AI results
 _Thu, 08 Oct 2026 20:09:15 GMT_
 
@@ -72,20 +86,6 @@ _Thu, 08 Oct 2026 20:02:20 GMT_
 Enterprise brand teams face a complex version of AEO that most tools weren’t built for. A single brand might span a dozen product lines, operate in multiple languages, and compete in markets where local answer engines have their own citation patterns.
 
 → [https://blog.hubspot.com/marketing/aeo-guide-for-enterprise](https://blog.hubspot.com/marketing/aeo-guide-for-enterprise)
-
-### AEO for marketing operations: How to build scalable processes that connect AEO to revenue
-_Thu, 08 Oct 2026 19:58:36 GMT_
-
-Buyer behavior has changed since the advent of artificial intelligence. Now, before ever filling out a form or clicking an ad, prospects are likely asking AI for recommendations, comparing vendors, and gathering answers. Those interactions shape which companies make the shortlist, but they often happen outside the systems marketing operations…
-
-→ [https://blog.hubspot.com/marketing/aeo-guide-for-marketing-operations](https://blog.hubspot.com/marketing/aeo-guide-for-marketing-operations)
-
-### AEO for demand generation teams: How to generate qualified pipeline as AI reshapes buyer discovery
-_Thu, 08 Oct 2026 19:55:48 GMT_
-
-Demand generation has been built around the assumption that buyers will come to a brand when they are ready to learn about its category, whether through search, ads, content, or other channels. The funnel starts when a prospect arrives somewhere the business can see, measure, and influence it. But AI is changing what happens before that point.
-
-→ [https://blog.hubspot.com/marketing/aeo-guide-for-demand-generation-teams](https://blog.hubspot.com/marketing/aeo-guide-for-demand-generation-teams)
 
 ---
 
@@ -130,78 +130,39 @@ Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your w
 
 ## Digiday
 
-### Future of TV Briefing: TikTok Shop success = small creators + more videos
-_Wed, 14 Oct 2026 04:01:00 +0000_
+### Brands turn to content series and Jimi Hendrix to improve AI search performance
+_Thu, 15 Oct 2026 04:01:00 +0000_
 
-This week’s Future of TV Briefing looks at how “more videos from smaller creators” is the recipe for success on TikTok Shop.
+Guitar brand Fender and amp-maker Marshall both recently launched content series aimed, in part, at improving their visibility in AI search answers. It’s part of a greater pattern.
 
-→ [https://digiday.com/future-of-tv/future-of-tv-briefing-tiktok-shop-success-small-creators-more-videos/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-tiktok-shop-success-small-creators-more-videos/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/brands-turn-to-content-series-and-jimi-hendrix-to-improve-ai-search-performance/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/brands-turn-to-content-series-and-jimi-hendrix-to-improve-ai-search-performance/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Ikea’s CMO sees LLMs as the newest place a brand has to hold its line
-_Wed, 14 Oct 2026 04:01:00 +0000_
+### Addressability is back as a headline concern for attendees at this year’s Prebid Summit
+_Thu, 15 Oct 2026 04:01:00 +0000_
 
-LLMs have widened the brand. Ikea’s CMO thinks the basics still hold.
+Speakers decry 'UMPs' as the new ad networks, with talk far outweighing understanding.
 
-→ [https://digiday.com/marketing/ikeas-cmo-sees-llms-as-the-newest-place-a-brand-has-to-hold-its-line/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ikeas-cmo-sees-llms-as-the-newest-place-a-brand-has-to-hold-its-line/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/addressability-is-back-as-a-headline-concern-for-attendees-at-this-years-prebid-summit/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/addressability-is-back-as-a-headline-concern-for-attendees-at-this-years-prebid-summit/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Amazon News, Politico and Warner Bros. Discovery are finalists for the 2026 Digiday Awards finalists
-_Tue, 13 Oct 2026 17:01:53 +0000_
+### Inside Dentsu’s plan to make entertainment a part of every brand’s budget
+_Thu, 15 Oct 2026 04:01:00 +0000_
 
-This year’s Digiday Awards finalists demonstrated how innovation, audience insights and multiplatform storytelling can work together to create more engaging and accessible experiences. Their work reflected a focus on understanding audiences, reaching them across channels and turning creative investments into measurable results. These nominees…
+Why Dentsu thinks entertainment is the next agency account up for grabs.
 
-→ [https://digiday.com/announcement/awards/amazon-news-politico-and-warner-bros-discovery-are-finalists-for-the-2026-digiday-awards-finalists/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/announcement/awards/amazon-news-politico-and-warner-bros-discovery-are-finalists-for-the-2026-digiday-awards-finalists/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/inside-dentsus-plan-to-make-entertainment-a-part-of-every-brands-budget/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/inside-dentsus-plan-to-make-entertainment-a-part-of-every-brands-budget/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Publicis is selling directly to AI-anxious CEOs as it steps away from traditional pitches
-_Tue, 13 Oct 2026 11:54:46 +0000_
+### Media Briefing: Overheard from publishers at Digiday London Media Strategies Town Hall
+_Thu, 15 Oct 2026 04:01:00 +0000_
 
-Publicis boss Sadoun says agency group is skipping CMOs in more new business pitches, as Groupe notches up new business wins.
+At Digiday’s Media Strategies London event on Tuesday, executives weighed new ways to measure audience value, the risks of blocking AI crawlers, the uncertain economics of licensing content to LLMs, and whether agentic media trading is ready for the real world.
 
-→ [https://digiday.com/media-buying/publicis-is-selling-directly-to-ai-anxious-ceos-as-it-steps-away-from-traditional-pitches/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/publicis-is-selling-directly-to-ai-anxious-ceos-as-it-steps-away-from-traditional-pitches/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/media-briefing-overheard-from-publishers-at-digiday-london-media-strategies-town-hall/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-overheard-from-publishers-at-digiday-london-media-strategies-town-hall/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### CNN takes All Access abroad to turn global reach into paying subscribers
-_Tue, 13 Oct 2026 10:01:00 +0000_
+### Inside Wirecutter’s push to diversify beyond affiliate revenue as AI reshapes discovery
+_Thu, 15 Oct 2026 04:01:00 +0000_
 
-CNN is bringing its All Access subscription service to the U.K. and Canada as part of a broader push to turn its international audience into paying subscribers.
+Wirecutter is expanding beyond affiliate commerce with new categories, franchises and advertising opportunities as AI reshapes search.
 
-→ [https://digiday.com/media/cnn-takes-all-access-abroad-to-turn-global-reach-into-paying-subscribers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/cnn-takes-all-access-abroad-to-turn-global-reach-into-paying-subscribers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
----
-
-## MarTech
-
-### Salesforce buys AI analytics startup Loops
-_Tue, 13 Oct 2026 14:53:55 +0000_
-
-Salesforce is buying Loops to help explain why business metrics change, pushing analytics closer to continuous AI-driven interpretation. The post Salesforce buys AI analytics startup Loops appeared first on MarTech .
-
-→ [https://martech.org/salesforce-buys-ai-analytics-startup-loops/](https://martech.org/salesforce-buys-ai-analytics-startup-loops/)
-
-### Google changed its content guidance. Don’t expect a reset.
-_Tue, 13 Oct 2026 13:20:46 +0000_
-
-The company wants more human review of AI content, but won't guarantee that following the rules will bring back lost search traffic. The post Google changed its content guidance. Don’t expect a reset. appeared first on MarTech .
-
-→ [https://martech.org/google-changed-its-content-guidance-dont-expect-a-reset/](https://martech.org/google-changed-its-content-guidance-dont-expect-a-reset/)
-
-### AI agents are coming between you and your customers
-_Tue, 13 Oct 2026 11:56:00 +0000_
-
-Customer preferences, purchase decisions, and even checkout are moving beyond brands' control. Here's what you can still influence — and how. The post AI agents are coming between you and your customers appeared first on MarTech .
-
-→ [https://martech.org/ai-agents-are-coming-between-you-and-your-customers/](https://martech.org/ai-agents-are-coming-between-you-and-your-customers/)
-
-### The benefits of server-side tracking — and what it takes to get them
-_Tue, 13 Oct 2026 11:48:00 +0000_
-
-Moving tracking to your server puts you in charge of what vendors receive. But protecting customer data takes more than a technical change. The post The benefits of server-side tracking — and what it takes to get them appeared first on MarTech .
-
-→ [https://martech.org/the-benefits-of-server-side-tracking-and-what-it-takes-to-get-them/](https://martech.org/the-benefits-of-server-side-tracking-and-what-it-takes-to-get-them/)
-
-### Why ‘earned autonomy’ is the sweet spot for AI and customer loyalty in 2027 by SAP
-_Tue, 13 Oct 2026 11:00:00 +0000_
-
-New SAP research shows 60% of consumers want shared control with AI. Here's why autonomy has to be earned, not assumed. The post Why &#8216;earned autonomy&#8217; is the sweet spot for AI and customer loyalty in 2027 appeared first on MarTech .
-
-→ [https://martech.org/why-earned-autonomy-is-the-sweet-spot-for-ai-and-customer-loyalty-in-2027/](https://martech.org/why-earned-autonomy-is-the-sweet-spot-for-ai-and-customer-loyalty-in-2027/)
+→ [https://digiday.com/media/inside-wirecutters-push-to-diversify-beyond-affiliate-revenue-as-ai-reshapes-discovery/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/inside-wirecutters-push-to-diversify-beyond-affiliate-revenue-as-ai-reshapes-discovery/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
