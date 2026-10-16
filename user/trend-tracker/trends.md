@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-15 08:03 UTC_
+_Päivitetty: 2026-10-16 07:57 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Mitä kuvien optimointi nykypäivänä tarkoittaa? The post Miten kuvia kannatta
 
 ## HubSpot Marketing Blog
 
+### Transactional email: What it is and how it works
+_Thu, 15 Oct 2026 16:30:04 GMT_
+
+Transactional emails are automated messages triggered by a specific action a customer takes, sent to help that person complete or follow up on something already in progress. An order receipt, a password reset confirmation, or a shipping notification are all examples of transactional emails because each one delivers information tied to an action…
+
+→ [https://blog.hubspot.com/marketing/best-transactional-email-platforms](https://blog.hubspot.com/marketing/best-transactional-email-platforms)
+
 ### Tracking AI Overviews: What the data actually shows
 _Wed, 14 Oct 2026 16:30:04 GMT_
 
@@ -80,89 +87,82 @@ Clients are asking about AEO. Some have seen competitors show up in AI results a
 
 → [https://blog.hubspot.com/marketing/aeo-guide-for-marketing-agencies](https://blog.hubspot.com/marketing/aeo-guide-for-marketing-agencies)
 
-### Enterprise AEO: How to manage brand visibility at scale across products, segments, and markets
-_Thu, 08 Oct 2026 20:02:20 GMT_
-
-Enterprise brand teams face a complex version of AEO that most tools weren’t built for. A single brand might span a dozen product lines, operate in multiple languages, and compete in markets where local answer engines have their own citation patterns.
-
-→ [https://blog.hubspot.com/marketing/aeo-guide-for-enterprise](https://blog.hubspot.com/marketing/aeo-guide-for-enterprise)
-
----
-
-## Convince & Convert
-
-### Inbox Anarchy: An Audience-First Email Marketing Strategy
-_Thu, 20 Mar 2025 20:02:59 +0000_
-
-My theory is that marketing leaders don’t need more content. They need better filters. Each day new marketing reports, frameworks, and case studies flood your feed and inbox. There’s always another podcast episode, a LinkedIn think piece, and a “must-read” report. But, you don&#8217;t have time to consume it all. And yet, working in marketing…
-
-→ [https://www.convinceandconvert.com/content-marketing/email-marketing-strategy-trendline/](https://www.convinceandconvert.com/content-marketing/email-marketing-strategy-trendline/)
-
-### How to Take a More Goal-Oriented Approach to Marketing Data
-_Mon, 24 Feb 2025 19:00:24 +0000_
-
-The term ‘do more with less’ can be enough to make marketers wince. While budgets and resources tighten but pipeline targets grow, it can feel contradictory to achieving marketing goals. But what if the solution isn’t to “do more” but to fundamentally change how we think about data and marketing’s role in driving pipeline? Tessa [&#8230;] The post…
-
-→ [https://www.convinceandconvert.com/digital-marketing/how-to-take-a-more-goal-oriented-approach-to-marketing-data/](https://www.convinceandconvert.com/digital-marketing/how-to-take-a-more-goal-oriented-approach-to-marketing-data/)
-
-### How to Use Data More Strategically to Reach Audiences
-_Mon, 10 Feb 2025 15:32:45 +0000_
-
-Digital marketing strategies tend to revolve around familiar platforms like Google Ads, LinkedIn campaigns, and Facebook retargeting. They’re reliable platforms with measurable outcomes you can assess for ROI. But are these commonly used strategies always the best choice? Is it possible that by stepping beyond the familiarity, you’ll discover…
-
-→ [https://www.convinceandconvert.com/digital-marketing/how-to-use-data-more-strategically-to-reach-audiences/](https://www.convinceandconvert.com/digital-marketing/how-to-use-data-more-strategically-to-reach-audiences/)
-
-### 5 YouTube Video Editors for Healthcare Marketing in 2025
-_Wed, 15 Jan 2025 15:00:24 +0000_
-
-The Best YouTube Video Editors for Healthcare Marketing in 2025 Video marketing is transforming the healthcare industry, making complex medical information more accessible, engaging, and trustworthy. Whether you&#8217;re a healthcare provider, hospital, or medical technology company, video content can help educate patients, highlight expertise,…
-
-→ [https://www.convinceandconvert.com/digital-marketing/youtube-video-editors-for-healthcare-marketing/](https://www.convinceandconvert.com/digital-marketing/youtube-video-editors-for-healthcare-marketing/)
-
-### New Strategies for Improving Blog Performance (Plus Q&A with Andy Crestodina)
-_Sat, 14 Dec 2024 00:05:46 +0000_
-
-Insights from Orbit Media’s 11th Annual Blogger Survey Having a blog on your website is now considered common practice for brands in all industries. The benefits are widely known: it helps with SEO, provides thought leadership, and gives useful information to your audiences. But anyone who works in marketing knows that change is a constant.…
-
-→ [https://www.convinceandconvert.com/content-marketing/new-strategies-for-improving-blog-performance-plus-qa-with-andy-crestodina/](https://www.convinceandconvert.com/content-marketing/new-strategies-for-improving-blog-performance-plus-qa-with-andy-crestodina/)
-
 ---
 
 ## Digiday
 
-### Brands turn to content series and Jimi Hendrix to improve AI search performance
-_Thu, 15 Oct 2026 04:01:00 +0000_
+### Ruggable’s new ad spend strategy shifts focus to ShopMy creators
+_Fri, 16 Oct 2026 04:01:00 +0000_
 
-Guitar brand Fender and amp-maker Marshall both recently launched content series aimed, in part, at improving their visibility in AI search answers. It’s part of a greater pattern.
+Ruggable is shaking up its marketing stack, pulling dollars our of Meta and into ShopMy creators ahead of a potential IPO.
 
-→ [https://digiday.com/marketing/brands-turn-to-content-series-and-jimi-hendrix-to-improve-ai-search-performance/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/brands-turn-to-content-series-and-jimi-hendrix-to-improve-ai-search-performance/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/ruggables-new-ad-spend-strategy-shifts-focus-to-shopmy-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ruggables-new-ad-spend-strategy-shifts-focus-to-shopmy-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Addressability is back as a headline concern for attendees at this year’s Prebid Summit
-_Thu, 15 Oct 2026 04:01:00 +0000_
+### Reach CEO touts Google AI deal as a template, steps up pressure on OpenAI over scraping
+_Fri, 16 Oct 2026 04:01:00 +0000_
 
-Speakers decry 'UMPs' as the new ad networks, with talk far outweighing understanding.
+Digiday spoke with Reach CEO Piers North about his plans to make its Google AI content deal a blueprint framework for other LLM deals, and its recent cease-and-desist letter to OpenAI.
 
-→ [https://digiday.com/media-buying/addressability-is-back-as-a-headline-concern-for-attendees-at-this-years-prebid-summit/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/addressability-is-back-as-a-headline-concern-for-attendees-at-this-years-prebid-summit/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/reach-ceo-touts-google-ai-deal-as-a-template-steps-up-pressure-on-openai-over-scraping/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/reach-ceo-touts-google-ai-deal-as-a-template-steps-up-pressure-on-openai-over-scraping/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Inside Dentsu’s plan to make entertainment a part of every brand’s budget
-_Thu, 15 Oct 2026 04:01:00 +0000_
+### Social commerce edges past SEO at The Independent for the first time
+_Fri, 16 Oct 2026 04:01:00 +0000_
 
-Why Dentsu thinks entertainment is the next agency account up for grabs.
+The Independent’s social-commerce revenue edged past its SEO-based commerce revenue for the first time in September, CEO Christian Broughton said at Digiday’s Media Strategies event in London this week.
 
-→ [https://digiday.com/marketing/inside-dentsus-plan-to-make-entertainment-a-part-of-every-brands-budget/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/inside-dentsus-plan-to-make-entertainment-a-part-of-every-brands-budget/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/social-commerce-edges-past-seo-at-the-independent-for-the-first-time/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/social-commerce-edges-past-seo-at-the-independent-for-the-first-time/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Briefing: Overheard from publishers at Digiday London Media Strategies Town Hall
-_Thu, 15 Oct 2026 04:01:00 +0000_
+### Ownership, control, margins: the brand playbook for microseries is still taking shape
+_Fri, 16 Oct 2026 04:01:00 +0000_
 
-At Digiday’s Media Strategies London event on Tuesday, executives weighed new ways to measure audience value, the risks of blocking AI crawlers, the uncertain economics of licensing content to LLMs, and whether agentic media trading is ready for the real world.
+Creator-led microseries are hot, and brands want in, but everyone's still figuring out the structure of the deals and the content itself
 
-→ [https://digiday.com/media/media-briefing-overheard-from-publishers-at-digiday-london-media-strategies-town-hall/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-overheard-from-publishers-at-digiday-london-media-strategies-town-hall/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/ownership-control-margins-the-brand-playbook-for-microseries-is-still-taking-shape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/ownership-control-margins-the-brand-playbook-for-microseries-is-still-taking-shape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Inside Wirecutter’s push to diversify beyond affiliate revenue as AI reshapes discovery
-_Thu, 15 Oct 2026 04:01:00 +0000_
+### Future of Marketing Briefing: The holdcos long, awkward courtship of the C-suite
+_Fri, 16 Oct 2026 04:01:00 +0000_
 
-Wirecutter is expanding beyond affiliate commerce with new categories, franchises and advertising opportunities as AI reshapes search.
+What holdcos risk when they go over the CMO’s head.
 
-→ [https://digiday.com/media/inside-wirecutters-push-to-diversify-beyond-affiliate-revenue-as-ai-reshapes-discovery/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/inside-wirecutters-push-to-diversify-beyond-affiliate-revenue-as-ai-reshapes-discovery/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/future-of-marketing-briefing-the-holdcos-long-awkward-courtship-of-the-c-suite/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-the-holdcos-long-awkward-courtship-of-the-c-suite/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+---
+
+## MarTech
+
+### HubSpot adds spending controls and flexible billing as AI usage grows
+_Thu, 15 Oct 2026 15:47:22 +0000_
+
+Consumption-based AI pricing makes marketing budgets unpredictable. Here is how HubSpot’s new spend limits and seat swaps give you control. The post HubSpot adds spending controls and flexible billing as AI usage grows appeared first on MarTech .
+
+→ [https://martech.org/hubspot-adds-spending-controls-and-flexible-billing-as-ai-usage-grows/](https://martech.org/hubspot-adds-spending-controls-and-flexible-billing-as-ai-usage-grows/)
+
+### The latest AI-powered martech news and releases
+_Thu, 15 Oct 2026 15:45:35 +0000_
+
+Anthropic and OpenAI are reporting revenues that may or may not be supported by the facts. Here's why that matters to marketers. The post The latest AI-powered martech news and releases appeared first on MarTech .
+
+→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
+
+### The best marketing spend is the 5% you spend foolishly
+_Thu, 15 Oct 2026 12:17:00 +0000_
+
+Chewy and Eleven Madison Park show how memorable customer moments can turn preference into measurable referral value. The post The best marketing spend is the 5% you spend foolishly appeared first on MarTech .
+
+→ [https://martech.org/the-best-marketing-spend-is-the-5-you-spend-foolishly/](https://martech.org/the-best-marketing-spend-is-the-5-you-spend-foolishly/)
+
+### Your brand isn’t as differentiated as you think
+_Thu, 15 Oct 2026 12:06:00 +0000_
+
+The tools meant to make marketing more effective may be making brands more alike. Here's why differentiation is becoming harder to sustain. The post Your brand isn’t as differentiated as you think appeared first on MarTech .
+
+→ [https://martech.org/your-brand-isnt-as-differentiated-as-you-think/](https://martech.org/your-brand-isnt-as-differentiated-as-you-think/)
+
+### In B2B, influencer marketing takes on a different look
+_Thu, 15 Oct 2026 12:00:00 +0000_
+
+B2B influencer marketing must be built for longer sales cycles and niche audiences. Learn how to make sustainable brand creation through strategic partnerships. The post In B2B, influencer marketing takes on a different look appeared first on MarTech .
+
+→ [https://martech.org/in-b2b-influencer-marketing-takes-on-a-different-look/](https://martech.org/in-b2b-influencer-marketing-takes-on-a-different-look/)
 
 ---
