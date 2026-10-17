@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-16 07:57 UTC_
+_Päivitetty: 2026-10-17 07:35 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Mitä kuvien optimointi nykypäivänä tarkoittaa? The post Miten kuvia kannatta
 
 ## HubSpot Marketing Blog
 
+### The marketing automation model that drove 9x qualified lead growth in a secondary market
+_Fri, 16 Oct 2026 12:00:04 GMT_
+
+When we reviewed our Japan marketing automation programs last year, the picture wasn’t pretty. Our automated emails were generating about 12 qualified leads per month against a goal of 160. That’s a huge gap.
+
+→ [https://blog.hubspot.com/marketing/marketing-automation-secondary-market-playbook](https://blog.hubspot.com/marketing/marketing-automation-secondary-market-playbook)
+
 ### Transactional email: What it is and how it works
 _Thu, 15 Oct 2026 16:30:04 GMT_
 
@@ -79,13 +86,6 @@ _Thu, 08 Oct 2026 20:09:15 GMT_
 Digital PR has always been about earning coverage that influences the audience you can’t reach through paid channels. While the value proposition of digital PR hasn’t changed, the definition of “showing up” has.
 
 → [https://blog.hubspot.com/marketing/aeo-guide-for-digital-pr](https://blog.hubspot.com/marketing/aeo-guide-for-digital-pr)
-
-### AEO for marketing agencies: How to deliver measurable AI visibility results for every client
-_Thu, 08 Oct 2026 20:05:40 GMT_
-
-Clients are asking about AEO. Some have seen competitors show up in AI results and want to know what it means. Others have read that AI is changing how buyers find vendors and want to know what their agency is doing about it.
-
-→ [https://blog.hubspot.com/marketing/aeo-guide-for-marketing-agencies](https://blog.hubspot.com/marketing/aeo-guide-for-marketing-agencies)
 
 ---
 
@@ -130,39 +130,39 @@ What holdcos risk when they go over the CMO’s head.
 
 ## MarTech
 
-### HubSpot adds spending controls and flexible billing as AI usage grows
-_Thu, 15 Oct 2026 15:47:22 +0000_
+### Content everywhere: Winning attention in a fragmented marketing landscape
+_Fri, 16 Oct 2026 18:56:37 +0000_
 
-Consumption-based AI pricing makes marketing budgets unpredictable. Here is how HubSpot’s new spend limits and seat swaps give you control. The post HubSpot adds spending controls and flexible billing as AI usage grows appeared first on MarTech .
+Digital fragmentation is pushing teams to their limits. On Nov. 4, learn how to stretch content budget and capture buyer attention where it counts. The post Content everywhere: Winning attention in a fragmented marketing landscape appeared first on MarTech .
 
-→ [https://martech.org/hubspot-adds-spending-controls-and-flexible-billing-as-ai-usage-grows/](https://martech.org/hubspot-adds-spending-controls-and-flexible-billing-as-ai-usage-grows/)
+→ [https://martech.org/content-everywhere-winning-attention-in-a-fragmented-marketing-landscape/](https://martech.org/content-everywhere-winning-attention-in-a-fragmented-marketing-landscape/)
 
-### The latest AI-powered martech news and releases
-_Thu, 15 Oct 2026 15:45:35 +0000_
+### HubSpot’s Unbound 2026: The big announcements and updates
+_Fri, 16 Oct 2026 13:40:10 +0000_
 
-Anthropic and OpenAI are reporting revenues that may or may not be supported by the facts. Here's why that matters to marketers. The post The latest AI-powered martech news and releases appeared first on MarTech .
+Unbound 2026 saw big product announcements on the main stage and other news that flew under the radar. Let’s break it all down for you. The post HubSpot&#8217;s Unbound 2026: The big announcements and updates appeared first on MarTech .
 
-→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
+→ [https://martech.org/hubspots-unbound-2026-the-big-announcements-and-updates/](https://martech.org/hubspots-unbound-2026-the-big-announcements-and-updates/)
 
-### The best marketing spend is the 5% you spend foolishly
-_Thu, 15 Oct 2026 12:17:00 +0000_
+### Adding AI or headcount won’t fix a marketing skills gap
+_Fri, 16 Oct 2026 12:53:00 +0000_
 
-Chewy and Eleven Madison Park show how memorable customer moments can turn preference into measurable referral value. The post The best marketing spend is the 5% you spend foolishly appeared first on MarTech .
+AI can increase output while creating more work for your best people. Three practical checks can help you avoid that trap. The post Adding AI or headcount won&#8217;t fix a marketing skills gap appeared first on MarTech .
 
-→ [https://martech.org/the-best-marketing-spend-is-the-5-you-spend-foolishly/](https://martech.org/the-best-marketing-spend-is-the-5-you-spend-foolishly/)
+→ [https://martech.org/adding-ai-or-headcount-wont-fix-a-marketing-skills-gap/](https://martech.org/adding-ai-or-headcount-wont-fix-a-marketing-skills-gap/)
 
-### Your brand isn’t as differentiated as you think
-_Thu, 15 Oct 2026 12:06:00 +0000_
+### Email marketing’s history can guide AI governance
+_Fri, 16 Oct 2026 12:46:00 +0000_
 
-The tools meant to make marketing more effective may be making brands more alike. Here's why differentiation is becoming harder to sustain. The post Your brand isn’t as differentiated as you think appeared first on MarTech .
+Attribution, accuracy, and authenticity offer a starting point for responsible AI use — and for protecting your brand's credibility. The post Email marketing&#8217;s history can guide AI governance appeared first on MarTech .
 
-→ [https://martech.org/your-brand-isnt-as-differentiated-as-you-think/](https://martech.org/your-brand-isnt-as-differentiated-as-you-think/)
+→ [https://martech.org/email-marketings-history-can-guide-ai-governance/](https://martech.org/email-marketings-history-can-guide-ai-governance/)
 
-### In B2B, influencer marketing takes on a different look
-_Thu, 15 Oct 2026 12:00:00 +0000_
+### Retail media budgets are growing. Advertisers’ patience isn’t.
+_Fri, 16 Oct 2026 12:30:00 +0000_
 
-B2B influencer marketing must be built for longer sales cycles and niche audiences. Learn how to make sustainable brand creation through strategic partnerships. The post In B2B, influencer marketing takes on a different look appeared first on MarTech .
+Advertisers plan to spend more, but slow activation and weak measurement can still cost networks money. The post Retail media budgets are growing. Advertisers&#8217; patience isn’t. appeared first on MarTech .
 
-→ [https://martech.org/in-b2b-influencer-marketing-takes-on-a-different-look/](https://martech.org/in-b2b-influencer-marketing-takes-on-a-different-look/)
+→ [https://martech.org/retail-media-budgets-are-growing-advertisers-patience-isnt/](https://martech.org/retail-media-budgets-are-growing-advertisers-patience-isnt/)
 
 ---
