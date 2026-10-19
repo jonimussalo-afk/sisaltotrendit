@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-18 07:51 UTC_
+_Päivitetty: 2026-10-19 08:34 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -91,40 +91,40 @@ Digital PR has always been about earning coverage that influences the audience y
 
 ## Digiday
 
+### How Amazon turned its Thursday Night Football into a two-pronged pitch to capture ad dollars
+_Mon, 19 Oct 2026 04:01:00 +0000_
+
+TNF’s the jewel in Amazon’s Prime Video sports portfolio, and a lever for endemic and non-endemic media budgets.
+
+→ [https://digiday.com/media-buying/how-amazon-turned-its-thursday-night-football-into-a-two-pronged-pitch-to-capture-ad-dollars/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/how-amazon-turned-its-thursday-night-football-into-a-two-pronged-pitch-to-capture-ad-dollars/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### The Verge switches up its audience team to prepare for Google Zero
+_Mon, 19 Oct 2026 04:01:00 +0000_
+
+The Verge has restructured its audience development team to prioritize loyal readers over traffic and page views.
+
+→ [https://digiday.com/media/the-verge-switches-up-its-audience-team-to-prepare-for-google-zero/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/the-verge-switches-up-its-audience-team-to-prepare-for-google-zero/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Target bets on buzzy TikTok brands like Mellow Sleep to revamp its home category
+_Mon, 19 Oct 2026 04:01:00 +0000_
+
+This fall, there’s been a steady drumbeat of new brands launching in the big-box retailer’s home category.
+
+→ [https://digiday.com/marketing/target-bets-on-buzzy-tiktok-brands-like-mellow-sleep-to-revamp-its-home-category/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/target-bets-on-buzzy-tiktok-brands-like-mellow-sleep-to-revamp-its-home-category/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Media Buying Briefing: How are the 2nd tier holdcos separating themselves from the Big Three?
+_Mon, 19 Oct 2026 04:01:00 +0000_
+
+Just under Publics, Omnicom and WPP, the scrum among a handful of holdcos and indies to stand out yields some interesting moves.
+
+→ [https://digiday.com/media-buying/media-buying-briefing-how-are-the-2nd-tier-holdcos-separating-themselves-from-the-big-three/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-how-are-the-2nd-tier-holdcos-separating-themselves-from-the-big-three/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### Ruggable’s new ad spend strategy shifts focus to ShopMy creators
 _Fri, 16 Oct 2026 04:01:00 +0000_
 
 Ruggable is shaking up its marketing stack, pulling dollars our of Meta and into ShopMy creators ahead of a potential IPO.
 
 → [https://digiday.com/marketing/ruggables-new-ad-spend-strategy-shifts-focus-to-shopmy-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ruggables-new-ad-spend-strategy-shifts-focus-to-shopmy-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Reach CEO touts Google AI deal as a template, steps up pressure on OpenAI over scraping
-_Fri, 16 Oct 2026 04:01:00 +0000_
-
-Digiday spoke with Reach CEO Piers North about his plans to make its Google AI content deal a blueprint framework for other LLM deals, and its recent cease-and-desist letter to OpenAI.
-
-→ [https://digiday.com/media/reach-ceo-touts-google-ai-deal-as-a-template-steps-up-pressure-on-openai-over-scraping/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/reach-ceo-touts-google-ai-deal-as-a-template-steps-up-pressure-on-openai-over-scraping/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Social commerce edges past SEO at The Independent for the first time
-_Fri, 16 Oct 2026 04:01:00 +0000_
-
-The Independent’s social-commerce revenue edged past its SEO-based commerce revenue for the first time in September, CEO Christian Broughton said at Digiday’s Media Strategies event in London this week.
-
-→ [https://digiday.com/media/social-commerce-edges-past-seo-at-the-independent-for-the-first-time/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/social-commerce-edges-past-seo-at-the-independent-for-the-first-time/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Ownership, control, margins: the brand playbook for microseries is still taking shape
-_Fri, 16 Oct 2026 04:01:00 +0000_
-
-Creator-led microseries are hot, and brands want in, but everyone's still figuring out the structure of the deals and the content itself
-
-→ [https://digiday.com/media/ownership-control-margins-the-brand-playbook-for-microseries-is-still-taking-shape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/ownership-control-margins-the-brand-playbook-for-microseries-is-still-taking-shape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Future of Marketing Briefing: The holdcos long, awkward courtship of the C-suite
-_Fri, 16 Oct 2026 04:01:00 +0000_
-
-What holdcos risk when they go over the CMO’s head.
-
-→ [https://digiday.com/marketing/future-of-marketing-briefing-the-holdcos-long-awkward-courtship-of-the-c-suite/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-the-holdcos-long-awkward-courtship-of-the-c-suite/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
