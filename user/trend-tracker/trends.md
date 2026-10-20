@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-19 08:34 UTC_
+_Päivitetty: 2026-10-20 08:16 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -10,6 +10,20 @@ _Päivitetty: 2026-10-19 08:34 UTC_
 # 🇫🇮 Kotimaiset lähteet
 
 ## Digimarkkinointi.fi
+
+### Erottautumistekijät ovat AI-aikakauden tärkeintä sisältöä
+_Mon, 19 Oct 2026 10:31:27 +0000_
+
+Tekoäly vertailee yrityksiä julkaistun tiedon varassa. Jos valintaperusteitasi ei löydy verkosta, vastaus sinusta jää arvailun ja muiden lähteiden varaan. The post Erottautumistekijät ovat AI-aikakauden tärkeintä sisältöä appeared first on SDM Digital .
+
+→ [https://sdm.fi/blogi/erottautumistekijat-ovat-ai-aikakauden-tarkein-sisalto/](https://sdm.fi/blogi/erottautumistekijat-ovat-ai-aikakauden-tarkein-sisalto/)
+
+### Osa ostopolusta on nyt tekoälyn käsissä. Mitä se vaatii markkinoinnilta MVG-MRACE®-mallin näkökulmasta?
+_Mon, 19 Oct 2026 08:38:41 +0000_
+
+Kuinka yritys voi valmistautua murrokseen? Tarvitaanko verkkosivustoja enää? The post Osa ostopolusta on nyt tekoälyn käsissä. Mitä se vaatii markkinoinnilta MVG-MRACE®-mallin näkökulmasta? appeared first on SDM Digital .
+
+→ [https://sdm.fi/blogi/ostopolku-tekoalyn-kasissa-mita-se-vaatii-markkinoinnilta/](https://sdm.fi/blogi/ostopolku-tekoalyn-kasissa-mita-se-vaatii-markkinoinnilta/)
 
 ### Miten seurata yrityksen AI-näkyvyyttä eri lähteistä?
 _Thu, 08 Oct 2026 06:58:02 +0000_
@@ -32,25 +46,25 @@ Tekoäly löytää samalla budjetilla paremmat mainospaikat ja optimoi ne reaali
 
 → [https://sdm.fi/blogi/sama-budjetti-40-enemman-huomiota-kokemuksia-adnamin-tekoalyoptimoijasta/](https://sdm.fi/blogi/sama-budjetti-40-enemman-huomiota-kokemuksia-adnamin-tekoalyoptimoijasta/)
 
-### Kestävä sisältöstrategia ei kaadu somen muutoksiin, vaikka Meta rajoitti yhteiskunnallista mainontaa
-_Fri, 07 Aug 2026 07:50:50 +0000_
-
-Miksi sisältöstrategiaan ja omistettuihin kanaviin kannattaa edelleen panostaa? The post Kestävä sisältöstrategia ei kaadu somen muutoksiin, vaikka Meta rajoitti yhteiskunnallista mainontaa appeared first on SDM Digital .
-
-→ [https://sdm.fi/blogi/kestava-sisaltostrategia-meta-rajoitti-yhteiskunnallista-mainontaa/](https://sdm.fi/blogi/kestava-sisaltostrategia-meta-rajoitti-yhteiskunnallista-mainontaa/)
-
-### Miten kuvia kannattaa optimoida tekoälyn ja saavutettavuuden aikakaudella?
-_Wed, 15 Jul 2026 09:51:03 +0000_
-
-Mitä kuvien optimointi nykypäivänä tarkoittaa? The post Miten kuvia kannattaa optimoida tekoälyn ja saavutettavuuden aikakaudella? appeared first on SDM Digital .
-
-→ [https://sdm.fi/blogi/kuvien-optimointi-tekoalyn-saavutettavuuden-aikakaudella/](https://sdm.fi/blogi/kuvien-optimointi-tekoalyn-saavutettavuuden-aikakaudella/)
-
 ---
 
 # 🌍 Kansainväliset lähteet
 
 ## HubSpot Marketing Blog
+
+### What actually happened when our blog went AI-first: A manager's account
+_Mon, 19 Oct 2026 13:45:04 GMT_
+
+When our blog team made the switch to an AI-first writing model in June 2025, my reaction was split. There was excitement on one side: I could see the inefficiencies in our process that AI might actually fix. On the other, anxiety. And while plenty of that anxiety was about the technology itself (how well these tools could actually write, how much…
+
+→ [https://blog.hubspot.com/marketing/how-ai-changed-our-editorial-process](https://blog.hubspot.com/marketing/how-ai-changed-our-editorial-process)
+
+### Best Claude skills for marketing and sales teams
+_Mon, 19 Oct 2026 13:45:04 GMT_
+
+The best Claude skills for marketing and sales teams turn recurring work into reusable processes with defined instructions, inputs, and outputs. Claude skills are reusable instruction sets for tasks such as campaign planning, sales call recaps, persona research, content outlining, proposal drafting, and performance reporting. Claude skills save…
+
+→ [https://blog.hubspot.com/marketing/best-claude-skills](https://blog.hubspot.com/marketing/best-claude-skills)
 
 ### The marketing automation model that drove 9x qualified lead growth in a secondary market
 _Fri, 16 Oct 2026 12:00:04 GMT_
@@ -73,62 +87,69 @@ AI Overviews have shifted how audiences discover brands. Gone are the days when 
 
 → [https://blog.hubspot.com/marketing/tracking-ai-overviews](https://blog.hubspot.com/marketing/tracking-ai-overviews)
 
-### Claude skills vs. plugins vs. MCP connectors: A simple guide
-_Wed, 14 Oct 2026 16:30:04 GMT_
-
-If you’ve opened Claude’s Customize settings and weren’t sure whether a task called for a Skill, a connector, or a Plugin, you’re not alone.
-
-→ [https://blog.hubspot.com/marketing/claude-skills-plugins-mcp](https://blog.hubspot.com/marketing/claude-skills-plugins-mcp)
-
-### AEO for digital PR: How to build earned media presence that shows up in AI results
-_Thu, 08 Oct 2026 20:09:15 GMT_
-
-Digital PR has always been about earning coverage that influences the audience you can’t reach through paid channels. While the value proposition of digital PR hasn’t changed, the definition of “showing up” has.
-
-→ [https://blog.hubspot.com/marketing/aeo-guide-for-digital-pr](https://blog.hubspot.com/marketing/aeo-guide-for-digital-pr)
-
 ---
 
 ## Digiday
 
-### How Amazon turned its Thursday Night Football into a two-pronged pitch to capture ad dollars
-_Mon, 19 Oct 2026 04:01:00 +0000_
+### How a fashion creator turned audience demand into a 500+ client styling business
+_Tue, 20 Oct 2026 04:01:00 +0000_
 
-TNF’s the jewel in Amazon’s Prime Video sports portfolio, and a lever for endemic and non-endemic media budgets.
+A creator with a fashion merchandising degree speaks on her quest to diversify revenue fast, from styling to sweat equity investment.
 
-→ [https://digiday.com/media-buying/how-amazon-turned-its-thursday-night-football-into-a-two-pronged-pitch-to-capture-ad-dollars/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/how-amazon-turned-its-thursday-night-football-into-a-two-pronged-pitch-to-capture-ad-dollars/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/how-a-fashion-creator-turned-audience-demand-into-a-500-client-styling-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-a-fashion-creator-turned-audience-demand-into-a-500-client-styling-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### The Verge switches up its audience team to prepare for Google Zero
-_Mon, 19 Oct 2026 04:01:00 +0000_
+### Forbes looks to Google AI pilot for insights as publishers seek value beyond the click
+_Tue, 20 Oct 2026 04:01:00 +0000_
 
-The Verge has restructured its audience development team to prioritize loyal readers over traffic and page views.
+Forbes has joined Google's paid News AI pilot that gives Google expanded rights to its content to test new ways of providing readers with context about stories before they click through.
 
-→ [https://digiday.com/media/the-verge-switches-up-its-audience-team-to-prepare-for-google-zero/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/the-verge-switches-up-its-audience-team-to-prepare-for-google-zero/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/forbes-looks-to-google-ai-pilot-for-insights-as-publishers-seek-value-beyond-the-click/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/forbes-looks-to-google-ai-pilot-for-insights-as-publishers-seek-value-beyond-the-click/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Target bets on buzzy TikTok brands like Mellow Sleep to revamp its home category
-_Mon, 19 Oct 2026 04:01:00 +0000_
+### Apple finally explains its Safari block, and identity companies are in its sights
+_Tue, 20 Oct 2026 04:01:00 +0000_
 
-This fall, there’s been a steady drumbeat of new brands launching in the big-box retailer’s home category.
+As Apple spells out its case for blocking identity companies in Safari, its job board shows an ads business with big plans.
 
-→ [https://digiday.com/marketing/target-bets-on-buzzy-tiktok-brands-like-mellow-sleep-to-revamp-its-home-category/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/target-bets-on-buzzy-tiktok-brands-like-mellow-sleep-to-revamp-its-home-category/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/apples-growing-ads-business-puts-its-safari-blocklist-under-scrutiny/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/apples-growing-ads-business-puts-its-safari-blocklist-under-scrutiny/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Buying Briefing: How are the 2nd tier holdcos separating themselves from the Big Three?
-_Mon, 19 Oct 2026 04:01:00 +0000_
+### Inside the post-Google playbook: Subscriptions, AI and team reorgs
+_Tue, 20 Oct 2026 04:01:00 +0000_
 
-Just under Publics, Omnicom and WPP, the scrum among a handful of holdcos and indies to stand out yields some interesting moves.
+As Google traffic dries up, publishers are pivoting from Google traffic to subscriptions, AI visibility and newsroom reorgs.
 
-→ [https://digiday.com/media-buying/media-buying-briefing-how-are-the-2nd-tier-holdcos-separating-themselves-from-the-big-three/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-how-are-the-2nd-tier-holdcos-separating-themselves-from-the-big-three/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/podcasts/inside-the-post-google-playbook-subscriptions-ai-and-team-reorgs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/inside-the-post-google-playbook-subscriptions-ai-and-team-reorgs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Ruggable’s new ad spend strategy shifts focus to ShopMy creators
-_Fri, 16 Oct 2026 04:01:00 +0000_
+### Ad Tech Briefing: Can flipping the ad auction wrest control of ad tech from Google?
+_Tue, 20 Oct 2026 04:01:00 +0000_
 
-Ruggable is shaking up its marketing stack, pulling dollars our of Meta and into ShopMy creators ahead of a potential IPO.
+Prebid wants to change one of the key fundamentals of ad tech.
 
-→ [https://digiday.com/marketing/ruggables-new-ad-spend-strategy-shifts-focus-to-shopmy-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ruggables-new-ad-spend-strategy-shifts-focus-to-shopmy-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/ad-tech-briefing-can-flipping-the-ad-auction-wrest-control-of-ad-tech-from-google/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ad-tech-briefing-can-flipping-the-ad-auction-wrest-control-of-ad-tech-from-google/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### The next great marketing leaders will design how work gets done
+_Mon, 19 Oct 2026 13:01:00 +0000_
+
+Turn faster AI output into faster campaign delivery with clearer priorities, fewer handoffs, and defined roles for people and AI. The post The next great marketing leaders will design how work gets done appeared first on MarTech .
+
+→ [https://martech.org/the-next-great-marketing-leaders-will-design-how-work-gets-done/](https://martech.org/the-next-great-marketing-leaders-will-design-how-work-gets-done/)
+
+### How to evaluate composable versus packaged CDP
+_Mon, 19 Oct 2026 12:46:00 +0000_
+
+Evaluating data warehouse readiness, engineering capacity, and real-time execution speeds determines optimal CDP architecture. The post How to evaluate composable versus packaged CDP appeared first on MarTech .
+
+→ [https://martech.org/how-to-evaluate-composable-versus-packaged-cdp/](https://martech.org/how-to-evaluate-composable-versus-packaged-cdp/)
+
+### The psychological advantage of incrementality testing
+_Mon, 19 Oct 2026 12:20:00 +0000_
+
+Cutting spend feels risky. Keeping an unprofitable tactic often feels safe. Better evidence helps you challenge that imbalance. The post The psychological advantage of incrementality testing appeared first on MarTech .
+
+→ [https://martech.org/the-psychological-advantage-of-incrementality-testing/](https://martech.org/the-psychological-advantage-of-incrementality-testing/)
 
 ### Content everywhere: Winning attention in a fragmented marketing landscape
 _Fri, 16 Oct 2026 18:56:37 +0000_
@@ -143,26 +164,5 @@ _Fri, 16 Oct 2026 13:40:10 +0000_
 Unbound 2026 saw big product announcements on the main stage and other news that flew under the radar. Let’s break it all down for you. The post HubSpot&#8217;s Unbound 2026: The big announcements and updates appeared first on MarTech .
 
 → [https://martech.org/hubspots-unbound-2026-the-big-announcements-and-updates/](https://martech.org/hubspots-unbound-2026-the-big-announcements-and-updates/)
-
-### Adding AI or headcount won’t fix a marketing skills gap
-_Fri, 16 Oct 2026 12:53:00 +0000_
-
-AI can increase output while creating more work for your best people. Three practical checks can help you avoid that trap. The post Adding AI or headcount won&#8217;t fix a marketing skills gap appeared first on MarTech .
-
-→ [https://martech.org/adding-ai-or-headcount-wont-fix-a-marketing-skills-gap/](https://martech.org/adding-ai-or-headcount-wont-fix-a-marketing-skills-gap/)
-
-### Email marketing’s history can guide AI governance
-_Fri, 16 Oct 2026 12:46:00 +0000_
-
-Attribution, accuracy, and authenticity offer a starting point for responsible AI use — and for protecting your brand's credibility. The post Email marketing&#8217;s history can guide AI governance appeared first on MarTech .
-
-→ [https://martech.org/email-marketings-history-can-guide-ai-governance/](https://martech.org/email-marketings-history-can-guide-ai-governance/)
-
-### Retail media budgets are growing. Advertisers’ patience isn’t.
-_Fri, 16 Oct 2026 12:30:00 +0000_
-
-Advertisers plan to spend more, but slow activation and weak measurement can still cost networks money. The post Retail media budgets are growing. Advertisers&#8217; patience isn’t. appeared first on MarTech .
-
-→ [https://martech.org/retail-media-budgets-are-growing-advertisers-patience-isnt/](https://martech.org/retail-media-budgets-are-growing-advertisers-patience-isnt/)
 
 ---
