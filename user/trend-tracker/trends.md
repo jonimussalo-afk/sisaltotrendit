@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-20 08:16 UTC_
+_Päivitetty: 2026-10-21 08:20 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Tekoäly löytää samalla budjetilla paremmat mainospaikat ja optimoi ne reaali
 
 ## HubSpot Marketing Blog
 
+### What options exist for running AEO without a large team?
+_Tue, 20 Oct 2026 13:15:03 GMT_
+
+Companies without the internal resources or budget to build a dedicated search department still need to know what options exist for running AEO without a large team. Answer Engine Optimization is no longer optional for companies that rely on search to generate leads and revenue. AI Overviews now appear at the top of search results before a single…
+
+→ [https://blog.hubspot.com/marketing/aeo-for-small-teams](https://blog.hubspot.com/marketing/aeo-for-small-teams)
+
 ### What actually happened when our blog went AI-first: A manager's account
 _Mon, 19 Oct 2026 13:45:04 GMT_
 
@@ -80,16 +87,37 @@ Transactional emails are automated messages triggered by a specific action a cus
 
 → [https://blog.hubspot.com/marketing/best-transactional-email-platforms](https://blog.hubspot.com/marketing/best-transactional-email-platforms)
 
-### Tracking AI Overviews: What the data actually shows
-_Wed, 14 Oct 2026 16:30:04 GMT_
-
-AI Overviews have shifted how audiences discover brands. Gone are the days when users would click through multiple search results until they found what they’re looking for. Now, AI Overviews answers questions directly on the results page, meaning brands are either cited or ignored without users ever visiting a website.
-
-→ [https://blog.hubspot.com/marketing/tracking-ai-overviews](https://blog.hubspot.com/marketing/tracking-ai-overviews)
-
 ---
 
 ## Digiday
+
+### Indie agencies want The Trade Desk and Amazon DSP to acknowledge their buying power with negotiating leverage
+_Wed, 21 Oct 2026 04:01:00 +0000_
+
+Indie agencies say DSP giants block direct seats and fee relief despite spend commitments.
+
+→ [https://digiday.com/marketing/indie-agencies-want-the-trade-desk-and-amazon-dsp-to-acknowledge-their-buying-power-with-negotiating-leverage/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/indie-agencies-want-the-trade-desk-and-amazon-dsp-to-acknowledge-their-buying-power-with-negotiating-leverage/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Creator mentors Colin and Samir want to turn their followers’ ideas into productions
+_Wed, 21 Oct 2026 04:01:00 +0000_
+
+Creator mentors Colin and Samir teamed up with Adobe to fund a creator's project; the first step towards the duo's new production era.
+
+→ [https://digiday.com/media/creator-mentors-colin-and-samir-want-to-turn-their-followers-ideas-into-productions/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/creator-mentors-colin-and-samir-want-to-turn-their-followers-ideas-into-productions/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Future of TV Briefing: YouTube, Tubi top streamers’ share of ad exposure time
+_Wed, 21 Oct 2026 04:01:00 +0000_
+
+This week’s Future of TV Briefing looks at Comscore’s new Score Report that gauges TV and streaming companies’ share of audiences’ ad exposure time.
+
+→ [https://digiday.com/future-of-tv/future-of-tv-briefing-youtube-tubi-top-streamers-share-of-ad-exposure-time/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-youtube-tubi-top-streamers-share-of-ad-exposure-time/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Nearly 30% of holiday budgets expected to be spent by the end of October
+_Wed, 21 Oct 2026 04:01:00 +0000_
+
+Per a new report from Deloitte, 28% of shoppers’ budgets are expected to be exhausted by the end of October.
+
+→ [https://digiday.com/marketing/nearly-30-of-holiday-budgets-expected-to-be-spent-by-the-end-of-october/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/nearly-30-of-holiday-budgets-expected-to-be-spent-by-the-end-of-october/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ### How a fashion creator turned audience demand into a 500+ client styling business
 _Tue, 20 Oct 2026 04:01:00 +0000_
@@ -98,37 +126,37 @@ A creator with a fashion merchandising degree speaks on her quest to diversify r
 
 → [https://digiday.com/media/how-a-fashion-creator-turned-audience-demand-into-a-500-client-styling-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-a-fashion-creator-turned-audience-demand-into-a-500-client-styling-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Forbes looks to Google AI pilot for insights as publishers seek value beyond the click
-_Tue, 20 Oct 2026 04:01:00 +0000_
-
-Forbes has joined Google's paid News AI pilot that gives Google expanded rights to its content to test new ways of providing readers with context about stories before they click through.
-
-→ [https://digiday.com/media/forbes-looks-to-google-ai-pilot-for-insights-as-publishers-seek-value-beyond-the-click/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/forbes-looks-to-google-ai-pilot-for-insights-as-publishers-seek-value-beyond-the-click/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Apple finally explains its Safari block, and identity companies are in its sights
-_Tue, 20 Oct 2026 04:01:00 +0000_
-
-As Apple spells out its case for blocking identity companies in Safari, its job board shows an ads business with big plans.
-
-→ [https://digiday.com/marketing/apples-growing-ads-business-puts-its-safari-blocklist-under-scrutiny/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/apples-growing-ads-business-puts-its-safari-blocklist-under-scrutiny/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Inside the post-Google playbook: Subscriptions, AI and team reorgs
-_Tue, 20 Oct 2026 04:01:00 +0000_
-
-As Google traffic dries up, publishers are pivoting from Google traffic to subscriptions, AI visibility and newsroom reorgs.
-
-→ [https://digiday.com/podcasts/inside-the-post-google-playbook-subscriptions-ai-and-team-reorgs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/inside-the-post-google-playbook-subscriptions-ai-and-team-reorgs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Ad Tech Briefing: Can flipping the ad auction wrest control of ad tech from Google?
-_Tue, 20 Oct 2026 04:01:00 +0000_
-
-Prebid wants to change one of the key fundamentals of ad tech.
-
-→ [https://digiday.com/marketing/ad-tech-briefing-can-flipping-the-ad-auction-wrest-control-of-ad-tech-from-google/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ad-tech-briefing-can-flipping-the-ad-auction-wrest-control-of-ad-tech-from-google/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
 ---
 
 ## MarTech
+
+### Will Salesforce’s Braze deal bring clarity or chaos?
+_Tue, 20 Oct 2026 14:25:04 +0000_
+
+The $5.7 billion acquisition could tighten the link between data and activation — or leave marketers managing another overlapping layer. The post Will Salesforce’s Braze deal bring clarity or chaos? appeared first on MarTech .
+
+→ [https://martech.org/will-salesforces-braze-deal-bring-clarity-or-chaos/](https://martech.org/will-salesforces-braze-deal-bring-clarity-or-chaos/)
+
+### How to use CRM segmentation to drive holiday repeat purchases
+_Tue, 20 Oct 2026 13:00:00 +0000_
+
+Use a CRM recency ladder to prioritize customer segments and coordinate holiday campaigns across email and paid media. The post How to use CRM segmentation to drive holiday repeat purchases appeared first on MarTech .
+
+→ [https://martech.org/how-to-use-crm-segmentation-to-drive-holiday-repeat-purchases/](https://martech.org/how-to-use-crm-segmentation-to-drive-holiday-repeat-purchases/)
+
+### Your marketing metrics are training your team to make bad decisions
+_Tue, 20 Oct 2026 12:54:00 +0000_
+
+Cheaper clicks and more leads can look like wins while qualified pipeline stalls. Uncover the tradeoffs behind your performance numbers. The post Your marketing metrics are training your team to make bad decisions appeared first on MarTech .
+
+→ [https://martech.org/your-marketing-metrics-are-training-your-team-to-make-bad-decisions/](https://martech.org/your-marketing-metrics-are-training-your-team-to-make-bad-decisions/)
+
+### AI search is turning prompts into customer research
+_Tue, 20 Oct 2026 12:28:00 +0000_
+
+Longer, more personal queries reveal the needs, trade-offs, and situations behind intent — giving marketers a richer view of what customers want. The post AI search is turning prompts into customer research appeared first on MarTech .
+
+→ [https://martech.org/ai-search-is-turning-prompts-into-customer-research/](https://martech.org/ai-search-is-turning-prompts-into-customer-research/)
 
 ### The next great marketing leaders will design how work gets done
 _Mon, 19 Oct 2026 13:01:00 +0000_
@@ -136,33 +164,5 @@ _Mon, 19 Oct 2026 13:01:00 +0000_
 Turn faster AI output into faster campaign delivery with clearer priorities, fewer handoffs, and defined roles for people and AI. The post The next great marketing leaders will design how work gets done appeared first on MarTech .
 
 → [https://martech.org/the-next-great-marketing-leaders-will-design-how-work-gets-done/](https://martech.org/the-next-great-marketing-leaders-will-design-how-work-gets-done/)
-
-### How to evaluate composable versus packaged CDP
-_Mon, 19 Oct 2026 12:46:00 +0000_
-
-Evaluating data warehouse readiness, engineering capacity, and real-time execution speeds determines optimal CDP architecture. The post How to evaluate composable versus packaged CDP appeared first on MarTech .
-
-→ [https://martech.org/how-to-evaluate-composable-versus-packaged-cdp/](https://martech.org/how-to-evaluate-composable-versus-packaged-cdp/)
-
-### The psychological advantage of incrementality testing
-_Mon, 19 Oct 2026 12:20:00 +0000_
-
-Cutting spend feels risky. Keeping an unprofitable tactic often feels safe. Better evidence helps you challenge that imbalance. The post The psychological advantage of incrementality testing appeared first on MarTech .
-
-→ [https://martech.org/the-psychological-advantage-of-incrementality-testing/](https://martech.org/the-psychological-advantage-of-incrementality-testing/)
-
-### Content everywhere: Winning attention in a fragmented marketing landscape
-_Fri, 16 Oct 2026 18:56:37 +0000_
-
-Digital fragmentation is pushing teams to their limits. On Nov. 4, learn how to stretch content budget and capture buyer attention where it counts. The post Content everywhere: Winning attention in a fragmented marketing landscape appeared first on MarTech .
-
-→ [https://martech.org/content-everywhere-winning-attention-in-a-fragmented-marketing-landscape/](https://martech.org/content-everywhere-winning-attention-in-a-fragmented-marketing-landscape/)
-
-### HubSpot’s Unbound 2026: The big announcements and updates
-_Fri, 16 Oct 2026 13:40:10 +0000_
-
-Unbound 2026 saw big product announcements on the main stage and other news that flew under the radar. Let’s break it all down for you. The post HubSpot&#8217;s Unbound 2026: The big announcements and updates appeared first on MarTech .
-
-→ [https://martech.org/hubspots-unbound-2026-the-big-announcements-and-updates/](https://martech.org/hubspots-unbound-2026-the-big-announcements-and-updates/)
 
 ---
