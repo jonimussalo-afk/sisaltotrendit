@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-21 08:20 UTC_
+_Päivitetty: 2026-10-22 08:23 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -10,6 +10,13 @@ _Päivitetty: 2026-10-21 08:20 UTC_
 # 🇫🇮 Kotimaiset lähteet
 
 ## Digimarkkinointi.fi
+
+### ChatGPT-mainonta käynnistyi – mitä ensimmäiset tulokset kertovat uudesta AI-mainosympäristöstä?
+_Thu, 22 Oct 2026 06:38:24 +0000_
+
+ChatGPT-mainonta on käynnistynyt! Ensimmäisessä testissämme saavutettiin lupaavia tuloksia. The post ChatGPT-mainonta käynnistyi – mitä ensimmäiset tulokset kertovat uudesta AI-mainosympäristöstä? appeared first on SDM Digital .
+
+→ [https://sdm.fi/blogi/chatgpt-mainonta-ensimmaiset-tulokset/](https://sdm.fi/blogi/chatgpt-mainonta-ensimmaiset-tulokset/)
 
 ### Erottautumistekijät ovat AI-aikakauden tärkeintä sisältöä
 _Mon, 19 Oct 2026 10:31:27 +0000_
@@ -38,13 +45,6 @@ _Fri, 18 Sep 2026 12:42:09 +0000_
 The post Datastrategia ratkaisee AI:n aikakaudella: onko yrityksesi data kasvun mahdollistaja vai este? appeared first on SDM Digital .
 
 → [https://sdm.fi/blogi/digimarkkinoinnin-datastrategia/](https://sdm.fi/blogi/digimarkkinoinnin-datastrategia/)
-
-### Sama budjetti, 40 % enemmän huomiota: kokemuksia Adnamin tekoälyoptimoijasta
-_Tue, 25 Aug 2026 11:38:12 +0000_
-
-Tekoäly löytää samalla budjetilla paremmat mainospaikat ja optimoi ne reaaliajassa nopeammin kuin ihminen ehtisi. The post Sama budjetti, 40 % enemmän huomiota: kokemuksia Adnamin tekoälyoptimoijasta appeared first on SDM Digital .
-
-→ [https://sdm.fi/blogi/sama-budjetti-40-enemman-huomiota-kokemuksia-adnamin-tekoalyoptimoijasta/](https://sdm.fi/blogi/sama-budjetti-40-enemman-huomiota-kokemuksia-adnamin-tekoalyoptimoijasta/)
 
 ---
 
@@ -91,78 +91,39 @@ Transactional emails are automated messages triggered by a specific action a cus
 
 ## Digiday
 
-### Indie agencies want The Trade Desk and Amazon DSP to acknowledge their buying power with negotiating leverage
-_Wed, 21 Oct 2026 04:01:00 +0000_
+### Walmart Connect pitches brands directly as it pushes lift studies ahead of holiday ad deals
+_Thu, 22 Oct 2026 04:01:00 +0000_
 
-Indie agencies say DSP giants block direct seats and fee relief despite spend commitments.
+Walmart Connect is using lift studies to prove ad performance directly to brands ahead of the holidays, signaling a tighter race with Amazon.
 
-→ [https://digiday.com/marketing/indie-agencies-want-the-trade-desk-and-amazon-dsp-to-acknowledge-their-buying-power-with-negotiating-leverage/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/indie-agencies-want-the-trade-desk-and-amazon-dsp-to-acknowledge-their-buying-power-with-negotiating-leverage/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/walmart-connect-pitches-brands-directly-as-it-pushes-lift-studies-ahead-of-holiday-ad-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/walmart-connect-pitches-brands-directly-as-it-pushes-lift-studies-ahead-of-holiday-ad-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Creator mentors Colin and Samir want to turn their followers’ ideas into productions
-_Wed, 21 Oct 2026 04:01:00 +0000_
+### Why CNN International is building for agentic ad market that barely exists yet
+_Thu, 22 Oct 2026 04:01:00 +0000_
 
-Creator mentors Colin and Samir teamed up with Adobe to fund a creator's project; the first step towards the duo's new production era.
+CNN International is still chasing its first agent-sold dollar by Q1.
 
-→ [https://digiday.com/media/creator-mentors-colin-and-samir-want-to-turn-their-followers-ideas-into-productions/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/creator-mentors-colin-and-samir-want-to-turn-their-followers-ideas-into-productions/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/why-cnn-international-is-building-for-agentic-ad-market-that-barely-exists-yet/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/why-cnn-international-is-building-for-agentic-ad-market-that-barely-exists-yet/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Future of TV Briefing: YouTube, Tubi top streamers’ share of ad exposure time
-_Wed, 21 Oct 2026 04:01:00 +0000_
+### Target’s holiday push stresses affordability, exclusives and an AI assistant
+_Thu, 22 Oct 2026 04:01:00 +0000_
 
-This week’s Future of TV Briefing looks at Comscore’s new Score Report that gauges TV and streaming companies’ share of audiences’ ad exposure time.
+Target is also rolling out an AI-powered assistant called Ask Target on Target.com and the Target app.
 
-→ [https://digiday.com/future-of-tv/future-of-tv-briefing-youtube-tubi-top-streamers-share-of-ad-exposure-time/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-youtube-tubi-top-streamers-share-of-ad-exposure-time/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/targets-holiday-push-stresses-affordability-exclusives-and-an-ai-assistant/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/targets-holiday-push-stresses-affordability-exclusives-and-an-ai-assistant/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Nearly 30% of holiday budgets expected to be spent by the end of October
-_Wed, 21 Oct 2026 04:01:00 +0000_
+### Media buyers chart path for brands and sponsors through high NBA demand
+_Thu, 22 Oct 2026 04:01:00 +0000_
 
-Per a new report from Deloitte, 28% of shoppers’ budgets are expected to be exhausted by the end of October.
+Brands looking to push more dollars towards NBA audiences must choose between spending on a sponsorship, or funnel budget into TV, streaming and social.
 
-→ [https://digiday.com/marketing/nearly-30-of-holiday-budgets-expected-to-be-spent-by-the-end-of-october/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/nearly-30-of-holiday-budgets-expected-to-be-spent-by-the-end-of-october/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/media-buyers-chart-path-for-brands-and-sponsors-through-high-nba-demand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buyers-chart-path-for-brands-and-sponsors-through-high-nba-demand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### How a fashion creator turned audience demand into a 500+ client styling business
-_Tue, 20 Oct 2026 04:01:00 +0000_
+### Media Briefing: The transatlantic push to rein in stealth bots is gathering pace
+_Thu, 22 Oct 2026 04:01:00 +0000_
 
-A creator with a fashion merchandising degree speaks on her quest to diversify revenue fast, from styling to sweat equity investment.
+U.S. and U.K. publishers are pushing for laws to crack down on stealth AI crawlers as bot scraping surges and demands for transparency grow.
 
-→ [https://digiday.com/media/how-a-fashion-creator-turned-audience-demand-into-a-500-client-styling-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-a-fashion-creator-turned-audience-demand-into-a-500-client-styling-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
----
-
-## MarTech
-
-### Will Salesforce’s Braze deal bring clarity or chaos?
-_Tue, 20 Oct 2026 14:25:04 +0000_
-
-The $5.7 billion acquisition could tighten the link between data and activation — or leave marketers managing another overlapping layer. The post Will Salesforce’s Braze deal bring clarity or chaos? appeared first on MarTech .
-
-→ [https://martech.org/will-salesforces-braze-deal-bring-clarity-or-chaos/](https://martech.org/will-salesforces-braze-deal-bring-clarity-or-chaos/)
-
-### How to use CRM segmentation to drive holiday repeat purchases
-_Tue, 20 Oct 2026 13:00:00 +0000_
-
-Use a CRM recency ladder to prioritize customer segments and coordinate holiday campaigns across email and paid media. The post How to use CRM segmentation to drive holiday repeat purchases appeared first on MarTech .
-
-→ [https://martech.org/how-to-use-crm-segmentation-to-drive-holiday-repeat-purchases/](https://martech.org/how-to-use-crm-segmentation-to-drive-holiday-repeat-purchases/)
-
-### Your marketing metrics are training your team to make bad decisions
-_Tue, 20 Oct 2026 12:54:00 +0000_
-
-Cheaper clicks and more leads can look like wins while qualified pipeline stalls. Uncover the tradeoffs behind your performance numbers. The post Your marketing metrics are training your team to make bad decisions appeared first on MarTech .
-
-→ [https://martech.org/your-marketing-metrics-are-training-your-team-to-make-bad-decisions/](https://martech.org/your-marketing-metrics-are-training-your-team-to-make-bad-decisions/)
-
-### AI search is turning prompts into customer research
-_Tue, 20 Oct 2026 12:28:00 +0000_
-
-Longer, more personal queries reveal the needs, trade-offs, and situations behind intent — giving marketers a richer view of what customers want. The post AI search is turning prompts into customer research appeared first on MarTech .
-
-→ [https://martech.org/ai-search-is-turning-prompts-into-customer-research/](https://martech.org/ai-search-is-turning-prompts-into-customer-research/)
-
-### The next great marketing leaders will design how work gets done
-_Mon, 19 Oct 2026 13:01:00 +0000_
-
-Turn faster AI output into faster campaign delivery with clearer priorities, fewer handoffs, and defined roles for people and AI. The post The next great marketing leaders will design how work gets done appeared first on MarTech .
-
-→ [https://martech.org/the-next-great-marketing-leaders-will-design-how-work-gets-done/](https://martech.org/the-next-great-marketing-leaders-will-design-how-work-gets-done/)
+→ [https://digiday.com/media/media-briefing-the-transatlantic-push-to-rein-in-stealth-bots-is-gathering-pace/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-the-transatlantic-push-to-rein-in-stealth-bots-is-gathering-pace/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
