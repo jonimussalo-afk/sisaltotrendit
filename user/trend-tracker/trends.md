@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-22 08:23 UTC_
+_Päivitetty: 2026-10-23 08:19 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,20 @@ The post Datastrategia ratkaisee AI:n aikakaudella: onko yrityksesi data kasvun 
 
 ## HubSpot Marketing Blog
 
+### Profound vs. Scrunch: Which AEO tool fits your team?
+_Thu, 22 Oct 2026 23:55:04 GMT_
+
+If you’re comparing Profound vs. Scrunch, the buying decision usually comes down to where your AEO workflow stalls, not which tool tracks more answer engines. Both Profound and Scrunch measure how AI answers cite your brand, but they’re built for different jobs: Profound leans toward market analysis and content creation, while Scrunch leans toward…
+
+→ [https://blog.hubspot.com/marketing/profound-vs-scrunch](https://blog.hubspot.com/marketing/profound-vs-scrunch)
+
+### How to build an AI agent: from goal to live deployment
+_Thu, 22 Oct 2026 23:50:04 GMT_
+
+Building an AI agent is a multi-step process. Marketers need to define the agent’s task, connect approved data and tools, and set limits on its actions. Once they master the basics, anyone — marketers, sales reps, or customer teams — can build agents with ease.
+
+→ [https://blog.hubspot.com/marketing/build-ai-agent](https://blog.hubspot.com/marketing/build-ai-agent)
+
 ### What options exist for running AEO without a large team?
 _Tue, 20 Oct 2026 13:15:03 GMT_
 
@@ -73,57 +87,43 @@ The best Claude skills for marketing and sales teams turn recurring work into re
 
 → [https://blog.hubspot.com/marketing/best-claude-skills](https://blog.hubspot.com/marketing/best-claude-skills)
 
-### The marketing automation model that drove 9x qualified lead growth in a secondary market
-_Fri, 16 Oct 2026 12:00:04 GMT_
-
-When we reviewed our Japan marketing automation programs last year, the picture wasn’t pretty. Our automated emails were generating about 12 qualified leads per month against a goal of 160. That’s a huge gap.
-
-→ [https://blog.hubspot.com/marketing/marketing-automation-secondary-market-playbook](https://blog.hubspot.com/marketing/marketing-automation-secondary-market-playbook)
-
-### Transactional email: What it is and how it works
-_Thu, 15 Oct 2026 16:30:04 GMT_
-
-Transactional emails are automated messages triggered by a specific action a customer takes, sent to help that person complete or follow up on something already in progress. An order receipt, a password reset confirmation, or a shipping notification are all examples of transactional emails because each one delivers information tied to an action…
-
-→ [https://blog.hubspot.com/marketing/best-transactional-email-platforms](https://blog.hubspot.com/marketing/best-transactional-email-platforms)
-
 ---
 
 ## Digiday
 
-### Walmart Connect pitches brands directly as it pushes lift studies ahead of holiday ad deals
-_Thu, 22 Oct 2026 04:01:00 +0000_
+### Creators say it’s difficult to make money from news — with platform rules and brand guidelines
+_Fri, 23 Oct 2026 04:01:00 +0000_
 
-Walmart Connect is using lift studies to prove ad performance directly to brands ahead of the holidays, signaling a tighter race with Amazon.
+With more people getting news from creators than traditional media, those creators are still trying to build sustainable businesses.
 
-→ [https://digiday.com/marketing/walmart-connect-pitches-brands-directly-as-it-pushes-lift-studies-ahead-of-holiday-ad-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/walmart-connect-pitches-brands-directly-as-it-pushes-lift-studies-ahead-of-holiday-ad-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/creators-say-its-difficult-to-make-money-from-news-with-platform-rules-and-brand-guidelines/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/creators-say-its-difficult-to-make-money-from-news-with-platform-rules-and-brand-guidelines/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Why CNN International is building for agentic ad market that barely exists yet
-_Thu, 22 Oct 2026 04:01:00 +0000_
+### AI boosts discovery but reviews still seal the deal, new research shows
+_Fri, 23 Oct 2026 04:01:00 +0000_
 
-CNN International is still chasing its first agent-sold dollar by Q1.
+ChatGPT is where 16% of shoppers start looking for products. However, only 9% go there to actually buy something.
 
-→ [https://digiday.com/media/why-cnn-international-is-building-for-agentic-ad-market-that-barely-exists-yet/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/why-cnn-international-is-building-for-agentic-ad-market-that-barely-exists-yet/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Target’s holiday push stresses affordability, exclusives and an AI assistant
-_Thu, 22 Oct 2026 04:01:00 +0000_
+### Future of Marketing Briefing: Advertisers have more ways than ever to choose a holdco, and free holdcos to choose from
+_Fri, 23 Oct 2026 04:01:00 +0000_
 
-Target is also rolling out an AI-powered assistant called Ask Target on Target.com and the Target app.
+Fewer holdcos, more ways to pick one: inside the changing agency pitch.
 
-→ [https://digiday.com/marketing/targets-holiday-push-stresses-affordability-exclusives-and-an-ai-assistant/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/targets-holiday-push-stresses-affordability-exclusives-and-an-ai-assistant/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/future-of-marketing-briefing-advertisers-have-more-ways-than-ever-to-choose-a-holdco-and-free-holdcos-to-choose-from/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-advertisers-have-more-ways-than-ever-to-choose-a-holdco-and-free-holdcos-to-choose-from/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media buyers chart path for brands and sponsors through high NBA demand
-_Thu, 22 Oct 2026 04:01:00 +0000_
+### Omnicom lands Coca-Cola’s North American media business, as WPP retains its global remit
+_Thu, 22 Oct 2026 20:52:30 +0000_
 
-Brands looking to push more dollars towards NBA audiences must choose between spending on a sponsorship, or funnel budget into TV, streaming and social.
+The beverage giant's US and Canada media move to Omnicom as the holdco's CEO John Wren made the case it would build a bespoke team, not a Pepsico holdover.
 
-→ [https://digiday.com/media-buying/media-buyers-chart-path-for-brands-and-sponsors-through-high-nba-demand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buyers-chart-path-for-brands-and-sponsors-through-high-nba-demand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/omnicom-lands-coca-colas-north-american-media-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/omnicom-lands-coca-colas-north-american-media-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Briefing: The transatlantic push to rein in stealth bots is gathering pace
-_Thu, 22 Oct 2026 04:01:00 +0000_
+### Omnicom said its integration of IPG is nearly done, and the results are starting to show it
+_Thu, 22 Oct 2026 20:40:00 +0000_
 
-U.S. and U.K. publishers are pushing for laws to crack down on stealth AI crawlers as bot scraping surges and demands for transparency grow.
+As organic revenue grows and margins increase, Omnicom CEO John Wren said the fruits of the effort to buy IPG are starting to pay off.
 
-→ [https://digiday.com/media/media-briefing-the-transatlantic-push-to-rein-in-stealth-bots-is-gathering-pace/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-the-transatlantic-push-to-rein-in-stealth-bots-is-gathering-pace/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/omnicom-said-its-integration-of-ipg-is-nearly-done-and-the-results-are-starting-to-show-it/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/omnicom-said-its-integration-of-ipg-is-nearly-done-and-the-results-are-starting-to-show-it/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
