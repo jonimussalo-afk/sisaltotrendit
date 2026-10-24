@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-23 08:19 UTC_
+_Päivitetty: 2026-10-24 07:56 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,40 +52,40 @@ The post Datastrategia ratkaisee AI:n aikakaudella: onko yrityksesi data kasvun 
 
 ## HubSpot Marketing Blog
 
-### Profound vs. Scrunch: Which AEO tool fits your team?
-_Thu, 22 Oct 2026 23:55:04 GMT_
+### Profound vs. Bluefish AI for AEO: Which tool wins for marketers?
+_Fri, 23 Oct 2026 16:10:03 GMT_
 
-If you’re comparing Profound vs. Scrunch, the buying decision usually comes down to where your AEO workflow stalls, not which tool tracks more answer engines. Both Profound and Scrunch measure how AI answers cite your brand, but they’re built for different jobs: Profound leans toward market analysis and content creation, while Scrunch leans toward…
+Profound and Bluefish AI both help marketing teams measure how brands appear in AI-generated answers, including visibility, citations, and competitive presence. Profound and Bluefish AI differ in their approach to engine coverage, prompt controls, data capture, reporting, and how insights translate into action.
 
-→ [https://blog.hubspot.com/marketing/profound-vs-scrunch](https://blog.hubspot.com/marketing/profound-vs-scrunch)
+→ [https://blog.hubspot.com/marketing/profound-vs-bluefish](https://blog.hubspot.com/marketing/profound-vs-bluefish)
 
-### How to build an AI agent: from goal to live deployment
-_Thu, 22 Oct 2026 23:50:04 GMT_
+### How to identify content gaps for AI visibility
+_Fri, 23 Oct 2026 15:55:04 GMT_
 
-Building an AI agent is a multi-step process. Marketers need to define the agent’s task, connect approved data and tools, and set limits on its actions. Once they master the basics, anyone — marketers, sales reps, or customer teams — can build agents with ease.
+Learning how to identify content gaps for AI visibility starts with a question that traditional content gap analysis doesn’t always answer: where could a brand contribute something useful to an AI-generated answer, but isn’t being mentioned or cited?
 
-→ [https://blog.hubspot.com/marketing/build-ai-agent](https://blog.hubspot.com/marketing/build-ai-agent)
+→ [https://blog.hubspot.com/marketing/ai-content-gaps](https://blog.hubspot.com/marketing/ai-content-gaps)
 
-### What options exist for running AEO without a large team?
-_Tue, 20 Oct 2026 13:15:03 GMT_
+### Which AI prompts should you track? A practical guide
+_Fri, 23 Oct 2026 15:45:05 GMT_
 
-Companies without the internal resources or budget to build a dedicated search department still need to know what options exist for running AEO without a large team. Answer Engine Optimization is no longer optional for companies that rely on search to generate leads and revenue. AI Overviews now appear at the top of search results before a single…
+For most teams, the answer to “which prompts should I track?” is this: track a representative sample of branded, unbranded, and competitor prompts across buyer stages, personas, and priority markets. Don’t fall into the trap of tracking everything.
 
-→ [https://blog.hubspot.com/marketing/aeo-for-small-teams](https://blog.hubspot.com/marketing/aeo-for-small-teams)
+→ [https://blog.hubspot.com/marketing/which-prompts-to-track](https://blog.hubspot.com/marketing/which-prompts-to-track)
 
-### What actually happened when our blog went AI-first: A manager's account
-_Mon, 19 Oct 2026 13:45:04 GMT_
+### Ahrefs Brand Radar vs. Profound: Which fits your team?
+_Fri, 23 Oct 2026 15:30:04 GMT_
 
-When our blog team made the switch to an AI-first writing model in June 2025, my reaction was split. There was excitement on one side: I could see the inefficiencies in our process that AI might actually fix. On the other, anxiety. And while plenty of that anxiety was about the technology itself (how well these tools could actually write, how much…
+Marketers choosing between Ahrefs Brand Radar and Profound are really asking whether AI visibility belongs in&nbsp;your SEO suite or in a dedicated AEO platform. Brand Radar is the first option, Profound is the second, and HubSpot AEO is a third worth testing if you want visibility data connected to content and marketing workflows.
 
-→ [https://blog.hubspot.com/marketing/how-ai-changed-our-editorial-process](https://blog.hubspot.com/marketing/how-ai-changed-our-editorial-process)
+→ [https://blog.hubspot.com/marketing/ahrefs-vs-profound](https://blog.hubspot.com/marketing/ahrefs-vs-profound)
 
-### Best Claude skills for marketing and sales teams
-_Mon, 19 Oct 2026 13:45:04 GMT_
+### 8 LLM visibility tools to track your brand across answer engines
+_Fri, 23 Oct 2026 15:30:04 GMT_
 
-The best Claude skills for marketing and sales teams turn recurring work into reusable processes with defined instructions, inputs, and outputs. Claude skills are reusable instruction sets for tasks such as campaign planning, sales call recaps, persona research, content outlining, proposal drafting, and performance reporting. Claude skills save…
+Large language model (LLM) visibility tools track brand mentions, citations, and share of voice across answer engines. According to Digitaloft , 80% of users rely on zero-click results at least 40% of the time, meaning they often get what they need directly from a search engine results page (SERP) or an AI-generated answer. That behavior can leave…
 
-→ [https://blog.hubspot.com/marketing/best-claude-skills](https://blog.hubspot.com/marketing/best-claude-skills)
+→ [https://blog.hubspot.com/marketing/llm-visibility-tools](https://blog.hubspot.com/marketing/llm-visibility-tools)
 
 ---
 
@@ -125,5 +125,44 @@ _Thu, 22 Oct 2026 20:40:00 +0000_
 As organic revenue grows and margins increase, Omnicom CEO John Wren said the fruits of the effort to buy IPG are starting to pay off.
 
 → [https://digiday.com/media-buying/omnicom-said-its-integration-of-ipg-is-nearly-done-and-the-results-are-starting-to-show-it/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/omnicom-said-its-integration-of-ipg-is-nearly-done-and-the-results-are-starting-to-show-it/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+---
+
+## MarTech
+
+### Personalization knows what customers want, not who they are
+_Fri, 23 Oct 2026 12:55:00 +0000_
+
+Useful offers are common. Meaningful recognition is not, and consumers are quick to walk when brands ask for too much without a clear reason. The post Personalization knows what customers want, not who they are appeared first on MarTech .
+
+→ [https://martech.org/personalization-knows-what-customers-want-not-who-they-are/](https://martech.org/personalization-knows-what-customers-want-not-who-they-are/)
+
+### Your CEO wants answers your dashboard can’t give
+_Fri, 23 Oct 2026 12:51:00 +0000_
+
+Marketing metrics show what happened in a campaign. The harder job is connecting customer behavior to growth, margin, and profit. The post Your CEO wants answers your dashboard can’t give appeared first on MarTech .
+
+→ [https://martech.org/your-ceo-wants-answers-your-dashboard-cant-give/](https://martech.org/your-ceo-wants-answers-your-dashboard-cant-give/)
+
+### Why organic traffic can fall while revenue stays strong
+_Fri, 23 Oct 2026 12:07:00 +0000_
+
+Before overhauling your SEO strategy, look at branded search, high-intent visits, and pipeline data to see whether there's actually a problem. The post Why organic traffic can fall while revenue stays strong appeared first on MarTech .
+
+→ [https://martech.org/why-organic-traffic-can-fall-while-revenue-stays-strong/](https://martech.org/why-organic-traffic-can-fall-while-revenue-stays-strong/)
+
+### Built to adapt: Why composable martech is becoming the new standard
+_Fri, 23 Oct 2026 11:49:00 +0000_
+
+On Nov. 4, learn how composable martech can help marketers integrate AI, reduce vendor lock-in, and modernize their technology stacks without starting from scratch. The post Built to adapt: Why composable martech is becoming the new standard appeared first on MarTech .
+
+→ [https://martech.org/built-to-adapt-why-composable-martech-is-becoming-the-new-standard/](https://martech.org/built-to-adapt-why-composable-martech-is-becoming-the-new-standard/)
+
+### ChatGPT sends less than 1% of Google’s traffic
+_Thu, 22 Oct 2026 14:56:47 +0000_
+
+ChatGPT visitors converted at a higher rate, but Google organic still drove 27 times as many conversions as all LLMs combined. The post ChatGPT sends less than 1% of Google’s traffic appeared first on MarTech .
+
+→ [https://martech.org/chatgpt-sends-less-than-1-of-googles-traffic/](https://martech.org/chatgpt-sends-less-than-1-of-googles-traffic/)
 
 ---
