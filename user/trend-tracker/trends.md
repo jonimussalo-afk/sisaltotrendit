@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-25 08:11 UTC_
+_Päivitetty: 2026-10-26 08:37 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -91,78 +91,39 @@ Large language model (LLM) visibility tools track brand mentions, citations, and
 
 ## Digiday
 
-### Creators say it’s difficult to make money from news — with platform rules and brand guidelines
-_Fri, 23 Oct 2026 04:01:00 +0000_
+### Midterm political spending throws spanner into regional advertiser holiday plans
+_Mon, 26 Oct 2026 04:01:00 +0000_
 
-With more people getting news from creators than traditional media, those creators are still trying to build sustainable businesses.
+Rising political ad spend is making life harder for regional and local brands hoping to use CTV ads to reach consumers in Q4.
 
-→ [https://digiday.com/media/creators-say-its-difficult-to-make-money-from-news-with-platform-rules-and-brand-guidelines/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/creators-say-its-difficult-to-make-money-from-news-with-platform-rules-and-brand-guidelines/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/midterm-political-spending-throws-spanner-into-regional-advertiser-holiday-plans/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/midterm-political-spending-throws-spanner-into-regional-advertiser-holiday-plans/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### AI boosts discovery but reviews still seal the deal, new research shows
-_Fri, 23 Oct 2026 04:01:00 +0000_
+### Salesforce’s $5.7 billion Braze deal puts marketers at an ecosystem crossroads
+_Mon, 26 Oct 2026 04:01:00 +0000_
 
-ChatGPT is where 16% of shoppers start looking for products. However, only 9% go there to actually buy something.
+The deal promises faster, more connected marketing, while raising questions about vendor lock-in and how brands stand out as AI automates campaign execution.
 
-→ [https://digiday.com/marketing/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/salesforces-5-7-billion-braze-deal-puts-marketers-at-an-ecosystem-crossroads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/salesforces-5-7-billion-braze-deal-puts-marketers-at-an-ecosystem-crossroads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Future of Marketing Briefing: Advertisers have more ways than ever to choose a holdco, and free holdcos to choose from
-_Fri, 23 Oct 2026 04:01:00 +0000_
+### The Daily Mail tests GEO with brands ahead of AI visibility product
+_Mon, 26 Oct 2026 04:01:00 +0000_
 
-Fewer holdcos, more ways to pick one: inside the changing agency pitch.
+The Daily Mail is running around a dozen GEO tests to work out what works before turning its AI visibility offering into an official product early next year.
 
-→ [https://digiday.com/marketing/future-of-marketing-briefing-advertisers-have-more-ways-than-ever-to-choose-a-holdco-and-free-holdcos-to-choose-from/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-advertisers-have-more-ways-than-ever-to-choose-a-holdco-and-free-holdcos-to-choose-from/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/the-daily-mail-tests-geo-with-brands-ahead-of-ai-visibility-product/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/the-daily-mail-tests-geo-with-brands-ahead-of-ai-visibility-product/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Omnicom lands Coca-Cola’s North American media business, as WPP retains its global remit
-_Thu, 22 Oct 2026 20:52:30 +0000_
+### Meta’s new scraping terms galvanize publishers into collective action
+_Mon, 26 Oct 2026 04:01:00 +0000_
 
-The beverage giant's US and Canada media move to Omnicom as the holdco's CEO John Wren made the case it would build a bespoke team, not a Pepsico holdover.
+Multiple publisher trade bodies have published letters to Meta pushing back on its terms, and urged lawmakers to take action.
 
-→ [https://digiday.com/media-buying/omnicom-lands-coca-colas-north-american-media-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/omnicom-lands-coca-colas-north-american-media-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/metas-new-scraping-terms-galvanize-publishers-into-collective-action/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/metas-new-scraping-terms-galvanize-publishers-into-collective-action/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Omnicom said its integration of IPG is nearly done, and the results are starting to show it
-_Thu, 22 Oct 2026 20:40:00 +0000_
+### Media Buying Briefing: Brands push toward retail and social while buyers ponder storm clouds
+_Mon, 26 Oct 2026 04:01:00 +0000_
 
-As organic revenue grows and margins increase, Omnicom CEO John Wren said the fruits of the effort to buy IPG are starting to pay off.
+Ad dollars are flowing towards usual suspects in Q4 but media buyers say midterms give reasonsto be cautious.
 
-→ [https://digiday.com/media-buying/omnicom-said-its-integration-of-ipg-is-nearly-done-and-the-results-are-starting-to-show-it/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/omnicom-said-its-integration-of-ipg-is-nearly-done-and-the-results-are-starting-to-show-it/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
----
-
-## MarTech
-
-### Personalization knows what customers want, not who they are
-_Fri, 23 Oct 2026 12:55:00 +0000_
-
-Useful offers are common. Meaningful recognition is not, and consumers are quick to walk when brands ask for too much without a clear reason. The post Personalization knows what customers want, not who they are appeared first on MarTech .
-
-→ [https://martech.org/personalization-knows-what-customers-want-not-who-they-are/](https://martech.org/personalization-knows-what-customers-want-not-who-they-are/)
-
-### Your CEO wants answers your dashboard can’t give
-_Fri, 23 Oct 2026 12:51:00 +0000_
-
-Marketing metrics show what happened in a campaign. The harder job is connecting customer behavior to growth, margin, and profit. The post Your CEO wants answers your dashboard can’t give appeared first on MarTech .
-
-→ [https://martech.org/your-ceo-wants-answers-your-dashboard-cant-give/](https://martech.org/your-ceo-wants-answers-your-dashboard-cant-give/)
-
-### Why organic traffic can fall while revenue stays strong
-_Fri, 23 Oct 2026 12:07:00 +0000_
-
-Before overhauling your SEO strategy, look at branded search, high-intent visits, and pipeline data to see whether there's actually a problem. The post Why organic traffic can fall while revenue stays strong appeared first on MarTech .
-
-→ [https://martech.org/why-organic-traffic-can-fall-while-revenue-stays-strong/](https://martech.org/why-organic-traffic-can-fall-while-revenue-stays-strong/)
-
-### Built to adapt: Why composable martech is becoming the new standard
-_Fri, 23 Oct 2026 11:49:00 +0000_
-
-On Nov. 4, learn how composable martech can help marketers integrate AI, reduce vendor lock-in, and modernize their technology stacks without starting from scratch. The post Built to adapt: Why composable martech is becoming the new standard appeared first on MarTech .
-
-→ [https://martech.org/built-to-adapt-why-composable-martech-is-becoming-the-new-standard/](https://martech.org/built-to-adapt-why-composable-martech-is-becoming-the-new-standard/)
-
-### ChatGPT sends less than 1% of Google’s traffic
-_Thu, 22 Oct 2026 14:56:47 +0000_
-
-ChatGPT visitors converted at a higher rate, but Google organic still drove 27 times as many conversions as all LLMs combined. The post ChatGPT sends less than 1% of Google’s traffic appeared first on MarTech .
-
-→ [https://martech.org/chatgpt-sends-less-than-1-of-googles-traffic/](https://martech.org/chatgpt-sends-less-than-1-of-googles-traffic/)
+→ [https://digiday.com/media-buying/media-buying-briefing-brands-push-toward-retail-and-social-while-buyers-ponder-storm-clouds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-brands-push-toward-retail-and-social-while-buyers-ponder-storm-clouds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
