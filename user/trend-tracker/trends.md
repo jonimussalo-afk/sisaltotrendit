@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-26 08:37 UTC_
+_Päivitetty: 2026-10-27 08:44 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ The post Datastrategia ratkaisee AI:n aikakaudella: onko yrityksesi data kasvun 
 
 ## HubSpot Marketing Blog
 
+### How to create Claude skills: What your team actually needs
+_Mon, 26 Oct 2026 12:45:04 GMT_
+
+Claude skills help teams save repeatable workflows as instructions that apply automatically — without pasting a long prompt into every chat. A team writes the workflow once, and Claude applies the skill every time.
+
+→ [https://blog.hubspot.com/marketing/create-claude-skills](https://blog.hubspot.com/marketing/create-claude-skills)
+
 ### Profound vs. Bluefish AI for AEO: Which tool wins for marketers?
 _Fri, 23 Oct 2026 16:10:03 GMT_
 
@@ -80,50 +87,43 @@ Marketers choosing between Ahrefs Brand Radar and Profound are really asking whe
 
 → [https://blog.hubspot.com/marketing/ahrefs-vs-profound](https://blog.hubspot.com/marketing/ahrefs-vs-profound)
 
-### 8 LLM visibility tools to track your brand across answer engines
-_Fri, 23 Oct 2026 15:30:04 GMT_
-
-Large language model (LLM) visibility tools track brand mentions, citations, and share of voice across answer engines. According to Digitaloft , 80% of users rely on zero-click results at least 40% of the time, meaning they often get what they need directly from a search engine results page (SERP) or an AI-generated answer. That behavior can leave…
-
-→ [https://blog.hubspot.com/marketing/llm-visibility-tools](https://blog.hubspot.com/marketing/llm-visibility-tools)
-
 ---
 
 ## Digiday
 
-### Midterm political spending throws spanner into regional advertiser holiday plans
-_Mon, 26 Oct 2026 04:01:00 +0000_
+### In Graphic Detail: What Apple’s identity block means for the ad money
+_Tue, 27 Oct 2026 04:01:00 +0000_
 
-Rising political ad spend is making life harder for regional and local brands hoping to use CTV ads to reach consumers in Q4.
+How Apple's identity block hits publishers' wallets, and why Apple can afford it.
 
-→ [https://digiday.com/media-buying/midterm-political-spending-throws-spanner-into-regional-advertiser-holiday-plans/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/midterm-political-spending-throws-spanner-into-regional-advertiser-holiday-plans/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/in-graphic-detail-what-apples-identity-block-means-for-the-ad-money/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/in-graphic-detail-what-apples-identity-block-means-for-the-ad-money/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Salesforce’s $5.7 billion Braze deal puts marketers at an ecosystem crossroads
-_Mon, 26 Oct 2026 04:01:00 +0000_
+### The Hill adds interactive election tools to subscription offering ahead of the midterms
+_Tue, 27 Oct 2026 04:01:00 +0000_
 
-The deal promises faster, more connected marketing, while raising questions about vendor lock-in and how brands stand out as AI automates campaign execution.
+The Hill is betting on interactive subscriber-only features to help grow its new subscription business ahead of the 2026 midterms.
 
-→ [https://digiday.com/marketing/salesforces-5-7-billion-braze-deal-puts-marketers-at-an-ecosystem-crossroads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/salesforces-5-7-billion-braze-deal-puts-marketers-at-an-ecosystem-crossroads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/the-hill-adds-interactive-election-tools-to-subscription-offering-ahead-of-the-midterms/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/the-hill-adds-interactive-election-tools-to-subscription-offering-ahead-of-the-midterms/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### The Daily Mail tests GEO with brands ahead of AI visibility product
-_Mon, 26 Oct 2026 04:01:00 +0000_
+### Inside indie agencies’ DSP gripes and the rise of agentic media buying
+_Tue, 27 Oct 2026 04:01:00 +0000_
 
-The Daily Mail is running around a dozen GEO tests to work out what works before turning its AI visibility offering into an official product early next year.
+Independent agencies are pushing back on costly DSP fees as AI agents threaten to reshape how media is bought and who controls ad dollars.
 
-→ [https://digiday.com/media/the-daily-mail-tests-geo-with-brands-ahead-of-ai-visibility-product/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/the-daily-mail-tests-geo-with-brands-ahead-of-ai-visibility-product/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/podcasts/inside-indie-agencies-dsp-gripes-and-the-rise-of-agentic-media-buying/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/inside-indie-agencies-dsp-gripes-and-the-rise-of-agentic-media-buying/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Meta’s new scraping terms galvanize publishers into collective action
-_Mon, 26 Oct 2026 04:01:00 +0000_
+### Ad Tech Briefing: Stagwell’s Freestar deal brings buying and selling under one roof
+_Tue, 27 Oct 2026 04:01:00 +0000_
 
-Multiple publisher trade bodies have published letters to Meta pushing back on its terms, and urged lawmakers to take action.
+The acquisition expands the holding company’s publisher monetization business, making fees, incentives and inventory selection a test of transparency.
 
-→ [https://digiday.com/media/metas-new-scraping-terms-galvanize-publishers-into-collective-action/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/metas-new-scraping-terms-galvanize-publishers-into-collective-action/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/ad-tech-briefing-stagwells-freestar-deal-brings-buying-and-selling-under-one-roof/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-stagwells-freestar-deal-brings-buying-and-selling-under-one-roof/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Buying Briefing: Brands push toward retail and social while buyers ponder storm clouds
-_Mon, 26 Oct 2026 04:01:00 +0000_
+### Anthropic’s ad bill is soaring, according to IPO filing
+_Tue, 27 Oct 2026 04:01:00 +0000_
 
-Ad dollars are flowing towards usual suspects in Q4 but media buyers say midterms give reasonsto be cautious.
+Anthropic’s IPO filing shows an ad-free AI company with a fast-growing ad bill.
 
-→ [https://digiday.com/media-buying/media-buying-briefing-brands-push-toward-retail-and-social-while-buyers-ponder-storm-clouds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-brands-push-toward-retail-and-social-while-buyers-ponder-storm-clouds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/anthropics-ad-bill-is-soaring-according-to-ipo-filing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/anthropics-ad-bill-is-soaring-according-to-ipo-filing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
