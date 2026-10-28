@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-27 08:44 UTC_
+_Päivitetty: 2026-10-28 09:23 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,20 @@ The post Datastrategia ratkaisee AI:n aikakaudella: onko yrityksesi data kasvun 
 
 ## HubSpot Marketing Blog
 
+### Profound vs. Semrush for AEO: Specialist or SEO suite?
+_Tue, 27 Oct 2026 18:15:06 GMT_
+
+Buyers now ask ChatGPT, Gemini, and Perplexity for recommendations before they ever open a search results page, and marketers need a way to see whether their brand shows up in those answers. That’s why Profound vs Semrush for AEO lands on so many shortlists.
+
+→ [https://blog.hubspot.com/marketing/profound-vs-semrush](https://blog.hubspot.com/marketing/profound-vs-semrush)
+
+### AEO analysis tools reviewed: What actually works in 2026
+_Tue, 27 Oct 2026 17:55:04 GMT_
+
+The way people search for information is changing. Instead of scrolling through a list of blue links, more users are turning to AI-powered tools like ChatGPT, Google’s AI Overviews, and Perplexity that deliver direct answers to questions.
+
+→ [https://blog.hubspot.com/marketing/aeo-analysis-tools](https://blog.hubspot.com/marketing/aeo-analysis-tools)
+
 ### How to create Claude skills: What your team actually needs
 _Mon, 26 Oct 2026 12:45:04 GMT_
 
@@ -73,57 +87,82 @@ Learning how to identify content gaps for AI visibility starts with a question t
 
 → [https://blog.hubspot.com/marketing/ai-content-gaps](https://blog.hubspot.com/marketing/ai-content-gaps)
 
-### Which AI prompts should you track? A practical guide
-_Fri, 23 Oct 2026 15:45:05 GMT_
-
-For most teams, the answer to “which prompts should I track?” is this: track a representative sample of branded, unbranded, and competitor prompts across buyer stages, personas, and priority markets. Don’t fall into the trap of tracking everything.
-
-→ [https://blog.hubspot.com/marketing/which-prompts-to-track](https://blog.hubspot.com/marketing/which-prompts-to-track)
-
-### Ahrefs Brand Radar vs. Profound: Which fits your team?
-_Fri, 23 Oct 2026 15:30:04 GMT_
-
-Marketers choosing between Ahrefs Brand Radar and Profound are really asking whether AI visibility belongs in&nbsp;your SEO suite or in a dedicated AEO platform. Brand Radar is the first option, Profound is the second, and HubSpot AEO is a third worth testing if you want visibility data connected to content and marketing workflows.
-
-→ [https://blog.hubspot.com/marketing/ahrefs-vs-profound](https://blog.hubspot.com/marketing/ahrefs-vs-profound)
-
 ---
 
 ## Digiday
 
-### In Graphic Detail: What Apple’s identity block means for the ad money
-_Tue, 27 Oct 2026 04:01:00 +0000_
+### Apple’s Safari crackdown pushes ad tech toward server-side solutions, but doubts remain
+_Wed, 28 Oct 2026 04:01:00 +0000_
 
-How Apple's identity block hits publishers' wallets, and why Apple can afford it.
+Parties rally behind IAB Tech Lab’s Trusted Server Framework following Apple’s latest tracking restrictions, although questions remain.
 
-→ [https://digiday.com/marketing/in-graphic-detail-what-apples-identity-block-means-for-the-ad-money/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/in-graphic-detail-what-apples-identity-block-means-for-the-ad-money/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/apples-safari-crackdown-pushes-ad-tech-toward-server-side-solutions-but-doubts-remain/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/apples-safari-crackdown-pushes-ad-tech-toward-server-side-solutions-but-doubts-remain/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### The Hill adds interactive election tools to subscription offering ahead of the midterms
-_Tue, 27 Oct 2026 04:01:00 +0000_
+### Post World Cup, fashion brands are tapping soccer stars like Bellingham and Yamal for partnerships
+_Wed, 28 Oct 2026 04:01:00 +0000_
 
-The Hill is betting on interactive subscriber-only features to help grow its new subscription business ahead of the 2026 midterms.
+Three months after the World Cup ended in a Spanish victory, the partnerships with marquee players keep coming.
 
-→ [https://digiday.com/media/the-hill-adds-interactive-election-tools-to-subscription-offering-ahead-of-the-midterms/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/the-hill-adds-interactive-election-tools-to-subscription-offering-ahead-of-the-midterms/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/post-world-cup-fashion-brands-are-tapping-soccer-stars-like-bellingham-and-yamal-for-partnerships/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/post-world-cup-fashion-brands-are-tapping-soccer-stars-like-bellingham-and-yamal-for-partnerships/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Inside indie agencies’ DSP gripes and the rise of agentic media buying
-_Tue, 27 Oct 2026 04:01:00 +0000_
+### Future of TV Briefing: CTV advertising has a genre-label problem
+_Wed, 28 Oct 2026 04:01:00 +0000_
 
-Independent agencies are pushing back on costly DSP fees as AI agents threaten to reshape how media is bought and who controls ad dollars.
+This week’s Future of TV Briefing looks at the messy state of genre labeling in CTV advertising.
 
-→ [https://digiday.com/podcasts/inside-indie-agencies-dsp-gripes-and-the-rise-of-agentic-media-buying/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/podcasts/inside-indie-agencies-dsp-gripes-and-the-rise-of-agentic-media-buying/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/future-of-tv/future-of-tv-briefing-ctv-advertising-has-a-genre-label-problem/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-ctv-advertising-has-a-genre-label-problem/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Ad Tech Briefing: Stagwell’s Freestar deal brings buying and selling under one roof
-_Tue, 27 Oct 2026 04:01:00 +0000_
+### Creators are now classified as small businesses, but what does that actually mean?
+_Wed, 28 Oct 2026 04:01:00 +0000_
 
-The acquisition expands the holding company’s publisher monetization business, making fees, incentives and inventory selection a test of transparency.
+The Small Business Administration has officially welcomed creators under its umbrella; let's unpack what that means for brands, creators, and the economy at large.
 
-→ [https://digiday.com/media-buying/ad-tech-briefing-stagwells-freestar-deal-brings-buying-and-selling-under-one-roof/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-stagwells-freestar-deal-brings-buying-and-selling-under-one-roof/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/creators-are-now-classified-as-small-businesses-but-what-does-that-actually-mean/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/creators-are-now-classified-as-small-businesses-but-what-does-that-actually-mean/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Anthropic’s ad bill is soaring, according to IPO filing
-_Tue, 27 Oct 2026 04:01:00 +0000_
+### One year in: DMG Media’s social-only briefs account for 30% of New Media revenue
+_Wed, 28 Oct 2026 04:01:00 +0000_
 
-Anthropic’s IPO filing shows an ad-free AI company with a fast-growing ad bill.
+DMG Media’s year-old New Media division is carving out a new social revenue stream with creator-led IP aimed at younger audiences.
 
-→ [https://digiday.com/marketing/anthropics-ad-bill-is-soaring-according-to-ipo-filing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/anthropics-ad-bill-is-soaring-according-to-ipo-filing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/one-year-in-dmg-medias-social-only-briefs-account-for-30-of-new-media-revenue/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/one-year-in-dmg-medias-social-only-briefs-account-for-30-of-new-media-revenue/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+---
+
+## MarTech
+
+### Braze gives Salesforce more speed — and more overlap
+_Tue, 27 Oct 2026 12:53:00 +0000_
+
+Customers could gain tighter activation and AI connections while facing tougher choices about products, pricing, and long-term lock-in. The post Braze gives Salesforce more speed — and more overlap appeared first on MarTech .
+
+→ [https://martech.org/braze-gives-salesforce-more-speed-and-more-overlap/](https://martech.org/braze-gives-salesforce-more-speed-and-more-overlap/)
+
+### Your event content needs a destination before it needs a prompt
+_Tue, 27 Oct 2026 12:48:00 +0000_
+
+AI makes repurposing event content easier. Here's how to prioritize what matters, get it to the right audiences, and show its value. The post Your event content needs a destination before it needs a prompt appeared first on MarTech .
+
+→ [https://martech.org/your-event-content-needs-a-destination-before-it-needs-a-prompt/](https://martech.org/your-event-content-needs-a-destination-before-it-needs-a-prompt/)
+
+### 7 B2B marketing shifts that will define 2027
+_Tue, 27 Oct 2026 05:53:00 +0000_
+
+MQLs, last-click attribution, channel silos, and generic content are losing ground as B2B marketing shifts toward trust, AI visibility, and revenue. The post 7 B2B marketing shifts that will define 2027 appeared first on MarTech .
+
+→ [https://martech.org/7-b2b-marketing-shifts-that-will-define-2027/](https://martech.org/7-b2b-marketing-shifts-that-will-define-2027/)
+
+### Restructuring martech ops for autonomous AI agents
+_Mon, 26 Oct 2026 12:42:00 +0000_
+
+MOps teams are shifting from task executors to AI fleet managers to run autonomous agents alongside traditional software. The post Restructuring martech ops for autonomous AI agents appeared first on MarTech .
+
+→ [https://martech.org/restructuring-martech-ops-for-autonomous-ai-agents/](https://martech.org/restructuring-martech-ops-for-autonomous-ai-agents/)
+
+### The next wave of marketing automation is taking aim at Marketo
+_Mon, 26 Oct 2026 12:35:00 +0000_
+
+Some of Marketo's original architects bet AI can replace the complex workflows and manual configuration marketers have relied on for decades. The post The next wave of marketing automation is taking aim at Marketo appeared first on MarTech .
+
+→ [https://martech.org/the-next-wave-of-marketing-automation-is-taking-aim-at-marketo/](https://martech.org/the-next-wave-of-marketing-automation-is-taking-aim-at-marketo/)
 
 ---
