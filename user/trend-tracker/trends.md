@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-29 09:32 UTC_
+_Päivitetty: 2026-10-30 09:42 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ The post Datastrategia ratkaisee AI:n aikakaudella: onko yrityksesi data kasvun 
 
 ## HubSpot Marketing Blog
 
+### ChatGPT Ads vs. Google Search ads: 5 differences to consider in your strategy
+_Thu, 29 Oct 2026 12:00:04 GMT_
+
+It’s hard to believe anything could rival Google’s impact on our digital lives and habits, but ChatGPT is on its tail — especially now that it shows ads. For many marketers and businesses, this means debating ChatGPT Ads vs Google Search Ads for the first time. Should you move budget from Google Search ads to ChatGPT ads?
+
+→ [https://blog.hubspot.com/marketing/chatgpt-ads-vs-google-search-ads](https://blog.hubspot.com/marketing/chatgpt-ads-vs-google-search-ads)
+
 ### Claude marketing plugins worth adding to your stack in 2026
 _Wed, 28 Oct 2026 16:00:05 GMT_
 
@@ -80,55 +87,69 @@ Buyers now ask ChatGPT, Gemini, and Perplexity for recommendations before they e
 
 → [https://blog.hubspot.com/marketing/profound-vs-semrush](https://blog.hubspot.com/marketing/profound-vs-semrush)
 
-### AEO analysis tools reviewed: What actually works in 2026
-_Tue, 27 Oct 2026 17:55:04 GMT_
-
-The way people search for information is changing. Instead of scrolling through a list of blue links, more users are turning to AI-powered tools like ChatGPT, Google’s AI Overviews, and Perplexity that deliver direct answers to questions.
-
-→ [https://blog.hubspot.com/marketing/aeo-analysis-tools](https://blog.hubspot.com/marketing/aeo-analysis-tools)
-
 ---
 
 ## Digiday
 
-### The Times of London is gearing up to test ‘macro payments’
-_Thu, 29 Oct 2026 04:01:00 +0000_
+### Amid growing tension over workplace AI, agencies have a window to reimagine staffing
+_Fri, 30 Oct 2026 04:01:00 +0000_
 
-The Times has a plan for readers who don’t want to subscribe.
+AI agents are becoming common among agencies, but most companies haven't grasped their potential to reshape teams.
 
-→ [https://digiday.com/media/the-times-of-london-is-gearing-up-to-test-macro-payments/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/the-times-of-london-is-gearing-up-to-test-macro-payments/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/amid-growing-tension-over-workplace-ai-agencies-have-a-window-to-reimagine-staffing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/amid-growing-tension-over-workplace-ai-agencies-have-a-window-to-reimagine-staffing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Why the 2026 midterms could mark a turning point for influencers in political campaigns
-_Thu, 29 Oct 2026 04:01:00 +0000_
+### From Celsius to Maybelline, more brands are lining up for the NYC Marathon’s 50th anniversary
+_Fri, 30 Oct 2026 04:01:00 +0000_
 
-See how campaigns are recruiting creators for 2026 midterms as disclosure rules lag and voter trust becomes the real battleground.
+The brands showing up at the annual race represent a more diverse cross-section of retail than ever before.
 
-→ [https://digiday.com/marketing/why-the-2026-midterms-could-mark-a-turning-point-for-influencers-in-political-campaigns/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/why-the-2026-midterms-could-mark-a-turning-point-for-influencers-in-political-campaigns/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/from-celsius-to-maybelline-more-brands-are-lining-up-for-the-nyc-marathons-50th-anniversary/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/from-celsius-to-maybelline-more-brands-are-lining-up-for-the-nyc-marathons-50th-anniversary/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Retailers are still figuring out how to tie AI goals to executive compensation
-_Thu, 29 Oct 2026 04:01:00 +0000_
+### Apple’s Safari block hands WPP a fresh case for InfoSum
+_Fri, 30 Oct 2026 04:01:00 +0000_
 
-AI is starting to show up more in conversations around executive incentive plans. But those conversations are still largely relegated to the tech industry. Here's why it's still an anomaly in retail.
+Apple’s crackdown on the tricks advertisers use to track the same person across different sites and devices keeps tearing through large parts of the ad industry.
 
-→ [https://digiday.com/marketing/retailers-are-still-figuring-out-how-to-tie-ai-goals-to-executive-compensation/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/retailers-are-still-figuring-out-how-to-tie-ai-goals-to-executive-compensation/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/apples-safari-block-hands-wpp-a-fresh-case-for-infosum/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/apples-safari-block-hands-wpp-a-fresh-case-for-infosum/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Briefing: Publishers are selling more subscriptions to smaller audiences. The midterms are the next test.
-_Thu, 29 Oct 2026 04:01:00 +0000_
+### Amazon’s Ads nears $20 billion in Q3 as it bets on agentic AI to fuel further growth
+_Fri, 30 Oct 2026 04:01:00 +0000_
 
-Ahead of the U.S. midterms and with referral traffic declines, news publishers are racing to turn election interest into paying subscribers.
+Amazon Ads Agent promises simpler buying, but raises transparency questions A
 
-→ [https://digiday.com/media/media-briefing-publishers-are-selling-more-subscriptions-to-smaller-audiences-the-midterms-are-the-next-test/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-publishers-are-selling-more-subscriptions-to-smaller-audiences-the-midterms-are-the-next-test/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/amazons-ads-nears-20-billion-in-q3-as-it-bets-on-agentic-ai-to-fuel-further-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/amazons-ads-nears-20-billion-in-q3-as-it-bets-on-agentic-ai-to-fuel-further-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Apple’s Safari crackdown pushes ad tech toward server-side solutions, but doubts remain
-_Wed, 28 Oct 2026 04:01:00 +0000_
+### Future of Marketing Briefing: SharkNinja’s McLaren deal treats F1 fandom as the asset
+_Fri, 30 Oct 2026 04:01:00 +0000_
 
-Parties rally behind IAB Tech Lab’s Trusted Server Framework following Apple’s latest tracking restrictions, although questions remain.
+What SharkNinja;s McLaren deal says about the new price of F1 fandom.
 
-→ [https://digiday.com/media-buying/apples-safari-crackdown-pushes-ad-tech-toward-server-side-solutions-but-doubts-remain/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/apples-safari-crackdown-pushes-ad-tech-toward-server-side-solutions-but-doubts-remain/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/future-of-marketing-briefing-sharkninjas-mclaren-deal-treats-f1-fandom-as-the-asset/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-sharkninjas-mclaren-deal-treats-f1-fandom-as-the-asset/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### The risks of optimizing SEO for AI over users
+_Thu, 29 Oct 2026 14:58:17 +0000_
+
+Chasing AI visibility can lead to generic content, weaker differentiation, and declining trust. Here's what deserves your attention. The post The risks of optimizing SEO for AI over users appeared first on MarTech .
+
+→ [https://martech.org/the-risks-of-optimizing-seo-for-ai-over-users/](https://martech.org/the-risks-of-optimizing-seo-for-ai-over-users/)
+
+### The latest AI-powered martech news and releases
+_Thu, 29 Oct 2026 14:55:10 +0000_
+
+The cautionary tale of when Salesforce "ingested" Slack. The post The latest AI-powered martech news and releases appeared first on MarTech .
+
+→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
+
+### 6 mistakes to avoid with AI-powered performance marketing
+_Thu, 29 Oct 2026 12:00:00 +0000_
+
+AI can make campaign metrics look better while producing less business value. The risk is optimizing faster toward the wrong goal. The post 6 mistakes to avoid with AI-powered performance marketing appeared first on MarTech .
+
+→ [https://martech.org/6-mistakes-to-avoid-with-ai-powered-performance-marketing/](https://martech.org/6-mistakes-to-avoid-with-ai-powered-performance-marketing/)
 
 ### What data and AI hide about your customers
 _Wed, 28 Oct 2026 13:24:28 +0000_
@@ -143,26 +164,5 @@ _Wed, 28 Oct 2026 13:09:58 +0000_
 Technology and organizational challenges seem to grow with marketing spend, despite more access to tools, according to data from StackAdapt. The post More marketing spend brings more challenges and complexity appeared first on MarTech .
 
 → [https://martech.org/more-marketing-spend-brings-more-challenges-and-complexity/](https://martech.org/more-marketing-spend-brings-more-challenges-and-complexity/)
-
-### Your best customer may never visit your website
-_Wed, 28 Oct 2026 12:32:00 +0000_
-
-Customers can discover, compare, and buy your products without you knowing. Your marketing organization needs to adapt. The post Your best customer may never visit your website appeared first on MarTech .
-
-→ [https://martech.org/your-best-customer-may-never-visit-your-website/](https://martech.org/your-best-customer-may-never-visit-your-website/)
-
-### Marketing automation is dead. Long live marketing automation!
-_Wed, 28 Oct 2026 11:51:00 +0000_
-
-Algorithm updates and endless manual workflows are draining. On Nov. 4, learn how AI transforms marketing automation into your strongest strategic partner. The post Marketing automation is dead. Long live marketing automation! appeared first on MarTech .
-
-→ [https://martech.org/marketing-automation-is-dead-long-live-marketing-automation/](https://martech.org/marketing-automation-is-dead-long-live-marketing-automation/)
-
-### Braze gives Salesforce more speed — and more overlap
-_Tue, 27 Oct 2026 12:53:00 +0000_
-
-Customers could gain tighter activation and AI connections while facing tougher choices about products, pricing, and long-term lock-in. The post Braze gives Salesforce more speed — and more overlap appeared first on MarTech .
-
-→ [https://martech.org/braze-gives-salesforce-more-speed-and-more-overlap/](https://martech.org/braze-gives-salesforce-more-speed-and-more-overlap/)
 
 ---
