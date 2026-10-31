@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-10-30 09:42 UTC_
+_Päivitetty: 2026-10-31 09:22 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -130,39 +130,39 @@ What SharkNinja;s McLaren deal says about the new price of F1 fandom.
 
 ## MarTech
 
+### More paid social ads won’t fix a creative problem
+_Fri, 30 Oct 2026 12:33:00 +0000_
+
+20 ads may all test the same idea. Better performance comes from changing the variables that give the algorithm something new to learn. The post More paid social ads won’t fix a creative problem appeared first on MarTech .
+
+→ [https://martech.org/more-paid-social-ads-wont-fix-a-creative-problem/](https://martech.org/more-paid-social-ads-wont-fix-a-creative-problem/)
+
+### How to test incrementality before peak spending starts
+_Fri, 30 Oct 2026 12:18:00 +0000_
+
+Waiting until Cyber Week is too late. Run holdouts early enough to see which channels create lift, then move budget before the expensive days arrive. The post How to test incrementality before peak spending starts appeared first on MarTech .
+
+→ [https://martech.org/how-to-test-incrementality-before-peak-spending-starts/](https://martech.org/how-to-test-incrementality-before-peak-spending-starts/)
+
+### Most marketers say AI works. Few can prove it.
+_Fri, 30 Oct 2026 12:10:00 +0000_
+
+AI can make work faster while leaving teams unable to prove the value. The problem starts before launch, with weak baselines and success metrics. The post Most marketers say AI works. Few can prove it. appeared first on MarTech .
+
+→ [https://martech.org/most-marketers-say-ai-works-few-can-prove-it/](https://martech.org/most-marketers-say-ai-works-few-can-prove-it/)
+
+### Meet your new teammate: Building marketing workflows around AI agents
+_Fri, 30 Oct 2026 12:03:00 +0000_
+
+AI agents are changing how marketing teams work. On Nov. 4, learn how to build workflows that combine AI efficiency with human judgment, quality control and governance at the free November 4 MarTech Conference. The post Meet your new teammate: Building marketing workflows around AI agents appeared first on MarTech .
+
+→ [https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/](https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/)
+
 ### The risks of optimizing SEO for AI over users
 _Thu, 29 Oct 2026 14:58:17 +0000_
 
 Chasing AI visibility can lead to generic content, weaker differentiation, and declining trust. Here's what deserves your attention. The post The risks of optimizing SEO for AI over users appeared first on MarTech .
 
 → [https://martech.org/the-risks-of-optimizing-seo-for-ai-over-users/](https://martech.org/the-risks-of-optimizing-seo-for-ai-over-users/)
-
-### The latest AI-powered martech news and releases
-_Thu, 29 Oct 2026 14:55:10 +0000_
-
-The cautionary tale of when Salesforce "ingested" Slack. The post The latest AI-powered martech news and releases appeared first on MarTech .
-
-→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
-
-### 6 mistakes to avoid with AI-powered performance marketing
-_Thu, 29 Oct 2026 12:00:00 +0000_
-
-AI can make campaign metrics look better while producing less business value. The risk is optimizing faster toward the wrong goal. The post 6 mistakes to avoid with AI-powered performance marketing appeared first on MarTech .
-
-→ [https://martech.org/6-mistakes-to-avoid-with-ai-powered-performance-marketing/](https://martech.org/6-mistakes-to-avoid-with-ai-powered-performance-marketing/)
-
-### What data and AI hide about your customers
-_Wed, 28 Oct 2026 13:24:28 +0000_
-
-You're swimming in data and AI tools. Is any of it really helping you better understand your customers? The post What data and AI hide about your customers appeared first on MarTech .
-
-→ [https://martech.org/what-data-and-ai-hide-about-your-customers/](https://martech.org/what-data-and-ai-hide-about-your-customers/)
-
-### More marketing spend brings more challenges and complexity
-_Wed, 28 Oct 2026 13:09:58 +0000_
-
-Technology and organizational challenges seem to grow with marketing spend, despite more access to tools, according to data from StackAdapt. The post More marketing spend brings more challenges and complexity appeared first on MarTech .
-
-→ [https://martech.org/more-marketing-spend-brings-more-challenges-and-complexity/](https://martech.org/more-marketing-spend-brings-more-challenges-and-complexity/)
 
 ---
