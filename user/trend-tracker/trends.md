@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-11-01 10:11 UTC_
+_Päivitetty: 2026-11-02 10:40 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -91,40 +91,40 @@ Buyers now ask ChatGPT, Gemini, and Perplexity for recommendations before they e
 
 ## Digiday
 
-### Amid growing tension over workplace AI, agencies have a window to reimagine staffing
-_Fri, 30 Oct 2026 04:01:00 +0000_
+### People Inc. is building custom APIs to make its journalism easier for AI agents to use
+_Mon, 02 Nov 2026 05:01:00 +0000_
 
-AI agents are becoming common among agencies, but most companies haven't grasped their potential to reshape teams.
+People Inc. is moving toward custom APIs for AI systems, Forbes has adopted Markdown for agents, while the FT, Daily Mail are considering how agents could reach content for subscribers.
 
-→ [https://digiday.com/marketing/amid-growing-tension-over-workplace-ai-agencies-have-a-window-to-reimagine-staffing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/amid-growing-tension-over-workplace-ai-agencies-have-a-window-to-reimagine-staffing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/people-inc-is-building-custom-apis-to-make-its-journalism-easier-for-ai-agents-to-use/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/people-inc-is-building-custom-apis-to-make-its-journalism-easier-for-ai-agents-to-use/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### From Celsius to Maybelline, more brands are lining up for the NYC Marathon’s 50th anniversary
-_Fri, 30 Oct 2026 04:01:00 +0000_
+### Giggly Squad’s SiriusXM deal signals a shift from podcast networks to creator ecosystems
+_Mon, 02 Nov 2026 05:01:00 +0000_
 
-The brands showing up at the annual race represent a more diverse cross-section of retail than ever before.
+The Giggly Squad deal shows podcasts have turned another corner. Video, short-form, IRL shows...where does the podcast go from here?
 
-→ [https://digiday.com/marketing/from-celsius-to-maybelline-more-brands-are-lining-up-for-the-nyc-marathons-50th-anniversary/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/from-celsius-to-maybelline-more-brands-are-lining-up-for-the-nyc-marathons-50th-anniversary/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/giggly-squads-siriusxm-deal-signals-a-shift-from-podcast-networks-to-creator-ecosystems/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/giggly-squads-siriusxm-deal-signals-a-shift-from-podcast-networks-to-creator-ecosystems/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Apple’s Safari block hands WPP a fresh case for InfoSum
-_Fri, 30 Oct 2026 04:01:00 +0000_
+### Google search loses its free pass with buyers
+_Mon, 02 Nov 2026 05:01:00 +0000_
 
-Apple’s crackdown on the tricks advertisers use to track the same person across different sites and devices keeps tearing through large parts of the ad industry.
+Google search was the line item buyers never questioned. That's changing.
 
-→ [https://digiday.com/media-buying/apples-safari-block-hands-wpp-a-fresh-case-for-infosum/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/apples-safari-block-hands-wpp-a-fresh-case-for-infosum/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/google-search-loses-its-free-pass-with-buyers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/google-search-loses-its-free-pass-with-buyers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Amazon’s Ads nears $20 billion in Q3 as it bets on agentic AI to fuel further growth
-_Fri, 30 Oct 2026 04:01:00 +0000_
+### Amazon says more than 400M customers have used Alexa for Shopping in the last 12 months
+_Mon, 02 Nov 2026 05:01:00 +0000_
 
-Amazon Ads Agent promises simpler buying, but raises transparency questions A
+Customers who use Alexa for Shopping are spending 50% more than those who don’t.
 
-→ [https://digiday.com/media-buying/amazons-ads-nears-20-billion-in-q3-as-it-bets-on-agentic-ai-to-fuel-further-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/amazons-ads-nears-20-billion-in-q3-as-it-bets-on-agentic-ai-to-fuel-further-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/amazon-says-more-than-400m-customers-have-used-alexa-for-shopping-in-the-last-12-months/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/amazon-says-more-than-400m-customers-have-used-alexa-for-shopping-in-the-last-12-months/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Future of Marketing Briefing: SharkNinja’s McLaren deal treats F1 fandom as the asset
-_Fri, 30 Oct 2026 04:01:00 +0000_
+### Media Buying Briefing: Overheard at Media Buying Summit: How AI is helping and hurting client relations and office work
+_Mon, 02 Nov 2026 05:01:00 +0000_
 
-What SharkNinja;s McLaren deal says about the new price of F1 fandom.
+Worries about lazy use of AI for client briefs and internal documents has agencies wondering how to make better use of the tech.
 
-→ [https://digiday.com/marketing/future-of-marketing-briefing-sharkninjas-mclaren-deal-treats-f1-fandom-as-the-asset/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-sharkninjas-mclaren-deal-treats-f1-fandom-as-the-asset/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/media-buying-briefing-overheard-at-media-buying-summit-how-ai-is-helping-and-hurting-client-relations-and-office-work/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-overheard-at-media-buying-summit-how-ai-is-helping-and-hurting-client-relations-and-office-work/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
