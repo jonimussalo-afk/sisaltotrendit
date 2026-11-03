@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-11-02 10:40 UTC_
+_Päivitetty: 2026-11-03 10:31 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,20 @@ The post Datastrategia ratkaisee AI:n aikakaudella: onko yrityksesi data kasvun 
 
 ## HubSpot Marketing Blog
 
+### AI maturity in marketing: What the research reveals
+_Mon, 02 Nov 2026 17:50:05 GMT_
+
+AI maturity explains why 98% of marketing teams now use AI in some way, yet only 10% report transformational results, according to our&nbsp; 2026 State of AI in Marketing research . AI maturity measures how consistently a customer-facing team turns AI into measurable business outcomes, and it matters more than the number of tools or pilots you’ve…
+
+→ [https://blog.hubspot.com/marketing/ai-maturity](https://blog.hubspot.com/marketing/ai-maturity)
+
+### Scrunch vs. Semrush: Which tracks AI visibility better?
+_Mon, 02 Nov 2026 17:45:05 GMT_
+
+Over the past few months, the HubSpot Blog team has been testing and comparing various AEO tools, including Scrunch vs. Semrush, and here’s the high-level takeaway if you’re trying to choose: Scrunch is a dedicated answer engine optimization (AEO) tool built to monitor how your brand shows up in AI answers, while Semrush folds AI visibility…
+
+→ [https://blog.hubspot.com/marketing/scrunch-vs-semrush](https://blog.hubspot.com/marketing/scrunch-vs-semrush)
+
 ### ChatGPT Ads vs. Google Search ads: 5 differences to consider in your strategy
 _Thu, 29 Oct 2026 12:00:04 GMT_
 
@@ -73,96 +87,43 @@ There’s no single right answer to how often you should run AEO prompt tracking
 
 → [https://blog.hubspot.com/marketing/how-often-to-run-prompt-tracking](https://blog.hubspot.com/marketing/how-often-to-run-prompt-tracking)
 
-### Profound vs. Peec AI: Which is right for your team?
-_Wed, 28 Oct 2026 15:45:04 GMT_
-
-Profound and Peec AI are two of the most frequently compared tools in the AEO category right now, and the decision isn’t so straightforward. The two platforms take different approaches to data collection, pricing, and what happens after you read a visibility score.
-
-→ [https://blog.hubspot.com/marketing/profound-vs-peec-ai](https://blog.hubspot.com/marketing/profound-vs-peec-ai)
-
-### Profound vs. Semrush for AEO: Specialist or SEO suite?
-_Tue, 27 Oct 2026 18:15:06 GMT_
-
-Buyers now ask ChatGPT, Gemini, and Perplexity for recommendations before they ever open a search results page, and marketers need a way to see whether their brand shows up in those answers. That’s why Profound vs Semrush for AEO lands on so many shortlists.
-
-→ [https://blog.hubspot.com/marketing/profound-vs-semrush](https://blog.hubspot.com/marketing/profound-vs-semrush)
-
 ---
 
 ## Digiday
 
-### People Inc. is building custom APIs to make its journalism easier for AI agents to use
-_Mon, 02 Nov 2026 05:01:00 +0000_
+### Ad Tech Briefing: Google’s AI-reckoning
+_Tue, 03 Nov 2026 05:01:00 +0000_
 
-People Inc. is moving toward custom APIs for AI systems, Forbes has adopted Markdown for agents, while the FT, Daily Mail are considering how agents could reach content for subscribers.
+Google's Q3 earnings reveal AI Mode’s impact on search advertising growth, plus ongoing diminishing returns from ad tech.
 
-→ [https://digiday.com/media/people-inc-is-building-custom-apis-to-make-its-journalism-easier-for-ai-agents-to-use/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/people-inc-is-building-custom-apis-to-make-its-journalism-easier-for-ai-agents-to-use/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/ad-tech-briefing-googles-ai-reckoning/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-googles-ai-reckoning/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Giggly Squad’s SiriusXM deal signals a shift from podcast networks to creator ecosystems
-_Mon, 02 Nov 2026 05:01:00 +0000_
+### Agency execs call for retail media to be holistically considered beyond the lower funnel
+_Tue, 03 Nov 2026 05:01:00 +0000_
 
-The Giggly Squad deal shows podcasts have turned another corner. Video, short-form, IRL shows...where does the podcast go from here?
+At DMBS, agency leaders explained why retail media offers new opportunities to harness closed-loop measurement in a way that benefits both upper- and lower-funnel marketing efforts.
 
-→ [https://digiday.com/media/giggly-squads-siriusxm-deal-signals-a-shift-from-podcast-networks-to-creator-ecosystems/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/giggly-squads-siriusxm-deal-signals-a-shift-from-podcast-networks-to-creator-ecosystems/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/agency-execs-call-for-retail-media-to-be-holistically-considered-beyond-lower-funnel/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/agency-execs-call-for-retail-media-to-be-holistically-considered-beyond-lower-funnel/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Google search loses its free pass with buyers
-_Mon, 02 Nov 2026 05:01:00 +0000_
+### Can ad tech’s server-side shift save it from Apple and Google?
+_Tue, 03 Nov 2026 05:01:00 +0000_
 
-Google search was the line item buyers never questioned. That's changing.
+Digiday’s executive editor of news Seb Joseph and senior ad tech reporter Ronan Shields joined the Digiday Podcast to hash out ad tech’s Game of Thrones amid the server-side shift.
 
-→ [https://digiday.com/marketing/google-search-loses-its-free-pass-with-buyers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/google-search-loses-its-free-pass-with-buyers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/can-ad-techs-server-side-shift-save-it-from-apple-and-google/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/can-ad-techs-server-side-shift-save-it-from-apple-and-google/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Amazon says more than 400M customers have used Alexa for Shopping in the last 12 months
-_Mon, 02 Nov 2026 05:01:00 +0000_
+### ‘They hold us hostage’: Publishers furious over terms change still can’t quit Facebook
+_Tue, 03 Nov 2026 05:01:00 +0000_
 
-Customers who use Alexa for Shopping are spending 50% more than those who don’t.
+Publishers are pushing back against Meta’s AI scraping terms, testing their leverage over a platform they still rely on.
 
-→ [https://digiday.com/marketing/amazon-says-more-than-400m-customers-have-used-alexa-for-shopping-in-the-last-12-months/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/amazon-says-more-than-400m-customers-have-used-alexa-for-shopping-in-the-last-12-months/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/they-hold-us-hostage-publishers-furious-over-terms-change-still-cant-quit-facebook/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/they-hold-us-hostage-publishers-furious-over-terms-change-still-cant-quit-facebook/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Buying Briefing: Overheard at Media Buying Summit: How AI is helping and hurting client relations and office work
-_Mon, 02 Nov 2026 05:01:00 +0000_
+### How political creators are juggling platforms to find the three Rs: reach, revenue and rules
+_Tue, 03 Nov 2026 05:01:00 +0000_
 
-Worries about lazy use of AI for client briefs and internal documents has agencies wondering how to make better use of the tech.
+Political and news creators are relied on now more than ever, but what platforms are working for them? Which ones aren't?
 
-→ [https://digiday.com/media-buying/media-buying-briefing-overheard-at-media-buying-summit-how-ai-is-helping-and-hurting-client-relations-and-office-work/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-overheard-at-media-buying-summit-how-ai-is-helping-and-hurting-client-relations-and-office-work/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
----
-
-## MarTech
-
-### More paid social ads won’t fix a creative problem
-_Fri, 30 Oct 2026 12:33:00 +0000_
-
-20 ads may all test the same idea. Better performance comes from changing the variables that give the algorithm something new to learn. The post More paid social ads won’t fix a creative problem appeared first on MarTech .
-
-→ [https://martech.org/more-paid-social-ads-wont-fix-a-creative-problem/](https://martech.org/more-paid-social-ads-wont-fix-a-creative-problem/)
-
-### How to test incrementality before peak spending starts
-_Fri, 30 Oct 2026 12:18:00 +0000_
-
-Waiting until Cyber Week is too late. Run holdouts early enough to see which channels create lift, then move budget before the expensive days arrive. The post How to test incrementality before peak spending starts appeared first on MarTech .
-
-→ [https://martech.org/how-to-test-incrementality-before-peak-spending-starts/](https://martech.org/how-to-test-incrementality-before-peak-spending-starts/)
-
-### Most marketers say AI works. Few can prove it.
-_Fri, 30 Oct 2026 12:10:00 +0000_
-
-AI can make work faster while leaving teams unable to prove the value. The problem starts before launch, with weak baselines and success metrics. The post Most marketers say AI works. Few can prove it. appeared first on MarTech .
-
-→ [https://martech.org/most-marketers-say-ai-works-few-can-prove-it/](https://martech.org/most-marketers-say-ai-works-few-can-prove-it/)
-
-### Meet your new teammate: Building marketing workflows around AI agents
-_Fri, 30 Oct 2026 12:03:00 +0000_
-
-AI agents are changing how marketing teams work. On Nov. 4, learn how to build workflows that combine AI efficiency with human judgment, quality control and governance at the free November 4 MarTech Conference. The post Meet your new teammate: Building marketing workflows around AI agents appeared first on MarTech .
-
-→ [https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/](https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/)
-
-### The risks of optimizing SEO for AI over users
-_Thu, 29 Oct 2026 14:58:17 +0000_
-
-Chasing AI visibility can lead to generic content, weaker differentiation, and declining trust. Here's what deserves your attention. The post The risks of optimizing SEO for AI over users appeared first on MarTech .
-
-→ [https://martech.org/the-risks-of-optimizing-seo-for-ai-over-users/](https://martech.org/the-risks-of-optimizing-seo-for-ai-over-users/)
+→ [https://digiday.com/media/how-political-creators-are-juggling-platforms-to-find-the-three-rs-reach-revenue-and-rules/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-political-creators-are-juggling-platforms-to-find-the-three-rs-reach-revenue-and-rules/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
