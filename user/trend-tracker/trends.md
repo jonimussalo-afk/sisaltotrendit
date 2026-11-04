@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-11-03 10:31 UTC_
+_Päivitetty: 2026-11-04 10:35 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -10,6 +10,13 @@ _Päivitetty: 2026-11-03 10:31 UTC_
 # 🇫🇮 Kotimaiset lähteet
 
 ## Digimarkkinointi.fi
+
+### Tekoäly sisällöntuotannossa: Miten saat sisältösi erottumaan massasta?
+_Tue, 03 Nov 2026 07:33:00 +0000_
+
+Tekoälyn nopea kehitys on tuonut sisällöntuotantoon uudenlaisia mahdollisuuksia, kun kuka tahansa voi tuottaa näennäisesti pätevää tekstiä. Hyödyt kuitenkin menevät hukkaan, jos tekoälyllä tuotetaan entistä enemmän sisältöä laadun kustannuksella. The post Tekoäly sisällöntuotannossa: Miten saat sisältösi erottumaan massasta? appeared first on SDM…
+
+→ [https://sdm.fi/blogi/tekoaly-sisallontuotannossa/](https://sdm.fi/blogi/tekoaly-sisallontuotannossa/)
 
 ### ChatGPT-mainonta käynnistyi – mitä ensimmäiset tulokset kertovat uudesta AI-mainosympäristöstä?
 _Thu, 22 Oct 2026 06:38:24 +0000_
@@ -39,18 +46,18 @@ Moni asiakas kysyy nykyään suosituksia ChatGPT:ltä eikä Googlelta. Miten sel
 
 → [https://sdm.fi/blogi/miten-seurata-yrityksen-ai-nakyvyytta-eri-lahteista/](https://sdm.fi/blogi/miten-seurata-yrityksen-ai-nakyvyytta-eri-lahteista/)
 
-### Datastrategia ratkaisee AI:n aikakaudella: onko yrityksesi data kasvun mahdollistaja vai este?
-_Fri, 18 Sep 2026 12:42:09 +0000_
-
-The post Datastrategia ratkaisee AI:n aikakaudella: onko yrityksesi data kasvun mahdollistaja vai este? appeared first on SDM Digital .
-
-→ [https://sdm.fi/blogi/digimarkkinoinnin-datastrategia/](https://sdm.fi/blogi/digimarkkinoinnin-datastrategia/)
-
 ---
 
 # 🌍 Kansainväliset lähteet
 
 ## HubSpot Marketing Blog
+
+### Claude integrations worth adding to your GTM stack
+_Tue, 03 Nov 2026 14:40:06 GMT_
+
+Most marketers use an AI assistant at work, but constantly switching between Claude, a CRM, and other apps breaks focus. That is where Claude integrations come in.
+
+→ [https://blog.hubspot.com/marketing/claude-integrations](https://blog.hubspot.com/marketing/claude-integrations)
 
 ### AI maturity in marketing: What the research reveals
 _Mon, 02 Nov 2026 17:50:05 GMT_
@@ -80,50 +87,82 @@ Claude marketing plugins extend Claude into workflows for content creation, camp
 
 → [https://blog.hubspot.com/marketing/claude-marketing-plugin](https://blog.hubspot.com/marketing/claude-marketing-plugin)
 
-### How often to run AEO prompt tracking: A cadence guide
-_Wed, 28 Oct 2026 15:50:05 GMT_
-
-There’s no single right answer to how often you should run AEO prompt tracking, because the answer depends on what you’re trying to detect. But the question has two parts that people often blur together: how often data gets collected, and how often your team makes decisions from it.
-
-→ [https://blog.hubspot.com/marketing/how-often-to-run-prompt-tracking](https://blog.hubspot.com/marketing/how-often-to-run-prompt-tracking)
-
 ---
 
 ## Digiday
 
-### Ad Tech Briefing: Google’s AI-reckoning
-_Tue, 03 Nov 2026 05:01:00 +0000_
+### Digiday+ Research 2026 Creator Marketing Index: A brand guide to social media campaigns
+_Wed, 04 Nov 2026 05:01:00 +0000_
 
-Google's Q3 earnings reveal AI Mode’s impact on search advertising growth, plus ongoing diminishing returns from ad tech.
+As creator marketing becomes a fixture in many brands’ marketing strategies, creators’ roles are shifting and expanding.
 
-→ [https://digiday.com/media-buying/ad-tech-briefing-googles-ai-reckoning/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-googles-ai-reckoning/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/digiday-research-2026-creator-marketing-index-a-brand-guide-to-social-media-campaigns/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/digiday-research-2026-creator-marketing-index-a-brand-guide-to-social-media-campaigns/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Agency execs call for retail media to be holistically considered beyond the lower funnel
-_Tue, 03 Nov 2026 05:01:00 +0000_
+### What DoorDash’s Instacart acquisition says about the modern delivery platform pitch
+_Wed, 04 Nov 2026 05:01:00 +0000_
 
-At DMBS, agency leaders explained why retail media offers new opportunities to harness closed-loop measurement in a way that benefits both upper- and lower-funnel marketing efforts.
+DoorDash’s announced plans to acquire Instacart for $17 billion point to the constant need to gain market share by diversifying services and offerings.
 
-→ [https://digiday.com/media-buying/agency-execs-call-for-retail-media-to-be-holistically-considered-beyond-lower-funnel/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/agency-execs-call-for-retail-media-to-be-holistically-considered-beyond-lower-funnel/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/what-doordashs-instacart-acquisition-says-about-the-modern-delivery-platform-pitch/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/what-doordashs-instacart-acquisition-says-about-the-modern-delivery-platform-pitch/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Can ad tech’s server-side shift save it from Apple and Google?
-_Tue, 03 Nov 2026 05:01:00 +0000_
+### Future of TV Briefing: What it costs brands to fund long-form creator series
+_Wed, 04 Nov 2026 05:01:00 +0000_
 
-Digiday’s executive editor of news Seb Joseph and senior ad tech reporter Ronan Shields joined the Digiday Podcast to hash out ad tech’s Game of Thrones amid the server-side shift.
+This week’s Future of TV Briefing looks at the economics behind brands sponsoring creator-led long-form original video series.
 
-→ [https://digiday.com/media-buying/can-ad-techs-server-side-shift-save-it-from-apple-and-google/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/can-ad-techs-server-side-shift-save-it-from-apple-and-google/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/future-of-tv/future-of-tv-briefing-what-it-costs-brands-to-fund-long-form-creator-series/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-what-it-costs-brands-to-fund-long-form-creator-series/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### ‘They hold us hostage’: Publishers furious over terms change still can’t quit Facebook
-_Tue, 03 Nov 2026 05:01:00 +0000_
+### Case for and against – sticking with a Publicis-owned LiveRamp
+_Wed, 04 Nov 2026 05:01:00 +0000_
 
-Publishers are pushing back against Meta’s AI scraping terms, testing their leverage over a platform they still rely on.
+Now that Publicis has closed its acquisition of LiveRamp, marketers have a decision to make.
 
-→ [https://digiday.com/media/they-hold-us-hostage-publishers-furious-over-terms-change-still-cant-quit-facebook/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/they-hold-us-hostage-publishers-furious-over-terms-change-still-cant-quit-facebook/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/the-case-for-and-against-sticking-with-a-publicis-owned-liveramp/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/the-case-for-and-against-sticking-with-a-publicis-owned-liveramp/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### How political creators are juggling platforms to find the three Rs: reach, revenue and rules
-_Tue, 03 Nov 2026 05:01:00 +0000_
+### Good ads have a new name, ‘entertainment-first’ and SharkNinja is using it for its holiday campaign
+_Wed, 04 Nov 2026 05:01:00 +0000_
 
-Political and news creators are relied on now more than ever, but what platforms are working for them? Which ones aren't?
+Making ads people want to watch is now a strategy. SharkNinja’s celebrity filled holiday spot shows why.
 
-→ [https://digiday.com/media/how-political-creators-are-juggling-platforms-to-find-the-three-rs-reach-revenue-and-rules/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-political-creators-are-juggling-platforms-to-find-the-three-rs-reach-revenue-and-rules/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/good-ads-have-a-new-name-entertainment-first-and-sharkninja-is-using-it-for-its-holiday-campaign/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/good-ads-have-a-new-name-entertainment-first-and-sharkninja-is-using-it-for-its-holiday-campaign/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+---
+
+## MarTech
+
+### Salesforce buying AI customer support company Cresta
+_Tue, 03 Nov 2026 15:18:58 +0000_
+
+Salesforce is buying Cresta to bring AI voice agents into customer calls, tying conversations more closely to CRM data and its broader Agentforce push. The post Salesforce buying AI customer support company Cresta appeared first on MarTech .
+
+→ [https://martech.org/salesforce-buying-ai-customer-support-company-cresta/](https://martech.org/salesforce-buying-ai-customer-support-company-cresta/)
+
+### AI traffic drives 83% more revenue per visit
+_Tue, 03 Nov 2026 13:47:00 +0000_
+
+Adobe research also found that AI traffic converted 90% better than non-AI traffic. The post AI traffic drives 83% more revenue per visit appeared first on MarTech .
+
+→ [https://martech.org/ai-traffic-drives-83-more-traffic-per-visit/](https://martech.org/ai-traffic-drives-83-more-traffic-per-visit/)
+
+### Your first-party data doesn’t reflect your customer today
+_Tue, 03 Nov 2026 13:43:00 +0000_
+
+Purchase history tells only part of the story. Identity resolution and consumer intelligence help brands understand what matters now. The post Your first-party data doesn’t reflect your customer today appeared first on MarTech .
+
+→ [https://martech.org/your-first-party-data-doesnt-reflect-your-customer-today/](https://martech.org/your-first-party-data-doesnt-reflect-your-customer-today/)
+
+### Why B2B marketers are turning to paid influencers
+_Tue, 03 Nov 2026 13:38:00 +0000_
+
+B2B creators are turning expertise into profitable businesses, while brands find new ways to reach buyers through trusted voices. The post Why B2B marketers are turning to paid influencers appeared first on MarTech .
+
+→ [https://martech.org/why-b2b-marketers-are-turning-to-paid-influencers/](https://martech.org/why-b2b-marketers-are-turning-to-paid-influencers/)
+
+### If you don’t define your weakness, AI will
+_Tue, 03 Nov 2026 13:09:00 +0000_
+
+B2B companies that avoid saying who they’re wrong for are letting buyers, competitors, and AI systems do it for them. The post If you don’t define your weakness, AI will appeared first on MarTech .
+
+→ [https://martech.org/if-you-dont-define-your-weakness-ai-will/](https://martech.org/if-you-dont-define-your-weakness-ai-will/)
 
 ---
