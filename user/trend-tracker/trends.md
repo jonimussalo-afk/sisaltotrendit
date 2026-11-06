@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-11-05 10:28 UTC_
+_Päivitetty: 2026-11-06 10:29 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -10,6 +10,13 @@ _Päivitetty: 2026-11-05 10:28 UTC_
 # 🇫🇮 Kotimaiset lähteet
 
 ## Digimarkkinointi.fi
+
+### Convert – Kuinka muutat kiinnostuneen liidin maksavaksi asiakkaaksi
+_Thu, 05 Nov 2026 13:18:37 +0000_
+
+Convert-vaiheessa ratkeaa, ostaako ostovalmis asiakas juuri teiltä. Kitkan poistaminen ostopolun loppupäästä parantaa koko markkinoinnin tulosta. The post Convert &#8211; Kuinka muutat kiinnostuneen liidin maksavaksi asiakkaaksi appeared first on SDM Digital .
+
+→ [https://sdm.fi/blogi/convert-kuinka-muutat-kiinnostuneen-liidin-maksavaksi-asiakkaaksi/](https://sdm.fi/blogi/convert-kuinka-muutat-kiinnostuneen-liidin-maksavaksi-asiakkaaksi/)
 
 ### SEO vs. GEO vs. AEO – mitä termit tarkoittavat ja mitä yrityksesi oikeasti tarvitsee?
 _Thu, 05 Nov 2026 08:46:18 +0000_
@@ -39,18 +46,18 @@ Tekoäly vertailee yrityksiä julkaistun tiedon varassa. Jos valintaperusteitasi
 
 → [https://sdm.fi/blogi/erottautumistekijat-ovat-ai-aikakauden-tarkein-sisalto/](https://sdm.fi/blogi/erottautumistekijat-ovat-ai-aikakauden-tarkein-sisalto/)
 
-### Osa ostopolusta on nyt tekoälyn käsissä. Mitä se vaatii markkinoinnilta MVG-MRACE®-mallin näkökulmasta?
-_Mon, 19 Oct 2026 08:38:41 +0000_
-
-Kuinka yritys voi valmistautua murrokseen? Tarvitaanko verkkosivustoja enää? The post Osa ostopolusta on nyt tekoälyn käsissä. Mitä se vaatii markkinoinnilta MVG-MRACE®-mallin näkökulmasta? appeared first on SDM Digital .
-
-→ [https://sdm.fi/blogi/ostopolku-tekoalyn-kasissa-mita-se-vaatii-markkinoinnilta/](https://sdm.fi/blogi/ostopolku-tekoalyn-kasissa-mita-se-vaatii-markkinoinnilta/)
-
 ---
 
 # 🌍 Kansainväliset lähteet
 
 ## HubSpot Marketing Blog
+
+### What is RAG in AI? A plain-English guide for marketers
+_Thu, 05 Nov 2026 16:15:05 GMT_
+
+More of your audience now gets answers from AI instead of a list of links. So when someone asks an assistant about your category, the response draws on sources you may never even see, and your brand either shows up in it — or doesn’t.
+
+→ [https://blog.hubspot.com/marketing/rag-in-ai](https://blog.hubspot.com/marketing/rag-in-ai)
 
 ### How to find and fix your AEO keywords gap
 _Wed, 04 Nov 2026 14:50:06 GMT_
@@ -80,89 +87,43 @@ AI maturity explains why 98% of marketing teams now use AI in some way, yet only
 
 → [https://blog.hubspot.com/marketing/ai-maturity](https://blog.hubspot.com/marketing/ai-maturity)
 
-### Scrunch vs. Semrush: Which tracks AI visibility better?
-_Mon, 02 Nov 2026 17:45:05 GMT_
-
-Over the past few months, the HubSpot Blog team has been testing and comparing various AEO tools, including Scrunch vs. Semrush, and here’s the high-level takeaway if you’re trying to choose: Scrunch is a dedicated answer engine optimization (AEO) tool built to monitor how your brand shows up in AI answers, while Semrush folds AI visibility…
-
-→ [https://blog.hubspot.com/marketing/scrunch-vs-semrush](https://blog.hubspot.com/marketing/scrunch-vs-semrush)
-
 ---
 
 ## Digiday
 
-### In graphic detail: Six thousand brands later, ChatGPT ads still have a conversion problem
-_Thu, 05 Nov 2026 05:01:00 +0000_
+### Creators see promise in Instagram’s long-form push, but question whether exposure is enough
+_Fri, 06 Nov 2026 05:01:00 +0000_
 
-OpenAI has ambitious ad revenue targets, which depend on advertiser demand, measurement and monetisation.
+Instagram wants to pull long-form creators away from YouTube, but is it offering enough? Experts weigh in on the platform's pivot.
 
-→ [https://digiday.com/marketing/in-graphic-detail-chatgpt-s-ad-growth-is-outrunning-the-proof-that-it-works/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/in-graphic-detail-chatgpt-s-ad-growth-is-outrunning-the-proof-that-it-works/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/creators-see-promise-in-instagrams-long-form-push-but-question-whether-exposure-is-enough/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/creators-see-promise-in-instagrams-long-form-push-but-question-whether-exposure-is-enough/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Agencies find AI overuse is leading to brief bloat
-_Thu, 05 Nov 2026 05:01:00 +0000_
+### By the numbers: Ad tech’s widening divide, as AppLovin surges and rivals struggle in Q3
+_Fri, 06 Nov 2026 05:01:00 +0000_
 
-Agencies and marketers now frequently use AI tools to create media and creative briefs. But the practice could be a canary in the coalmine for AI overuse in advertising.
+Ad tech’s winners and losers emerge as CTV growth masks open-web struggles.
 
-→ [https://digiday.com/marketing/a-little-bit-ridiculous-agencies-find-ai-overuse-is-leading-to-brief-bloat/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/a-little-bit-ridiculous-agencies-find-ai-overuse-is-leading-to-brief-bloat/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/by-the-numbers-ad-techs-widening-divide-as-applovin-surges-and-rivals-struggle-in-q3/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/by-the-numbers-ad-techs-widening-divide-as-applovin-surges-and-rivals-struggle-in-q3/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### After DoorDash’s Instacart bid, here’s the case for and against consolidation in commerce media
-_Thu, 05 Nov 2026 05:01:00 +0000_
+### Future of Marketing Briefing: Creators had a big year. Christmas still went to the celebrities
+_Fri, 06 Nov 2026 05:01:00 +0000_
 
-The DoorDash-Instacart deal could accelerate commerce media consolidation, promising scale but risking higher prices and lock-in.
+Despite leaning on creators for most of the year, marketers aren’t doing it for the holiday crunch. That job still belongs to celebrities.
 
-→ [https://digiday.com/marketing/after-doordashs-instacart-bid-heres-the-case-for-and-against-consolidation-in-commerce-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/after-doordashs-instacart-bid-heres-the-case-for-and-against-consolidation-in-commerce-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/future-of-marketing-briefing-creators-had-a-big-year-christmas-still-went-to-the-celebrities/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-creators-had-a-big-year-christmas-still-went-to-the-celebrities/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Briefing: Publishers’ revenue growth defies traffic declines, but tougher comparisons loom
-_Thu, 05 Nov 2026 05:01:00 +0000_
+### Digiday Media Buying Summit October Recap: Assessing the ups and challenges of AI’s spread across the media agency…
+_Fri, 06 Nov 2026 05:01:00 +0000_
 
-The New York Times, People Inc., News Corp and Reuters report revenue growth despite AI disruption, but face tougher comparisons ahead.
+A recap of the sessions and insights coming out of Digiday's Fall Media Buying Summit, which centered on AI's impact on the media agency world.
 
-→ [https://digiday.com/media/media-briefing-publishers-revenue-growth-defies-traffic-declines-but-tougher-comparisons-loom/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/media-briefing-publishers-revenue-growth-defies-traffic-declines-but-tougher-comparisons-loom/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/digiday-media-buying-summit-october-recap-assessing-the-ups-and-challenges-of-ais-spread-across-the-media-agency-landscape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/digiday-media-buying-summit-october-recap-assessing-the-ups-and-challenges-of-ais-spread-across-the-media-agency-landscape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### WTF is scene-level targeting for CTV?
-_Wed, 04 Nov 2026 15:30:00 +0000_
+### How TF is the grocery store a media channel?
+_Thu, 05 Nov 2026 18:00:00 +0000_
 
-This WTF guide, sponsored by Wurl, explores how CTV advertisers are driving positive attention and improved performance across the entire funnel by aligning creative with relevant onscreen context through scene-level targeting.
+This WTF guide, sponsored by Grocery TV, explores how marketers are reimagining in-store retail media to engage consumers inside the grocery store.
 
-→ [https://digiday.com/sponsored/wtf-scene-level-targeting-ctv/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/wtf-scene-level-targeting-ctv/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
----
-
-## MarTech
-
-### How AI agents help improve your customer experience
-_Wed, 04 Nov 2026 14:29:28 +0000_
-
-AI agents could be the key to meeting the crazy expectations of consumers, but only if they're used wisely. The post How AI agents help improve your customer experience appeared first on MarTech .
-
-→ [https://martech.org/how-ai-agents-help-improve-your-customer-experience/](https://martech.org/how-ai-agents-help-improve-your-customer-experience/)
-
-### What to do before buying a martech platform with AI context
-_Wed, 04 Nov 2026 13:21:00 +0000_
-
-Your team already owns the hardest part of AI context: deciding what's approved, what's off-limits, and who gets the final say. The post What to do before buying a martech platform with AI context appeared first on MarTech .
-
-→ [https://martech.org/what-to-do-before-buying-a-martech-platform-with-ai-context/](https://martech.org/what-to-do-before-buying-a-martech-platform-with-ai-context/)
-
-### How to fund full-funnel retail media across three budgets
-_Wed, 04 Nov 2026 13:02:00 +0000_
-
-Coordinate brand, paid media, and retail media funding while preserving each team’s goals and keeping annual retailer commitments visible. The post How to fund full-funnel retail media across three budgets appeared first on MarTech .
-
-→ [https://martech.org/how-to-fund-full-funnel-retail-media-across-three-budgets/](https://martech.org/how-to-fund-full-funnel-retail-media-across-three-budgets/)
-
-### Salesforce buying AI customer support company Cresta
-_Tue, 03 Nov 2026 15:18:58 +0000_
-
-Salesforce is buying Cresta to bring AI voice agents into customer calls, tying conversations more closely to CRM data and its broader Agentforce push. The post Salesforce buying AI customer support company Cresta appeared first on MarTech .
-
-→ [https://martech.org/salesforce-buying-ai-customer-support-company-cresta/](https://martech.org/salesforce-buying-ai-customer-support-company-cresta/)
-
-### AI traffic drives 83% more revenue per visit
-_Tue, 03 Nov 2026 13:47:00 +0000_
-
-Adobe research also found that AI traffic converted 90% better than non-AI traffic. The post AI traffic drives 83% more revenue per visit appeared first on MarTech .
-
-→ [https://martech.org/ai-traffic-drives-83-more-traffic-per-visit/](https://martech.org/ai-traffic-drives-83-more-traffic-per-visit/)
+→ [https://digiday.com/sponsored/in-store-grocery-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/in-store-grocery-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
