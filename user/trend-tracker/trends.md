@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-11-06 10:29 UTC_
+_Päivitetty: 2026-11-07 09:42 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,20 @@ Tekoäly vertailee yrityksiä julkaistun tiedon varassa. Jos valintaperusteitasi
 
 ## HubSpot Marketing Blog
 
+### Obstacles in marketing automation and how to fix them [2026]
+_Fri, 06 Nov 2026 15:45:05 GMT_
+
+Most obstacles in marketing automation aren’t actually automation problems. 86.4% of marketing teams now use AI somewhere in their workflows. Yet, measuring ROI still tops the challenge list at 33%, according to HubSpot’s 2026 State of Marketing Report .
+
+→ [https://blog.hubspot.com/marketing/marketing-automation-challenges](https://blog.hubspot.com/marketing/marketing-automation-challenges)
+
+### Scrunch vs. Ahrefs: AI visibility tracking comparison
+_Fri, 06 Nov 2026 15:35:04 GMT_
+
+If you’re weighing Scrunch vs Ahrefs, you’re probably asking a bigger question underneath it: do I buy a specialist tool for AI search, or let the SEO platform I already use handle it?
+
+→ [https://blog.hubspot.com/marketing/scrunch-vs-ahrefs](https://blog.hubspot.com/marketing/scrunch-vs-ahrefs)
+
 ### What is RAG in AI? A plain-English guide for marketers
 _Thu, 05 Nov 2026 16:15:05 GMT_
 
@@ -73,23 +87,16 @@ Measuring success is a leading challenge for answer engine optimization (AEO) th
 
 → [https://blog.hubspot.com/marketing/ai-search-industry-benchmarks](https://blog.hubspot.com/marketing/ai-search-industry-benchmarks)
 
-### Claude integrations worth adding to your GTM stack
-_Tue, 03 Nov 2026 14:40:06 GMT_
-
-Most marketers use an AI assistant at work, but constantly switching between Claude, a CRM, and other apps breaks focus. That is where Claude integrations come in.
-
-→ [https://blog.hubspot.com/marketing/claude-integrations](https://blog.hubspot.com/marketing/claude-integrations)
-
-### AI maturity in marketing: What the research reveals
-_Mon, 02 Nov 2026 17:50:05 GMT_
-
-AI maturity explains why 98% of marketing teams now use AI in some way, yet only 10% report transformational results, according to our&nbsp; 2026 State of AI in Marketing research . AI maturity measures how consistently a customer-facing team turns AI into measurable business outcomes, and it matters more than the number of tools or pilots you’ve…
-
-→ [https://blog.hubspot.com/marketing/ai-maturity](https://blog.hubspot.com/marketing/ai-maturity)
-
 ---
 
 ## Digiday
+
+### Amazon’s shopping agent now takes orders by text, with Sponsored Product ads in the replies
+_Fri, 06 Nov 2026 14:00:00 +0000_
+
+Amazon’s shopping agent now takes orders by text message and the thread where those orders get placed will carry ads.
+
+→ [https://digiday.com/media-buying/amazons-shopping-agent-now-takes-orders-by-text-with-sponsored-product-ads-in-the-replies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/amazons-shopping-agent-now-takes-orders-by-text-with-sponsored-product-ads-in-the-replies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ### Creators see promise in Instagram’s long-form push, but question whether exposure is enough
 _Fri, 06 Nov 2026 05:01:00 +0000_
@@ -119,11 +126,43 @@ A recap of the sessions and insights coming out of Digiday's Fall Media Buying S
 
 → [https://digiday.com/media-buying/digiday-media-buying-summit-october-recap-assessing-the-ups-and-challenges-of-ais-spread-across-the-media-agency-landscape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/digiday-media-buying-summit-october-recap-assessing-the-ups-and-challenges-of-ais-spread-across-the-media-agency-landscape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### How TF is the grocery store a media channel?
-_Thu, 05 Nov 2026 18:00:00 +0000_
+---
 
-This WTF guide, sponsored by Grocery TV, explores how marketers are reimagining in-store retail media to engage consumers inside the grocery store.
+## MarTech
 
-→ [https://digiday.com/sponsored/in-store-grocery-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/in-store-grocery-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+### Beyond the opt-in: Engineering consent for better marketing
+_Fri, 06 Nov 2026 16:35:43 +0000_
+
+Compliance pressure is real, but privacy controls can power better personalization. At the November MarTech Conference, we discussed turning opt-ins into your best first-party data asset. The post Beyond the opt-in: Engineering consent for better marketing appeared first on MarTech .
+
+→ [https://martech.org/beyond-the-opt-in-engineering-consent-for-better-marketing/](https://martech.org/beyond-the-opt-in-engineering-consent-for-better-marketing/)
+
+### Better prompts start before the prompt
+_Fri, 06 Nov 2026 14:39:35 +0000_
+
+The fastest way to improve AI-built software is defining the user, the task, and what success looks like before generating anything. The post Better prompts start before the prompt appeared first on MarTech .
+
+→ [https://martech.org/better-prompts-start-before-the-prompt/](https://martech.org/better-prompts-start-before-the-prompt/)
+
+### Consumers are still buying. They’re just harder to convince.
+_Fri, 06 Nov 2026 13:49:00 +0000_
+
+Economic pressure hasn’t stopped online shopping, but it has made consumers more skeptical, more price-conscious, and more willing to check the offer. The post Consumers are still buying. They’re just harder to convince. appeared first on MarTech .
+
+→ [https://martech.org/consumers-are-still-buying-theyre-just-harder-to-convince/](https://martech.org/consumers-are-still-buying-theyre-just-harder-to-convince/)
+
+### ChatGPT’s paid traffic is worth far less than Google’s
+_Fri, 06 Nov 2026 13:27:00 +0000_
+
+Paid ChatGPT visits generated 89 cents in revenue per session, compared with $2.45 from paid Google Search. The post ChatGPT&#8217;s paid traffic is worth far less than Google&#8217;s appeared first on MarTech .
+
+→ [https://martech.org/chatgpts-paid-traffic-is-worth-far-less-than-googles/](https://martech.org/chatgpts-paid-traffic-is-worth-far-less-than-googles/)
+
+### Is your affiliate program showing up too late?
+_Fri, 06 Nov 2026 13:05:00 +0000_
+
+Coupon partners can close sales, but growth also depends on who helps new audiences discover the brand before they’re ready to buy. The post Is your affiliate program showing up too late? appeared first on MarTech .
+
+→ [https://martech.org/is-your-affiliate-program-showing-up-too-late/](https://martech.org/is-your-affiliate-program-showing-up-too-late/)
 
 ---
