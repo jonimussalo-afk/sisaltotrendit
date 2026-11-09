@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-11-08 09:56 UTC_
+_Päivitetty: 2026-11-09 11:01 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -91,40 +91,40 @@ Measuring success is a leading challenge for answer engine optimization (AEO) th
 
 ## Digiday
 
-### Amazon’s shopping agent now takes orders by text, with Sponsored Product ads in the replies
-_Fri, 06 Nov 2026 14:00:00 +0000_
+### As publishers await click data, Google’s AI visibility push complicates the opt-out decision
+_Mon, 09 Nov 2026 05:01:00 +0000_
 
-Amazon’s shopping agent now takes orders by text message and the thread where those orders get placed will carry ads.
+Google is moving on two fronts: working up the U.K’s Competition and Markets Authority-mandated search opt-out publishers have long sought, while enhancing AI Overviews in ways that could make opting out less appealing.
 
-→ [https://digiday.com/media-buying/amazons-shopping-agent-now-takes-orders-by-text-with-sponsored-product-ads-in-the-replies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/amazons-shopping-agent-now-takes-orders-by-text-with-sponsored-product-ads-in-the-replies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/as-publishers-await-click-data-googles-ai-visibility-push-complicates-the-opt-out-decision/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/as-publishers-await-click-data-googles-ai-visibility-push-complicates-the-opt-out-decision/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Creators see promise in Instagram’s long-form push, but question whether exposure is enough
-_Fri, 06 Nov 2026 05:01:00 +0000_
+### How performance metrics are rewriting creator rate cards
+_Mon, 09 Nov 2026 05:01:00 +0000_
 
-Instagram wants to pull long-form creators away from YouTube, but is it offering enough? Experts weigh in on the platform's pivot.
+Advertisers now demand creator metrics like cost per lead and conversions, not follower counts.
 
-→ [https://digiday.com/media/creators-see-promise-in-instagrams-long-form-push-but-question-whether-exposure-is-enough/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/creators-see-promise-in-instagrams-long-form-push-but-question-whether-exposure-is-enough/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/how-performance-metrics-are-rewriting-creator-rate-cards/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/how-performance-metrics-are-rewriting-creator-rate-cards/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### By the numbers: Ad tech’s widening divide, as AppLovin surges and rivals struggle in Q3
-_Fri, 06 Nov 2026 05:01:00 +0000_
+### WTF is the AI training opt-out policy token?
+_Mon, 09 Nov 2026 05:01:00 +0000_
 
-Ad tech’s winners and losers emerge as CTV growth masks open-web struggles.
+Major AI companies are backing a new AI training opt-out standard proposal for publishers, but it exposes deeper tensions over AI scraping.
 
-→ [https://digiday.com/media/by-the-numbers-ad-techs-widening-divide-as-applovin-surges-and-rivals-struggle-in-q3/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/by-the-numbers-ad-techs-widening-divide-as-applovin-surges-and-rivals-struggle-in-q3/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/wtf-is-the-ai-training-opt-out-policy-token/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/wtf-is-the-ai-training-opt-out-policy-token/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Future of Marketing Briefing: Creators had a big year. Christmas still went to the celebrities
-_Fri, 06 Nov 2026 05:01:00 +0000_
+### Media Buying Briefing: Forrester’s Wave report finds growing homogeneity among the 12 biggest agencies
+_Mon, 09 Nov 2026 05:01:00 +0000_
 
-Despite leaning on creators for most of the year, marketers aren’t doing it for the holiday crunch. That job still belongs to celebrities.
+Forrester's Wave study assessed 12 agency groups for their current offerings and strategies, and found diminishing differentiation among the largest of them.
 
-→ [https://digiday.com/marketing/future-of-marketing-briefing-creators-had-a-big-year-christmas-still-went-to-the-celebrities/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-creators-had-a-big-year-christmas-still-went-to-the-celebrities/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/media-buying-briefing-forresters-wave-report-finds-growing-homogeneity-among-the-12-biggest-agencies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-forresters-wave-report-finds-growing-homogeneity-among-the-12-biggest-agencies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Digiday Media Buying Summit October Recap: Assessing the ups and challenges of AI’s spread across the media agency…
-_Fri, 06 Nov 2026 05:01:00 +0000_
+### ChatGPT is about to show brands their mention count
+_Mon, 09 Nov 2026 05:01:00 +0000_
 
-A recap of the sessions and insights coming out of Digiday's Fall Media Buying Summit, which centered on AI's impact on the media agency world.
+The AI platform is testing an analytics dashboard that counts how often a business shows up in ChatGPT’s answers.
 
-→ [https://digiday.com/media-buying/digiday-media-buying-summit-october-recap-assessing-the-ups-and-challenges-of-ais-spread-across-the-media-agency-landscape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/digiday-media-buying-summit-october-recap-assessing-the-ups-and-challenges-of-ais-spread-across-the-media-agency-landscape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/chatgpt-is-about-to-show-brands-their-mention-count/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/chatgpt-is-about-to-show-brands-their-mention-count/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
