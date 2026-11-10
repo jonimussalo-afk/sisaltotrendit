@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-11-09 11:01 UTC_
+_Päivitetty: 2026-11-10 10:51 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Tekoäly vertailee yrityksiä julkaistun tiedon varassa. Jos valintaperusteitasi
 
 ## HubSpot Marketing Blog
 
+### Branded vs. unbranded queries in AI search — and how to track them
+_Mon, 09 Nov 2026 13:05:05 GMT_
+
+Picture two shoppers. One asks ChatGPT, “Are Nikes good shoes for marathon runners?” The other asks, “What’s the best running shoe?” Both want top-notch athletic shoes. Only one specifically wants to know about Nikes. That’s the idea behind branded vs. unbranded queries in AI search.
+
+→ [https://blog.hubspot.com/marketing/branded-vs-unbranded-prompt-tracking](https://blog.hubspot.com/marketing/branded-vs-unbranded-prompt-tracking)
+
 ### Obstacles in marketing automation and how to fix them [2026]
 _Fri, 06 Nov 2026 15:45:05 GMT_
 
@@ -80,55 +87,76 @@ To improve visibility in AI answer engines, content and SEO marketers need to ad
 
 → [https://blog.hubspot.com/marketing/aeo-keyword-gap-analysis](https://blog.hubspot.com/marketing/aeo-keyword-gap-analysis)
 
-### How do I benchmark my AI search performance against my industry?
-_Wed, 04 Nov 2026 14:40:07 GMT_
-
-Measuring success is a leading challenge for answer engine optimization (AEO) that marketers report today. In HubSpot’s State of AEO 2026 report, it was the top challenge among B2B marketers at 23%; among B2C marketers, 26% cited it, behind only understanding how AEO works at 29%.
-
-→ [https://blog.hubspot.com/marketing/ai-search-industry-benchmarks](https://blog.hubspot.com/marketing/ai-search-industry-benchmarks)
-
 ---
 
 ## Digiday
 
-### As publishers await click data, Google’s AI visibility push complicates the opt-out decision
-_Mon, 09 Nov 2026 05:01:00 +0000_
+### The case for and against AI token capping
+_Tue, 10 Nov 2026 05:01:00 +0000_
 
-Google is moving on two fronts: working up the U.K’s Competition and Markets Authority-mandated search opt-out publishers have long sought, while enhancing AI Overviews in ways that could make opting out less appealing.
+Apple is placing strict limits on its staffers’ AI token consumption. Should the marketing sector take a similar path?
 
-→ [https://digiday.com/media/as-publishers-await-click-data-googles-ai-visibility-push-complicates-the-opt-out-decision/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/as-publishers-await-click-data-googles-ai-visibility-push-complicates-the-opt-out-decision/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/case-for-against-ai-token-capping/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/case-for-against-ai-token-capping/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### How performance metrics are rewriting creator rate cards
-_Mon, 09 Nov 2026 05:01:00 +0000_
+### Reddit dangles seasonal ad credits but advertisers still want better proof it works all year round
+_Tue, 10 Nov 2026 05:01:00 +0000_
 
-Advertisers now demand creator metrics like cost per lead and conversions, not follower counts.
+Q4 credits may bring advertisers to Reddit, but concerns about measurement and its ad capabilities make it harder to secure year-round spend.
 
-→ [https://digiday.com/marketing/how-performance-metrics-are-rewriting-creator-rate-cards/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/how-performance-metrics-are-rewriting-creator-rate-cards/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/reddit-dangles-seasonal-ad-credits-but-advertisers-still-want-better-proof-it-works-all-year-round/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/reddit-dangles-seasonal-ad-credits-but-advertisers-still-want-better-proof-it-works-all-year-round/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### WTF is the AI training opt-out policy token?
-_Mon, 09 Nov 2026 05:01:00 +0000_
+### Can web users trust ad tech’s server-side shift?
+_Tue, 10 Nov 2026 05:01:00 +0000_
 
-Major AI companies are backing a new AI training opt-out standard proposal for publishers, but it exposes deeper tensions over AI scraping.
+IAB Tech Lab’s Rowena Lam joined the Digiday Podcast to break down how Trusted Server works and address questions about the user privacy implications of ad tech’s server-side shift.
 
-→ [https://digiday.com/media/wtf-is-the-ai-training-opt-out-policy-token/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/wtf-is-the-ai-training-opt-out-policy-token/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/can-web-users-trust-ad-techs-server-side-shift/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/can-web-users-trust-ad-techs-server-side-shift/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Media Buying Briefing: Forrester’s Wave report finds growing homogeneity among the 12 biggest agencies
-_Mon, 09 Nov 2026 05:01:00 +0000_
+### Ad Tech Briefing: Amazon’s auction trial puts agentic advertising’s trust problem in focus
+_Tue, 10 Nov 2026 05:01:00 +0000_
 
-Forrester's Wave study assessed 12 agency groups for their current offerings and strategies, and found diminishing differentiation among the largest of them.
+Unsealed FTC allegations underline pre-existing questions over black boxes.
 
-→ [https://digiday.com/media-buying/media-buying-briefing-forresters-wave-report-finds-growing-homogeneity-among-the-12-biggest-agencies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-forresters-wave-report-finds-growing-homogeneity-among-the-12-biggest-agencies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/ad-tech-briefing-amazons-auction-trial-puts-agentic-advertisings-trust-problem-in-focus/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-amazons-auction-trial-puts-agentic-advertisings-trust-problem-in-focus/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### ChatGPT is about to show brands their mention count
-_Mon, 09 Nov 2026 05:01:00 +0000_
+### Amid a difficult transitional year, The Trade Desk posts a rare quarterly revenue decline
+_Tue, 10 Nov 2026 05:01:00 +0000_
 
-The AI platform is testing an analytics dashboard that counts how often a business shows up in ChatGPT’s answers.
+The Trade Desk's Jeff Green hints at potential M&#38;A, while rival DSP Viant buys Waymark.
 
-→ [https://digiday.com/marketing/chatgpt-is-about-to-show-brands-their-mention-count/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/chatgpt-is-about-to-show-brands-their-mention-count/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/amid-a-difficult-transitional-year-the-trade-desk-posts-a-rare-quarterly-revenue-decline/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/amid-a-difficult-transitional-year-the-trade-desk-posts-a-rare-quarterly-revenue-decline/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### Content everywhere: Winning attention in a fragmented marketing landscape
+_Mon, 09 Nov 2026 16:43:41 +0000_
+
+Digital fragmentation is pushing teams to their limits. On Nov. 4, learn how to stretch content budget and capture buyer attention where it counts. The post Content everywhere: Winning attention in a fragmented marketing landscape appeared first on MarTech .
+
+→ [https://martech.org/content-everywhere-winning-attention-in-a-fragmented-marketing-landscape/](https://martech.org/content-everywhere-winning-attention-in-a-fragmented-marketing-landscape/)
+
+### Combining MMM with post-purchase survey attribution
+_Mon, 09 Nov 2026 13:55:00 +0000_
+
+Enterprise marketers use top-down statistical modeling and bottom-up survey data to capture hard-to-track dark social shares and offline mentions. The post Combining MMM with post-purchase survey attribution appeared first on MarTech .
+
+→ [https://martech.org/combining-mmm-with-post-purchase-survey-attribution/](https://martech.org/combining-mmm-with-post-purchase-survey-attribution/)
+
+### Why marketing needs different approaches to measurement
+_Mon, 09 Nov 2026 13:37:00 +0000_
+
+Stable work rewards exact numbers. Campaigns, customer journeys, and forecasting often don’t. The post Why marketing needs different approaches to measurement appeared first on MarTech .
+
+→ [https://martech.org/why-marketing-needs-different-approaches-to-measurement/](https://martech.org/why-marketing-needs-different-approaches-to-measurement/)
+
+### B2B CTV tactics that go beyond brand awareness
+_Mon, 09 Nov 2026 13:02:00 +0000_
+
+Your next CTV campaign could start with a booth scan, a closed-lost deal, or a partner's customer list. Here's how to put that data to work. The post B2B CTV tactics that go beyond brand awareness appeared first on MarTech .
+
+→ [https://martech.org/b2b-ctv-tactics-that-go-beyond-brand-awareness/](https://martech.org/b2b-ctv-tactics-that-go-beyond-brand-awareness/)
 
 ### Beyond the opt-in: Engineering consent for better marketing
 _Fri, 06 Nov 2026 16:35:43 +0000_
@@ -136,33 +164,5 @@ _Fri, 06 Nov 2026 16:35:43 +0000_
 Compliance pressure is real, but privacy controls can power better personalization. At the November MarTech Conference, we discussed turning opt-ins into your best first-party data asset. The post Beyond the opt-in: Engineering consent for better marketing appeared first on MarTech .
 
 → [https://martech.org/beyond-the-opt-in-engineering-consent-for-better-marketing/](https://martech.org/beyond-the-opt-in-engineering-consent-for-better-marketing/)
-
-### Better prompts start before the prompt
-_Fri, 06 Nov 2026 14:39:35 +0000_
-
-The fastest way to improve AI-built software is defining the user, the task, and what success looks like before generating anything. The post Better prompts start before the prompt appeared first on MarTech .
-
-→ [https://martech.org/better-prompts-start-before-the-prompt/](https://martech.org/better-prompts-start-before-the-prompt/)
-
-### Consumers are still buying. They’re just harder to convince.
-_Fri, 06 Nov 2026 13:49:00 +0000_
-
-Economic pressure hasn’t stopped online shopping, but it has made consumers more skeptical, more price-conscious, and more willing to check the offer. The post Consumers are still buying. They’re just harder to convince. appeared first on MarTech .
-
-→ [https://martech.org/consumers-are-still-buying-theyre-just-harder-to-convince/](https://martech.org/consumers-are-still-buying-theyre-just-harder-to-convince/)
-
-### ChatGPT’s paid traffic is worth far less than Google’s
-_Fri, 06 Nov 2026 13:27:00 +0000_
-
-Paid ChatGPT visits generated 89 cents in revenue per session, compared with $2.45 from paid Google Search. The post ChatGPT&#8217;s paid traffic is worth far less than Google&#8217;s appeared first on MarTech .
-
-→ [https://martech.org/chatgpts-paid-traffic-is-worth-far-less-than-googles/](https://martech.org/chatgpts-paid-traffic-is-worth-far-less-than-googles/)
-
-### Is your affiliate program showing up too late?
-_Fri, 06 Nov 2026 13:05:00 +0000_
-
-Coupon partners can close sales, but growth also depends on who helps new audiences discover the brand before they’re ready to buy. The post Is your affiliate program showing up too late? appeared first on MarTech .
-
-→ [https://martech.org/is-your-affiliate-program-showing-up-too-late/](https://martech.org/is-your-affiliate-program-showing-up-too-late/)
 
 ---
