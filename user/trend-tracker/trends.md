@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-11-10 10:51 UTC_
+_Päivitetty: 2026-11-11 10:27 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,20 @@ Tekoäly vertailee yrityksiä julkaistun tiedon varassa. Jos valintaperusteitasi
 
 ## HubSpot Marketing Blog
 
+### AEO benchmarking: What market data reveals about AI search
+_Tue, 10 Nov 2026 14:30:05 GMT_
+
+AEO benchmarking measures your brand’s AI search visibility against competitors and market trends. It tells you whether a change in your visibility comes from the market or from your own brand, so you can prove performance to leadership before you change tactics.
+
+→ [https://blog.hubspot.com/marketing/aeo-benchmarking](https://blog.hubspot.com/marketing/aeo-benchmarking)
+
+### How to use AI to write a blog post (that isn’t slop)
+_Tue, 10 Nov 2026 14:20:05 GMT_
+
+Like a hammer or even a hair dryer, AI is just a tool. It needs to be wielded skillfully by an expert to achieve greatness. And in a world increasingly full of “AI slop,” this is especially true when exploring how to use AI to write a blog post.
+
+→ [https://blog.hubspot.com/marketing/how-to-use-ai-to-write-a-blog-post](https://blog.hubspot.com/marketing/how-to-use-ai-to-write-a-blog-post)
+
 ### Branded vs. unbranded queries in AI search — and how to track them
 _Mon, 09 Nov 2026 13:05:05 GMT_
 
@@ -73,96 +87,82 @@ If you’re weighing Scrunch vs Ahrefs, you’re probably asking a bigger questi
 
 → [https://blog.hubspot.com/marketing/scrunch-vs-ahrefs](https://blog.hubspot.com/marketing/scrunch-vs-ahrefs)
 
-### What is RAG in AI? A plain-English guide for marketers
-_Thu, 05 Nov 2026 16:15:05 GMT_
-
-More of your audience now gets answers from AI instead of a list of links. So when someone asks an assistant about your category, the response draws on sources you may never even see, and your brand either shows up in it — or doesn’t.
-
-→ [https://blog.hubspot.com/marketing/rag-in-ai](https://blog.hubspot.com/marketing/rag-in-ai)
-
-### How to find and fix your AEO keywords gap
-_Wed, 04 Nov 2026 14:50:06 GMT_
-
-To improve visibility in AI answer engines, content and SEO marketers need to add AEO keywords gap analysis to their strategies. Traditional SEO keyword gaps show which terms a company isn’t ranking for versus the competition. An AEO keywords gap uses the same principle but with broader criteria, identifying the prompts and questions where a given…
-
-→ [https://blog.hubspot.com/marketing/aeo-keyword-gap-analysis](https://blog.hubspot.com/marketing/aeo-keyword-gap-analysis)
-
 ---
 
 ## Digiday
 
-### The case for and against AI token capping
-_Tue, 10 Nov 2026 05:01:00 +0000_
+### How a sports betting creator drove 200 million short-form views of his podcast
+_Wed, 11 Nov 2026 05:01:00 +0000_
 
-Apple is placing strict limits on its staffers’ AI token consumption. Should the marketing sector take a similar path?
+Zach “Mystic Zach” Hirsch has figured out how to maximize engagement around sports-betting content while staying brand safe.
 
-→ [https://digiday.com/marketing/case-for-against-ai-token-capping/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/case-for-against-ai-token-capping/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/how-a-sports-betting-creator-drove-200-million-short-form-views-of-his-podcast/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-a-sports-betting-creator-drove-200-million-short-form-views-of-his-podcast/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Reddit dangles seasonal ad credits but advertisers still want better proof it works all year round
-_Tue, 10 Nov 2026 05:01:00 +0000_
+### Mars wants to future proof impulse buys as AI is poised to take over more grocery runs
+_Wed, 11 Nov 2026 05:01:00 +0000_
 
-Q4 credits may bring advertisers to Reddit, but concerns about measurement and its ad capabilities make it harder to secure year-round spend.
+Mars readies for AI grocery agents by chasing LLM visibility and immersive stores as impulse buys shift. See what’s at stake.
 
-→ [https://digiday.com/marketing/reddit-dangles-seasonal-ad-credits-but-advertisers-still-want-better-proof-it-works-all-year-round/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/reddit-dangles-seasonal-ad-credits-but-advertisers-still-want-better-proof-it-works-all-year-round/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/mars-wants-to-future-proof-impulse-buys-as-ai-poised-to-take-over-more-grocery-runs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/mars-wants-to-future-proof-impulse-buys-as-ai-poised-to-take-over-more-grocery-runs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Can web users trust ad tech’s server-side shift?
-_Tue, 10 Nov 2026 05:01:00 +0000_
+### TikTok Shop launches a paid premium tier for 1M of its top U.S. shoppers
+_Wed, 11 Nov 2026 05:01:00 +0000_
 
-IAB Tech Lab’s Rowena Lam joined the Digiday Podcast to break down how Trusted Server works and address questions about the user privacy implications of ad tech’s server-side shift.
+TikTok Shop is offering the shopping service to more than 1 million people it has identified as its most loyal U.S. customers.
 
-→ [https://digiday.com/media-buying/can-web-users-trust-ad-techs-server-side-shift/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/can-web-users-trust-ad-techs-server-side-shift/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/tiktok-shop-launches-a-paid-premium-tier-for-1m-of-its-top-u-s-shoppers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/tiktok-shop-launches-a-paid-premium-tier-for-1m-of-its-top-u-s-shoppers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Ad Tech Briefing: Amazon’s auction trial puts agentic advertising’s trust problem in focus
-_Tue, 10 Nov 2026 05:01:00 +0000_
+### Future of TV Briefing: Inside creator Grace Wells’s 100-hour branded video production process
+_Wed, 11 Nov 2026 05:01:00 +0000_
 
-Unsealed FTC allegations underline pre-existing questions over black boxes.
+This week’s Future of TV Briefing looks at creator Grace Wells’s full production process, from initial brief to final delivery.
 
-→ [https://digiday.com/media-buying/ad-tech-briefing-amazons-auction-trial-puts-agentic-advertisings-trust-problem-in-focus/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-amazons-auction-trial-puts-agentic-advertisings-trust-problem-in-focus/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/future-of-tv/future-of-tv-briefing-inside-creator-grace-wellss-100-hour-branded-video-production-process/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-inside-creator-grace-wellss-100-hour-branded-video-production-process/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Amid a difficult transitional year, The Trade Desk posts a rare quarterly revenue decline
-_Tue, 10 Nov 2026 05:01:00 +0000_
+### OpenAI’s new business agents give brands a free way into the conversation it’s also selling as an ad
+_Tue, 10 Nov 2026 18:00:00 +0000_
 
-The Trade Desk's Jeff Green hints at potential M&#38;A, while rival DSP Viant buys Waymark.
+OpenAI is giving brands a free route into ChatGPT conversations through business agents, but keeping control of the data and recommendations.
 
-→ [https://digiday.com/marketing/amid-a-difficult-transitional-year-the-trade-desk-posts-a-rare-quarterly-revenue-decline/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/amid-a-difficult-transitional-year-the-trade-desk-posts-a-rare-quarterly-revenue-decline/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/openais-new-business-agents-give-brands-a-free-way-into-the-conversation-its-also-selling-as-an-ad/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/openais-new-business-agents-give-brands-a-free-way-into-the-conversation-its-also-selling-as-an-ad/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
 
-### Content everywhere: Winning attention in a fragmented marketing landscape
-_Mon, 09 Nov 2026 16:43:41 +0000_
+### Claritas brings live optimization to acquisition email
+_Tue, 10 Nov 2026 15:54:44 +0000_
 
-Digital fragmentation is pushing teams to their limits. On Nov. 4, learn how to stretch content budget and capture buyer attention where it counts. The post Content everywhere: Winning attention in a fragmented marketing landscape appeared first on MarTech .
+New product adjusts audiences and subject lines while campaigns run, then uses holdouts and attribution to measure whether those changes produce lift. The post Claritas brings live optimization to acquisition email appeared first on MarTech .
 
-→ [https://martech.org/content-everywhere-winning-attention-in-a-fragmented-marketing-landscape/](https://martech.org/content-everywhere-winning-attention-in-a-fragmented-marketing-landscape/)
+→ [https://martech.org/claritas-brings-live-optimization-to-acquisition-email/](https://martech.org/claritas-brings-live-optimization-to-acquisition-email/)
 
-### Combining MMM with post-purchase survey attribution
-_Mon, 09 Nov 2026 13:55:00 +0000_
+### Balancing human and AI roles in marcom
+_Tue, 10 Nov 2026 14:57:57 +0000_
 
-Enterprise marketers use top-down statistical modeling and bottom-up survey data to capture hard-to-track dark social shares and offline mentions. The post Combining MMM with post-purchase survey attribution appeared first on MarTech .
+The closer your content is to the customer relationship, the more human it should be. See where AI adds value without compromising trust. The post Balancing human and AI roles in marcom appeared first on MarTech .
 
-→ [https://martech.org/combining-mmm-with-post-purchase-survey-attribution/](https://martech.org/combining-mmm-with-post-purchase-survey-attribution/)
+→ [https://martech.org/balancing-human-and-ai-roles-in-marcom/](https://martech.org/balancing-human-and-ai-roles-in-marcom/)
 
-### Why marketing needs different approaches to measurement
-_Mon, 09 Nov 2026 13:37:00 +0000_
+### From journeys to decisions: The next era of customer engagement
+_Tue, 10 Nov 2026 14:26:22 +0000_
 
-Stable work rewards exact numbers. Campaigns, customer journeys, and forecasting often don’t. The post Why marketing needs different approaches to measurement appeared first on MarTech .
+Static journeys can’t keep up with modern buyers. At the November MarTech Conference, we discussed how real-time AI decisioning helps build high-impact experiences. The post From journeys to decisions: The next era of customer engagement appeared first on MarTech .
 
-→ [https://martech.org/why-marketing-needs-different-approaches-to-measurement/](https://martech.org/why-marketing-needs-different-approaches-to-measurement/)
+→ [https://martech.org/from-journeys-to-decisions-the-next-era-of-customer-engagement/](https://martech.org/from-journeys-to-decisions-the-next-era-of-customer-engagement/)
 
-### B2B CTV tactics that go beyond brand awareness
-_Mon, 09 Nov 2026 13:02:00 +0000_
+### IAB announces support for new CTV ad formats
+_Tue, 10 Nov 2026 14:05:00 +0000_
 
-Your next CTV campaign could start with a booth scan, a closed-lost deal, or a partner's customer list. Here's how to put that data to work. The post B2B CTV tactics that go beyond brand awareness appeared first on MarTech .
+Expanded measurement brings consistent impression measurement to pause, menu, screensaver, and overlay ads across connected TV. The post IAB announces support for new CTV ad formats appeared first on MarTech .
 
-→ [https://martech.org/b2b-ctv-tactics-that-go-beyond-brand-awareness/](https://martech.org/b2b-ctv-tactics-that-go-beyond-brand-awareness/)
+→ [https://martech.org/iab-announces-support-for-new-ctv-ad-formats/](https://martech.org/iab-announces-support-for-new-ctv-ad-formats/)
 
-### Beyond the opt-in: Engineering consent for better marketing
-_Fri, 06 Nov 2026 16:35:43 +0000_
+### How to stand out in a sea of personalization
+_Tue, 10 Nov 2026 13:38:00 +0000_
 
-Compliance pressure is real, but privacy controls can power better personalization. At the November MarTech Conference, we discussed turning opt-ins into your best first-party data asset. The post Beyond the opt-in: Engineering consent for better marketing appeared first on MarTech .
+The tidal wave of AI content variations is an opportunity to stand out by using creative thinking to build experiences people actually care about. The post How to stand out in a sea of personalization appeared first on MarTech .
 
-→ [https://martech.org/beyond-the-opt-in-engineering-consent-for-better-marketing/](https://martech.org/beyond-the-opt-in-engineering-consent-for-better-marketing/)
+→ [https://martech.org/how-to-stand-out-in-a-sea-of-personalization/](https://martech.org/how-to-stand-out-in-a-sea-of-personalization/)
 
 ---
