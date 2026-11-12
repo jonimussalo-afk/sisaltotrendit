@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-11-11 10:27 UTC_
+_Päivitetty: 2026-11-12 10:44 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -91,6 +91,27 @@ If you’re weighing Scrunch vs Ahrefs, you’re probably asking a bigger questi
 
 ## Digiday
 
+### LinkedIn brings its B2B ad targeting to U.K. connected TVs
+_Thu, 12 Nov 2026 09:01:00 +0000_
+
+Long gone are the days when LinkedIn was just a job-searching site.
+
+→ [https://digiday.com/marketing/linkedin-brings-its-b2b-ad-targeting-to-u-k-connected-tvs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/linkedin-brings-its-b2b-ad-targeting-to-u-k-connected-tvs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Why brands like Anthropologie are commissioning creator-created shows instead of posts
+_Thu, 12 Nov 2026 05:01:00 +0000_
+
+Brands go from booking creators to green-lighting shows.
+
+→ [https://digiday.com/marketing/why-brands-like-anthropologie-are-commissioning-creator-created-shows-instead-of-posts/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/why-brands-like-anthropologie-are-commissioning-creator-created-shows-instead-of-posts/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### TwitchCon is at a crossroads as creators question its value
+_Thu, 12 Nov 2026 05:01:00 +0000_
+
+Ahead of TwitchCon 2026, brands and creators weigh in on if the platform's big IRL event is worth the cost and potential safety issues.
+
+→ [https://digiday.com/media/twitchcon-is-at-a-crossroads-as-creators-question-its-value/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/twitchcon-is-at-a-crossroads-as-creators-question-its-value/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### How a sports betting creator drove 200 million short-form views of his podcast
 _Wed, 11 Nov 2026 05:01:00 +0000_
 
@@ -105,30 +126,37 @@ Mars readies for AI grocery agents by chasing LLM visibility and immersive store
 
 → [https://digiday.com/marketing/mars-wants-to-future-proof-impulse-buys-as-ai-poised-to-take-over-more-grocery-runs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/mars-wants-to-future-proof-impulse-buys-as-ai-poised-to-take-over-more-grocery-runs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### TikTok Shop launches a paid premium tier for 1M of its top U.S. shoppers
-_Wed, 11 Nov 2026 05:01:00 +0000_
-
-TikTok Shop is offering the shopping service to more than 1 million people it has identified as its most loyal U.S. customers.
-
-→ [https://digiday.com/marketing/tiktok-shop-launches-a-paid-premium-tier-for-1m-of-its-top-u-s-shoppers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/tiktok-shop-launches-a-paid-premium-tier-for-1m-of-its-top-u-s-shoppers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Future of TV Briefing: Inside creator Grace Wells’s 100-hour branded video production process
-_Wed, 11 Nov 2026 05:01:00 +0000_
-
-This week’s Future of TV Briefing looks at creator Grace Wells’s full production process, from initial brief to final delivery.
-
-→ [https://digiday.com/future-of-tv/future-of-tv-briefing-inside-creator-grace-wellss-100-hour-branded-video-production-process/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-inside-creator-grace-wellss-100-hour-branded-video-production-process/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### OpenAI’s new business agents give brands a free way into the conversation it’s also selling as an ad
-_Tue, 10 Nov 2026 18:00:00 +0000_
-
-OpenAI is giving brands a free route into ChatGPT conversations through business agents, but keeping control of the data and recommendations.
-
-→ [https://digiday.com/marketing/openais-new-business-agents-give-brands-a-free-way-into-the-conversation-its-also-selling-as-an-ad/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/openais-new-business-agents-give-brands-a-free-way-into-the-conversation-its-also-selling-as-an-ad/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
 ---
 
 ## MarTech
+
+### Built to adapt: Why composable martech is becoming the new standard
+_Wed, 11 Nov 2026 14:57:54 +0000_
+
+At the November MarTech Conference, we learned how composable martech helps marketers integrate AI, reduce vendor lock-in, and modernize their stacks without starting over. The post Built to adapt: Why composable martech is becoming the new standard appeared first on MarTech .
+
+→ [https://martech.org/built-to-adapt-why-composable-martech-is-becoming-the-new-standard/](https://martech.org/built-to-adapt-why-composable-martech-is-becoming-the-new-standard/)
+
+### Beyond search and social: How to scale with performance TV
+_Wed, 11 Nov 2026 14:28:57 +0000_
+
+Search and social consume the majority of digital marketing spend and rely on clicks to gauge effectiveness. Our guest this week calls that "kindergarten math." The post Beyond search and social: How to scale with performance TV appeared first on MarTech .
+
+→ [https://martech.org/beyond-search-and-social-how-to-scale-with-performance-tv/](https://martech.org/beyond-search-and-social-how-to-scale-with-performance-tv/)
+
+### Cheap CAC can be expensive growth
+_Wed, 11 Nov 2026 13:15:00 +0000_
+
+Some campaigns create demand. Others just take credit for it. Find out how to tell the difference and make better budget decisions with AI. The post Cheap CAC can be expensive growth appeared first on MarTech .
+
+→ [https://martech.org/cheap-cac-can-be-expensive-growth/](https://martech.org/cheap-cac-can-be-expensive-growth/)
+
+### Don’t pay a premium for data you can’t use
+_Wed, 11 Nov 2026 13:05:00 +0000_
+
+Commerce signals are worth the extra cost only when they improve a specific decision, audience, or business outcome during the campaign. The post Don’t pay a premium for data you can’t use appeared first on MarTech .
+
+→ [https://martech.org/dont-pay-a-premium-for-data-you-cant-use/](https://martech.org/dont-pay-a-premium-for-data-you-cant-use/)
 
 ### Claritas brings live optimization to acquisition email
 _Tue, 10 Nov 2026 15:54:44 +0000_
@@ -136,33 +164,5 @@ _Tue, 10 Nov 2026 15:54:44 +0000_
 New product adjusts audiences and subject lines while campaigns run, then uses holdouts and attribution to measure whether those changes produce lift. The post Claritas brings live optimization to acquisition email appeared first on MarTech .
 
 → [https://martech.org/claritas-brings-live-optimization-to-acquisition-email/](https://martech.org/claritas-brings-live-optimization-to-acquisition-email/)
-
-### Balancing human and AI roles in marcom
-_Tue, 10 Nov 2026 14:57:57 +0000_
-
-The closer your content is to the customer relationship, the more human it should be. See where AI adds value without compromising trust. The post Balancing human and AI roles in marcom appeared first on MarTech .
-
-→ [https://martech.org/balancing-human-and-ai-roles-in-marcom/](https://martech.org/balancing-human-and-ai-roles-in-marcom/)
-
-### From journeys to decisions: The next era of customer engagement
-_Tue, 10 Nov 2026 14:26:22 +0000_
-
-Static journeys can’t keep up with modern buyers. At the November MarTech Conference, we discussed how real-time AI decisioning helps build high-impact experiences. The post From journeys to decisions: The next era of customer engagement appeared first on MarTech .
-
-→ [https://martech.org/from-journeys-to-decisions-the-next-era-of-customer-engagement/](https://martech.org/from-journeys-to-decisions-the-next-era-of-customer-engagement/)
-
-### IAB announces support for new CTV ad formats
-_Tue, 10 Nov 2026 14:05:00 +0000_
-
-Expanded measurement brings consistent impression measurement to pause, menu, screensaver, and overlay ads across connected TV. The post IAB announces support for new CTV ad formats appeared first on MarTech .
-
-→ [https://martech.org/iab-announces-support-for-new-ctv-ad-formats/](https://martech.org/iab-announces-support-for-new-ctv-ad-formats/)
-
-### How to stand out in a sea of personalization
-_Tue, 10 Nov 2026 13:38:00 +0000_
-
-The tidal wave of AI content variations is an opportunity to stand out by using creative thinking to build experiences people actually care about. The post How to stand out in a sea of personalization appeared first on MarTech .
-
-→ [https://martech.org/how-to-stand-out-in-a-sea-of-personalization/](https://martech.org/how-to-stand-out-in-a-sea-of-personalization/)
 
 ---
