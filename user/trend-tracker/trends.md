@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-11-12 10:44 UTC_
+_Päivitetty: 2026-11-13 10:39 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -91,78 +91,78 @@ If you’re weighing Scrunch vs Ahrefs, you’re probably asking a bigger questi
 
 ## Digiday
 
-### LinkedIn brings its B2B ad targeting to U.K. connected TVs
-_Thu, 12 Nov 2026 09:01:00 +0000_
+### D+ Research: Marketers express revenue optimism for 2026 holiday season despite economic pressures
+_Fri, 13 Nov 2026 05:01:00 +0000_
 
-Long gone are the days when LinkedIn was just a job-searching site.
+Marketers expect their 2026 holiday revenue to increase 1% to 31% or more in comparison to their 2025 holiday revenue.
 
-→ [https://digiday.com/marketing/linkedin-brings-its-b2b-ad-targeting-to-u-k-connected-tvs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/linkedin-brings-its-b2b-ad-targeting-to-u-k-connected-tvs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/d-research-marketers-express-revenue-optimism-for-2026-holiday-season-despite-economic-pressures/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/d-research-marketers-express-revenue-optimism-for-2026-holiday-season-despite-economic-pressures/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Why brands like Anthropologie are commissioning creator-created shows instead of posts
-_Thu, 12 Nov 2026 05:01:00 +0000_
+### Playfly’s CEO explains why leagues are looking to consolidate local sports rights
+_Fri, 13 Nov 2026 05:01:00 +0000_
 
-Brands go from booking creators to green-lighting shows.
+Local sports rights have gotten more complex and confusing as the regional sports network business changed. The leagues are now looking to simplify that offering.
 
-→ [https://digiday.com/marketing/why-brands-like-anthropologie-are-commissioning-creator-created-shows-instead-of-posts/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/why-brands-like-anthropologie-are-commissioning-creator-created-shows-instead-of-posts/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/playflys-ceo-explains-why-leagues-are-looking-to-consolidate-local-sports-rights/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/playflys-ceo-explains-why-leagues-are-looking-to-consolidate-local-sports-rights/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### TwitchCon is at a crossroads as creators question its value
-_Thu, 12 Nov 2026 05:01:00 +0000_
+### Mattel brings Barbie, Hot Wheels to TikTok Shop
+_Fri, 13 Nov 2026 05:01:00 +0000_
 
-Ahead of TwitchCon 2026, brands and creators weigh in on if the platform's big IRL event is worth the cost and potential safety issues.
+Mattel’s TikTok Shop store debuts this week with roughly 20 products across Barbie, Hot Wheels, Fisher-Price and Monster High properties.
 
-→ [https://digiday.com/media/twitchcon-is-at-a-crossroads-as-creators-question-its-value/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/twitchcon-is-at-a-crossroads-as-creators-question-its-value/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/mattel-brings-barbie-hot-wheels-to-tiktok-shop/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/mattel-brings-barbie-hot-wheels-to-tiktok-shop/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### How a sports betting creator drove 200 million short-form views of his podcast
-_Wed, 11 Nov 2026 05:01:00 +0000_
+### AI is turning ad tech into a fight for the brain behind the buy
+_Fri, 13 Nov 2026 05:01:00 +0000_
 
-Zach “Mystic Zach” Hirsch has figured out how to maximize engagement around sports-betting content while staying brand safe.
+As AI automates advertising workflows, the contest is shifting to who can make the decisions that deliver results.
 
-→ [https://digiday.com/media/how-a-sports-betting-creator-drove-200-million-short-form-views-of-his-podcast/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-a-sports-betting-creator-drove-200-million-short-form-views-of-his-podcast/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/ai-is-turning-ad-tech-into-a-fight-for-the-brain-behind-the-buy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ai-is-turning-ad-tech-into-a-fight-for-the-brain-behind-the-buy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Mars wants to future proof impulse buys as AI is poised to take over more grocery runs
-_Wed, 11 Nov 2026 05:01:00 +0000_
+### Future of Marketing Briefing: Inside Guinness’ go-slow approach to creators
+_Fri, 13 Nov 2026 05:01:00 +0000_
 
-Mars readies for AI grocery agents by chasing LLM visibility and immersive stores as impulse buys shift. See what’s at stake.
+The case for doing less with creators, according to Guinness
 
-→ [https://digiday.com/marketing/mars-wants-to-future-proof-impulse-buys-as-ai-poised-to-take-over-more-grocery-runs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/mars-wants-to-future-proof-impulse-buys-as-ai-poised-to-take-over-more-grocery-runs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/future-of-marketing-briefing-inside-guinness-go-slow-approach-to-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-inside-guinness-go-slow-approach-to-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
 
-### Built to adapt: Why composable martech is becoming the new standard
-_Wed, 11 Nov 2026 14:57:54 +0000_
+### Marketing automation is dead. Long live marketing automation!
+_Thu, 12 Nov 2026 15:06:05 +0000_
 
-At the November MarTech Conference, we learned how composable martech helps marketers integrate AI, reduce vendor lock-in, and modernize their stacks without starting over. The post Built to adapt: Why composable martech is becoming the new standard appeared first on MarTech .
+Algorithm updates and endless manual workflows are draining. The November MarTech Conference discussed how AI transforms marketing automation into your strongest partner. The post Marketing automation is dead. Long live marketing automation! appeared first on MarTech .
 
-→ [https://martech.org/built-to-adapt-why-composable-martech-is-becoming-the-new-standard/](https://martech.org/built-to-adapt-why-composable-martech-is-becoming-the-new-standard/)
+→ [https://martech.org/marketing-automation-is-dead-long-live-marketing-automation/](https://martech.org/marketing-automation-is-dead-long-live-marketing-automation/)
 
-### Beyond search and social: How to scale with performance TV
-_Wed, 11 Nov 2026 14:28:57 +0000_
+### IAB unveils framework for measuring AI’s part in conversions
+_Thu, 12 Nov 2026 14:06:00 +0000_
 
-Search and social consume the majority of digital marketing spend and rely on clicks to gauge effectiveness. Our guest this week calls that "kindergarten math." The post Beyond search and social: How to scale with performance TV appeared first on MarTech .
+The goal is a common way to determine who can claim credit for a sale influenced or completed by AI. The post IAB unveils framework for measuring AI&#8217;s part in conversions appeared first on MarTech .
 
-→ [https://martech.org/beyond-search-and-social-how-to-scale-with-performance-tv/](https://martech.org/beyond-search-and-social-how-to-scale-with-performance-tv/)
+→ [https://martech.org/iab-unveils-framework-for-measuring-ais-part-in-conversions/](https://martech.org/iab-unveils-framework-for-measuring-ais-part-in-conversions/)
 
-### Cheap CAC can be expensive growth
-_Wed, 11 Nov 2026 13:15:00 +0000_
+### Should you invest in a loyalty program?
+_Thu, 12 Nov 2026 13:31:00 +0000_
 
-Some campaigns create demand. Others just take credit for it. Find out how to tell the difference and make better budget decisions with AI. The post Cheap CAC can be expensive growth appeared first on MarTech .
+Loyalty programs can look successful without generating additional purchases. The key is knowing which customers need an incentive to return. The post Should you invest in a loyalty program? appeared first on MarTech .
 
-→ [https://martech.org/cheap-cac-can-be-expensive-growth/](https://martech.org/cheap-cac-can-be-expensive-growth/)
+→ [https://martech.org/should-you-invest-in-a-loyalty-program/](https://martech.org/should-you-invest-in-a-loyalty-program/)
 
-### Don’t pay a premium for data you can’t use
-_Wed, 11 Nov 2026 13:05:00 +0000_
+### Retailer data can sharpen social. It can also inflate the bill.
+_Thu, 12 Nov 2026 13:23:00 +0000_
 
-Commerce signals are worth the extra cost only when they improve a specific decision, audience, or business outcome during the campaign. The post Don’t pay a premium for data you can’t use appeared first on MarTech .
+Retailer audiences can improve social targeting and sales measurement, but brands need to know if the added data actually adds anything. The post Retailer data can sharpen social. It can also inflate the bill. appeared first on MarTech .
 
-→ [https://martech.org/dont-pay-a-premium-for-data-you-cant-use/](https://martech.org/dont-pay-a-premium-for-data-you-cant-use/)
+→ [https://martech.org/retailer-data-can-sharpen-social-it-can-also-inflate-the-bill/](https://martech.org/retailer-data-can-sharpen-social-it-can-also-inflate-the-bill/)
 
-### Claritas brings live optimization to acquisition email
-_Tue, 10 Nov 2026 15:54:44 +0000_
+### The latest AI-powered martech news and releases
+_Thu, 12 Nov 2026 13:02:00 +0000_
 
-New product adjusts audiences and subject lines while campaigns run, then uses holdouts and attribution to measure whether those changes produce lift. The post Claritas brings live optimization to acquisition email appeared first on MarTech .
+Adobe is expanding its AI stack with Google models, custom Disney models, and agentic tools to coordinate content and marketing workflows. The post The latest AI-powered martech news and releases appeared first on MarTech .
 
-→ [https://martech.org/claritas-brings-live-optimization-to-acquisition-email/](https://martech.org/claritas-brings-live-optimization-to-acquisition-email/)
+→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
 
 ---
