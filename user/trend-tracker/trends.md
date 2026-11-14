@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-11-13 10:39 UTC_
+_Päivitetty: 2026-11-14 09:53 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Tekoäly vertailee yrityksiä julkaistun tiedon varassa. Jos valintaperusteitasi
 
 ## HubSpot Marketing Blog
 
+### AI influencers: What consumer sentiment data tells brands
+_Fri, 13 Nov 2026 13:45:04 GMT_
+
+As you scroll through your TikTok or Instagram feed, you’ll no doubt come across at least a handful of influencers trying to sell you something by wearing the latest viral lip gloss, hopping into luxury cars, and taste-testing popular treats. But what if I told you that while these content creators may look like real people, they’re actually AI…
+
+→ [https://blog.hubspot.com/marketing/ai-influencers](https://blog.hubspot.com/marketing/ai-influencers)
+
 ### AEO benchmarking: What market data reveals about AI search
 _Tue, 10 Nov 2026 14:30:05 GMT_
 
@@ -80,16 +87,23 @@ Most obstacles in marketing automation aren’t actually automation problems. 86
 
 → [https://blog.hubspot.com/marketing/marketing-automation-challenges](https://blog.hubspot.com/marketing/marketing-automation-challenges)
 
-### Scrunch vs. Ahrefs: AI visibility tracking comparison
-_Fri, 06 Nov 2026 15:35:04 GMT_
-
-If you’re weighing Scrunch vs Ahrefs, you’re probably asking a bigger question underneath it: do I buy a specialist tool for AI search, or let the SEO platform I already use handle it?
-
-→ [https://blog.hubspot.com/marketing/scrunch-vs-ahrefs](https://blog.hubspot.com/marketing/scrunch-vs-ahrefs)
-
 ---
 
 ## Digiday
+
+### ‘We’re not trying to be TwitchTok’: Twitch adds new short-form video feature
+_Fri, 13 Nov 2026 19:15:00 +0000_
+
+Twitch is swinging big with a new short-form content push that should help more creators get discovered on-platform.
+
+→ [https://digiday.com/media/were-not-trying-to-be-twitchtok-twitch-adds-new-short-form-video-feature/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/were-not-trying-to-be-twitchtok-twitch-adds-new-short-form-video-feature/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### The future of CTV lies in standardization
+_Fri, 13 Nov 2026 16:34:11 +0000_
+
+Jessica Cobbe, svp, product – supply platform, Nexxen For years, advertisers have focused primarily on in-stream video in CTV, treating the smart TV home screen as secondary real estate. But that dynamic is quickly changing, as this year’s NewFronts made clear. As viewers spend more time navigating content recommendations and streaming apps before…
+
+→ [https://digiday.com/sponsored/the-future-of-ctv-lies-in-standardization/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/the-future-of-ctv-lies-in-standardization/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ### D+ Research: Marketers express revenue optimism for 2026 holiday season despite economic pressures
 _Fri, 13 Nov 2026 05:01:00 +0000_
@@ -112,23 +126,37 @@ Mattel’s TikTok Shop store debuts this week with roughly 20 products across Ba
 
 → [https://digiday.com/marketing/mattel-brings-barbie-hot-wheels-to-tiktok-shop/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/mattel-brings-barbie-hot-wheels-to-tiktok-shop/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### AI is turning ad tech into a fight for the brain behind the buy
-_Fri, 13 Nov 2026 05:01:00 +0000_
-
-As AI automates advertising workflows, the contest is shifting to who can make the decisions that deliver results.
-
-→ [https://digiday.com/media-buying/ai-is-turning-ad-tech-into-a-fight-for-the-brain-behind-the-buy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ai-is-turning-ad-tech-into-a-fight-for-the-brain-behind-the-buy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### Future of Marketing Briefing: Inside Guinness’ go-slow approach to creators
-_Fri, 13 Nov 2026 05:01:00 +0000_
-
-The case for doing less with creators, according to Guinness
-
-→ [https://digiday.com/marketing/future-of-marketing-briefing-inside-guinness-go-slow-approach-to-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-inside-guinness-go-slow-approach-to-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
 ---
 
 ## MarTech
+
+### Meet your new teammate: Building marketing workflows around AI agents
+_Fri, 13 Nov 2026 14:24:28 +0000_
+
+AI agents are changing how marketing works. At the November MarTech Conference, we discussed how to build workflows that combine AI efficiency with human judgment, quality control, and governance. The post Meet your new teammate: Building marketing workflows around AI agents appeared first on MarTech .
+
+→ [https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/](https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/)
+
+### Before you ask for better leads, define ‘better’
+_Fri, 13 Nov 2026 13:58:00 +0000_
+
+A strong ICP helps marketing and sales identify high-fit accounts, interpret buying signals, and focus their efforts where they matter most. The post Before you ask for better leads, define ‘better’ appeared first on MarTech .
+
+→ [https://martech.org/before-you-ask-for-better-leads-define-better/](https://martech.org/before-you-ask-for-better-leads-define-better/)
+
+### Marketers deploying AI agents faster than they can measure them
+_Fri, 13 Nov 2026 13:34:00 +0000_
+
+AI agents are spreading quickly, but most marketers still can’t connect those conversations to campaigns, conversions, and revenue. The post Marketers deploying AI agents faster than they can measure them appeared first on MarTech .
+
+→ [https://martech.org/marketers-deploying-ai-agents-faster-than-they-can-measure-them/](https://martech.org/marketers-deploying-ai-agents-faster-than-they-can-measure-them/)
+
+### Relevance has an expiration date
+_Fri, 13 Nov 2026 13:00:00 +0000_
+
+Old signals can keep campaigns moving long after the customer has moved on. Better personalization starts with asking what matters now. The post Relevance has an expiration date appeared first on MarTech .
+
+→ [https://martech.org/relevance-has-an-expiration-date/](https://martech.org/relevance-has-an-expiration-date/)
 
 ### Marketing automation is dead. Long live marketing automation!
 _Thu, 12 Nov 2026 15:06:05 +0000_
@@ -136,33 +164,5 @@ _Thu, 12 Nov 2026 15:06:05 +0000_
 Algorithm updates and endless manual workflows are draining. The November MarTech Conference discussed how AI transforms marketing automation into your strongest partner. The post Marketing automation is dead. Long live marketing automation! appeared first on MarTech .
 
 → [https://martech.org/marketing-automation-is-dead-long-live-marketing-automation/](https://martech.org/marketing-automation-is-dead-long-live-marketing-automation/)
-
-### IAB unveils framework for measuring AI’s part in conversions
-_Thu, 12 Nov 2026 14:06:00 +0000_
-
-The goal is a common way to determine who can claim credit for a sale influenced or completed by AI. The post IAB unveils framework for measuring AI&#8217;s part in conversions appeared first on MarTech .
-
-→ [https://martech.org/iab-unveils-framework-for-measuring-ais-part-in-conversions/](https://martech.org/iab-unveils-framework-for-measuring-ais-part-in-conversions/)
-
-### Should you invest in a loyalty program?
-_Thu, 12 Nov 2026 13:31:00 +0000_
-
-Loyalty programs can look successful without generating additional purchases. The key is knowing which customers need an incentive to return. The post Should you invest in a loyalty program? appeared first on MarTech .
-
-→ [https://martech.org/should-you-invest-in-a-loyalty-program/](https://martech.org/should-you-invest-in-a-loyalty-program/)
-
-### Retailer data can sharpen social. It can also inflate the bill.
-_Thu, 12 Nov 2026 13:23:00 +0000_
-
-Retailer audiences can improve social targeting and sales measurement, but brands need to know if the added data actually adds anything. The post Retailer data can sharpen social. It can also inflate the bill. appeared first on MarTech .
-
-→ [https://martech.org/retailer-data-can-sharpen-social-it-can-also-inflate-the-bill/](https://martech.org/retailer-data-can-sharpen-social-it-can-also-inflate-the-bill/)
-
-### The latest AI-powered martech news and releases
-_Thu, 12 Nov 2026 13:02:00 +0000_
-
-Adobe is expanding its AI stack with Google models, custom Disney models, and agentic tools to coordinate content and marketing workflows. The post The latest AI-powered martech news and releases appeared first on MarTech .
-
-→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
 
 ---
