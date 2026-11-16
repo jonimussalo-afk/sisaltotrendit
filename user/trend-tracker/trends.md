@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-11-15 10:29 UTC_
+_Päivitetty: 2026-11-16 10:45 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -91,78 +91,39 @@ Most obstacles in marketing automation aren’t actually automation problems. 86
 
 ## Digiday
 
-### ‘We’re not trying to be TwitchTok’: Twitch adds new short-form video feature
-_Fri, 13 Nov 2026 19:15:00 +0000_
+### Media Buying Briefing: Buyers grapple with incoming Amazon reporting changes
+_Mon, 16 Nov 2026 05:01:00 +0000_
 
-Twitch is swinging big with a new short-form content push that should help more creators get discovered on-platform.
+The e-commerce giant is central for many consumer brand advertisers, but measurement changes could throw a wrench into their plans for next year.
 
-→ [https://digiday.com/media/were-not-trying-to-be-twitchtok-twitch-adds-new-short-form-video-feature/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/were-not-trying-to-be-twitchtok-twitch-adds-new-short-form-video-feature/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/media-buying-briefing-buyers-grapple-with-incoming-amazon-reporting-changes/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-buyers-grapple-with-incoming-amazon-reporting-changes/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### The future of CTV lies in standardization
-_Fri, 13 Nov 2026 16:34:11 +0000_
+### How brands are banking on live shopping this holiday season
+_Mon, 16 Nov 2026 05:01:00 +0000_
 
-Jessica Cobbe, svp, product – supply platform, Nexxen For years, advertisers have focused primarily on in-stream video in CTV, treating the smart TV home screen as secondary real estate. But that dynamic is quickly changing, as this year’s NewFronts made clear. As viewers spend more time navigating content recommendations and streaming apps before…
+More brands are gravitating toward live shopping, a growing channel that is set to play an outsized influence on shopping trends.
 
-→ [https://digiday.com/sponsored/the-future-of-ctv-lies-in-standardization/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/the-future-of-ctv-lies-in-standardization/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/how-brands-are-banking-on-live-shopping-this-holiday-season/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-brands-are-banking-on-live-shopping-this-holiday-season/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### D+ Research: Marketers express revenue optimism for 2026 holiday season despite economic pressures
-_Fri, 13 Nov 2026 05:01:00 +0000_
+### Substack job listing hints at a bigger advertising push in 2027
+_Mon, 16 Nov 2026 05:01:00 +0000_
 
-Marketers expect their 2026 holiday revenue to increase 1% to 31% or more in comparison to their 2025 holiday revenue.
+A new product manager role will explore ad-related monetization, suggesting the platform could make ads a bigger part of its business.
 
-→ [https://digiday.com/marketing/d-research-marketers-express-revenue-optimism-for-2026-holiday-season-despite-economic-pressures/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/d-research-marketers-express-revenue-optimism-for-2026-holiday-season-despite-economic-pressures/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/substack-job-listing-hints-at-a-bigger-advertising-push-in-2027/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/substack-job-listing-hints-at-a-bigger-advertising-push-in-2027/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Playfly’s CEO explains why leagues are looking to consolidate local sports rights
-_Fri, 13 Nov 2026 05:01:00 +0000_
+### How Bustle Digital Group is helping Pampers and Innisfree show up in AI recommendations
+_Mon, 16 Nov 2026 05:01:00 +0000_
 
-Local sports rights have gotten more complex and confusing as the regional sports network business changed. The leagues are now looking to simplify that offering.
+Bustle Digital Group has teamed up with Profound to help brands like Pampers and Innisfree boost their visibility in AI recommendations in a new GEO-offering.
 
-→ [https://digiday.com/media-buying/playflys-ceo-explains-why-leagues-are-looking-to-consolidate-local-sports-rights/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/playflys-ceo-explains-why-leagues-are-looking-to-consolidate-local-sports-rights/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/how-bustle-digital-group-is-helping-pampers-and-innisfree-show-up-in-ai-recommendations/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-bustle-digital-group-is-helping-pampers-and-innisfree-show-up-in-ai-recommendations/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Mattel brings Barbie, Hot Wheels to TikTok Shop
-_Fri, 13 Nov 2026 05:01:00 +0000_
+### Deloitte Digital takes the holdco operating system pitch straight to the CEO
+_Mon, 16 Nov 2026 05:01:00 +0000_
 
-Mattel’s TikTok Shop store debuts this week with roughly 20 products across Barbie, Hot Wheels, Fisher-Price and Monster High properties.
+CEOs have never cared much for holdcos. Enterprise solutions, on the other hand, get a meeting.
 
-→ [https://digiday.com/marketing/mattel-brings-barbie-hot-wheels-to-tiktok-shop/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/mattel-brings-barbie-hot-wheels-to-tiktok-shop/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
----
-
-## MarTech
-
-### Meet your new teammate: Building marketing workflows around AI agents
-_Fri, 13 Nov 2026 14:24:28 +0000_
-
-AI agents are changing how marketing works. At the November MarTech Conference, we discussed how to build workflows that combine AI efficiency with human judgment, quality control, and governance. The post Meet your new teammate: Building marketing workflows around AI agents appeared first on MarTech .
-
-→ [https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/](https://martech.org/meet-your-new-teammate-building-marketing-workflows-around-ai-agents/)
-
-### Before you ask for better leads, define ‘better’
-_Fri, 13 Nov 2026 13:58:00 +0000_
-
-A strong ICP helps marketing and sales identify high-fit accounts, interpret buying signals, and focus their efforts where they matter most. The post Before you ask for better leads, define ‘better’ appeared first on MarTech .
-
-→ [https://martech.org/before-you-ask-for-better-leads-define-better/](https://martech.org/before-you-ask-for-better-leads-define-better/)
-
-### Marketers deploying AI agents faster than they can measure them
-_Fri, 13 Nov 2026 13:34:00 +0000_
-
-AI agents are spreading quickly, but most marketers still can’t connect those conversations to campaigns, conversions, and revenue. The post Marketers deploying AI agents faster than they can measure them appeared first on MarTech .
-
-→ [https://martech.org/marketers-deploying-ai-agents-faster-than-they-can-measure-them/](https://martech.org/marketers-deploying-ai-agents-faster-than-they-can-measure-them/)
-
-### Relevance has an expiration date
-_Fri, 13 Nov 2026 13:00:00 +0000_
-
-Old signals can keep campaigns moving long after the customer has moved on. Better personalization starts with asking what matters now. The post Relevance has an expiration date appeared first on MarTech .
-
-→ [https://martech.org/relevance-has-an-expiration-date/](https://martech.org/relevance-has-an-expiration-date/)
-
-### Marketing automation is dead. Long live marketing automation!
-_Thu, 12 Nov 2026 15:06:05 +0000_
-
-Algorithm updates and endless manual workflows are draining. The November MarTech Conference discussed how AI transforms marketing automation into your strongest partner. The post Marketing automation is dead. Long live marketing automation! appeared first on MarTech .
-
-→ [https://martech.org/marketing-automation-is-dead-long-live-marketing-automation/](https://martech.org/marketing-automation-is-dead-long-live-marketing-automation/)
+→ [https://digiday.com/marketing/deloitte-digital-takes-the-holdco-operating-system-pitch-straight-to-the-ceo/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/deloitte-digital-takes-the-holdco-operating-system-pitch-straight-to-the-ceo/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
