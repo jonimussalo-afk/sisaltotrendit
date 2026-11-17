@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-11-16 10:45 UTC_
+_Päivitetty: 2026-11-17 11:33 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Tekoäly vertailee yrityksiä julkaistun tiedon varassa. Jos valintaperusteitasi
 
 ## HubSpot Marketing Blog
 
+### Claude AI for marketing: How teams use it with HubSpot
+_Mon, 16 Nov 2026 13:55:04 GMT_
+
+I’ve been experimenting with Claude AI for marketing workflows over the past year, and it’s now my go-to assistant. In this field, AI use is close to universal: 98% of marketing teams use it in some way, according to HubSpot’s State of AI in Marketing report . For campaign marketers, that might look like turning a product announcement into a week…
+
+→ [https://blog.hubspot.com/marketing/claude-for-marketing](https://blog.hubspot.com/marketing/claude-for-marketing)
+
 ### AI influencers: What consumer sentiment data tells brands
 _Fri, 13 Nov 2026 13:45:04 GMT_
 
@@ -80,50 +87,82 @@ Picture two shoppers. One asks ChatGPT, “Are Nikes good shoes for marathon run
 
 → [https://blog.hubspot.com/marketing/branded-vs-unbranded-prompt-tracking](https://blog.hubspot.com/marketing/branded-vs-unbranded-prompt-tracking)
 
-### Obstacles in marketing automation and how to fix them [2026]
-_Fri, 06 Nov 2026 15:45:05 GMT_
-
-Most obstacles in marketing automation aren’t actually automation problems. 86.4% of marketing teams now use AI somewhere in their workflows. Yet, measuring ROI still tops the challenge list at 33%, according to HubSpot’s 2026 State of Marketing Report .
-
-→ [https://blog.hubspot.com/marketing/marketing-automation-challenges](https://blog.hubspot.com/marketing/marketing-automation-challenges)
-
 ---
 
 ## Digiday
 
-### Media Buying Briefing: Buyers grapple with incoming Amazon reporting changes
-_Mon, 16 Nov 2026 05:01:00 +0000_
+### What exactly counts as a creator? The industry still can’t agree
+_Tue, 17 Nov 2026 05:01:00 +0000_
 
-The e-commerce giant is central for many consumer brand advertisers, but measurement changes could throw a wrench into their plans for next year.
+Marketers use creator, influencer and tastemaker interchangeably, but the industry still hasn't settled on what the labels mean.
 
-→ [https://digiday.com/media-buying/media-buying-briefing-buyers-grapple-with-incoming-amazon-reporting-changes/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/media-buying-briefing-buyers-grapple-with-incoming-amazon-reporting-changes/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/what-exactly-counts-as-a-creator-the-industry-still-cant-agree/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/what-exactly-counts-as-a-creator-the-industry-still-cant-agree/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### How brands are banking on live shopping this holiday season
-_Mon, 16 Nov 2026 05:01:00 +0000_
+### Ad Tech Briefing: Google’s antitrust troubles aren’t over
+_Tue, 17 Nov 2026 05:01:00 +0000_
 
-More brands are gravitating toward live shopping, a growing channel that is set to play an outsized influence on shopping trends.
+In Q3 earnings, The Trade Desk's leadership reveals it is searching for answers.
 
-→ [https://digiday.com/media/how-brands-are-banking-on-live-shopping-this-holiday-season/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-brands-are-banking-on-live-shopping-this-holiday-season/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/ad-tech-briefing-googles-antitrust-troubles-arent-over/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-googles-antitrust-troubles-arent-over/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Substack job listing hints at a bigger advertising push in 2027
-_Mon, 16 Nov 2026 05:01:00 +0000_
+### Dentsu makes entertainment and sport a C-suite priority amid earnings stumble
+_Tue, 17 Nov 2026 05:01:00 +0000_
 
-A new product manager role will explore ad-related monetization, suggesting the platform could make ads a bigger part of its business.
+Japanese holdco appointed Mike Nakamura as entertainment and sport chief, as media revenues slip in most markets.
 
-→ [https://digiday.com/marketing/substack-job-listing-hints-at-a-bigger-advertising-push-in-2027/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/substack-job-listing-hints-at-a-bigger-advertising-push-in-2027/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/dentsu-makes-entertainment-and-sport-a-c-suite-priority-amid-earnings-stumble/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/dentsu-makes-entertainment-and-sport-a-c-suite-priority-amid-earnings-stumble/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### How Bustle Digital Group is helping Pampers and Innisfree show up in AI recommendations
-_Mon, 16 Nov 2026 05:01:00 +0000_
+### Anatomy of an influencer marketing deal
+_Tue, 17 Nov 2026 05:01:00 +0000_
 
-Bustle Digital Group has teamed up with Profound to help brands like Pampers and Innisfree boost their visibility in AI recommendations in a new GEO-offering.
+In a live Digiday Podcast recording, YSL Beauty’s Hadley Musinsky and Night’s Sophie Bressler broke down how deals between brands and influencers come together.
 
-→ [https://digiday.com/media/how-bustle-digital-group-is-helping-pampers-and-innisfree-show-up-in-ai-recommendations/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/how-bustle-digital-group-is-helping-pampers-and-innisfree-show-up-in-ai-recommendations/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/future-of-tv/anatomy-of-an-influencer-marketing-deal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/anatomy-of-an-influencer-marketing-deal/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Deloitte Digital takes the holdco operating system pitch straight to the CEO
-_Mon, 16 Nov 2026 05:01:00 +0000_
+### What it will take for CMOs to reach the next frontier of AI-driven growth
+_Mon, 16 Nov 2026 17:00:00 +0000_
 
-CEOs have never cared much for holdcos. Enterprise solutions, on the other hand, get a meeting.
+Diego Lomanto, CMO, Writer&#160; CMOs at the largest enterprise brands across consumer goods, financial services, B2B and more are all struggling with the same thing: more AI technology has not translated into more business growth. They’re stuck chasing efficiency gains, funding tools that optimize tasks inside functional silos, running pilots…
 
-→ [https://digiday.com/marketing/deloitte-digital-takes-the-holdco-operating-system-pitch-straight-to-the-ceo/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/deloitte-digital-takes-the-holdco-operating-system-pitch-straight-to-the-ceo/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/sponsored/what-it-will-take-for-cmos-to-reach-the-next-frontier-of-ai-driven-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/what-it-will-take-for-cmos-to-reach-the-next-frontier-of-ai-driven-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+---
+
+## MarTech
+
+### Bloomreach goes back to its roots with AthenaHQ acquisition
+_Mon, 16 Nov 2026 22:49:50 +0000_
+
+Can anyone prove ROI in AI search? Bloomreach’s AthenaHQ acquisition hopes to connect conversational discovery directly to customer revenue. The post Bloomreach goes back to its roots with AthenaHQ acquisition appeared first on MarTech .
+
+→ [https://martech.org/bloomreach-goes-back-to-its-roots-with-athenahq-acquisition/](https://martech.org/bloomreach-goes-back-to-its-roots-with-athenahq-acquisition/)
+
+### Beyond deployment: How to lead the change and make AI adoption stick
+_Mon, 16 Nov 2026 14:51:52 +0000_
+
+Tool adoption stalls when teams feel unsafe. At the November MarTech Conference, we discussed how to turn AI apprehension into confident, high-value execution. The post Beyond deployment: How to lead the change and make AI adoption stick appeared first on MarTech .
+
+→ [https://martech.org/beyond-deployment-how-to-lead-the-change-and-make-ai-adoption-stick/](https://martech.org/beyond-deployment-how-to-lead-the-change-and-make-ai-adoption-stick/)
+
+### How to protect brand reputation in the AI era
+_Mon, 16 Nov 2026 13:21:00 +0000_
+
+Your brand's story is increasingly told by others. Here's how to build a stronger reputation across search, AI, and third-party sources. The post How to protect brand reputation in the AI era appeared first on MarTech .
+
+→ [https://martech.org/how-to-protect-brand-reputation-in-the-ai-era/](https://martech.org/how-to-protect-brand-reputation-in-the-ai-era/)
+
+### Marketing ops can turn AI agent readiness from a blind spot to a strength
+_Mon, 16 Nov 2026 13:18:00 +0000_
+
+Disconnected data leaves AI agents making promises your brand can’t keep. Here is an opportunity for marketing ops to connect the customer journey and drive real growth. The post Marketing ops can turn AI agent readiness from a blind spot to a strength appeared first on MarTech .
+
+→ [https://martech.org/marketing-ops-can-turn-ai-agent-readiness-from-a-blind-spot-to-a-strength/](https://martech.org/marketing-ops-can-turn-ai-agent-readiness-from-a-blind-spot-to-a-strength/)
+
+### AI agents make CX marketing’s problem
+_Mon, 16 Nov 2026 13:14:00 +0000_
+
+Brand messaging has limits when AI agents weigh real-world performance. Marketers must push for operational improvements that drive growth. The post AI agents make CX marketing&#8217;s problem appeared first on MarTech .
+
+→ [https://martech.org/ai-agents-make-cx-marketings-problem/](https://martech.org/ai-agents-make-cx-marketings-problem/)
 
 ---
