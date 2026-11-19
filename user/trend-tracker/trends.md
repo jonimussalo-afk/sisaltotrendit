@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-11-18 11:16 UTC_
+_Päivitetty: 2026-11-19 11:15 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -91,39 +91,78 @@ As a seasoned marketer and lifelong writer, even I will admit AI can be a helpfu
 
 ## Digiday
 
-### Brands booking creators to make their ads are pushing up $116B global influencer market
-_Wed, 18 Nov 2026 11:01:00 +0000_
+### Mail Metro Media’s next creator play is representing them
+_Thu, 19 Nov 2026 05:01:00 +0000_
 
-Madison and Wall estimates creator marketing growing at double the pace of the rest of advertising, driven on by creator-led production investments.
+Why the Daily Mail’s ad sales team is turning talent agent.
 
-→ [https://digiday.com/media-buying/brands-booking-creators-to-make-their-ads-are-pushing-up-116b-global-influencer-market/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/brands-booking-creators-to-make-their-ads-are-pushing-up-116b-global-influencer-market/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/mail-metro-medias-next-creator-play-is-representing-them/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/mail-metro-medias-next-creator-play-is-representing-them/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### WTF is a unified media platform?
-_Wed, 18 Nov 2026 05:01:00 +0000_
+### How Celsius doubled down on sports marketing campaigns in 2026
+_Thu, 19 Nov 2026 05:01:00 +0000_
 
-A new crop of companies promise to coordinate advertising budgets across platforms, but can they control buying decisions, or merely add another interface to the existing system?
+The company is increasingly leveraging partnerships with major sports leagues, college athletics and high-profile athletic events.
 
-→ [https://digiday.com/media-buying/wtf-is-a-unified-media-platform/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/wtf-is-a-unified-media-platform/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/how-celsius-doubled-down-on-sports-marketing-campaigns-in-2026/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/how-celsius-doubled-down-on-sports-marketing-campaigns-in-2026/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Future of TV Briefing: Everyone wants a clearer CTV bidstream, but who’s required to provide it?
-_Wed, 18 Nov 2026 05:01:00 +0000_
+### In Graphic Detail: Welcome to the agentic commerce quarter
+_Thu, 19 Nov 2026 05:01:00 +0000_
 
-This week’s Future of TV Briefing looks at the latest call-to-action for the CTV advertising industry to tackle its transparency problem.
+OpenAI, Google, Amazon and Walmart are betting on agent-led holiday shopping. Digiday charts how far it still has to go.
 
-→ [https://digiday.com/future-of-tv/future-of-tv-briefing-everyone-wants-a-clearer-ctv-bidstream-but-whos-required-to-provide-it/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/future-of-tv-briefing-everyone-wants-a-clearer-ctv-bidstream-but-whos-required-to-provide-it/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/in-graphic-detail-welcome-to-the-agentic-commerce-quarter/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/in-graphic-detail-welcome-to-the-agentic-commerce-quarter/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Some creators are turning YouTube back catalogs into sizable paychecks
-_Wed, 18 Nov 2026 05:01:00 +0000_
+### Inside Nike’s plan to turn creators into brand builders
+_Thu, 19 Nov 2026 05:01:00 +0000_
 
-Creators are tapping into their massive content libraries for syndication opportunities that pay dividends.
+Nike wants athletes and creators to do more than sell its products. It wants them to help build its culture.
 
-→ [https://digiday.com/media/some-creators-are-turning-youtube-back-catalogs-into-sizable-paychecks/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/some-creators-are-turning-youtube-back-catalogs-into-sizable-paychecks/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/inside-nikes-plan-to-turn-creators-into-brand-builders/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/inside-nikes-plan-to-turn-creators-into-brand-builders/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### KERV.ai, Macmillan Publishers and Chomps are among this year’s Work/Life Awards finalists
-_Tue, 17 Nov 2026 18:31:54 +0000_
+### GTA 6 could be a windfall for creators, but standing out will be tough
+_Thu, 19 Nov 2026 05:01:00 +0000_
 
-This year’s Work/Life Awards finalists reflect a landscape where companies are rethinking workplace culture as a driver of business performance, employee engagement and innovation. Across industries, organizations are giving employees a more active role in shaping workplace policies and priorities, building recognition and connection into the…
+Grand Theft Auto 6 has its own content creator cottage industry, with millions of views and a crowded, competitive marketplace.
 
-→ [https://digiday.com/announcement/awards/kerv-ai-macmillan-publishers-and-chomps-are-among-this-years-work-life-awards-finalists/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/announcement/awards/kerv-ai-macmillan-publishers-and-chomps-are-among-this-years-work-life-awards-finalists/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/gta-6-could-be-a-windfall-for-creators-but-standing-out-will-be-tough/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/gta-6-could-be-a-windfall-for-creators-but-standing-out-will-be-tough/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+---
+
+## MarTech
+
+### Enterprise AI governance alone can’t protect your brand
+_Wed, 18 Nov 2026 12:52:00 +0000_
+
+Your next brand crisis could start with AI-generated content. Marketing-specific guardrails can keep off-brand content from going public. The post Enterprise AI governance alone can&#8217;t protect your brand appeared first on MarTech .
+
+→ [https://martech.org/enterprise-ai-governance-alone-cant-protect-your-brand/](https://martech.org/enterprise-ai-governance-alone-cant-protect-your-brand/)
+
+### Even the smartest AI needs your business knowledge
+_Wed, 18 Nov 2026 12:38:00 +0000_
+
+Valuable customer insights are often buried in company files. Here's how AI can help you put that knowledge to work and make better decisions. The post Even the smartest AI needs your business knowledge appeared first on MarTech .
+
+→ [https://martech.org/even-the-smartest-ai-needs-your-business-knowledge/](https://martech.org/even-the-smartest-ai-needs-your-business-knowledge/)
+
+### Doing more work won’t make you a more valuable marketer
+_Wed, 18 Nov 2026 12:36:00 +0000_
+
+AI is making execution cheap. Knowing which problems to solve, making good decisions, and owning the results set you apart. The post Doing more work won&#8217;t make you a more valuable marketer appeared first on MarTech .
+
+→ [https://martech.org/doing-more-work-wont-make-you-a-more-valuable-marketer/](https://martech.org/doing-more-work-wont-make-you-a-more-valuable-marketer/)
+
+### Marketing on Reddit: What you need to know
+_Tue, 17 Nov 2026 13:18:00 +0000_
+
+What you need to know about marketing on Reddit. Updated with details on the new Reddit Reviews feature. The post Marketing on Reddit: What you need to know appeared first on MarTech .
+
+→ [https://martech.org/a-marketers-guide-to-reddit/](https://martech.org/a-marketers-guide-to-reddit/)
+
+### When AI agents evaluate B2B vendors, what earns consideration?
+_Tue, 17 Nov 2026 12:46:00 +0000_
+
+Similar B2B solutions need more than competitive features. Clear product information and credible evidence can turn AI discovery into buyer consideration. The post When AI agents evaluate B2B vendors, what earns consideration? appeared first on MarTech .
+
+→ [https://martech.org/when-ai-agents-evaluate-b2b-vendors-what-earns-consideration/](https://martech.org/when-ai-agents-evaluate-b2b-vendors-what-earns-consideration/)
 
 ---
