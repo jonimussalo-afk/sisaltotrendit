@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-11-19 11:15 UTC_
+_Päivitetty: 2026-11-20 11:00 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -52,6 +52,13 @@ Tekoäly vertailee yrityksiä julkaistun tiedon varassa. Jos valintaperusteitasi
 
 ## HubSpot Marketing Blog
 
+### Claude Cowork skills: How they work and what to build
+_Thu, 19 Nov 2026 13:30:03 GMT_
+
+If you’ve yet to understand Claude Cowork skills, let me help you out: Claude Cowork is a mode that can access your desktop files and complete tasks for you. A skill is a set of instructions that tell Claude exactly how to perform a specific workflow. When combined, the two can boost your productivity in a way that Claude Chat alone cannot.
+
+→ [https://blog.hubspot.com/marketing/claude-cowork-skills](https://blog.hubspot.com/marketing/claude-cowork-skills)
+
 ### How to track your brand's visibility in AI search [2026]
 _Tue, 17 Nov 2026 13:50:04 GMT_
 
@@ -80,55 +87,62 @@ AEO benchmarking measures your brand’s AI search visibility against competitor
 
 → [https://blog.hubspot.com/marketing/aeo-benchmarking](https://blog.hubspot.com/marketing/aeo-benchmarking)
 
-### How to use AI to write a blog post (that isn’t slop)
-_Tue, 10 Nov 2026 14:20:05 GMT_
-
-As a seasoned marketer and lifelong writer, even I will admit AI can be a helpful tool in creating content. HubSpot’s 2026 State of Marketing backs me up, finding that 42.5% of marketing teams use AI extensively as a content creation tool, and another 38% use it occasionally — but the keyword here is “ tool .”
-
-→ [https://blog.hubspot.com/marketing/how-to-use-ai-to-write-a-blog-post](https://blog.hubspot.com/marketing/how-to-use-ai-to-write-a-blog-post)
-
 ---
 
 ## Digiday
 
-### Mail Metro Media’s next creator play is representing them
-_Thu, 19 Nov 2026 05:01:00 +0000_
+### Future of Marketing Briefing: Consulting firms revive their marketing ambitions in the C-suite the holdcos covet
+_Fri, 20 Nov 2026 05:01:00 +0000_
 
-Why the Daily Mail’s ad sales team is turning talent agent.
+Consulting giants Deloitte Digital and Accenture Song have started selling marketing in the C-suite with a fresh push.
 
-→ [https://digiday.com/marketing/mail-metro-medias-next-creator-play-is-representing-them/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/mail-metro-medias-next-creator-play-is-representing-them/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/future-of-marketing-briefing-consulting-firms-revive-their-marketing-ambitions-in-the-c-suite-the-holdcos-covet/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-consulting-firms-revive-their-marketing-ambitions-in-the-c-suite-the-holdcos-covet/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### How Celsius doubled down on sports marketing campaigns in 2026
-_Thu, 19 Nov 2026 05:01:00 +0000_
+### Anthropic says no to ads but Wall Street may have other ideas
+_Fri, 20 Nov 2026 05:01:00 +0000_
 
-The company is increasingly leveraging partnerships with major sports leagues, college athletics and high-profile athletic events.
+With shareholders, an $895 billion compute bill and a costly free tier, Anthropic’s no-ads pledge may have a shelf life.
 
-→ [https://digiday.com/marketing/how-celsius-doubled-down-on-sports-marketing-campaigns-in-2026/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/how-celsius-doubled-down-on-sports-marketing-campaigns-in-2026/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/anthropic-says-no-to-ads-but-wall-street-may-have-other-ideas/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/anthropic-says-no-to-ads-but-wall-street-may-have-other-ideas/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### In Graphic Detail: Welcome to the agentic commerce quarter
-_Thu, 19 Nov 2026 05:01:00 +0000_
+### Why more brands are paying creators to make their ads
+_Fri, 20 Nov 2026 05:01:00 +0000_
 
-OpenAI, Google, Amazon and Walmart are betting on agent-led holiday shopping. Digiday charts how far it still has to go.
+Creator-led production is the fastest-growing segment of the influencer economy. We explain what’s driving investment in this practice.
 
-→ [https://digiday.com/marketing/in-graphic-detail-welcome-to-the-agentic-commerce-quarter/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/in-graphic-detail-welcome-to-the-agentic-commerce-quarter/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/why-more-brands-are-paying-creators-to-make-their-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/why-more-brands-are-paying-creators-to-make-their-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Inside Nike’s plan to turn creators into brand builders
-_Thu, 19 Nov 2026 05:01:00 +0000_
+### OpenAI rewrites ChatGPT Business Hub terms after legal language raises concerns
+_Fri, 20 Nov 2026 05:01:00 +0000_
 
-Nike wants athletes and creators to do more than sell its products. It wants them to help build its culture.
+OpenAI revised its ChatGPT Business Hub terms following concerns that the original language could restrict businesses’ legal claims.
 
-→ [https://digiday.com/marketing/inside-nikes-plan-to-turn-creators-into-brand-builders/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/inside-nikes-plan-to-turn-creators-into-brand-builders/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media/openai-rewrites-chatgpt-business-hub-terms-after-legal-language-raises-concerns/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/openai-rewrites-chatgpt-business-hub-terms-after-legal-language-raises-concerns/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### GTA 6 could be a windfall for creators, but standing out will be tough
-_Thu, 19 Nov 2026 05:01:00 +0000_
+### Correcting the TV ad market’s imperfect shift to streaming
+_Thu, 19 Nov 2026 20:17:05 +0000_
 
-Grand Theft Auto 6 has its own content creator cottage industry, with millions of views and a crowded, competitive marketplace.
+Evan Rutchik, president and Chief Strategy Officer, Viamedia.ai The TV ad industry’s shift from linear to streaming is real, but the financial truth underlying that shift may not align with many people’s perception of the transition. That’s because the movement of ad budgets from linear to streaming has hardly been evenly paced. Streaming’s share…
 
-→ [https://digiday.com/media/gta-6-could-be-a-windfall-for-creators-but-standing-out-will-be-tough/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/gta-6-could-be-a-windfall-for-creators-but-standing-out-will-be-tough/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/sponsored/correcting-the-tv-ad-markets-imperfect-shift-to-streaming/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/correcting-the-tv-ad-markets-imperfect-shift-to-streaming/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### Intuit finds a buyer for Mailchimp in Bending Spoons
+_Fri, 20 Nov 2026 03:46:55 +0000_
+
+Intuit’s bet on marketing automation ends with a whimper, as Mailchimp finds a home with once-mighty tech brands like AOL, Evernote, and Airtable. The post Intuit finds a buyer for Mailchimp in Bending Spoons appeared first on MarTech .
+
+→ [https://martech.org/intuit-finds-a-buyer-for-mailchimp-in-bending-spoons/](https://martech.org/intuit-finds-a-buyer-for-mailchimp-in-bending-spoons/)
+
+### How psychology can make AI-powered customer personas more useful
+_Thu, 19 Nov 2026 12:42:00 +0000_
+
+Chatting with a virtual customer is one thing. Anticipating how they'd act in unfamiliar situations requires a deeper understanding of human behavior. The post How psychology can make AI-powered customer personas more useful appeared first on MarTech .
+
+→ [https://martech.org/how-psychology-can-make-ai-powered-customer-personas-more-useful/](https://martech.org/how-psychology-can-make-ai-powered-customer-personas-more-useful/)
 
 ### Enterprise AI governance alone can’t protect your brand
 _Wed, 18 Nov 2026 12:52:00 +0000_
@@ -150,19 +164,5 @@ _Wed, 18 Nov 2026 12:36:00 +0000_
 AI is making execution cheap. Knowing which problems to solve, making good decisions, and owning the results set you apart. The post Doing more work won&#8217;t make you a more valuable marketer appeared first on MarTech .
 
 → [https://martech.org/doing-more-work-wont-make-you-a-more-valuable-marketer/](https://martech.org/doing-more-work-wont-make-you-a-more-valuable-marketer/)
-
-### Marketing on Reddit: What you need to know
-_Tue, 17 Nov 2026 13:18:00 +0000_
-
-What you need to know about marketing on Reddit. Updated with details on the new Reddit Reviews feature. The post Marketing on Reddit: What you need to know appeared first on MarTech .
-
-→ [https://martech.org/a-marketers-guide-to-reddit/](https://martech.org/a-marketers-guide-to-reddit/)
-
-### When AI agents evaluate B2B vendors, what earns consideration?
-_Tue, 17 Nov 2026 12:46:00 +0000_
-
-Similar B2B solutions need more than competitive features. Clear product information and credible evidence can turn AI discovery into buyer consideration. The post When AI agents evaluate B2B vendors, what earns consideration? appeared first on MarTech .
-
-→ [https://martech.org/when-ai-agents-evaluate-b2b-vendors-what-earns-consideration/](https://martech.org/when-ai-agents-evaluate-b2b-vendors-what-earns-consideration/)
 
 ---
