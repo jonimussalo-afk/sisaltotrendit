@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-11-20 11:00 UTC_
+_Päivitetty: 2026-11-21 10:44 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -10,6 +10,13 @@ _Päivitetty: 2026-11-20 11:00 UTC_
 # 🇫🇮 Kotimaiset lähteet
 
 ## Digimarkkinointi.fi
+
+### Hakukäyttäytymisen trendit vuonna 2027 ja mitä ne vaativat markkinoinnilta
+_Fri, 20 Nov 2026 11:18:05 +0000_
+
+Mitkä viime vuoden ennusteistamme toteutui, mikä vuodesta 2027 on jo päätetty ja mitä markkinointijohdon kannattaa tehdä nyt? The post Hakukäyttäytymisen trendit vuonna 2027 ja mitä ne vaativat markkinoinnilta appeared first on SDM Digital .
+
+→ [https://sdm.fi/blogi/hakukayttaytymisen-trendit-vuonna-2027/](https://sdm.fi/blogi/hakukayttaytymisen-trendit-vuonna-2027/)
 
 ### Convert – Kuinka muutat kiinnostuneen liidin maksavaksi asiakkaaksi
 _Thu, 05 Nov 2026 13:18:37 +0000_
@@ -39,18 +46,18 @@ ChatGPT-mainonta on käynnistynyt! Ensimmäisessä testissämme saavutettiin lup
 
 → [https://sdm.fi/blogi/chatgpt-mainonta-ensimmaiset-tulokset/](https://sdm.fi/blogi/chatgpt-mainonta-ensimmaiset-tulokset/)
 
-### Erottautumistekijät ovat AI-aikakauden tärkeintä sisältöä
-_Mon, 19 Oct 2026 10:31:27 +0000_
-
-Tekoäly vertailee yrityksiä julkaistun tiedon varassa. Jos valintaperusteitasi ei löydy verkosta, vastaus sinusta jää arvailun ja muiden lähteiden varaan. The post Erottautumistekijät ovat AI-aikakauden tärkeintä sisältöä appeared first on SDM Digital .
-
-→ [https://sdm.fi/blogi/erottautumistekijat-ovat-ai-aikakauden-tarkein-sisalto/](https://sdm.fi/blogi/erottautumistekijat-ovat-ai-aikakauden-tarkein-sisalto/)
-
 ---
 
 # 🌍 Kansainväliset lähteet
 
 ## HubSpot Marketing Blog
+
+### AI search volatility: What it means for your traffic
+_Fri, 20 Nov 2026 13:30:06 GMT_
+
+For SEO managers, volatility is nothing new (Google has been hitting us with algorithm update surprises for years). But AI search volatility adds a new layer of complexity. Plenty of teams have a stake in those swings: In HubSpot’s State of AEO report , 58% of marketers said their organizations were optimizing content specifically for answer…
+
+→ [https://blog.hubspot.com/marketing/ai-search-volatility](https://blog.hubspot.com/marketing/ai-search-volatility)
 
 ### Claude Cowork skills: How they work and what to build
 _Thu, 19 Nov 2026 13:30:03 GMT_
@@ -79,13 +86,6 @@ _Fri, 13 Nov 2026 13:45:04 GMT_
 As you scroll through your TikTok or Instagram feed, you’ll no doubt come across at least a handful of influencers trying to sell you something by wearing the latest viral lip gloss, hopping into luxury cars, and taste-testing popular treats. But what if I told you that while these content creators may look like real people, they’re actually AI…
 
 → [https://blog.hubspot.com/marketing/ai-influencers](https://blog.hubspot.com/marketing/ai-influencers)
-
-### AEO benchmarking: What market data reveals about AI search
-_Tue, 10 Nov 2026 14:30:05 GMT_
-
-AEO benchmarking measures your brand’s AI search visibility against competitors and market trends. It tells you whether a change in your visibility comes from the market or from your own brand, so you can prove performance to leadership before you change tactics.
-
-→ [https://blog.hubspot.com/marketing/aeo-benchmarking](https://blog.hubspot.com/marketing/aeo-benchmarking)
 
 ---
 
@@ -130,6 +130,20 @@ Evan Rutchik, president and Chief Strategy Officer, Viamedia.ai The TV ad indust
 
 ## MarTech
 
+### B2B events have an ROI problem before the show starts
+_Fri, 20 Nov 2026 13:51:00 +0000_
+
+Most teams know which accounts they want to reach, but weak meeting goals, CRM tagging, and follow-up make event ROI harder to prove. The post B2B events have an ROI problem before the show starts appeared first on MarTech .
+
+→ [https://martech.org/b2b-events-have-an-roi-problem-before-the-show-starts/](https://martech.org/b2b-events-have-an-roi-problem-before-the-show-starts/)
+
+### Give holiday shoppers more value without relying on discounts
+_Fri, 20 Nov 2026 12:56:00 +0000_
+
+From the first promotional email to the moment a package arrives, every interaction is a chance to make a purchase feel worth the price. The post Give holiday shoppers more value without relying on discounts appeared first on MarTech .
+
+→ [https://martech.org/give-holiday-shoppers-more-value-without-relying-on-discounts/](https://martech.org/give-holiday-shoppers-more-value-without-relying-on-discounts/)
+
 ### Intuit finds a buyer for Mailchimp in Bending Spoons
 _Fri, 20 Nov 2026 03:46:55 +0000_
 
@@ -150,19 +164,5 @@ _Wed, 18 Nov 2026 12:52:00 +0000_
 Your next brand crisis could start with AI-generated content. Marketing-specific guardrails can keep off-brand content from going public. The post Enterprise AI governance alone can&#8217;t protect your brand appeared first on MarTech .
 
 → [https://martech.org/enterprise-ai-governance-alone-cant-protect-your-brand/](https://martech.org/enterprise-ai-governance-alone-cant-protect-your-brand/)
-
-### Even the smartest AI needs your business knowledge
-_Wed, 18 Nov 2026 12:38:00 +0000_
-
-Valuable customer insights are often buried in company files. Here's how AI can help you put that knowledge to work and make better decisions. The post Even the smartest AI needs your business knowledge appeared first on MarTech .
-
-→ [https://martech.org/even-the-smartest-ai-needs-your-business-knowledge/](https://martech.org/even-the-smartest-ai-needs-your-business-knowledge/)
-
-### Doing more work won’t make you a more valuable marketer
-_Wed, 18 Nov 2026 12:36:00 +0000_
-
-AI is making execution cheap. Knowing which problems to solve, making good decisions, and owning the results set you apart. The post Doing more work won&#8217;t make you a more valuable marketer appeared first on MarTech .
-
-→ [https://martech.org/doing-more-work-wont-make-you-a-more-valuable-marketer/](https://martech.org/doing-more-work-wont-make-you-a-more-valuable-marketer/)
 
 ---
