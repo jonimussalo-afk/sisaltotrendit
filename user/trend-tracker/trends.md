@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-11-22 10:50 UTC_
+_Päivitetty: 2026-11-23 11:56 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -91,40 +91,40 @@ As you scroll through your TikTok or Instagram feed, you’ll no doubt come acro
 
 ## Digiday
 
-### Future of Marketing Briefing: Consulting firms revive their marketing ambitions in the C-suite the holdcos covet
-_Fri, 20 Nov 2026 05:01:00 +0000_
+### D+ Research: Brand’s holiday marketing tactics shift in 2026
+_Mon, 23 Nov 2026 05:01:00 +0000_
 
-Consulting giants Deloitte Digital and Accenture Song have started selling marketing in the C-suite with a fresh push.
+Holiday marketing is changing: CTV/streaming and TV ads are gaining traction in 2026.
 
-→ [https://digiday.com/marketing/future-of-marketing-briefing-consulting-firms-revive-their-marketing-ambitions-in-the-c-suite-the-holdcos-covet/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/future-of-marketing-briefing-consulting-firms-revive-their-marketing-ambitions-in-the-c-suite-the-holdcos-covet/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/d-research-brands-holiday-marketing-tactics-shift-in-2026/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/d-research-brands-holiday-marketing-tactics-shift-in-2026/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Anthropic says no to ads but Wall Street may have other ideas
-_Fri, 20 Nov 2026 05:01:00 +0000_
+### The Rundown: BADBOX 3.0, the CTV ad fraud scheme generating 40 billion bid requests a day
+_Mon, 23 Nov 2026 05:01:00 +0000_
 
-With shareholders, an $895 billion compute bill and a costly free tier, Anthropic’s no-ads pledge may have a shelf life.
+HUMAN Security's latest investigation queries the effectiveness of CTV verification safeguards.
 
-→ [https://digiday.com/marketing/anthropic-says-no-to-ads-but-wall-street-may-have-other-ideas/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/anthropic-says-no-to-ads-but-wall-street-may-have-other-ideas/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/the-rundown-badbox-3-0-the-ctv-ad-fraud-scheme-generating-40-billion-bid-requests-a-day/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/the-rundown-badbox-3-0-the-ctv-ad-fraud-scheme-generating-40-billion-bid-requests-a-day/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Why more brands are paying creators to make their ads
-_Fri, 20 Nov 2026 05:01:00 +0000_
+### Gap Inc. is betting on ‘fashiontainment’ to fuel growth
+_Mon, 23 Nov 2026 05:01:00 +0000_
 
-Creator-led production is the fastest-growing segment of the influencer economy. We explain what’s driving investment in this practice.
+Gap Inc. has tapped boy band Just Your Type (JYT) for a multi-year partnership and launched “The Agency,” a scripted microseries made for Banana Republic.
 
-→ [https://digiday.com/marketing/why-more-brands-are-paying-creators-to-make-their-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/why-more-brands-are-paying-creators-to-make-their-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/gap-inc-is-betting-on-fashiontainment-to-fuel-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/gap-inc-is-betting-on-fashiontainment-to-fuel-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### OpenAI rewrites ChatGPT Business Hub terms after legal language raises concerns
-_Fri, 20 Nov 2026 05:01:00 +0000_
+### Brands boost Black Friday CTV, retail and search spending
+_Mon, 23 Nov 2026 05:01:00 +0000_
 
-OpenAI revised its ChatGPT Business Hub terms following concerns that the original language could restrict businesses’ legal claims.
+Advertisers continue to increase investments on the retail weekend but AI, tariffs and discounting pressure present banana skins.
 
-→ [https://digiday.com/media/openai-rewrites-chatgpt-business-hub-terms-after-legal-language-raises-concerns/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/openai-rewrites-chatgpt-business-hub-terms-after-legal-language-raises-concerns/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/brands-boost-black-friday-ctv-retail-and-search-spending/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/brands-boost-black-friday-ctv-retail-and-search-spending/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Correcting the TV ad market’s imperfect shift to streaming
-_Thu, 19 Nov 2026 20:17:05 +0000_
+### Hybrid won the in-housing debate, at least among the largest advertisers
+_Mon, 23 Nov 2026 05:01:00 +0000_
 
-Evan Rutchik, president and Chief Strategy Officer, Viamedia.ai The TV ad industry’s shift from linear to streaming is real, but the financial truth underlying that shift may not align with many people’s perception of the transition. That’s because the movement of ad budgets from linear to streaming has hardly been evenly paced. Streaming’s share…
+The shift has been playing for the best part of a decade. COMvergence’s first Global Advertiser Survey shows had far its got. T
 
-→ [https://digiday.com/sponsored/correcting-the-tv-ad-markets-imperfect-shift-to-streaming/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/correcting-the-tv-ad-markets-imperfect-shift-to-streaming/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/hybrid-won-the-in-housing-debate-at-least-among-the-largest-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/hybrid-won-the-in-housing-debate-at-least-among-the-largest-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
