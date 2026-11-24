@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-11-23 11:56 UTC_
+_Päivitetty: 2026-11-24 13:22 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -91,44 +91,72 @@ As you scroll through your TikTok or Instagram feed, you’ll no doubt come acro
 
 ## Digiday
 
-### D+ Research: Brand’s holiday marketing tactics shift in 2026
-_Mon, 23 Nov 2026 05:01:00 +0000_
+### Why brands are writing no-AI clauses into creator deals
+_Tue, 24 Nov 2026 05:01:00 +0000_
 
-Holiday marketing is changing: CTV/streaming and TV ads are gaining traction in 2026.
+While creators are welcoming brands’ no-AI demands, both sides need to agree upfront on whether creators are prohibited from using AI tools in any part of their process, according to Pearpop’s Kurt Stadelman.
 
-→ [https://digiday.com/marketing/d-research-brands-holiday-marketing-tactics-shift-in-2026/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/d-research-brands-holiday-marketing-tactics-shift-in-2026/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/future-of-tv/why-brands-are-writing-no-ai-clauses-into-creator-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/why-brands-are-writing-no-ai-clauses-into-creator-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### The Rundown: BADBOX 3.0, the CTV ad fraud scheme generating 40 billion bid requests a day
-_Mon, 23 Nov 2026 05:01:00 +0000_
+### Walmart is letting Meta’s Muse shop its shelves — but on its own terms
+_Tue, 24 Nov 2026 05:01:00 +0000_
 
-HUMAN Security's latest investigation queries the effectiveness of CTV verification safeguards.
+Walmart is allowing access to Meta’s Muse through a gateway that lets it control how AI agents browse, shop and make purchases.
 
-→ [https://digiday.com/media-buying/the-rundown-badbox-3-0-the-ctv-ad-fraud-scheme-generating-40-billion-bid-requests-a-day/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/the-rundown-badbox-3-0-the-ctv-ad-fraud-scheme-generating-40-billion-bid-requests-a-day/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/walmart-is-letting-metas-muse-shop-its-shelves-but-on-its-own-terms/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/walmart-is-letting-metas-muse-shop-its-shelves-but-on-its-own-terms/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Gap Inc. is betting on ‘fashiontainment’ to fuel growth
-_Mon, 23 Nov 2026 05:01:00 +0000_
+### Ad Tech Briefing: Meta eyes CTV as AppLovin circles Criteo, signs of the squeeze on independent ad tech
+_Tue, 24 Nov 2026 05:01:00 +0000_
 
-Gap Inc. has tapped boy band Just Your Type (JYT) for a multi-year partnership and launched “The Agency,” a scripted microseries made for Banana Republic.
+Meta’s reported CTV expansion and AppLovin’s alleged interest in Criteo are foreboding for independent ad tech as major platforms extend their reach.
 
-→ [https://digiday.com/marketing/gap-inc-is-betting-on-fashiontainment-to-fuel-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/gap-inc-is-betting-on-fashiontainment-to-fuel-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/media-buying/ad-tech-briefing-meta-eyes-ctv-as-applovin-circles-criteo-signs-of-the-squeeze-on-independent-ad-tech/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/ad-tech-briefing-meta-eyes-ctv-as-applovin-circles-criteo-signs-of-the-squeeze-on-independent-ad-tech/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Brands boost Black Friday CTV, retail and search spending
-_Mon, 23 Nov 2026 05:01:00 +0000_
+### Amazon is buying ChatGPT ads while blocking OpenAI crawlers
+_Tue, 24 Nov 2026 05:01:00 +0000_
 
-Advertisers continue to increase investments on the retail weekend but AI, tariffs and discounting pressure present banana skins.
+Amazon is paying to reach ChatGPT shoppers while the chatbot is finding other ways to surface its products and deals.
 
-→ [https://digiday.com/media-buying/brands-boost-black-friday-ctv-retail-and-search-spending/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/brands-boost-black-friday-ctv-retail-and-search-spending/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/marketing/amazon-is-buying-chatgpt-ads-while-blocking-openai-crawlers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/amazon-is-buying-chatgpt-ads-while-blocking-openai-crawlers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Hybrid won the in-housing debate, at least among the largest advertisers
-_Mon, 23 Nov 2026 05:01:00 +0000_
+### The next test for agentic media
+_Mon, 23 Nov 2026 19:56:14 +0000_
 
-The shift has been playing for the best part of a decade. COMvergence’s first Global Advertiser Survey shows had far its got. T
+Anudit Vikram, Chief Product Officer, Channel Factory&#160; Advertisers are building AI systems around the way their teams already work. These teams have their own agents, their own data and their own rules for what an agent may and may not do. At the same time, most of the specialized intelligence they depend on still sits [&#8230;]
 
-→ [https://digiday.com/media-buying/hybrid-won-the-in-housing-debate-at-least-among-the-largest-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/hybrid-won-the-in-housing-debate-at-least-among-the-largest-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+→ [https://digiday.com/sponsored/the-next-test-for-agentic-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/sponsored/the-next-test-for-agentic-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
 ## MarTech
+
+### How AI is re-shaping mid-market marketing
+_Mon, 23 Nov 2026 14:25:11 +0000_
+
+AI should give mid-market teams a boost as a force multiplier and eliminator of busywork. But is it? The post How AI is re-shaping mid-market marketing appeared first on MarTech .
+
+→ [https://martech.org/how-ai-is-re-shaping-mid-market-marketing/](https://martech.org/how-ai-is-re-shaping-mid-market-marketing/)
+
+### How to vet AI capabilities during martech RFPs
+_Mon, 23 Nov 2026 13:19:00 +0000_
+
+Six questions can tell you whether a vendor’s “AI” is genuinely new or just old automation with a fresh label. The post How to vet AI capabilities during martech RFPs appeared first on MarTech .
+
+→ [https://martech.org/how-to-vet-ai-capabilities-during-martech-rfps/](https://martech.org/how-to-vet-ai-capabilities-during-martech-rfps/)
+
+### What’s missing from your 2027 marketing AI budget?
+_Mon, 23 Nov 2026 12:25:00 +0000_
+
+Buying AI tools is easy. Getting teams to use them is harder. Here's how to fund the people and processes that turn AI spending into results. The post What&#8217;s missing from your 2027 marketing AI budget? appeared first on MarTech .
+
+→ [https://martech.org/whats-missing-from-your-2027-marketing-ai-budget/](https://martech.org/whats-missing-from-your-2027-marketing-ai-budget/)
+
+### How to build reliable client reporting with AI by AgencyAnalytics
+_Mon, 23 Nov 2026 12:00:00 +0000_
+
+Give AI the right client data, and it’ll give you answers you can trust. The post How to build reliable client reporting with AI appeared first on MarTech .
+
+→ [https://martech.org/how-to-build-reliable-client-reporting-with-ai/](https://martech.org/how-to-build-reliable-client-reporting-with-ai/)
 
 ### B2B events have an ROI problem before the show starts
 _Fri, 20 Nov 2026 13:51:00 +0000_
@@ -136,33 +164,5 @@ _Fri, 20 Nov 2026 13:51:00 +0000_
 Most teams know which accounts they want to reach, but weak meeting goals, CRM tagging, and follow-up make event ROI harder to prove. The post B2B events have an ROI problem before the show starts appeared first on MarTech .
 
 → [https://martech.org/b2b-events-have-an-roi-problem-before-the-show-starts/](https://martech.org/b2b-events-have-an-roi-problem-before-the-show-starts/)
-
-### Give holiday shoppers more value without relying on discounts
-_Fri, 20 Nov 2026 12:56:00 +0000_
-
-From the first promotional email to the moment a package arrives, every interaction is a chance to make a purchase feel worth the price. The post Give holiday shoppers more value without relying on discounts appeared first on MarTech .
-
-→ [https://martech.org/give-holiday-shoppers-more-value-without-relying-on-discounts/](https://martech.org/give-holiday-shoppers-more-value-without-relying-on-discounts/)
-
-### Intuit finds a buyer for Mailchimp in Bending Spoons
-_Fri, 20 Nov 2026 03:46:55 +0000_
-
-Intuit’s bet on marketing automation ends with a whimper, as Mailchimp finds a home with once-mighty tech brands like AOL, Evernote, and Airtable. The post Intuit finds a buyer for Mailchimp in Bending Spoons appeared first on MarTech .
-
-→ [https://martech.org/intuit-finds-a-buyer-for-mailchimp-in-bending-spoons/](https://martech.org/intuit-finds-a-buyer-for-mailchimp-in-bending-spoons/)
-
-### How psychology can make AI-powered customer personas more useful
-_Thu, 19 Nov 2026 12:42:00 +0000_
-
-Chatting with a virtual customer is one thing. Anticipating how they'd act in unfamiliar situations requires a deeper understanding of human behavior. The post How psychology can make AI-powered customer personas more useful appeared first on MarTech .
-
-→ [https://martech.org/how-psychology-can-make-ai-powered-customer-personas-more-useful/](https://martech.org/how-psychology-can-make-ai-powered-customer-personas-more-useful/)
-
-### Enterprise AI governance alone can’t protect your brand
-_Wed, 18 Nov 2026 12:52:00 +0000_
-
-Your next brand crisis could start with AI-generated content. Marketing-specific guardrails can keep off-brand content from going public. The post Enterprise AI governance alone can&#8217;t protect your brand appeared first on MarTech .
-
-→ [https://martech.org/enterprise-ai-governance-alone-cant-protect-your-brand/](https://martech.org/enterprise-ai-governance-alone-cant-protect-your-brand/)
 
 ---
