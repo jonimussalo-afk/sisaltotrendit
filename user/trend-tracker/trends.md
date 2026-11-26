@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-11-25 12:15 UTC_
+_Päivitetty: 2026-11-26 11:59 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -91,6 +91,20 @@ I’ve been experimenting with Claude AI for marketing workflows over the past y
 
 ## Digiday
 
+### Brands race to systematize how to know what makes creator content worth paying for
+_Thu, 26 Nov 2026 05:01:00 +0000_
+
+As social trends accelerate, brands like General Mills are scoring creator posts for shareability to bridge the gap between organic buzz and paid media.
+
+→ [https://digiday.com/marketing/brands-race-to-systematize-how-to-know-what-makes-creator-content-worth-paying-for/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/brands-race-to-systematize-how-to-know-what-makes-creator-content-worth-paying-for/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
+### Dick’s Sporting Goods is turning youth sports into a premium ad business
+_Thu, 26 Nov 2026 05:01:00 +0000_
+
+Dick’s is betting that youth sports can fuel its next phase of ad growth through GameChanger—if it can overcome limits on scale.
+
+→ [https://digiday.com/marketing/dicks-sporting-goods-is-turning-youth-sports-into-a-premium-ad-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/dicks-sporting-goods-is-turning-youth-sports-into-a-premium-ad-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### Digiday+ Research: A-Frame Brands, Ritual and other brands prioritize new customer acquisition this holiday season
 _Wed, 25 Nov 2026 05:01:00 +0000_
 
@@ -112,18 +126,43 @@ Product discovery habits are changing, leaving marketers unsure how to pivot ahe
 
 → [https://digiday.com/marketing/in-graphic-detail-how-shoppers-are-adopting-ai-for-product-research-ahead-of-black-friday/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/in-graphic-detail-how-shoppers-are-adopting-ai-for-product-research-ahead-of-black-friday/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
-### Banking gets a helping hand in media modeling from SpendSight
-_Wed, 25 Nov 2026 05:01:00 +0000_
+---
 
-FutureSight's new tool can help banks of all sizes get a side-by-side idea of how their media mix stacks up against the competition.
+## MarTech
 
-→ [https://digiday.com/media-buying/banking-gets-a-helping-hand-in-media-modeling-from-spendsight/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media-buying/banking-gets-a-helping-hand-in-media-modeling-from-spendsight/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+### The more AI can do, the more marketers need to know
+_Wed, 25 Nov 2026 13:18:00 +0000_
 
-### Why brands are writing no-AI clauses into creator deals
-_Tue, 24 Nov 2026 05:01:00 +0000_
+Faster execution comes with new risks. Here's why marketers need strategic thinking, AI guardrails, and technical knowledge to make better decisions. The post The more AI can do, the more marketers need to know appeared first on MarTech .
 
-While creators are welcoming brands’ no-AI demands, both sides need to agree upfront on whether creators are prohibited from using AI tools in any part of their process, according to Pearpop’s Kurt Stadelman.
+→ [https://martech.org/the-more-ai-can-do-the-more-marketers-need-to-know/](https://martech.org/the-more-ai-can-do-the-more-marketers-need-to-know/)
 
-→ [https://digiday.com/future-of-tv/why-brands-are-writing-no-ai-clauses-into-creator-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/future-of-tv/why-brands-are-writing-no-ai-clauses-into-creator-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+### How to create expert content your competitors can’t copy
+_Wed, 25 Nov 2026 13:18:00 +0000_
+
+Use video interviews to capture the professional judgment, real customer stories, and personal perspectives that AI cannot provide. The post How to create expert content your competitors can’t copy appeared first on MarTech .
+
+→ [https://martech.org/how-to-create-expert-content-your-competitors-cant-copy/](https://martech.org/how-to-create-expert-content-your-competitors-cant-copy/)
+
+### The latest AI-powered martech news and releases
+_Wed, 25 Nov 2026 13:02:00 +0000_
+
+Does anyone like the chatbots on B2B websites? They're nothing more than over-powered search bars, but somehow nowhere near as useful. The post The latest AI-powered martech news and releases appeared first on MarTech .
+
+→ [https://martech.org/the-latest-ai-powered-martech-news-and-releases/](https://martech.org/the-latest-ai-powered-martech-news-and-releases/)
+
+### What you need to know about ChatGPT ads vs. Google Ads
+_Tue, 24 Nov 2026 13:55:41 +0000_
+
+B2B tests show comparable CPCs to Google but weaker engagement, limited conversions, and less control of targeting and optimization. The post What you need to know about ChatGPT ads vs. Google Ads appeared first on MarTech .
+
+→ [https://martech.org/what-you-need-to-know-about-chatgpt-ads-vs-google-ads/](https://martech.org/what-you-need-to-know-about-chatgpt-ads-vs-google-ads/)
+
+### 3 ways neglecting your brand undermines sales
+_Tue, 24 Nov 2026 13:49:37 +0000_
+
+Skipping brand building doesn't save money. It creates marketing debt that makes generating sales harder and costlier when you need them most. The post 3 ways neglecting your brand undermines sales appeared first on MarTech .
+
+→ [https://martech.org/3-ways-neglecting-your-brand-undermines-sales/](https://martech.org/3-ways-neglecting-your-brand-undermines-sales/)
 
 ---
