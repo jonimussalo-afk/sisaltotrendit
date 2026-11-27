@@ -1,6 +1,6 @@
 # Sisältömarkkinoinnin trendit
 
-_Päivitetty: 2026-11-26 11:59 UTC_
+_Päivitetty: 2026-11-27 11:51 UTC_
 
 > Tämä tiedosto generoidaan automaattisesti joka yö GitHub Actionsin kautta.
 > Älä muokkaa käsin — muutokset ylikirjoitetaan.
@@ -10,6 +10,20 @@ _Päivitetty: 2026-11-26 11:59 UTC_
 # 🇫🇮 Kotimaiset lähteet
 
 ## Digimarkkinointi.fi
+
+### Kuinka voit erottautua luovalla copylla Google Adsissa, kun tekoäly kirjoittaa kaikkien mainokset?
+_Fri, 27 Nov 2026 07:50:51 +0000_
+
+Kun tekoäly kirjoittaa yhä useamman mainoksen, hakumainokset alkavat muistuttaa toisiaan. Näin erotut luovalla copylla Google Adsissa. The post Kuinka voit erottautua luovalla copylla Google Adsissa, kun tekoäly kirjoittaa kaikkien mainokset? appeared first on SDM Digital .
+
+→ [https://sdm.fi/blogi/luova-copy-google-ads/](https://sdm.fi/blogi/luova-copy-google-ads/)
+
+### Kuumottaako vastuullisuusviestintä? Huomioi nämä, kun käytät ympäristö- ja kestävyysväitteitä markkinoinnissa
+_Thu, 26 Nov 2026 12:33:21 +0000_
+
+Kuluttajansuojalain muutokset tulivat voimaan syyskuussa ja tiukensivat ympäristö- ja kestävyysväitteiden käyttöä markkinoinnissa. Miten yrityksen vastuullisuusteoista saa ja kannattaa jatkossa viestiä? The post Kuumottaako vastuullisuusviestintä? Huomioi nämä, kun käytät ympäristö- ja kestävyysväitteitä markkinoinnissa appeared first on SDM…
+
+→ [https://sdm.fi/blogi/vastuullisuusviestinta-ymparisto-ja-kestavyysvaitteet-markkinoinnissa/](https://sdm.fi/blogi/vastuullisuusviestinta-ymparisto-ja-kestavyysvaitteet-markkinoinnissa/)
 
 ### Hakukäyttäytymisen trendit vuonna 2027 ja mitä ne vaativat markkinoinnilta
 _Fri, 20 Nov 2026 11:18:05 +0000_
@@ -31,20 +45,6 @@ _Thu, 05 Nov 2026 08:46:18 +0000_
 SEO, GEO ja AEO: mikä näissä on samaa, mikä aidosti uutta ja miten mittaat hakunäkyvyyttä tekoälyhaun aikana. The post SEO vs. GEO vs. AEO – mitä termit tarkoittavat ja mitä yrityksesi oikeasti tarvitsee? appeared first on SDM Digital .
 
 → [https://sdm.fi/blogi/seo-vs-geo-vs-aeo/](https://sdm.fi/blogi/seo-vs-geo-vs-aeo/)
-
-### Tekoäly sisällöntuotannossa: Miten saat sisältösi erottumaan massasta?
-_Tue, 03 Nov 2026 07:33:00 +0000_
-
-Tekoälyn nopea kehitys on tuonut sisällöntuotantoon uudenlaisia mahdollisuuksia, kun kuka tahansa voi tuottaa näennäisesti pätevää tekstiä. Hyödyt kuitenkin menevät hukkaan, jos tekoälyllä tuotetaan entistä enemmän sisältöä laadun kustannuksella. The post Tekoäly sisällöntuotannossa: Miten saat sisältösi erottumaan massasta? appeared first on SDM…
-
-→ [https://sdm.fi/blogi/tekoaly-sisallontuotannossa/](https://sdm.fi/blogi/tekoaly-sisallontuotannossa/)
-
-### ChatGPT-mainonta käynnistyi – mitä ensimmäiset tulokset kertovat uudesta AI-mainosympäristöstä?
-_Thu, 22 Oct 2026 06:38:24 +0000_
-
-ChatGPT-mainonta on käynnistynyt! Ensimmäisessä testissämme saavutettiin lupaavia tuloksia. The post ChatGPT-mainonta käynnistyi – mitä ensimmäiset tulokset kertovat uudesta AI-mainosympäristöstä? appeared first on SDM Digital .
-
-→ [https://sdm.fi/blogi/chatgpt-mainonta-ensimmaiset-tulokset/](https://sdm.fi/blogi/chatgpt-mainonta-ensimmaiset-tulokset/)
 
 ---
 
@@ -91,6 +91,13 @@ I’ve been experimenting with Claude AI for marketing workflows over the past y
 
 ## Digiday
 
+### The gaming creator with more than 26 million followers just launched his own holding company
+_Fri, 27 Nov 2026 05:01:00 +0000_
+
+Cody "Clix" Conrod is a professional Fortnite player with over 26 million followers and nine creator-focused businesses. Now he has his own holdco.
+
+→ [https://digiday.com/media/the-gaming-creator-with-more-than-26-million-followers-just-launched-his-own-holding-company/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/the-gaming-creator-with-more-than-26-million-followers-just-launched-his-own-holding-company/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### Brands race to systematize how to know what makes creator content worth paying for
 _Thu, 26 Nov 2026 05:01:00 +0000_
 
@@ -105,26 +112,19 @@ Dick’s is betting that youth sports can fuel its next phase of ad growth throu
 
 → [https://digiday.com/marketing/dicks-sporting-goods-is-turning-youth-sports-into-a-premium-ad-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/dicks-sporting-goods-is-turning-youth-sports-into-a-premium-ad-business/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
+### In Graphic Detail: The GTA 6 creator industrial complex
+_Thu, 26 Nov 2026 05:01:00 +0000_
+
+A look at how GTA 6 has impacted the creator economy, with stream numbers, viewership, top creators, and organic hype.
+
+→ [https://digiday.com/media/in-graphic-detail-the-gta-6-creator-industrial-complex/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/in-graphic-detail-the-gta-6-creator-industrial-complex/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
+
 ### Digiday+ Research: A-Frame Brands, Ritual and other brands prioritize new customer acquisition this holiday season
 _Wed, 25 Nov 2026 05:01:00 +0000_
 
 As Black Friday Cyber Monday rapidly approaches, brands are most focused on acquiring new customers this holiday season.
 
 → [https://digiday.com/marketing/digiday-research-a-frame-brands-ritual-and-other-brands-prioritize-new-customer-acquisition-this-holiday-season/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/digiday-research-a-frame-brands-ritual-and-other-brands-prioritize-new-customer-acquisition-this-holiday-season/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### The clipping economy is changing as platforms crack down and creators seek control
-_Wed, 25 Nov 2026 05:01:00 +0000_
-
-The creator economy is shifting its stance on clipping as platforms crackdown; what does clipping look like in the future?
-
-→ [https://digiday.com/media/the-clipping-economy-is-changing-as-platforms-crack-down-and-creators-seek-control/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/media/the-clipping-economy-is-changing-as-platforms-crack-down-and-creators-seek-control/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
-
-### In Graphic Detail: How shoppers are adopting AI for product research ahead of Black Friday
-_Wed, 25 Nov 2026 05:01:00 +0000_
-
-Product discovery habits are changing, leaving marketers unsure how to pivot ahead of the biggest sales period of the year.
-
-→ [https://digiday.com/marketing/in-graphic-detail-how-shoppers-are-adopting-ai-for-product-research-ahead-of-black-friday/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss](https://digiday.com/marketing/in-graphic-detail-how-shoppers-are-adopting-ai-for-product-research-ahead-of-black-friday/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)
 
 ---
 
